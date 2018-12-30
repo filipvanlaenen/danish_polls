@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Folketinget</title>
+    <link>https://filipvanlaenen.github.io/danish_polls</link>
+    <description>All Registered Polls for the Folketinget</description>
+    <pubDate>Sun, 30 Dec 2018 00:10:23 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 10–16 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-16-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.7–29.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.2–20.9%&lt;/li&gt;&lt;li&gt;Venstre: 16.4–21.1%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Alternativet: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.0–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-16-Voxmeter.png"
+        length="259951"
+        type="image/png"/>
+      <pubDate>Sun, 30 Dec 2018 00:10:23 +0100</pubDate>
+      <dc:date>2018-12-30T00:10:23.543573+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 13 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-13-KantarGallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.3–28.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.5–20.3%&lt;/li&gt;&lt;li&gt;Venstre: 16.5–20.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.1–9.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.4–6.6%&lt;/li&gt;&lt;li&gt;Alternativet: 2.5–4.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.5–8.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.6–6.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.0–6.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.9–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-13-KantarGallup.png"
+        length="244554"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 11:19:51 +0100</pubDate>
+      <dc:date>2018-12-29T11:19:51.44772+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 6–11 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-11-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.2–29.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.6–19.9%&lt;/li&gt;&lt;li&gt;Venstre: 16.1–20.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.3–10.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.1–6.6%&lt;/li&gt;&lt;li&gt;Alternativet: 3.5–5.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.8–6.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 5.1–7.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.0–5.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.2–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.0–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-11-Norstat.png"
+        length="253818"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 11:26:52 +0100</pubDate>
+      <dc:date>2018-12-29T11:26:52.303881+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 3–8 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-08-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.2–28.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.5–21.3%&lt;/li&gt;&lt;li&gt;Venstre: 15.5–20.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.7–11.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Alternativet: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.3–8.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.5–7.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.6%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.5–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-08-Voxmeter.png"
+        length="261664"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 16:09:44 +0100</pubDate>
+      <dc:date>2018-12-29T16:09:44.868125+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 26 November–2 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-02-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.9–29.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.0–20.7%&lt;/li&gt;&lt;li&gt;Venstre: 16.1–20.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.0–10.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Alternativet: 2.6–4.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.9–7.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.4–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-02-Voxmeter.png"
+        length="257444"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 14:22:37 +0100</pubDate>
+      <dc:date>2018-12-29T14:22:37.040095+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Greens Analyseinstitut for Børsen, 29 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-11-29-GreensAnalyseinstitut.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 22.2–27.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.0–19.4%&lt;/li&gt;&lt;li&gt;Venstre: 17.0–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.0–11.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.2–4.3%&lt;/li&gt;&lt;li&gt;Alternativet: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 6.2–9.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.7–6.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.8–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-29-GreensAnalyseinstitut.png"
+        length="263495"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 14:27:51 +0100</pubDate>
+      <dc:date>2018-12-29T14:27:51.708336+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 19–25 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-11-25-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.4–28.7%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.5–20.1%&lt;/li&gt;&lt;li&gt;Venstre: 15.6–20.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.0–11.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.6–7.4%&lt;/li&gt;&lt;li&gt;Alternativet: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.3–8.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.7–6.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.4–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-25-Voxmeter.png"
+        length="259764"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 14:33:28 +0100</pubDate>
+      <dc:date>2018-12-29T14:33:28.568881+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–17 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-11-17-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.9–29.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.7–20.4%&lt;/li&gt;&lt;li&gt;Venstre: 15.1–19.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.2–11.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.7–8.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.2–6.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.3–4.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.5–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-17-Voxmeter.png"
+        length="259344"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 14:39:09 +0100</pubDate>
+      <dc:date>2018-12-29T14:39:09.161477+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 7–15 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-11-15-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.4–28.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.7–19.4%&lt;/li&gt;&lt;li&gt;Venstre: 16.5–20.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.8–11.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Alternativet: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.9–7.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.3–6.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.5–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-15-Epinion.png"
+        length="243358"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 14:46:15 +0100</pubDate>
+      <dc:date>2018-12-29T14:46:15.359229+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 5–10 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-11-10-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.7–30.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.2–19.8%&lt;/li&gt;&lt;li&gt;Venstre: 15.9–20.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.5–11.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Alternativet: 3.7–6.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.3–8.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.7–6.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.8–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-10-Voxmeter.png"
+        length="257810"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 14:52:39 +0100</pubDate>
+      <dc:date>2018-12-29T14:52:39.004406+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 29 October–5 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-11-05-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.1–30.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.8–20.6%&lt;/li&gt;&lt;li&gt;Venstre: 16.5–21.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.3–10.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Alternativet: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.2–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-05-Voxmeter.png"
+        length="255781"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 14:59:08 +0100</pubDate>
+      <dc:date>2018-12-29T14:59:08.117657+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 22–28 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-10-28-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.2–29.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.3–20.0%&lt;/li&gt;&lt;li&gt;Venstre: 16.0–20.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.9–10.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.5–7.3%&lt;/li&gt;&lt;li&gt;Alternativet: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.0–8.1%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.2–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-28-Voxmeter.png"
+        length="257051"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 15:04:33 +0100</pubDate>
+      <dc:date>2018-12-29T15:04:33.822052+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-10-25-Megafon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 20.0–25.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 12.6–17.4%&lt;/li&gt;&lt;li&gt;Venstre: 16.5–21.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.9–11.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.3–6.1%&lt;/li&gt;&lt;li&gt;Alternativet: 2.9–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 7.9–11.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 5.5–8.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.0–7.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.8–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-25-Megafon.png"
+        length="277530"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 15:09:30 +0100</pubDate>
+      <dc:date>2018-12-29T15:09:30.258052+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 16–24 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-10-24-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.3–29.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.7–20.6%&lt;/li&gt;&lt;li&gt;Venstre: 16.0–19.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.8–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.8–6.0%&lt;/li&gt;&lt;li&gt;Alternativet: 3.7–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.0–6.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.6–5.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.6–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-24-Epinion.png"
+        length="243189"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 15:17:10 +0100</pubDate>
+      <dc:date>2018-12-29T15:17:10.861465+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 15–21 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-10-21-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.7–30.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.0–20.7%&lt;/li&gt;&lt;li&gt;Venstre: 15.2–19.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.1–10.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 5.1–8.1%&lt;/li&gt;&lt;li&gt;Alternativet: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.8–6.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.2–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-21-Voxmeter.png"
+        length="254589"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 15:23:57 +0100</pubDate>
+      <dc:date>2018-12-29T15:23:57.985607+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 8–14 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-10-14-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.7–31.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.5–20.2%&lt;/li&gt;&lt;li&gt;Venstre: 15.8–20.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.9–10.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Alternativet: 3.7–6.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-14-Voxmeter.png"
+        length="254018"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 15:30:00 +0100</pubDate>
+      <dc:date>2018-12-29T15:30:00.594845+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 11 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-10-11-KantarGallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.0–29.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.5–19.1%&lt;/li&gt;&lt;li&gt;Venstre: 17.0–20.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.5–10.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.2–6.4%&lt;/li&gt;&lt;li&gt;Alternativet: 3.8–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.8–7.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.3–6.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.0–4.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.9–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-11-KantarGallup.png"
+        length="241964"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 15:38:15 +0100</pubDate>
+      <dc:date>2018-12-29T15:38:15.061083+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget, 3–9 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-10-09-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.4–29.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.7–20.0%&lt;/li&gt;&lt;li&gt;Venstre: 16.6–21.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.2–10.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.0–6.5%&lt;/li&gt;&lt;li&gt;Alternativet: 3.7–6.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.7–7.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.0–6.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.8–5.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.7–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-09-Norstat.png"
+        length="252552"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 15:44:12 +0100</pubDate>
+      <dc:date>2018-12-29T15:44:12.468547+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 1–6 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-10-06-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.9–30.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.3–20.0%&lt;/li&gt;&lt;li&gt;Venstre: 16.1–20.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.8–10.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Alternativet: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.6–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-06-Voxmeter.png"
+        length="256935"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 15:50:41 +0100</pubDate>
+      <dc:date>2018-12-29T15:50:41.447883+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Greens Analyseinstitut for Børsen, 1 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-10-01-GreensAnalyseinstitut.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.4–29.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 14.4–18.7%&lt;/li&gt;&lt;li&gt;Venstre: 17.4–22.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.4–11.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.1–5.4%&lt;/li&gt;&lt;li&gt;Alternativet: 2.9–5.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.9–6.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.7–7.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.2–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.1–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-01-GreensAnalyseinstitut.png"
+        length="252290"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 15:58:24 +0100</pubDate>
+      <dc:date>2018-12-29T15:58:24.024865+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 24–30 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-09-30-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.3–29.7%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.1–20.9%&lt;/li&gt;&lt;li&gt;Venstre: 15.8–20.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.9–10.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Alternativet: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.2–8.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.6–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-09-30-Voxmeter.png"
+        length="258373"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 16:06:11 +0100</pubDate>
+      <dc:date>2018-12-29T16:06:11.282073+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 27 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-09-27-Megafon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 22.3–28.0%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13.6–18.4%&lt;/li&gt;&lt;li&gt;Venstre: 15.2–20.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.8–10.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.5–6.3%&lt;/li&gt;&lt;li&gt;Alternativet: 4.4–7.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 6.4–10.1%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.8–8.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.3–6.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.9–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-09-27-Megafon.png"
+        length="272383"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 16:17:00 +0100</pubDate>
+      <dc:date>2018-12-29T16:17:00.868492+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 17–23 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-09-23-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.5–28.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.5–20.1%&lt;/li&gt;&lt;li&gt;Venstre: 16.8–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.4–9.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Alternativet: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.1–6.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.8–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-09-23-Voxmeter.png"
+        length="260464"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 16:25:45 +0100</pubDate>
+      <dc:date>2018-12-29T16:25:45.770947+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 11–18 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-09-18-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.4–28.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.4–20.2%&lt;/li&gt;&lt;li&gt;Venstre: 17.2–21.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.3–10.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.4–6.7%&lt;/li&gt;&lt;li&gt;Alternativet: 3.7–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.5–6.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.9–6.1%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.6–4.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.1–0.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.5–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-09-18-Epinion.png"
+        length="243173"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 16:38:07 +0100</pubDate>
+      <dc:date>2018-12-29T16:38:07.739338+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 10–16 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-09-16-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.9–29.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.0–19.6%&lt;/li&gt;&lt;li&gt;Venstre: 16.9–21.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.7–10.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.7–6.3%&lt;/li&gt;&lt;li&gt;Alternativet: 4.1–6.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.3–4.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.2–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.0–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-09-16-Voxmeter.png"
+        length="256069"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 16:46:30 +0100</pubDate>
+      <dc:date>2018-12-29T16:46:30.269359+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 6–11 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-09-11-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.5–29.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 14.9–19.1%&lt;/li&gt;&lt;li&gt;Venstre: 15.3–19.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.9–11.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.1–5.4%&lt;/li&gt;&lt;li&gt;Alternativet: 4.6–7.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.4–5.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.8–6.2%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.4–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 3.6–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-09-11-Norstat.png"
+        length="257464"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 16:57:20 +0100</pubDate>
+      <dc:date>2018-12-29T16:57:20.283352+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 3–9 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-09-09-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 22.7–28.0%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.7–20.4%&lt;/li&gt;&lt;li&gt;Venstre: 16.0–20.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.3–10.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Alternativet: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.2–7.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.1–6.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.9–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-09-09-Voxmeter.png"
+        length="265538"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 17:04:03 +0100</pubDate>
+      <dc:date>2018-12-29T17:04:03.086074+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 27 August–2 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-09-02-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.6–29.0%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.5–20.2%&lt;/li&gt;&lt;li&gt;Venstre: 16.4–21.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.5–11.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Alternativet: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.2–7.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.1–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-09-02-Voxmeter.png"
+        length="262056"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 17:10:44 +0100</pubDate>
+      <dc:date>2018-12-29T17:10:44.133008+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 27–30 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-08-30-Megafon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 21.1–26.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13.3–17.7%&lt;/li&gt;&lt;li&gt;Venstre: 17.1–21.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.4–11.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Alternativet: 4.6–7.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.9–9.1%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.5–6.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-08-30-Megafon.png"
+        length="272331"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 17:17:17 +0100</pubDate>
+      <dc:date>2018-12-29T17:17:17.299842+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 20–26 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-08-26-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.0–29.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.0–20.7%&lt;/li&gt;&lt;li&gt;Venstre: 17.0–21.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.2–10.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Alternativet: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-08-26-Voxmeter.png"
+        length="258950"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 17:24:11 +0100</pubDate>
+      <dc:date>2018-12-29T17:24:11.555313+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 13–19 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-08-19-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.6–21.4%&lt;/li&gt;&lt;li&gt;Venstre: 18.0–22.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.1–10.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Alternativet: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.5–4.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.5–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-08-19-Voxmeter.png"
+        length="262351"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 17:30:28 +0100</pubDate>
+      <dc:date>2018-12-29T17:30:28.357737+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 10–17 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-08-17-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.3–28.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 17.8–21.7%&lt;/li&gt;&lt;li&gt;Venstre: 16.6–20.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.8–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.6–5.7%&lt;/li&gt;&lt;li&gt;Alternativet: 3.6–5.7%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.6–6.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.7–5.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.9–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-08-17-Epinion.png"
+        length="246979"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 17:38:10 +0100</pubDate>
+      <dc:date>2018-12-29T17:38:10.338302+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 6–11 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-08-11-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 17.1–21.9%&lt;/li&gt;&lt;li&gt;Venstre: 17.5–22.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.0–10.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Alternativet: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.1–6.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.9–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-08-11-Voxmeter.png"
+        length="260815"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 17:44:07 +0100</pubDate>
+      <dc:date>2018-12-29T17:44:07.140098+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 30 July–5 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-08-05-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 22.6–28.0%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 18.4–23.3%&lt;/li&gt;&lt;li&gt;Venstre: 17.6–22.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.5–11.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Alternativet: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.5–4.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-08-05-Voxmeter.png"
+        length="265046"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 17:51:09 +0100</pubDate>
+      <dc:date>2018-12-29T17:51:09.863751+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 25 June–1 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-07-01-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.1–28.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 17.5–22.3%&lt;/li&gt;&lt;li&gt;Venstre: 17.0–21.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.7–10.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.9–6.7%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-07-01-Voxmeter.png"
+        length="261330"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 17:58:17 +0100</pubDate>
+      <dc:date>2018-12-29T17:58:17.459561+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 25–28 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-06-28-Megafon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 20.4–25.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13.5–17.9%&lt;/li&gt;&lt;li&gt;Venstre: 16.0–20.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.4–12.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Alternativet: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.7–2.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.5–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-06-28-Megafon.png"
+        length="274530"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 18:05:43 +0100</pubDate>
+      <dc:date>2018-12-29T18:05:43.699829+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 18–24 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-06-24-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.7–29.0%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 17.0–21.8%&lt;/li&gt;&lt;li&gt;Venstre: 17.1–21.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.6–11.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.5–7.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.8–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-06-24-Voxmeter.png"
+        length="258552"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 18:11:58 +0100</pubDate>
+      <dc:date>2018-12-29T18:11:58.610036+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 15–23 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-06-23-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.9–28.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 17.0–20.8%&lt;/li&gt;&lt;li&gt;Venstre: 16.3–20.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.4–10.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.6–6.8%&lt;/li&gt;&lt;li&gt;Alternativet: 3.3–5.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.1–7.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.9–7.1%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.4–5.3%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.4–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-06-23-Epinion.png"
+        length="246449"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 18:20:13 +0100</pubDate>
+      <dc:date>2018-12-29T18:20:13.887621+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 11–16 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-06-16-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.7–30.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.6–21.4%&lt;/li&gt;&lt;li&gt;Venstre: 17.5–22.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Alternativet: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.1–6.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-06-16-Voxmeter.png"
+        length="255914"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 18:26:30 +0100</pubDate>
+      <dc:date>2018-12-29T18:26:30.605987+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 4–10 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-06-10-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.6–30.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.4–21.2%&lt;/li&gt;&lt;li&gt;Venstre: 17.4–22.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.9–10.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Alternativet: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.0–8.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.9–6.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.3–5.8%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.7–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-06-10-Voxmeter.png"
+        length="257474"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 18:33:27 +0100</pubDate>
+      <dc:date>2018-12-29T18:33:27.765481+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 28 May–3 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-06-03-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.5–28.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.5–21.3%&lt;/li&gt;&lt;li&gt;Venstre: 17.9–22.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.4–11.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Alternativet: 2.6–4.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.0–8.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.5–7.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.4–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-06-03-Voxmeter.png"
+        length="259137"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 18:40:23 +0100</pubDate>
+      <dc:date>2018-12-29T18:40:23.036903+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 21–27 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-05-27-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.6–29.0%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.6–21.4%&lt;/li&gt;&lt;li&gt;Venstre: 18.4–23.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.1–11.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Alternativet: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.1–6.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-05-27-Voxmeter.png"
+        length="259676"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 18:46:57 +0100</pubDate>
+      <dc:date>2018-12-29T18:46:57.199721+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget, 17–23 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-05-23-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.4–29.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.0–19.3%&lt;/li&gt;&lt;li&gt;Venstre: 17.1–21.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.4–11.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.4–5.8%&lt;/li&gt;&lt;li&gt;Alternativet: 3.1–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.6–6.1%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.8–6.2%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.1–6.6%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.6–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-05-23-Norstat.png"
+        length="255923"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 18:53:41 +0100</pubDate>
+      <dc:date>2018-12-29T18:53:41.662846+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 14–19 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-05-19-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 22.8–28.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.1–20.8%&lt;/li&gt;&lt;li&gt;Venstre: 17.6–22.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.8–11.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Alternativet: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.9–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-05-19-Voxmeter.png"
+        length="264340"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 18:59:36 +0100</pubDate>
+      <dc:date>2018-12-29T18:59:36.712622+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 7–13 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-05-13-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.1–29.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.5–20.1%&lt;/li&gt;&lt;li&gt;Venstre: 17.5–22.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.4–10.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.3–7.0%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.2–6.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.8–7.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.7–5.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.8–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-05-13-Voxmeter.png"
+        length="258086"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 19:06:20 +0100</pubDate>
+      <dc:date>2018-12-29T19:06:20.879755+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 30 April–6 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-05-06-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.1–30.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 14.8–19.4%&lt;/li&gt;&lt;li&gt;Venstre: 16.5–21.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.9–11.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.8–7.9%&lt;/li&gt;&lt;li&gt;Alternativet: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.5–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-05-06-Voxmeter.png"
+        length="258908"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 19:13:27 +0100</pubDate>
+      <dc:date>2018-12-29T19:13:27.665788+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 23–29 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-04-29-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.7–30.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 14.3–18.8%&lt;/li&gt;&lt;li&gt;Venstre: 16.8–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.5–11.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Alternativet: 3.7–6.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-04-29-Voxmeter.png"
+        length="259576"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 19:20:13 +0100</pubDate>
+      <dc:date>2018-12-29T19:20:13.877438+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 16–22 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-04-22-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.1–29.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13.5–17.9%&lt;/li&gt;&lt;li&gt;Venstre: 17.7–22.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.4–10.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Alternativet: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 5.3–8.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-04-22-Voxmeter.png"
+        length="259428"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 19:26:33 +0100</pubDate>
+      <dc:date>2018-12-29T19:26:33.848302+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 8–15 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-04-15-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.7–29.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 14.3–18.8%&lt;/li&gt;&lt;li&gt;Venstre: 17.0–21.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.4–12.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.0–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-04-15-Voxmeter.png"
+        length="260893"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 19:32:35 +0100</pubDate>
+      <dc:date>2018-12-29T19:32:35.13695+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 2–7 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-04-07-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 22.7–28.0%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.2–19.8%&lt;/li&gt;&lt;li&gt;Venstre: 17.2–22.1%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.5–12.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Alternativet: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-04-07-Voxmeter.png"
+        length="265773"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 19:38:49 +0100</pubDate>
+      <dc:date>2018-12-29T19:38:49.289311+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 26–31 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-03-31-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.1–29.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.9–20.6%&lt;/li&gt;&lt;li&gt;Venstre: 16.8–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.8–11.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.8–6.4%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-03-31-Voxmeter.png"
+        length="260389"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 19:45:48 +0100</pubDate>
+      <dc:date>2018-12-29T19:45:48.53474+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 19–25 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-03-25-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.5–29.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.1–20.9%&lt;/li&gt;&lt;li&gt;Venstre: 16.2–21.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.9–11.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.3–7.2%&lt;/li&gt;&lt;li&gt;Alternativet: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.2–7.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.7–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-03-25-Voxmeter.png"
+        length="258854"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 19:52:23 +0100</pubDate>
+      <dc:date>2018-12-29T19:52:23.961187+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget, 14–20 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-03-20-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 22.8–27.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.6–20.6%&lt;/li&gt;&lt;li&gt;Venstre: 17.4–21.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.8–10.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.4–5.5%&lt;/li&gt;&lt;li&gt;Alternativet: 3.6–5.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.7–7.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.4–6.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.8–5.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.5–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-03-20-Norstat.png"
+        length="251771"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 20:00:46 +0100</pubDate>
+      <dc:date>2018-12-29T20:00:46.366158+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 14–20 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-03-20-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.5–28.7%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.5–20.2%&lt;/li&gt;&lt;li&gt;Venstre: 18.1–21.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 9.4–12.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.1–5.0%&lt;/li&gt;&lt;li&gt;Alternativet: 3.1–5.0%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.9–6.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.7–5.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.8–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-03-20-Epinion.png"
+        length="244627"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 20:09:31 +0100</pubDate>
+      <dc:date>2018-12-29T20:09:31.099769+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–18 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-03-18-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.4–30.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.8–20.4%&lt;/li&gt;&lt;li&gt;Venstre: 16.7–21.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.0–11.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Alternativet: 3.1–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.3–5.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.9–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-03-18-Voxmeter.png"
+        length="257033"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 20:18:35 +0100</pubDate>
+      <dc:date>2018-12-29T20:18:35.603468+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 5–11 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-03-11-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.2–29.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.8–20.5%&lt;/li&gt;&lt;li&gt;Venstre: 17.2–22.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Alternativet: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.9–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-03-11-Voxmeter.png"
+        length="257106"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 20:28:37 +0100</pubDate>
+      <dc:date>2018-12-29T20:28:37.133089+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 19–25 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-02-25-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.9–31.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.4–20.1%&lt;/li&gt;&lt;li&gt;Venstre: 17.8–22.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.2–5.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-02-25-Voxmeter.png"
+        length="256843"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 20:38:33 +0100</pubDate>
+      <dc:date>2018-12-29T20:38:33.422825+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 19–22 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-02-22-Megafon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.5–28.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 14.7–19.4%&lt;/li&gt;&lt;li&gt;Venstre: 16.2–21.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.9–11.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Alternativet: 2.2–4.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.2–7.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-02-22-Megafon.png"
+        length="262919"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 20:47:51 +0100</pubDate>
+      <dc:date>2018-12-29T20:47:51.271743+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–18 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-02-18-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.7–31.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.0–20.7%&lt;/li&gt;&lt;li&gt;Venstre: 17.6–22.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.7–10.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.9–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-02-18-Voxmeter.png"
+        length="257196"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 20:58:52 +0100</pubDate>
+      <dc:date>2018-12-29T20:58:52.906931+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 8–14 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-02-14-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.8–30.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.4–19.2%&lt;/li&gt;&lt;li&gt;Venstre: 16.8–20.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.8–9.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.3–6.5%&lt;/li&gt;&lt;li&gt;Alternativet: 3.9–6.0%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.1–6.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.4–6.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.6–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.5–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-02-14-Epinion.png"
+        length="242600"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 21:09:24 +0100</pubDate>
+      <dc:date>2018-12-29T21:09:24.905368+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 5–10 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-02-10-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 26.8–32.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.5–21.3%&lt;/li&gt;&lt;li&gt;Venstre: 16.8–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.2–9.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.3–5.8%&lt;/li&gt;&lt;li&gt;Alternativet: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.1–5.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.9–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-02-10-Voxmeter.png"
+        length="252213"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 21:18:11 +0100</pubDate>
+      <dc:date>2018-12-29T21:18:11.576521+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 2–8 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-02-08-KantarGallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 26.7–31.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13.7–17.4%&lt;/li&gt;&lt;li&gt;Venstre: 17.5–21.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.7–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.2–6.4%&lt;/li&gt;&lt;li&gt;Alternativet: 3.4–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.2–6.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.9–6.1%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.8–6.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.0–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-02-08-KantarGallup.png"
+        length="241995"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 21:26:21 +0100</pubDate>
+      <dc:date>2018-12-29T21:26:21.968665+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Greens Analyseinstitut for Børsen, 2–8 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-02-08-GreensAnalyseinstitut.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.6–30.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 14.4–18.7%&lt;/li&gt;&lt;li&gt;Venstre: 17.5–22.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.6–11.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Alternativet: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.5–6.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.4%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.2–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-02-08-GreensAnalyseinstitut.png"
+        length="253240"
+        type="image/png"/>
+      <pubDate>Sat, 29 Dec 2018 21:33:36 +0100</pubDate>
+      <dc:date>2018-12-29T21:33:36.794937+01:00</dc:date>
+    </item>
+    <dc:date>2018-12-30T00:10:23.543573+01:00</dc:date>
+  </channel>
+</rss>
