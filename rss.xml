@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Sun, 30 Dec 2018 00:10:23 +0100</pubDate>
+    <pubDate>Sun, 30 Dec 2018 16:49:56 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 10–16 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-16-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 43–49 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 29–35 seats&lt;/li&gt;&lt;li&gt;Venstre: 32–37 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 13–19 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 8–11 seats&lt;/li&gt;&lt;li&gt;Alternativet: 5–9 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 11–14 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 8–12 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 5–8 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-16-Voxmeter-seats.png"
+        length="204434"
+        type="image/png"/>
+      <pubDate>Sun, 30 Dec 2018 13:06:16 +0100</pubDate>
+      <dc:date>2018-12-30T13:06:16.266601+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 10–16 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-16-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-16-Voxmeter-coalitions-seats.png"
+        length="250150"
+        type="image/png"/>
+      <pubDate>Sun, 30 Dec 2018 13:06:16 +0100</pubDate>
+      <dc:date>2018-12-30T13:06:16.266601+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 10–16 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2018-12-16-Voxmeter.html</link>
@@ -16,28 +36,68 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-16-Voxmeter.png"
         length="259951"
         type="image/png"/>
-      <pubDate>Sun, 30 Dec 2018 00:10:23 +0100</pubDate>
-      <dc:date>2018-12-30T00:10:23.543573+01:00</dc:date>
+      <pubDate>Sun, 30 Dec 2018 13:06:16 +0100</pubDate>
+      <dc:date>2018-12-30T13:06:16.266601+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 13 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-13-KantarGallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 43–51 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 29–38 seats&lt;/li&gt;&lt;li&gt;Venstre: 29–36 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 12–18 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 7–12 seats&lt;/li&gt;&lt;li&gt;Alternativet: 4–8 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 9–15 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 8–12 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 7–11 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-13-KantarGallup-seats.png"
+        length="223364"
+        type="image/png"/>
+      <pubDate>Sun, 30 Dec 2018 14:03:49 +0100</pubDate>
+      <dc:date>2018-12-30T14:03:49.557089+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 13 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-13-KantarGallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-13-KantarGallup-coalitions-seats.png"
+        length="268487"
+        type="image/png"/>
+      <pubDate>Sun, 30 Dec 2018 14:03:49 +0100</pubDate>
+      <dc:date>2018-12-30T14:03:49.557089+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Gallup for Berlingske, 13 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2018-12-13-KantarGallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.3–28.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16.5–20.3%&lt;/li&gt;&lt;li&gt;Venstre: 16.5–20.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.1–9.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.4–6.6%&lt;/li&gt;&lt;li&gt;Alternativet: 2.5–4.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.5–8.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.6–6.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.0–6.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.9–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-13-KantarGallup.png"
-        length="244554"
+        length="247618"
         type="image/png"/>
-      <pubDate>Sat, 29 Dec 2018 11:19:51 +0100</pubDate>
-      <dc:date>2018-12-29T11:19:51.44772+01:00</dc:date>
+      <pubDate>Sun, 30 Dec 2018 14:03:49 +0100</pubDate>
+      <dc:date>2018-12-30T14:03:49.557089+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 6–11 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-11-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 42–51 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 27–35 seats&lt;/li&gt;&lt;li&gt;Venstre: 28–36 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 13–19 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 7–12 seats&lt;/li&gt;&lt;li&gt;Alternativet: 6–10 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 7–11 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 9–14 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 5–9 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 4–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-11-Norstat-seats.png"
+        length="216739"
+        type="image/png"/>
+      <pubDate>Sun, 30 Dec 2018 15:37:56 +0100</pubDate>
+      <dc:date>2018-12-30T15:37:56.00226+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 6–11 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-12-11-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-11-Norstat-coalitions-seats.png"
+        length="271615"
+        type="image/png"/>
+      <pubDate>Sun, 30 Dec 2018 15:37:56 +0100</pubDate>
+      <dc:date>2018-12-30T15:37:56.00226+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 6–11 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2018-12-11-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.2–29.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.6–19.9%&lt;/li&gt;&lt;li&gt;Venstre: 16.1–20.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.3–10.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.1–6.6%&lt;/li&gt;&lt;li&gt;Alternativet: 3.5–5.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 3.8–6.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 5.1–7.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.0–5.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.2–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.0–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-11-Norstat.png"
-        length="253818"
+        length="257432"
         type="image/png"/>
-      <pubDate>Sat, 29 Dec 2018 11:26:52 +0100</pubDate>
-      <dc:date>2018-12-29T11:26:52.303881+01:00</dc:date>
+      <pubDate>Sun, 30 Dec 2018 15:37:56 +0100</pubDate>
+      <dc:date>2018-12-30T15:37:56.00226+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 3–8 December 2018 – Voting Intentions</title>
@@ -60,14 +120,34 @@
       <dc:date>2018-12-29T14:22:37.040095+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Greens Analyseinstitut for Børsen, 29 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-11-29-GreensAnalyseinstitut.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 39–48 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 26–35 seats&lt;/li&gt;&lt;li&gt;Venstre: 30–38 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 15–20 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4–7 seats&lt;/li&gt;&lt;li&gt;Alternativet: 6–9 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 11–16 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 6–11 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 6–11 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 5–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-29-GreensAnalyseinstitut-seats.png"
+        length="222252"
+        type="image/png"/>
+      <pubDate>Sun, 30 Dec 2018 16:49:56 +0100</pubDate>
+      <dc:date>2018-12-30T16:49:56.631703+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Greens Analyseinstitut for Børsen, 29 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-11-29-GreensAnalyseinstitut.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-29-GreensAnalyseinstitut-coalitions-seats.png"
+        length="281641"
+        type="image/png"/>
+      <pubDate>Sun, 30 Dec 2018 16:49:56 +0100</pubDate>
+      <dc:date>2018-12-30T16:49:56.631703+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Greens Analyseinstitut for Børsen, 29 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2018-11-29-GreensAnalyseinstitut.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 22.2–27.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.0–19.4%&lt;/li&gt;&lt;li&gt;Venstre: 17.0–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.0–11.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.2–4.3%&lt;/li&gt;&lt;li&gt;Alternativet: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 6.2–9.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.7–6.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.8–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-29-GreensAnalyseinstitut.png"
-        length="263495"
+        length="266269"
         type="image/png"/>
-      <pubDate>Sat, 29 Dec 2018 14:27:51 +0100</pubDate>
-      <dc:date>2018-12-29T14:27:51.708336+01:00</dc:date>
+      <pubDate>Sun, 30 Dec 2018 16:49:56 +0100</pubDate>
+      <dc:date>2018-12-30T16:49:56.631703+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 19–25 November 2018 – Voting Intentions</title>
@@ -639,6 +719,6 @@
       <pubDate>Sat, 29 Dec 2018 21:33:36 +0100</pubDate>
       <dc:date>2018-12-29T21:33:36.794937+01:00</dc:date>
     </item>
-    <dc:date>2018-12-30T00:10:23.543573+01:00</dc:date>
+    <dc:date>2018-12-30T16:49:56.631703+01:00</dc:date>
   </channel>
 </rss>
