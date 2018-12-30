@@ -71,9 +71,9 @@ Last result: **21.1%** (General Election of 18 June 2015)
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 16.9% | 15.5–18.5% | 15.1–19.0% | 14.7–19.4% | 14.1–20.1% |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 18.2% | 16.8–19.9% | 16.3–20.3% | 16.0–20.7% | 15.3–21.5% |
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 17.2% | 16.0–18.5% | 15.7–18.9% | 15.4–19.2% | 14.9–19.8% |
-| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 18.8% | 17.3–20.4% | 16.9–20.9% | 16.5–21.3% | 15.8–22.1% |
-| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 15.5% | N/A | N/A | N/A | N/A |
-| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 16.5% | N/A | N/A | N/A | N/A |
+| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 18.8% | 17.3–20.4% | 16.9–20.9% | 16.5–21.3% | 15.9–22.1% |
+| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 15.5% | 14.3–16.7% | 14.0–17.1% | 13.7–17.4% | 13.2–18.0% |
+| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 16.5% | 15.1–18.0% | 14.7–18.4% | 14.4–18.7% | 13.8–19.5% |
 
 ### Probability Mass Function
 
@@ -104,8 +104,8 @@ Last result: **37** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 27–33 | 27–33 | 27–33 | 27–36 |
-| [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 33 | 33 | 33–37 | 33–37 |
+| N/A | [Poll Average](average.html) | 30 | 27–35 | 27–35 | 27–35 | 27–36 |
+| [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 35 | 31–35 | 30–35 | 30–35 | 28–37 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 33 | 33 | 33 | 33 | 33 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 30 | 29–30 | 29–34 | 27–34 | 27–34 |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 33 | 33 | 33 | 33 |
@@ -165,9 +165,9 @@ Last result: **37** seats (General Election of 18 June 2015)
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 29 | 29 | 29 | 29 | 29 |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 32 | 29–35 | 29–35 | 29–35 | 29–35 |
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 33 | 33 | 33 | 33 | 33 |
-| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske |  |  |  |  |  |
-| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen |  |  |  |  |  |
+| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 34 | 34 | 32–34 | 29–40 |
+| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 28 | 28 | 28 | 28 | 26–30 |
+| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 27 | 26–29 | 26–29 | 26–29 | 26–29 |
 
 ### Probability Mass Function
 
@@ -183,16 +183,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0% | 99.9% |  |
 | 26 | 0.1% | 99.9% |  |
 | 27 | 17% | 99.8% |  |
-| 28 | 0.4% | 82% |  |
+| 28 | 0.5% | 82% |  |
 | 29 | 8% | 82% |  |
-| 30 | 30% | 74% | Median |
-| 31 | 2% | 44% |  |
-| 32 | 7% | 42% |  |
-| 33 | 33% | 35% |  |
-| 34 | 1.4% | 2% |  |
-| 35 | 0% | 1.0% |  |
-| 36 | 0.5% | 1.0% |  |
-| 37 | 0.5% | 0.5% | Last Result |
+| 30 | 31% | 74% | Median |
+| 31 | 4% | 43% |  |
+| 32 | 7% | 39% |  |
+| 33 | 19% | 32% |  |
+| 34 | 2% | 13% |  |
+| 35 | 11% | 11% |  |
+| 36 | 0.5% | 0.8% |  |
+| 37 | 0.2% | 0.2% | Last Result |
 | 38 | 0% | 0% |  |
 
 

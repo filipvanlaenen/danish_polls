@@ -71,9 +71,9 @@ Last result: **7.5%** (General Election of 18 June 2015)
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.6–6.3% | 3.3–6.8% |
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 5.3% | 4.6–6.1% | 4.4–6.3% | 4.3–6.5% | 4.0–6.9% |
-| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 4.3% | 3.6–5.3% | 3.4–5.5% | 3.2–5.8% | 2.9–6.3% |
-| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 5.2% | N/A | N/A | N/A | N/A |
-| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5.2% | N/A | N/A | N/A | N/A |
+| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 4.3% | 3.6–5.3% | 3.4–5.5% | 3.3–5.8% | 2.9–6.2% |
+| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 5.2% | 4.5–6.0% | 4.3–6.2% | 4.2–6.4% | 3.9–6.9% |
+| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.7% | 3.7–7.1% |
 
 ### Probability Mass Function
 
@@ -100,8 +100,8 @@ Last result: **13** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 4–10 | 4–10 | 4–10 | 4–10 |
-| [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 10 | 10 | 9–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 8 | 4–9 | 4–10 | 4–10 | 4–11 |
+| [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9–10 | 9–10 | 8–11 | 7–12 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 9 | 9 | 9 | 9 | 9 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 9 | 8–9 | 6–9 | 6–10 | 6–10 |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9 | 9 | 9 | 9 |
@@ -161,9 +161,9 @@ Last result: **13** seats (General Election of 18 June 2015)
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 8 | 8 | 8 | 8 |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 10–12 | 7–12 | 7–12 | 7–12 |
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 11 | 11 | 11 | 11 | 11 |
-| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske |  |  |  |  |  |
-| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen |  |  |  |  |  |
+| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 10 | 10 | 10 | 10 | 9–12 |
+| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 13 | 8–13 | 8–13 | 8–13 | 8–13 |
 
 ### Probability Mass Function
 
@@ -181,11 +181,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 1.3% | 87% |  |
 | 6 | 10% | 85% |  |
 | 7 | 8% | 75% |  |
-| 8 | 20% | 67% | Median |
-| 9 | 30% | 47% |  |
-| 10 | 17% | 17% |  |
-| 11 | 0% | 0.1% |  |
-| 12 | 0% | 0.1% |  |
-| 13 | 0% | 0% | Last Result |
+| 8 | 21% | 68% | Median |
+| 9 | 41% | 47% |  |
+| 10 | 5% | 5% |  |
+| 11 | 0.5% | 0.8% |  |
+| 12 | 0.2% | 0.3% |  |
+| 13 | 0.1% | 0.1% | Last Result |
+| 14 | 0% | 0% |  |
 
 
