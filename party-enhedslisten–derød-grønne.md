@@ -101,7 +101,7 @@ Last result: **14** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–19 | 14–20 | 13–20 | 12–20 |
+| N/A | [Poll Average](average.html) | 17 | 14–19 | 14–20 | 13–22 | 12–22 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–17 | 14–17 | 13–19 | 12–20 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 16 | 14–18 | 13–18 | 13–19 | 12–20 |
@@ -110,11 +110,11 @@ Last result: **14** seats (General Election of 18 June 2015)
 | [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 18 | 15–18 | 14–18 | 14–20 | 14–20 |
 | [12–17 November 2018](2018-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 14–21 | 14–21 | 14–21 | 14–21 |
-| [7–15 November 2018](2018-11-15-Epinion.html) | Epinion <br> DR | 18 | 17–20 | 17–20 | 14–20 | 14–20 |
+| [7–15 November 2018](2018-11-15-Epinion.html) | Epinion <br> DR | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [5–10 November 2018](2018-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 17 | 17 | 17 | 17 |
 | [29 October–5 November 2018](2018-11-05-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 15 | 14–20 | 12–20 | 12–20 |
 | [22–28 October 2018](2018-10-28-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 11–19 | 11–19 | 11–21 | 11–21 |
-| [22–25 October 2018](2018-10-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 18 | 18 | 18 | 18 | 16–18 |
+| [22–25 October 2018](2018-10-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 17 | 15–22 | 14–22 | 14–22 | 13–22 |
 | [16–24 October 2018](2018-10-24-Epinion.html) | Epinion <br> DR | 17 | 17 | 17 | 17 | 15–17 |
 | [15–21 October 2018](2018-10-21-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 16 | 16 | 14–16 | 11–16 |
 | [8–14 October 2018](2018-10-14-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 17 | 17 | 17 | 15–18 |
@@ -176,16 +176,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
 | 12 | 0.7% | 99.9% |  |
-| 13 | 3% | 99.2% |  |
-| 14 | 6% | 96% | Last Result |
-| 15 | 15% | 89% |  |
-| 16 | 17% | 74% |  |
-| 17 | 10% | 57% | Median |
-| 18 | 33% | 47% |  |
-| 19 | 8% | 14% |  |
-| 20 | 6% | 6% |  |
-| 21 | 0.3% | 0.3% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 13 | 4% | 99.2% |  |
+| 14 | 7% | 96% | Last Result |
+| 15 | 18% | 88% |  |
+| 16 | 18% | 70% |  |
+| 17 | 14% | 52% | Median |
+| 18 | 21% | 37% |  |
+| 19 | 10% | 16% |  |
+| 20 | 3% | 7% |  |
+| 21 | 0.4% | 4% |  |
+| 22 | 3% | 4% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
