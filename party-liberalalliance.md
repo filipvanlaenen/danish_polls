@@ -100,13 +100,13 @@ Last result: **13** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 4–9 | 4–10 | 4–10 | 4–11 |
-| [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9–10 | 9–10 | 8–11 | 7–12 |
-| [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 9 | 9 | 9 | 9 | 9 |
-| [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 9 | 8–9 | 6–9 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 5–11 | 5–11 | 4–11 | 4–12 |
+| [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9–11 | 9–11 | 8–11 | 7–12 |
+| [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
+| [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10 | 8–11 | 8–11 | 7–12 | 7–12 |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9 | 9 | 9 | 9 |
 | [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
-| [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 4 | 4–7 | 4–7 | 4–7 | 0–7 |
+| [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [12–17 November 2018](2018-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 9–13 | 9–13 | 9–13 | 8–13 |
 | [7–15 November 2018](2018-11-15-Epinion.html) | Epinion <br> DR | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
@@ -173,20 +173,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 0% | 99.7% |  |
-| 2 | 0% | 99.7% |  |
-| 3 | 0% | 99.7% |  |
-| 4 | 13% | 99.7% |  |
-| 5 | 1.3% | 87% |  |
-| 6 | 10% | 85% |  |
-| 7 | 8% | 75% |  |
-| 8 | 21% | 68% | Median |
-| 9 | 41% | 47% |  |
-| 10 | 5% | 5% |  |
-| 11 | 0.5% | 0.8% |  |
-| 12 | 0.2% | 0.3% |  |
-| 13 | 0.1% | 0.1% | Last Result |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 4% | 99.9% |  |
+| 5 | 7% | 96% |  |
+| 6 | 12% | 89% |  |
+| 7 | 9% | 77% |  |
+| 8 | 24% | 68% | Median |
+| 9 | 19% | 44% |  |
+| 10 | 14% | 25% |  |
+| 11 | 9% | 11% |  |
+| 12 | 1.5% | 2% |  |
+| 13 | 0.2% | 0.3% | Last Result |
 | 14 | 0% | 0% |  |
 
 
