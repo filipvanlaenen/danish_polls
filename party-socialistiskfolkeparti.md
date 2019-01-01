@@ -76,7 +76,9 @@ Last result: **4.2%** (General Election of 18 June 2015)
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.4–5.9% | 3.1–6.3% |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.5–6.1% | 3.1–6.6% |
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 4.7% | N/A | N/A | N/A | N/A |
 | [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
+| [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 5.8% | N/A | N/A | N/A | N/A |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.7–5.9% | 3.5–6.3% |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 4.4% | 3.7–5.4% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
@@ -176,7 +178,9 @@ Last result: **7** seats (General Election of 18 June 2015)
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 7 | 7 | 7 | 7 | 7 |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–9 | 6–9 | 6–9 | 6–9 |
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 8 | 7–12 | 7–12 | 7–12 | 7–12 |
+| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 9 | 9–14 | 9–14 | 9–14 | 9–14 |
+| [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 9 | 9 | 9 | 9 | 9 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7–8 | 7–9 | 7–9 | 6–10 |
 | [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9 | 9 | 9 | 9–10 |
