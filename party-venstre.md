@@ -74,6 +74,15 @@ Last result: **19.5%** (General Election of 18 June 2015)
 | [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 19.1% | 17.6–20.7% | 17.2–21.2% | 16.8–21.6% | 16.1–22.4% |
 | [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 19.4% | 18.1–20.7% | 17.8–21.1% | 17.5–21.4% | 16.9–22.1% |
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 19.8% | 18.3–21.4% | 17.9–21.8% | 17.5–22.2% | 16.9–23.0% |
+| [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 19.3% | 17.8–21.0% | 17.4–21.5% | 17.0–21.9% | 16.3–22.7% |
+| [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 17.6% | 16.4–18.9% | 16.0–19.3% | 15.7–19.6% | 15.2–20.3% |
+| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–23.9% |
+| [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 19.7% | 18.4–21.1% | 18.1–21.5% | 17.8–21.9% | 17.2–22.5% |
+| [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 20.7% | 19.2–22.4% | 18.7–22.9% | 18.4–23.3% | 17.6–24.2% |
+| [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 19.9% | 18.4–21.6% | 18.0–22.1% | 17.6–22.5% | 16.9–23.3% |
+| [5–11 January 2018](2018-01-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 21.5% | 20.2–22.9% | 19.8–23.3% | 19.5–23.6% | 18.9–24.3% |
+| [5–7 January 2018](2018-01-07-YouGov.html) | YouGov <br> Metroxpress | 18.8% | 17.5–20.2% | 17.1–20.6% | 16.8–20.9% | 16.2–21.6% |
+| [2–7 January 2018](2018-01-07-Voxmeter.html) | Voxmeter <br> Ritzau | 19.1% | 17.6–20.8% | 17.2–21.2% | 16.8–21.6% | 16.2–22.5% |
 
 ### Probability Mass Function
 
@@ -166,6 +175,15 @@ Last result: **34** seats (General Election of 18 June 2015)
 | [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 38 | 33–38 | 33–38 | 33–38 | 31–42 |
 | [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 34 | 34 | 34 | 34 | 34–35 |
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 35 | 31–38 | 31–38 | 31–38 | 31–38 |
+| [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 31–35 | 31–35 | 31–35 | 31–35 |
+| [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 33 | 29–35 | 29–35 | 24–35 | 24–35 |
+| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 35 | 35 | 32–35 | 31–35 | 28–36 |
+| [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 37 | 37–38 | 37–38 | 37–38 | 37–38 |
+| [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 42 | 37–42 | 33–42 | 31–42 | 29–42 |
+| [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 35 | 35 | 35 | 35 | 35 |
+| [5–11 January 2018](2018-01-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 37 | 35–39 | 35–41 | 35–41 | 35–46 |
+| [5–7 January 2018](2018-01-07-YouGov.html) | YouGov <br> Metroxpress | 33 | 33 | 33 | 26–33 | 26–33 |
+| [2–7 January 2018](2018-01-07-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 28–33 | 28–33 | 28–37 | 28–37 |
 
 ### Probability Mass Function
 
