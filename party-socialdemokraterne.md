@@ -76,9 +76,9 @@ Last result: **26.3%** (General Election of 18 June 2015)
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 28.2% | 26.5–29.9% | 26.0–30.5% | 25.6–30.9% | 24.8–31.7% |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.3–32.9% | 26.4–33.8% |
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 30.9% | 29.4–32.5% | 29.0–32.9% | 28.6–33.3% | 27.9–34.1% |
-| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 28.9% | N/A | N/A | N/A | N/A |
+| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.4–32.7% |
 | [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 25.9% | 24.2–27.8% | 23.7–28.3% | 23.3–28.7% | 22.5–29.6% |
-| [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 28.3% | N/A | N/A | N/A | N/A |
+| [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 28.3% | 27.0–29.7% | 26.6–30.1% | 26.3–30.5% | 25.6–31.2% |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 28.1% | 26.6–29.6% | 26.2–30.1% | 25.8–30.5% | 25.1–31.2% |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.4% |
 | [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.1% | 25.7–33.1% |
@@ -183,9 +183,9 @@ Last result: **47** seats (General Election of 18 June 2015)
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 47 | 47–57 | 47–57 | 47–57 | 47–57 |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 56 | 47–56 | 47–56 | 47–56 | 47–56 |
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 52 | 50–52 | 50–54 | 50–57 | 50–64 |
-| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 53 | 53–56 | 45–56 | 45–56 | 45–56 |
 | [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 53 | 47–53 | 46–53 | 38–53 | 38–53 |
-| [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 44 | 44–46 | 44–55 | 44–55 | 44–55 |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 52 | 52 | 52 | 52 | 47–52 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 54 | 46–54 | 45–54 | 45–54 | 45–55 |
 | [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 50 | 50 | 50 | 50–51 |
