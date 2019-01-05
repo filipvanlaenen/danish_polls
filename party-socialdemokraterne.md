@@ -10,7 +10,8 @@ Last result: **26.3%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 22.8–27.7% | 21.9–28.3% | 21.2–28.7% | 20.1–29.5% |
+| N/A | [Poll Average](average.html) | 26.0% | 24.0–27.8% | 23.4–28.3% | 22.9–28.7% | 22.0–29.6% |
+| [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 26.3% | 24.6–28.1% | 24.1–28.7% | 23.7–29.1% | 22.9–30.0% |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 26.4% | 25.0–27.8% | 24.6–28.2% | 24.3–28.6% | 23.6–29.3% |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 26.6% | 25.0–28.3% | 24.6–28.7% | 24.2–29.1% | 23.4–29.9% |
@@ -92,16 +93,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 0.8% | 99.8% |  |
-| 20.5–21.5% | 3% | 99.0% |  |
-| 21.5–22.5% | 5% | 96% |  |
-| 22.5–23.5% | 7% | 91% |  |
-| 23.5–24.5% | 11% | 84% |  |
-| 24.5–25.5% | 17% | 74% |  |
-| 25.5–26.5% | 24% | 57% | Last Result, Median |
-| 26.5–27.5% | 20% | 33% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.2% | 100% |  |
+| 21.5–22.5% | 1.1% | 99.8% |  |
+| 22.5–23.5% | 4% | 98.7% |  |
+| 23.5–24.5% | 11% | 94% |  |
+| 24.5–25.5% | 20% | 83% |  |
+| 25.5–26.5% | 27% | 63% | Last Result, Median |
+| 26.5–27.5% | 22% | 35% |  |
 | 27.5–28.5% | 10% | 13% |  |
 | 28.5–29.5% | 3% | 3% |  |
 | 29.5–30.5% | 0.4% | 0.5% |  |
@@ -117,7 +116,8 @@ Last result: **47** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 46 | 40–49 | 37–50 | 37–51 | 35–52 |
+| N/A | [Poll Average](average.html) | 46 | 42–49 | 41–50 | 40–51 | 39–52 |
+| [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 45 | 41–46 | 41–46 | 40–48 | 39–50 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 44–48 | 43–49 | 43–49 | 40–53 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 48 | 45–50 | 44–51 | 43–51 | 42–52 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 46 | 45–51 | 44–51 | 42–51 | 41–52 |
@@ -201,26 +201,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0% | 100% |  |
-| 34 | 0.2% | 99.9% |  |
-| 35 | 0.4% | 99.7% |  |
-| 36 | 1.3% | 99.3% |  |
-| 37 | 4% | 98% |  |
-| 38 | 2% | 94% |  |
-| 39 | 1.1% | 92% |  |
-| 40 | 4% | 91% |  |
-| 41 | 3% | 87% |  |
-| 42 | 5% | 84% |  |
-| 43 | 7% | 79% |  |
-| 44 | 4% | 72% |  |
-| 45 | 9% | 68% |  |
-| 46 | 13% | 59% | Median |
-| 47 | 15% | 46% | Last Result |
-| 48 | 7% | 31% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.2% | 99.9% |  |
+| 39 | 0.6% | 99.7% |  |
+| 40 | 3% | 99.1% |  |
+| 41 | 2% | 96% |  |
+| 42 | 5% | 94% |  |
+| 43 | 6% | 90% |  |
+| 44 | 8% | 84% |  |
+| 45 | 10% | 76% |  |
+| 46 | 19% | 65% | Median |
+| 47 | 15% | 47% | Last Result |
+| 48 | 7% | 32% |  |
 | 49 | 18% | 24% |  |
 | 50 | 3% | 6% |  |
 | 51 | 3% | 4% |  |
-| 52 | 0.3% | 0.6% |  |
+| 52 | 0.4% | 0.6% |  |
 | 53 | 0.2% | 0.3% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |

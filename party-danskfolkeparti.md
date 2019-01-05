@@ -10,7 +10,8 @@ Last result: **21.1%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.5% | 15.1–19.2% | 14.2–19.7% | 13.7–20.1% | 12.7–21.0% |
+| N/A | [Poll Average](average.html) | 17.6% | 15.9–19.2% | 15.4–19.7% | 14.9–20.1% | 14.1–21.0% |
+| [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.2–20.9% | 15.5–21.7% |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 18.3% | 17.1–19.6% | 16.8–20.0% | 16.5–20.3% | 15.9–20.9% |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 17.6% | 16.3–19.1% | 15.9–19.5% | 15.6–19.9% | 15.0–20.6% |
@@ -92,15 +93,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 2% | 99.6% |  |
-| 13.5–14.5% | 5% | 98% |  |
-| 14.5–15.5% | 7% | 93% |  |
-| 15.5–16.5% | 13% | 86% |  |
-| 16.5–17.5% | 24% | 73% |  |
-| 17.5–18.5% | 27% | 50% | Median |
-| 18.5–19.5% | 16% | 23% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.1% | 100% |  |
+| 13.5–14.5% | 1.2% | 99.9% |  |
+| 14.5–15.5% | 5% | 98.7% |  |
+| 15.5–16.5% | 15% | 93% |  |
+| 16.5–17.5% | 27% | 78% |  |
+| 17.5–18.5% | 29% | 52% | Median |
+| 18.5–19.5% | 17% | 23% |  |
 | 19.5–20.5% | 5% | 6% |  |
 | 20.5–21.5% | 1.0% | 1.2% | Last Result |
 | 21.5–22.5% | 0.1% | 0.1% |  |
@@ -115,7 +115,8 @@ Last result: **37** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 26–35 | 24–35 | 24–36 | 20–38 |
+| N/A | [Poll Average](average.html) | 31 | 28–35 | 27–35 | 26–36 | 25–38 |
+| [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 29 | 26–30 | 25–31 | 25–32 | 24–34 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–35 | 29–35 | 29–35 | 28–37 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 33 | 30–36 | 30–37 | 29–38 | 28–39 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 30 | 28–34 | 28–35 | 27–35 | 27–37 |
@@ -199,21 +200,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 0.7% | 100% |  |
-| 21 | 0.1% | 99.3% |  |
-| 22 | 0.2% | 99.3% |  |
-| 23 | 1.2% | 99.1% |  |
-| 24 | 4% | 98% |  |
-| 25 | 3% | 94% |  |
-| 26 | 2% | 91% |  |
-| 27 | 4% | 89% |  |
-| 28 | 7% | 85% |  |
-| 29 | 8% | 78% |  |
-| 30 | 20% | 69% | Median |
-| 31 | 9% | 49% |  |
-| 32 | 13% | 40% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 2% | 99.8% |  |
+| 26 | 3% | 98% |  |
+| 27 | 4% | 95% |  |
+| 28 | 5% | 92% |  |
+| 29 | 13% | 86% |  |
+| 30 | 23% | 73% |  |
+| 31 | 9% | 50% | Median |
+| 32 | 14% | 41% |  |
 | 33 | 8% | 27% |  |
-| 34 | 5% | 19% |  |
+| 34 | 6% | 19% |  |
 | 35 | 10% | 13% |  |
 | 36 | 2% | 4% |  |
 | 37 | 0.9% | 1.5% | Last Result |
