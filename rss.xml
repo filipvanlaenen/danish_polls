@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Tue, 08 Jan 2019 16:51:01 +0100</pubDate>
+    <pubDate>Tue, 08 Jan 2019 21:02:56 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 2–6 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-01-06-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.2–28.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.5–20.1%&lt;/li&gt;&lt;li&gt;Venstre: 16.8–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.0–11.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Alternativet: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.4–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-01-06-Voxmeter.png"
+        length="263400"
+        type="image/png"/>
+      <pubDate>Tue, 08 Jan 2019 21:02:56 +0100</pubDate>
+      <dc:date>2019-01-08T21:02:56.107713+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 20 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2018-12-20-Megafon.html</link>
@@ -66,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-12-02-Voxmeter.png"
         length="261261"
         type="image/png"/>
-      <pubDate>Tue, 08 Jan 2019 16:51:01 +0100</pubDate>
-      <dc:date>2019-01-08T16:51:01.000224+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 16:55:14 +0100</pubDate>
+      <dc:date>2019-01-08T16:55:14.735461+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Greens Analyseinstitut for Børsen, 29 November 2018 – Voting Intentions</title>
@@ -86,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-25-Voxmeter.png"
         length="263176"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.422704+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 18:03:38 +0100</pubDate>
+      <dc:date>2019-01-08T18:03:38.591652+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 12–17 November 2018 – Voting Intentions</title>
@@ -116,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-11-10-Voxmeter.png"
         length="261510"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.362702+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 18:39:11 +0100</pubDate>
+      <dc:date>2019-01-08T18:39:11.301886+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 29 October–5 November 2018 – Voting Intentions</title>
@@ -156,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-24-Epinion.png"
         length="246634"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.326701+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 20:56:03 +0100</pubDate>
+      <dc:date>2019-01-08T20:56:03.324402+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 15–21 October 2018 – Voting Intentions</title>
@@ -166,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-21-Voxmeter.png"
         length="258555"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.326701+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 19:21:19 +0100</pubDate>
+      <dc:date>2019-01-08T19:21:19.766697+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 8–14 October 2018 – Voting Intentions</title>
@@ -186,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-10-11-KantarGallup.png"
         length="245623"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.326701+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 19:36:54 +0100</pubDate>
+      <dc:date>2019-01-08T19:36:54.248177+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Altinget, 3–9 October 2018 – Voting Intentions</title>
@@ -336,8 +346,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-08-17-Epinion.png"
         length="246962"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.186698+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 17:39:45 +0100</pubDate>
+      <dc:date>2019-01-08T17:39:45.800479+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 6–11 August 2018 – Voting Intentions</title>
@@ -346,8 +356,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-08-11-Voxmeter.png"
         length="260797"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.170697+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 18:27:27 +0100</pubDate>
+      <dc:date>2019-01-08T18:27:27.27076+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 30 July–5 August 2018 – Voting Intentions</title>
@@ -416,8 +426,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-06-10-Voxmeter.png"
         length="257458"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.154697+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 20:05:36 +0100</pubDate>
+      <dc:date>2019-01-08T20:05:36.035151+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 28 May–3 June 2018 – Voting Intentions</title>
@@ -506,8 +516,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-04-15-Voxmeter.png"
         length="260878"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.090695+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 18:15:39 +0100</pubDate>
+      <dc:date>2019-01-08T18:15:39.455395+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 2–7 April 2018 – Voting Intentions</title>
@@ -626,8 +636,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-02-10-Voxmeter.png"
         length="252203"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.026694+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 19:09:15 +0100</pubDate>
+      <dc:date>2019-01-08T19:09:15.590999+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Gallup for Berlingske, 2–8 February 2018 – Voting Intentions</title>
@@ -676,8 +686,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-01-28-Voxmeter.png"
         length="255816"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:40 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:40.002693+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 17:51:27 +0100</pubDate>
+      <dc:date>2019-01-08T17:51:27.243663+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 January 2018 – Voting Intentions</title>
@@ -696,8 +706,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-01-25-Epinion.png"
         length="241586"
         type="image/png"/>
-      <pubDate>Sat, 05 Jan 2019 18:12:39 +0100</pubDate>
-      <dc:date>2019-01-05T18:12:39.990693+01:00</dc:date>
+      <pubDate>Tue, 08 Jan 2019 17:27:28 +0100</pubDate>
+      <dc:date>2019-01-08T17:27:28.748498+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 19–22 January 2018 – Voting Intentions</title>
@@ -759,6 +769,6 @@
       <pubDate>Sun, 06 Jan 2019 19:57:57 +0100</pubDate>
       <dc:date>2019-01-06T19:57:57.430789+01:00</dc:date>
     </item>
-    <dc:date>2019-01-08T16:51:01.000224+01:00</dc:date>
+    <dc:date>2019-01-08T21:02:56.107713+01:00</dc:date>
   </channel>
 </rss>
