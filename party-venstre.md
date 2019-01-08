@@ -116,8 +116,8 @@ Last result: **34** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 29–35 | 28–36 | 28–36 | 27–38 |
-| [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 31 | 31 | 31–32 | 30–37 |
+| N/A | [Poll Average](average.html) | 32 | 29–36 | 28–36 | 28–38 | 27–39 |
+| [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 32 | 30–38 | 30–39 | 30–39 | 28–39 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 29 | 28–33 | 28–34 | 27–34 | 25–35 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 32–37 | 32–37 | 32–37 | 29–38 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 32 | 29–35 | 29–35 | 29–36 | 28–37 |
@@ -207,16 +207,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0.4% | 99.6% |  |
 | 28 | 8% | 99.2% |  |
 | 29 | 7% | 92% |  |
-| 30 | 10% | 85% |  |
-| 31 | 6% | 75% |  |
-| 32 | 20% | 69% | Median |
-| 33 | 10% | 49% |  |
-| 34 | 27% | 40% | Last Result |
-| 35 | 6% | 13% |  |
-| 36 | 4% | 7% |  |
-| 37 | 2% | 2% |  |
-| 38 | 0.5% | 0.9% |  |
-| 39 | 0.3% | 0.4% |  |
-| 40 | 0% | 0% |  |
+| 30 | 13% | 85% |  |
+| 31 | 6% | 72% |  |
+| 32 | 24% | 65% | Median |
+| 33 | 11% | 42% |  |
+| 34 | 14% | 31% | Last Result |
+| 35 | 7% | 17% |  |
+| 36 | 6% | 10% |  |
+| 37 | 2% | 4% |  |
+| 38 | 1.2% | 3% |  |
+| 39 | 1.3% | 1.4% |  |
+| 40 | 0.1% | 0.1% |  |
+| 41 | 0% | 0% |  |
 
 
