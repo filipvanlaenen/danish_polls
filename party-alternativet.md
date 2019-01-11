@@ -184,7 +184,7 @@ Last result: **9** seats (General Election of 18 June 2015)
 | [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 6 | 6–9 | 6–9 | 6–9 | 5–9 |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6–7 | 6–9 | 6–9 | 5–11 |
-| [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7 | 7–9 | 6–9 | 6–9 |
+| [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–9 | 7–9 | 6–9 | 5–10 |
 | [5–11 January 2018](2018-01-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 11 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [5–7 January 2018](2018-01-07-YouGov.html) | YouGov <br> Metroxpress | 7 | 7–10 | 7–10 | 7–11 | 6–12 |
 | [2–7 January 2018](2018-01-07-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–10 | 7–11 | 7–11 | 6–12 |
