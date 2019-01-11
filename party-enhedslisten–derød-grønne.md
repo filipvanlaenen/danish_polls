@@ -167,17 +167,17 @@ Last result: **14** seats (General Election of 18 June 2015)
 | [8–15 April 2018](2018-04-15-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 17–21 | 17–21 | 17–21 | 15–24 |
 | [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 20 | 14–22 | 14–22 | 13–22 | 13–22 |
 | [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 16–18 | 16–18 | 15–18 | 14–19 |
-| [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 15–18 | 15–20 | 14–21 | 13–22 |
+| [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 16–19 | 15–19 | 15–20 | 13–22 |
 | [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 16 | 16–19 | 15–19 | 14–19 | 13–20 |
 | [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 17 | 17–20 | 16–21 | 16–22 | 16–22 |
 | [12–18 March 2018](2018-03-18-Voxmeter.html) | Voxmeter <br> Ritzau | 20 | 16–20 | 16–20 | 14–20 | 13–22 |
 | [5–11 March 2018](2018-03-11-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 13–17 | 13–17 | 13–19 | 13–19 |
 | [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 12–17 | 12–19 | 12–19 | 12–19 |
-| [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
+| [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 17 | 15–20 | 14–21 | 14–21 | 13–22 |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–17 | 14–18 | 13–18 | 12–19 |
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 13–16 | 13–16 | 12–16 | 12–16 |
-| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 14 | 14–17 | 14–18 | 14–19 | 13–19 |
+| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 15 | 14–18 | 14–18 | 14–19 | 13–20 |
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 19 | 14–20 | 13–20 | 13–20 | 12–20 |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 11–16 | 11–16 | 9–16 | 9–18 |
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 14 | 13–17 | 13–17 | 13–17 | 12–20 |
