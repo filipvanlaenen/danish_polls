@@ -129,13 +129,13 @@ Last result: **9** seats (General Election of 18 June 2015)
 | [22–25 October 2018](2018-10-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 6–9 | 6–9 | 5–9 | 5–11 |
 | [16–24 October 2018](2018-10-24-Epinion.html) | Epinion <br> DR | 8 | 8 | 8 | 8 | 7–10 |
 | [15–21 October 2018](2018-10-21-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–13 | 7–13 | 7–13 | 7–13 |
-| [8–14 October 2018](2018-10-14-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–10 | 6–11 | 6–11 | 6–12 |
+| [8–14 October 2018](2018-10-14-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7–10 | 7–11 | 7–11 | 6–12 |
 | [11 October 2018](2018-10-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 8 | 8 | 8–10 | 8–10 | 7–10 |
 | [3–9 October 2018](2018-10-09-Norstat.html) | Norstat <br> Altinget | 8 | 7–9 | 7–9 | 7–9 | 7–11 |
 | [1–6 October 2018](2018-10-06-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
 | [1 October 2018](2018-10-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
 | [24–30 September 2018](2018-09-30-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 7–11 | 7–11 | 6–13 |
-| [27 September 2018](2018-09-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 11 | 8–12 | 8–14 | 8–14 | 7–14 |
+| [27 September 2018](2018-09-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 12 | 9–12 | 9–13 | 8–14 | 7–15 |
 | [17–23 September 2018](2018-09-23-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [11–18 September 2018](2018-09-18-Epinion.html) | Epinion <br> DR | 7 | 7–10 | 7–10 | 7–10 | 7–11 |
 | [10–16 September 2018](2018-09-16-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 8–11 | 7–11 | 7–13 |
@@ -151,11 +151,11 @@ Last result: **9** seats (General Election of 18 June 2015)
 | [25 June–1 July 2018](2018-07-01-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–8 | 5–9 | 5–10 | 5–10 |
 | [25–28 June 2018](2018-06-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 7–10 | 6–10 | 6–10 | 5–12 |
 | [18–24 June 2018](2018-06-24-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–8 | 5–10 | 5–10 | 5–11 |
-| [15–23 June 2018](2018-06-23-Epinion.html) | Epinion <br> DR | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
+| [15–23 June 2018](2018-06-23-Epinion.html) | Epinion <br> DR | 6 | 6–8 | 6–8 | 6–9 | 5–10 |
 | [11–16 June 2018](2018-06-16-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
-| [4–10 June 2018](2018-06-10-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–10 | 6–10 | 6–10 | 5–10 |
-| [28 May–3 June 2018](2018-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
-| [21–27 May 2018](2018-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| [4–10 June 2018](2018-06-10-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–8 | 6–9 | 5–10 | 5–11 |
+| [28 May–3 June 2018](2018-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [21–27 May 2018](2018-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–7 | 5–7 | 5–7 | 4–8 |
 | [17–23 May 2018](2018-05-23-Norstat.html) | Norstat <br> Altinget | 8 | 8 | 6–8 | 6–9 | 5–10 |
 | [14–19 May 2018](2018-05-19-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 5–9 | 5–9 | 5–9 | 4–9 |
 | [7–13 May 2018](2018-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 5–8 | 5–8 | 4–9 | 4–10 |
@@ -174,7 +174,7 @@ Last result: **9** seats (General Election of 18 June 2015)
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 4–7 | 4–8 | 4–8 | 0–9 |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7–9 | 6–9 | 6–9 | 5–11 |
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 8 | 7–10 | 7–11 | 7–11 | 7–11 |
-| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 7 | 6–10 | 6–10 | 6–11 | 5–11 |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
