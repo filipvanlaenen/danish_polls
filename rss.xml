@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Mon, 14 Jan 2019 20:49:59 +0100</pubDate>
+    <pubDate>Mon, 14 Jan 2019 22:53:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 2–6 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-01-06-Voxmeter.html#seats</link>
@@ -770,14 +770,34 @@
       <dc:date>2019-01-06T22:02:00.819381+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 26–31 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-03-31-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 42–52 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 28–35 seats&lt;/li&gt;&lt;li&gt;Venstre: 30–39 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 15–21 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 7–12 seats&lt;/li&gt;&lt;li&gt;Alternativet: 5–10 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 7–13 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 7–12 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 6–11 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-03-31-Voxmeter-seats.png"
+        length="218252"
+        type="image/png"/>
+      <pubDate>Mon, 14 Jan 2019 21:16:28 +0100</pubDate>
+      <dc:date>2019-01-14T21:16:28.465104+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 26–31 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-03-31-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-03-31-Voxmeter-coalitions-seats.png"
+        length="337434"
+        type="image/png"/>
+      <pubDate>Mon, 14 Jan 2019 21:16:28 +0100</pubDate>
+      <dc:date>2019-01-14T21:16:28.465104+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 26–31 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2018-03-31-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.1–29.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15.9–20.6%&lt;/li&gt;&lt;li&gt;Venstre: 16.8–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.8–11.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.8–6.4%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-03-31-Voxmeter.png"
         length="260370"
         type="image/png"/>
-      <pubDate>Mon, 14 Jan 2019 20:49:59 +0100</pubDate>
-      <dc:date>2019-01-14T20:49:59.24646+01:00</dc:date>
+      <pubDate>Mon, 14 Jan 2019 21:16:28 +0100</pubDate>
+      <dc:date>2019-01-14T21:16:28.465104+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 19–25 March 2018 – Seat Projections for the Parties</title>
@@ -1026,8 +1046,28 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-01-28-Voxmeter.png"
         length="255816"
         type="image/png"/>
-      <pubDate>Tue, 08 Jan 2019 17:51:27 +0100</pubDate>
-      <dc:date>2019-01-08T17:51:27.243663+01:00</dc:date>
+      <pubDate>Mon, 14 Jan 2019 22:53:10 +0100</pubDate>
+      <dc:date>2019-01-14T22:53:10.175285+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-01-25-Megafon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 42–50 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 22–28 seats&lt;/li&gt;&lt;li&gt;Venstre: 32–41 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 17–23 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 7–11 seats&lt;/li&gt;&lt;li&gt;Alternativet: 5–9 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 8–12 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 9–13 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 5–9 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 4–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-01-25-Megafon-seats.png"
+        length="213997"
+        type="image/png"/>
+      <pubDate>Mon, 14 Jan 2019 22:42:28 +0100</pubDate>
+      <dc:date>2019-01-14T22:42:28.314617+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2018-01-25-Megafon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-01-25-Megafon-coalitions-seats.png"
+        length="306830"
+        type="image/png"/>
+      <pubDate>Mon, 14 Jan 2019 22:42:28 +0100</pubDate>
+      <dc:date>2019-01-14T22:42:28.314617+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 January 2018 – Voting Intentions</title>
@@ -1036,8 +1076,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2018-01-25-Megafon.png"
         length="265520"
         type="image/png"/>
-      <pubDate>Tue, 08 Jan 2019 14:42:34 +0100</pubDate>
-      <dc:date>2019-01-08T14:42:34.785011+01:00</dc:date>
+      <pubDate>Mon, 14 Jan 2019 22:42:28 +0100</pubDate>
+      <dc:date>2019-01-14T22:42:28.314617+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 19–25 January 2018 – Voting Intentions</title>
@@ -1129,6 +1169,6 @@
       <pubDate>Sun, 06 Jan 2019 19:57:57 +0100</pubDate>
       <dc:date>2019-01-06T19:57:57.430789+01:00</dc:date>
     </item>
-    <dc:date>2019-01-14T20:49:59.24646+01:00</dc:date>
+    <dc:date>2019-01-14T22:53:10.175285+01:00</dc:date>
   </channel>
 </rss>
