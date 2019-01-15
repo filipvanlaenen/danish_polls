@@ -168,7 +168,7 @@ Last result: **37** seats (General Election of 18 June 2015)
 | [16–22 April 2018](2018-04-22-Voxmeter.html) | Voxmeter <br> Ritzau | 27 | 26–30 | 26–30 | 24–31 | 23–33 |
 | [8–15 April 2018](2018-04-15-Voxmeter.html) | Voxmeter <br> Ritzau | 29 | 25–32 | 25–32 | 25–32 | 24–34 |
 | [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 30 | 26–34 | 26–35 | 26–36 | 25–36 |
-| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 31–34 | 31–35 | 31–35 | 28–35 |
+| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 32 | 31–34 | 29–35 | 28–35 | 27–36 |
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 31–35 | 31–35 | 30–37 | 28–38 |
 | [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 31 | 29–34 | 29–36 | 29–37 | 28–38 |
 | [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 35 | 30–37 | 28–37 | 28–37 | 27–37 |
@@ -183,8 +183,8 @@ Last result: **37** seats (General Election of 18 June 2015)
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 30 | 26–30 | 26–31 | 26–32 | 25–33 |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 31–35 | 29–35 | 29–36 | 27–37 |
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 30 | 27–32 | 27–34 | 27–34 | 26–35 |
-| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 29 | 26–32 | 26–33 | 26–33 | 26–36 |
-| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 23 | 22–27 | 22–29 | 22–29 | 20–30 |
+| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 30 | 28–33 | 27–34 | 26–34 | 26–36 |
+| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 25 | 23–27 | 22–28 | 22–28 | 21–30 |
 | [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 31 | 30–34 | 29–34 | 29–34 | 26–34 |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 29 | 29–31 | 28–32 | 27–34 | 26–34 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 27 | 26–28 | 26–31 | 26–35 | 24–35 |

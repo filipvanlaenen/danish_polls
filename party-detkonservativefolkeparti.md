@@ -164,7 +164,7 @@ Last result: **6** seats (General Election of 18 June 2015)
 | [16–22 April 2018](2018-04-22-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7–9 | 6–9 | 5–10 | 4–10 |
 | [8–15 April 2018](2018-04-15-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 8–11 | 7–11 | 7–11 | 6–12 |
 | [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 7–11 | 7–12 | 7–12 | 5–13 |
-| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–11 | 7–11 | 7–11 | 7–11 |
+| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–10 | 6–11 | 6–11 | 6–12 |
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–8 | 5–8 | 5–9 | 5–10 |
 | [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 9 | 9–10 | 8–10 | 8–10 | 7–11 |
 | [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -179,8 +179,8 @@ Last result: **6** seats (General Election of 18 June 2015)
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 8 | 6–10 | 6–11 | 6–11 | 6–11 |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7–9 | 6–9 | 6–9 | 5–10 |
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 8 | 7–9 | 7–9 | 6–10 | 5–10 |
-| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
-| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
+| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6–8 | 6–9 | 6–9 | 5–10 |
+| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
 | [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 7 | 7–10 | 7–10 | 7–10 | 6–10 |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 8 | 8–10 | 7–11 | 7–11 | 7–11 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6–7 | 5–9 | 5–9 | 5–9 |

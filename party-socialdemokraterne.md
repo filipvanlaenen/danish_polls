@@ -169,7 +169,7 @@ Last result: **47** seats (General Election of 18 June 2015)
 | [16–22 April 2018](2018-04-22-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 45–51 | 45–51 | 44–51 | 43–53 |
 | [8–15 April 2018](2018-04-15-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 43–48 | 43–48 | 41–48 | 41–54 |
 | [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 42 | 40–48 | 40–49 | 40–49 | 39–51 |
-| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 42–52 | 42–52 | 42–52 | 42–55 |
+| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 44–51 | 42–52 | 42–52 | 42–52 |
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 45–52 | 45–52 | 44–53 | 43–55 |
 | [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 43 | 42–48 | 41–48 | 39–48 | 39–48 |
 | [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 49 | 45–49 | 45–50 | 45–52 | 43–52 |
@@ -184,8 +184,8 @@ Last result: **47** seats (General Election of 18 June 2015)
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 49 | 47–52 | 47–53 | 46–54 | 44–55 |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 56 | 51–57 | 47–60 | 46–60 | 46–63 |
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 53 | 52–58 | 51–60 | 50–60 | 50–60 |
-| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 53 | 49–57 | 48–59 | 48–59 | 46–60 |
-| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 46 | 44–48 | 43–49 | 42–50 | 40–50 |
+| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 55 | 50–55 | 49–55 | 48–57 | 45–59 |
+| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 46 | 44–47 | 43–48 | 42–50 | 40–51 |
 | [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 50 | 49–50 | 49–51 | 48–51 | 47–54 |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 48 | 47–52 | 46–52 | 45–52 | 44–54 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 53 | 49–53 | 49–53 | 47–55 | 45–56 |

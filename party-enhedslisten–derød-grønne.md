@@ -166,7 +166,7 @@ Last result: **14** seats (General Election of 18 June 2015)
 | [16–22 April 2018](2018-04-22-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–18 | 14–19 | 13–20 | 13–20 |
 | [8–15 April 2018](2018-04-15-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 17–21 | 17–21 | 17–21 | 15–24 |
 | [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 20 | 14–22 | 14–22 | 13–22 | 13–22 |
-| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 18 | 16–18 | 16–18 | 15–18 | 14–20 |
+| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 18 | 15–19 | 15–20 | 15–21 | 14–21 |
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 16–19 | 15–19 | 15–20 | 13–22 |
 | [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 16 | 16–19 | 15–19 | 14–19 | 13–20 |
 | [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 17 | 17–20 | 16–21 | 16–22 | 16–22 |
@@ -181,8 +181,8 @@ Last result: **14** seats (General Election of 18 June 2015)
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 19 | 14–20 | 13–20 | 13–20 | 12–20 |
 | [29 January–4 February 2018](2018-02-04-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 11–16 | 11–16 | 9–16 | 9–18 |
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 14 | 13–17 | 13–17 | 13–17 | 12–20 |
-| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
-| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 18 | 18–20 | 17–21 | 16–23 | 15–24 |
+| [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 13–15 | 12–16 | 12–16 | 11–18 |
+| [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 19 | 17–22 | 17–23 | 17–23 | 15–24 |
 | [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 16 | 14–16 | 14–16 | 14–18 | 14–18 |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 15 | 14–16 | 13–17 | 13–17 | 12–19 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 19 | 16–19 | 14–19 | 14–19 | 13–20 |
