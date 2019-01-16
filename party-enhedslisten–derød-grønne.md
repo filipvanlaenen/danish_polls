@@ -145,7 +145,7 @@ Last result: **14** seats (General Election of 18 June 2015)
 | [3–9 September 2018](2018-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–18 | 13–19 | 13–19 | 12–19 |
 | [27 August–2 September 2018](2018-09-02-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–20 | 13–20 | 13–20 | 12–21 |
 | [27–30 August 2018](2018-08-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 14 | 13–17 | 12–19 | 12–21 | 12–21 |
-| [20–26 August 2018](2018-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 16 | 14–17 | 14–18 | 12–18 |
+| [20–26 August 2018](2018-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
 | [13–19 August 2018](2018-08-19-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–19 | 13–19 | 12–19 | 12–21 |
 | [10–17 August 2018](2018-08-17-Epinion.html) | Epinion <br> DR | 15 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [6–11 August 2018](2018-08-11-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 13–17 | 13–17 | 13–17 | 12–19 |
@@ -189,7 +189,7 @@ Last result: **14** seats (General Election of 18 June 2015)
 | [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 13–19 | 13–19 | 13–20 | 13–22 |
 | [5–11 January 2018](2018-01-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 14 | 14–16 | 14–16 | 14–16 | 12–16 |
 | [5–7 January 2018](2018-01-07-YouGov.html) | YouGov <br> Metroxpress | 15 | 13–15 | 13–16 | 13–17 | 12–19 |
-| [2–7 January 2018](2018-01-07-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–18 | 14–18 | 14–18 | 12–20 |
+| [2–7 January 2018](2018-01-07-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 14–18 | 13–19 | 13–19 | 12–20 |
 
 ### Probability Mass Function
 
