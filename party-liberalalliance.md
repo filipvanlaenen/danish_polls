@@ -10,7 +10,8 @@ Last result: **7.5%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.2–5.9% | 2.9–6.2% | 2.6–6.5% | 2.3–6.9% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.2–5.8% | 2.9–6.1% | 2.6–6.4% | 2.3–6.9% |
+| [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.5–6.2% | 3.2–6.6% |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 5.2% | 4.4–6.1% | 4.1–6.4% | 4.0–6.7% | 3.6–7.2% |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–6.9% | 3.8–7.4% |
@@ -96,13 +97,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 13% | 98% |  |
-| 3.5–4.5% | 25% | 85% |  |
-| 4.5–5.5% | 39% | 60% | Median |
-| 5.5–6.5% | 19% | 21% |  |
-| 6.5–7.5% | 2% | 2% |  |
+| 2.5–3.5% | 14% | 98% |  |
+| 3.5–4.5% | 29% | 84% |  |
+| 4.5–5.5% | 38% | 56% | Median |
+| 5.5–6.5% | 17% | 18% |  |
+| 6.5–7.5% | 1.4% | 1.4% |  |
 | 7.5–8.5% | 0% | 0% | Last Result |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -113,7 +113,8 @@ Last result: **13** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–11 | 5–11 | 4–12 | 4–12 |
+| N/A | [Poll Average](average.html) | 8 | 5–12 | 5–12 | 4–12 | 4–12 |
+| [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 9–12 | 9–12 | 9–12 | 8–12 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–11 | 7–11 | 7–12 | 6–13 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 7 | 7–10 | 7–11 | 7–12 | 6–12 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9–11 | 9–11 | 8–11 | 7–12 |
@@ -206,13 +207,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 4% | 99.9% |  |
 | 5 | 6% | 96% |  |
 | 6 | 5% | 90% |  |
-| 7 | 16% | 85% |  |
-| 8 | 22% | 69% | Median |
-| 9 | 19% | 47% |  |
-| 10 | 14% | 27% |  |
-| 11 | 10% | 13% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.4% | 0.4% | Last Result |
+| 7 | 14% | 85% |  |
+| 8 | 21% | 71% | Median |
+| 9 | 17% | 50% |  |
+| 10 | 11% | 32% |  |
+| 11 | 6% | 21% |  |
+| 12 | 14% | 14% |  |
+| 13 | 0.2% | 0.2% | Last Result |
 | 14 | 0% | 0% |  |
 
 
