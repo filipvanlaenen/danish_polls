@@ -121,10 +121,10 @@ Last result: **13** seats (General Election of 18 June 2015)
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10 | 8–11 | 8–11 | 7–12 | 7–12 |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–9 | 7–9 | 6–10 | 6–13 |
-| [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 8–10 | 7–10 | 7–11 | 7–13 |
+| [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–12 | 9–12 | 8–13 | 7–14 |
-| [12–17 November 2018](2018-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–11 | 9–11 | 8–11 | 7–13 |
+| [12–17 November 2018](2018-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–11 | 9–12 | 8–12 | 7–14 |
 | [7–15 November 2018](2018-11-15-Epinion.html) | Epinion <br> DR | 8 | 7–8 | 6–8 | 6–9 | 5–9 |
 | [5–10 November 2018](2018-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
 | [29 October–5 November 2018](2018-11-05-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–11 | 7–11 | 6–11 | 5–12 |
@@ -151,7 +151,7 @@ Last result: **13** seats (General Election of 18 June 2015)
 | [10–17 August 2018](2018-08-17-Epinion.html) | Epinion <br> DR | 9 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [6–11 August 2018](2018-08-11-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 8–11 | 8–12 | 7–12 | 6–12 |
 | [30 July–5 August 2018](2018-08-05-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–11 | 7–11 | 7–12 | 6–13 |
-| [25 June–1 July 2018](2018-07-01-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 8–11 | 7–11 | 7–11 | 7–12 |
+| [25 June–1 July 2018](2018-07-01-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 7–12 | 7–12 | 7–12 | 6–13 |
 | [25–28 June 2018](2018-06-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 9 | 7–12 | 7–12 | 7–12 | 7–12 |
 | [18–24 June 2018](2018-06-24-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 6–10 | 6–10 | 6–11 | 6–12 |
 | [15–23 June 2018](2018-06-23-Epinion.html) | Epinion <br> DR | 9 | 9–11 | 8–12 | 8–12 | 8–13 |
@@ -160,7 +160,7 @@ Last result: **13** seats (General Election of 18 June 2015)
 | [28 May–3 June 2018](2018-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | [21–27 May 2018](2018-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–8 | 7–8 | 7–9 | 5–10 |
 | [17–23 May 2018](2018-05-23-Norstat.html) | Norstat <br> Altinget | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
-| [14–19 May 2018](2018-05-19-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 7–11 | 7–11 | 7–13 |
+| [14–19 May 2018](2018-05-19-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–11 | 8–11 | 8–11 | 7–13 |
 | [7–13 May 2018](2018-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–11 | 7–13 | 7–13 | 7–14 |
 | [30 April–6 May 2018](2018-05-06-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 10–13 | 10–13 | 9–14 | 8–15 |
 | [23–29 April 2018](2018-04-29-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
@@ -171,7 +171,7 @@ Last result: **13** seats (General Election of 18 June 2015)
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9–12 | 9–12 | 8–12 | 7–14 |
 | [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 8 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [12–18 March 2018](2018-03-18-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 8–10 | 8–11 | 8–11 | 6–12 |
+| [12–18 March 2018](2018-03-18-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–10 | 9–11 | 8–11 | 7–12 |
 | [5–11 March 2018](2018-03-11-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–11 | 8–12 | 8–12 | 8–14 |
 | [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–12 | 10–12 | 9–12 | 8–13 |
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 6–11 | 6–11 | 5–11 | 5–11 |
