@@ -120,7 +120,7 @@ Last result: **13** seats (General Election of 18 June 2015)
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9–11 | 9–11 | 8–11 | 7–12 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10 | 8–11 | 8–11 | 7–12 | 7–12 |
-| [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–9 | 7–9 | 6–10 | 6–13 |
+| [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–10 | 7–11 | 6–11 | 6–11 |
 | [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–12 | 9–12 | 8–13 | 7–14 |
@@ -139,12 +139,12 @@ Last result: **13** seats (General Election of 18 June 2015)
 | [1 October 2018](2018-10-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 7 | 7–8 | 6–9 | 6–9 | 5–10 |
 | [24–30 September 2018](2018-09-30-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–10 | 7–11 | 6–11 | 6–12 |
 | [27 September 2018](2018-09-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 7–10 | 6–10 | 6–11 | 6–12 |
-| [17–23 September 2018](2018-09-23-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–11 | 8–12 | 8–12 | 7–12 |
+| [17–23 September 2018](2018-09-23-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–11 | 7–11 | 6–12 | 6–12 |
 | [11–18 September 2018](2018-09-18-Epinion.html) | Epinion <br> DR | 11 | 9–11 | 9–11 | 8–11 | 7–12 |
 | [10–16 September 2018](2018-09-16-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–10 | 7–10 | 7–11 | 6–12 |
 | [6–11 September 2018](2018-09-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [3–9 September 2018](2018-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 10–12 | 9–12 | 9–12 | 8–14 |
-| [27 August–2 September 2018](2018-09-02-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 8–11 | 7–12 | 6–13 |
+| [27 August–2 September 2018](2018-09-02-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [27–30 August 2018](2018-08-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 7 | 7–8 | 6–10 | 6–10 | 5–11 |
 | [20–26 August 2018](2018-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 8–10 | 7–11 | 7–12 | 6–12 |
 | [13–19 August 2018](2018-08-19-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7–9 | 7–9 | 6–9 | 6–11 |
@@ -153,7 +153,7 @@ Last result: **13** seats (General Election of 18 June 2015)
 | [30 July–5 August 2018](2018-08-05-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–11 | 7–11 | 7–12 | 6–13 |
 | [25 June–1 July 2018](2018-07-01-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 7–12 | 7–12 | 7–12 | 6–13 |
 | [25–28 June 2018](2018-06-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 9 | 8–10 | 7–11 | 7–12 | 7–12 |
-| [18–24 June 2018](2018-06-24-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 6–10 | 6–10 | 6–11 | 6–12 |
+| [18–24 June 2018](2018-06-24-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 6–10 | 6–10 | 6–11 | 5–12 |
 | [15–23 June 2018](2018-06-23-Epinion.html) | Epinion <br> DR | 9 | 9–11 | 8–12 | 8–12 | 8–13 |
 | [11–16 June 2018](2018-06-16-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–8 | 6–10 | 6–11 | 5–11 |
 | [4–10 June 2018](2018-06-10-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–8 | 5–9 | 5–9 | 4–10 |
@@ -184,7 +184,7 @@ Last result: **13** seats (General Election of 18 June 2015)
 | [24–29 January 2018](2018-01-29-Norstat.html) | Norstat <br> Altinget | 8 | 7–10 | 7–10 | 7–11 | 6–12 |
 | [22–28 January 2018](2018-01-28-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7–9 | 7–10 | 6–10 | 5–11 |
 | [22–25 January 2018](2018-01-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
-| [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 8 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [19–25 January 2018](2018-01-25-Epinion.html) | Epinion <br> DR | 9 | 8–11 | 8–11 | 8–11 | 7–11 |
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 7–11 | 7–11 | 6–12 | 6–12 |
 | [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
