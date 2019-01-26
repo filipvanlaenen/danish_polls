@@ -150,7 +150,7 @@ Last result: **47** seats (General Election of 18 June 2015)
 | [6–11 September 2018](2018-09-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 46 | 43–51 | 43–52 | 43–52 | 42–54 |
 | [3–9 September 2018](2018-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 43–47 | 42–47 | 40–49 | 38–50 |
 | [27 August–2 September 2018](2018-09-02-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 43–49 | 42–50 | 42–51 | 40–53 |
-| [27–30 August 2018](2018-08-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 42 | 39–45 | 37–46 | 37–48 | 35–48 |
+| [27–30 August 2018](2018-08-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 40 | 38–44 | 36–45 | 36–46 | 34–48 |
 | [20–26 August 2018](2018-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 43–50 | 43–50 | 43–52 | 42–53 |
 | [13–19 August 2018](2018-08-19-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 43–47 | 42–48 | 41–49 | 40–51 |
 | [10–17 August 2018](2018-08-17-Epinion.html) | Epinion <br> DR | 47 | 43–50 | 43–50 | 43–50 | 42–53 |
