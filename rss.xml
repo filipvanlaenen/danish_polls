@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Thu, 31 Jan 2019 06:31:48 +0100</pubDate>
+    <pubDate>Sat, 02 Feb 2019 23:26:15 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 21–27 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-01-27-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 45–55 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 26–34 seats&lt;/li&gt;&lt;li&gt;Venstre: 29–38 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 12–19 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 6–11 seats&lt;/li&gt;&lt;li&gt;Alternativet: 5–9 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 9–16 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 7–12 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 5–9 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-01-27-Voxmeter-seats.png"
+        length="224504"
+        type="image/png"/>
+      <pubDate>Sat, 02 Feb 2019 23:26:15 +0100</pubDate>
+      <dc:date>2019-02-02T23:26:15.181171+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 21–27 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-01-27-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-01-27-Voxmeter-coalitions-seats.png"
+        length="327757"
+        type="image/png"/>
+      <pubDate>Sat, 02 Feb 2019 23:26:15 +0100</pubDate>
+      <dc:date>2019-02-02T23:26:15.181171+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 21–27 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-01-27-Voxmeter.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-01-27-Voxmeter.png"
         length="256582"
         type="image/png"/>
-      <pubDate>Thu, 31 Jan 2019 06:31:48 +0100</pubDate>
-      <dc:date>2019-01-31T06:31:48.608497+01:00</dc:date>
+      <pubDate>Sat, 02 Feb 2019 23:26:15 +0100</pubDate>
+      <dc:date>2019-02-02T23:26:15.181171+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 14–21 January 2019 – Voting Intentions</title>
@@ -1889,6 +1909,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-01-31T06:31:48.608497+01:00</dc:date>
+    <dc:date>2019-02-02T23:26:15.181171+01:00</dc:date>
   </channel>
 </rss>
