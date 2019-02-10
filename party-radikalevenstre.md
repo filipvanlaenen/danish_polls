@@ -119,11 +119,11 @@ Last result: **8** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 8–15 | 8–15 | 8–15 | 7–16 |
-| [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 15 | 15 | 15 | 8–17 |
+| N/A | [Poll Average](average.html) | 12 | 8–15 | 8–15 | 8–15 | 7–16 |
+| [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–15 | 12–15 | 11–15 | 10–16 |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 10–15 | 10–15 | 9–16 | 8–17 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 12 | 10–12 | 10–12 | 9–12 | 8–13 |
-| [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 10 | 10 | 10 | 10 |
+| [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–16 | 11–16 | 11–18 | 10–18 |
 | [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 10–13 | 10–14 | 10–15 | 10–16 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 10–13 | 10–14 | 9–15 | 8–15 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 14 | 11–14 | 11–15 | 10–15 | 10–16 |
@@ -213,15 +213,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.4% | 100% |  |
 | 7 | 1.2% | 99.6% |  |
 | 8 | 9% | 98% | Last Result |
-| 9 | 5% | 89% |  |
-| 10 | 5% | 84% |  |
+| 9 | 5% | 90% |  |
+| 10 | 5% | 85% |  |
 | 11 | 14% | 79% |  |
-| 12 | 15% | 66% |  |
-| 13 | 13% | 51% | Median |
-| 14 | 14% | 37% |  |
-| 15 | 23% | 24% |  |
-| 16 | 0.7% | 1.2% |  |
-| 17 | 0.4% | 0.5% |  |
+| 12 | 17% | 65% | Median |
+| 13 | 22% | 48% |  |
+| 14 | 15% | 27% |  |
+| 15 | 11% | 12% |  |
+| 16 | 0.8% | 1.2% |  |
+| 17 | 0.3% | 0.4% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
