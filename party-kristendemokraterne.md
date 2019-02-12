@@ -10,8 +10,8 @@ Last result: **0.8%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.4% | 0.4–1.5% | 0.3–1.7% | 0.2–2.0% |
-| [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 1.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.4% | 0.4–1.6% | 0.3–1.7% | 0.2–2.0% |
+| [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 1.1% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.2–1.2% |
@@ -100,8 +100,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 22% | 100% |  |
-| 0.5–1.5% | 73% | 78% | Last Result, Median |
+| 0.0–0.5% | 19% | 100% |  |
+| 0.5–1.5% | 76% | 81% | Last Result, Median |
 | 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -115,7 +115,7 @@ Last result: **0** seats (General Election of 18 June 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–4 |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
