@@ -10,18 +10,21 @@ Last result: **7.5%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 3.3–6.2% | 2.9–6.6% | 2.6–6.9% | 2.3–7.6% |
+| N/A | [Poll Average](average.html) | 4.9% | 3.4–6.0% | 2.9–6.3% | 2.7–6.6% | 2.3–7.2% |
+| [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 5.7% | 4.8–6.7% | 4.6–7.0% | 4.4–7.3% | 4.0–7.8% |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 5.3% | 4.5–6.3% | 4.3–6.5% | 4.1–6.8% | 3.7–7.3% |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 4.6% | 3.9–5.6% | 3.7–5.8% | 3.5–6.1% | 3.2–6.6% |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 4.6% | 4.0–5.3% | 3.8–5.5% | 3.7–5.7% | 3.4–6.0% |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 4.6% | 4.0–5.3% | 3.9–5.5% | 3.7–5.6% | 3.5–6.0% |
 | [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.5–6.2% | 3.2–6.6% |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 5.2% | 4.4–6.1% | 4.1–6.4% | 4.0–6.7% | 3.6–7.2% |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–6.9% | 3.8–7.4% |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 5.4% | 4.8–6.2% | 4.6–6.4% | 4.4–6.6% | 4.1–7.1% |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5.2% | 4.4–6.1% | 4.2–6.3% | 4.1–6.6% | 3.7–7.0% |
+| [7–9 December 2018](2018-12-09-YouGov.html) | YouGov | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.0% | 2.9–5.4% |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 4.6% | 3.9–5.5% | 3.7–5.8% | 3.5–6.1% | 3.2–6.5% |
 | [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
 | [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
@@ -102,12 +105,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 11% | 98% |  |
-| 3.5–4.5% | 19% | 87% |  |
-| 4.5–5.5% | 39% | 68% | Median |
-| 5.5–6.5% | 24% | 29% |  |
-| 6.5–7.5% | 5% | 6% |  |
-| 7.5–8.5% | 0.5% | 0.5% | Last Result |
+| 2.5–3.5% | 10% | 98% |  |
+| 3.5–4.5% | 23% | 89% |  |
+| 4.5–5.5% | 43% | 66% | Median |
+| 5.5–6.5% | 20% | 23% |  |
+| 6.5–7.5% | 3% | 3% |  |
+| 7.5–8.5% | 0.2% | 0.2% | Last Result |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -119,18 +122,21 @@ Last result: **13** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 5–12 | 5–13 | 4–13 | 4–13 |
+| N/A | [Poll Average](average.html) | 9 | 6–11 | 5–11 | 4–11 | 4–12 |
+| [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 11 | 11 | 9–11 | 9–11 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 9–13 | 9–13 | 8–13 | 8–14 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–10 | 8–12 | 7–12 | 7–14 |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–10 | 7–11 | 6–11 | 5–11 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 7–10 | 6–10 | 6–10 | 5–11 |
+| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 7–11 | 7–11 | 7–11 | 6–11 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–11 | 7–11 | 7–12 | 6–13 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 7 | 7–10 | 7–11 | 7–12 | 6–12 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9–11 | 9–11 | 8–11 | 7–12 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10 | 8–11 | 8–11 | 7–12 | 7–12 |
+| [7–9 December 2018](2018-12-09-YouGov.html) | YouGov | 10 | 10 | 8–10 | 7–10 | 7–10 |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–10 | 7–11 | 6–11 | 6–11 |
 | [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
@@ -215,18 +221,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 0% | 99.9% |  |
-| 4 | 4% | 99.9% |  |
-| 5 | 6% | 96% |  |
-| 6 | 4% | 90% |  |
-| 7 | 19% | 85% |  |
-| 8 | 13% | 67% |  |
-| 9 | 19% | 54% | Median |
-| 10 | 16% | 35% |  |
-| 11 | 9% | 19% |  |
-| 12 | 5% | 10% |  |
-| 13 | 5% | 5% | Last Result |
-| 14 | 0.1% | 0.2% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 4 | 3% | 99.9% |  |
+| 5 | 5% | 97% |  |
+| 6 | 4% | 91% |  |
+| 7 | 26% | 88% |  |
+| 8 | 10% | 61% |  |
+| 9 | 20% | 51% | Median |
+| 10 | 10% | 31% |  |
+| 11 | 19% | 21% |  |
+| 12 | 1.4% | 2% |  |
+| 13 | 0.2% | 0.2% | Last Result |
+| 14 | 0% | 0% |  |
 
 
