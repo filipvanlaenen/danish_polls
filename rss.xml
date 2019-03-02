@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Mon, 18 Feb 2019 19:37:02 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2019 08:22:02 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 19–25 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-02-25-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 26.0–30.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13.5–17.1%&lt;/li&gt;&lt;li&gt;Venstre: 16.0–19.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.3–11.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.6–5.7%&lt;/li&gt;&lt;li&gt;Alternativet: 2.7–4.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.0–7.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.8–7.2%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.9–4.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.4–1.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.1–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-02-25-Epinion.png"
+        length="243375"
+        type="image/png"/>
+      <pubDate>Sat, 02 Mar 2019 08:14:30 +0100</pubDate>
+      <dc:date>2019-03-02T08:14:30.382709+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 18–24 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-02-24-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.8–31.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13.0–17.3%&lt;/li&gt;&lt;li&gt;Venstre: 16.6–21.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.6–11.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Alternativet: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.7–5.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-02-24-Voxmeter.png"
+        length="256599"
+        type="image/png"/>
+      <pubDate>Sat, 02 Mar 2019 08:22:02 +0100</pubDate>
+      <dc:date>2019-03-02T08:22:02.755215+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–17 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-02-17-Voxmeter.html</link>
@@ -2039,6 +2059,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-02-18T19:37:02.302406+01:00</dc:date>
+    <dc:date>2019-03-02T08:22:02.755215+01:00</dc:date>
   </channel>
 </rss>
