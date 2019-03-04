@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Sat, 02 Mar 2019 08:22:02 +0100</pubDate>
+    <pubDate>Mon, 04 Mar 2019 06:42:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by Epinion for DR, 19–25 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-02-25-Epinion.html</link>
@@ -176,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-01-14-YouGov.png"
         length="246949"
         type="image/png"/>
-      <pubDate>Mon, 18 Feb 2019 19:24:22 +0100</pubDate>
-      <dc:date>2019-02-18T19:24:22.413279+01:00</dc:date>
+      <pubDate>Mon, 04 Mar 2019 06:42:18 +0100</pubDate>
+      <dc:date>2019-03-04T06:42:18.315021+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 7–12 January 2019 – Voting Intentions</title>
@@ -2059,6 +2059,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-03-02T08:22:02.755215+01:00</dc:date>
+    <dc:date>2019-03-04T06:42:18.315021+01:00</dc:date>
   </channel>
 </rss>
