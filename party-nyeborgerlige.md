@@ -124,7 +124,7 @@ Last result: **0** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–12 | 0–12 | 0–12 | 0–12 |
+| N/A | [Poll Average](average.html) | 5 | 0–9 | 0–9 | 0–11 | 0–11 |
 | [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 5 | 5 | 4–5 | 4–7 | 4–7 |
 | [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0–6 | 0–6 |
@@ -133,7 +133,7 @@ Last result: **0** seats (General Election of 18 June 2015)
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–5 | 0–6 | 0–7 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 12 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 9 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 6 | 4–6 | 4–7 | 4–7 | 4–8 |
@@ -230,10 +230,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 19% | 42% |  |
 | 7 | 4% | 23% |  |
 | 8 | 4% | 19% |  |
-| 9 | 0.3% | 15% |  |
-| 10 | 4% | 14% |  |
-| 11 | 0% | 10% |  |
-| 12 | 10% | 10% |  |
-| 13 | 0% | 0% |  |
+| 9 | 10% | 15% |  |
+| 10 | 1.3% | 5% |  |
+| 11 | 3% | 3% |  |
+| 12 | 0% | 0% |  |
 
 

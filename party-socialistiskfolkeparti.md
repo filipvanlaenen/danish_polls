@@ -133,7 +133,7 @@ Last result: **7** seats (General Election of 18 June 2015)
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 11 | 11–14 | 10–14 | 9–14 | 9–15 |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 8–12 | 8–12 | 7–14 |
-| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
+| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 10 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 7–10 | 7–10 | 6–10 | 6–11 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–10 | 7–11 | 6–11 | 6–12 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 12 | 10–13 | 9–14 | 9–15 | 8–15 |
@@ -225,8 +225,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 14% | 99.4% | Last Result |
 | 8 | 9% | 86% |  |
 | 9 | 20% | 77% |  |
-| 10 | 15% | 57% | Median |
-| 11 | 20% | 42% |  |
+| 10 | 24% | 57% | Median |
+| 11 | 10% | 33% |  |
 | 12 | 16% | 23% |  |
 | 13 | 3% | 7% |  |
 | 14 | 2% | 3% |  |
