@@ -125,10 +125,10 @@ Last result: **9** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–9 |
-| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7 | 7 | 7–9 | 7–9 |
-| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 5 | 5 | 5–9 | 5–9 | 5–9 |
-| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7 | 7 | 7 | 7 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–10 | 5–10 | 5–10 |
+| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 8–10 | 6–10 | 6–10 | 6–10 |
+| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 7 | 7 | 6–7 | 6–7 | 4–7 |
+| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 5–9 | 5–9 | 5–9 | 4–11 |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7 | 7 | 6–7 | 6–7 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–8 | 5–8 | 5–9 | 4–10 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–7 | 4–7 | 4–8 | 0–8 |
@@ -224,12 +224,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 43% | 100% |  |
-| 6 | 24% | 56% | Median |
-| 7 | 30% | 32% |  |
-| 8 | 0% | 2% |  |
-| 9 | 2% | 2% | Last Result |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 28% | 99.9% |  |
+| 6 | 27% | 72% | Median |
+| 7 | 29% | 45% |  |
+| 8 | 8% | 16% |  |
+| 9 | 2% | 9% | Last Result |
+| 10 | 7% | 7% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

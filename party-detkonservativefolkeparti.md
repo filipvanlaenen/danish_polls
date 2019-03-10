@@ -124,10 +124,10 @@ Last result: **6** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 6–10 | 5–10 |
-| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 10 | 10 | 8–10 | 8–10 |
-| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 7 | 7 | 7 | 7 | 7 |
-| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5–7 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 5–10 |
+| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7–9 | 7–10 | 6–10 | 5–12 |
+| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 7 | 7 | 7 | 6–7 | 6–8 |
+| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5–6 | 5–6 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6–9 | 5–9 | 5–10 | 5–10 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
@@ -224,11 +224,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% |  |
-| 6 | 1.3% | 98% | Last Result |
-| 7 | 24% | 97% |  |
-| 8 | 35% | 73% | Median |
-| 9 | 22% | 38% |  |
-| 10 | 16% | 16% |  |
-| 11 | 0% | 0% |  |
+| 6 | 2% | 98% | Last Result |
+| 7 | 31% | 96% |  |
+| 8 | 35% | 65% | Median |
+| 9 | 28% | 29% |  |
+| 10 | 0.9% | 1.0% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 

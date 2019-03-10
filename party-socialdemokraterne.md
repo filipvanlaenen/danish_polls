@@ -131,10 +131,10 @@ Last result: **47** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 46 | 40–54 | 40–54 | 40–54 | 40–56 |
-| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 47 | 47 | 47–57 | 47–57 |
-| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 46 | 46 | 46–52 | 46–56 | 46–56 |
-| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 46 | 46 | 46 | 46–47 |
+| N/A | [Poll Average](average.html) | 47 | 40–54 | 40–54 | 40–54 | 40–54 |
+| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 48–50 | 46–52 | 46–55 | 46–56 |
+| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 47 | 47 | 47 | 47–48 | 46–51 |
+| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 47–54 | 45–57 | 45–58 | 43–58 |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 51 | 51 | 51–54 | 51–54 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 48–54 | 46–54 | 45–55 | 43–57 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 46–53 | 45–54 | 45–55 | 43–56 |
@@ -234,20 +234,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 88% |  |
 | 42 | 10% | 88% |  |
 | 43 | 0.2% | 78% |  |
-| 44 | 0% | 78% |  |
+| 44 | 0.1% | 78% |  |
 | 45 | 7% | 78% |  |
-| 46 | 23% | 71% | Median |
-| 47 | 16% | 49% | Last Result |
-| 48 | 0% | 32% |  |
-| 49 | 17% | 32% |  |
-| 50 | 0% | 16% |  |
-| 51 | 1.0% | 16% |  |
-| 52 | 0% | 15% |  |
-| 53 | 0% | 15% |  |
+| 46 | 8% | 71% |  |
+| 47 | 16% | 63% | Last Result, Median |
+| 48 | 7% | 47% |  |
+| 49 | 23% | 40% |  |
+| 50 | 0.3% | 16% |  |
+| 51 | 1.5% | 16% |  |
+| 52 | 0.6% | 15% |  |
+| 53 | 0.2% | 14% |  |
 | 54 | 13% | 14% |  |
-| 55 | 0% | 1.3% |  |
-| 56 | 0.8% | 1.3% |  |
-| 57 | 0.4% | 0.4% |  |
-| 58 | 0% | 0% |  |
+| 55 | 0.3% | 0.5% |  |
+| 56 | 0.2% | 0.2% |  |
+| 57 | 0% | 0% |  |
 
 
