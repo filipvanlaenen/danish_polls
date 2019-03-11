@@ -131,7 +131,7 @@ Last result: **47** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 40–54 | 40–54 | 40–54 | 40–54 |
+| N/A | [Poll Average](average.html) | 47 | 43–54 | 41–54 | 41–54 | 39–54 |
 | [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 48–50 | 46–52 | 46–55 | 46–56 |
 | [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 47 | 47 | 47 | 47–48 | 46–51 |
 | [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 47–54 | 45–57 | 45–58 | 43–58 |
@@ -141,10 +141,10 @@ Last result: **47** seats (General Election of 18 June 2015)
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 46–53 | 46–54 | 45–55 | 44–56 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 49 | 47–51 | 45–51 | 45–52 | 44–54 |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 46–51 | 45–52 | 43–54 | 42–55 |
-| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 40 | 40–46 | 40–46 | 40–46 | 40–46 |
+| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 43 | 41–44 | 41–44 | 40–44 | 39–45 |
 | [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 45–47 | 45–49 | 44–50 | 41–51 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 42–48 | 42–50 | 41–51 | 39–53 |
-| [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 42 | 42–45 | 42–51 | 42–51 | 42–51 |
+| [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 44 | 41–48 | 40–48 | 40–48 | 38–51 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 44–48 | 43–49 | 43–49 | 40–53 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 49 | 49 | 49 | 49 | 49 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 54 | 46–54 | 45–54 | 45–54 | 45–54 |
@@ -230,18 +230,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 12% | 100% |  |
-| 41 | 0% | 88% |  |
-| 42 | 10% | 88% |  |
-| 43 | 0.2% | 78% |  |
-| 44 | 0.1% | 78% |  |
-| 45 | 7% | 78% |  |
-| 46 | 8% | 71% |  |
-| 47 | 16% | 63% | Last Result, Median |
-| 48 | 7% | 47% |  |
-| 49 | 23% | 40% |  |
-| 50 | 0.3% | 16% |  |
-| 51 | 1.5% | 16% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.1% | 99.9% |  |
+| 39 | 0.4% | 99.8% |  |
+| 40 | 1.5% | 99.4% |  |
+| 41 | 6% | 98% |  |
+| 42 | 0.7% | 92% |  |
+| 43 | 13% | 91% |  |
+| 44 | 4% | 78% |  |
+| 45 | 4% | 74% |  |
+| 46 | 4% | 69% |  |
+| 47 | 17% | 66% | Last Result, Median |
+| 48 | 10% | 49% |  |
+| 49 | 23% | 39% |  |
+| 50 | 0.3% | 15% |  |
+| 51 | 0.6% | 15% |  |
 | 52 | 0.6% | 15% |  |
 | 53 | 0.2% | 14% |  |
 | 54 | 13% | 14% |  |
