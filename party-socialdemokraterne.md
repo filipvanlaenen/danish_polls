@@ -10,8 +10,8 @@ Last result: **26.3%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 23.3–28.9% | 22.8–29.4% | 22.4–30.0% | 21.6–30.8% |
-| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 27.7% | 26.0–29.5% | 25.5–30.0% | 25.1–30.5% | 24.2–31.4% |
+| N/A | [Poll Average](average.html) | 26.0% | 23.3–28.9% | 22.8–29.5% | 22.4–29.9% | 21.6–30.8% |
+| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 27.7% | 26.0–29.5% | 25.5–30.0% | 25.1–30.5% | 24.3–31.3% |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 26.0% | 24.6–27.5% | 24.2–27.9% | 23.9–28.2% | 23.3–29.0% |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 28.6% | 26.9–30.5% | 26.4–31.0% | 26.0–31.5% | 25.1–32.4% |
 | [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 28.0% | 26.3–29.8% | 25.8–30.4% | 25.3–30.8% | 24.5–31.7% |
@@ -121,8 +121,8 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 15% | 57% | Last Result, Median |
 | 26.5–27.5% | 15% | 42% |  |
 | 27.5–28.5% | 14% | 27% |  |
-| 28.5–29.5% | 9% | 14% |  |
-| 29.5–30.5% | 4% | 5% |  |
+| 28.5–29.5% | 9% | 13% |  |
+| 29.5–30.5% | 3% | 4% |  |
 | 30.5–31.5% | 0.8% | 0.9% |  |
 | 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
@@ -136,8 +136,8 @@ Last result: **47** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 46 | 41–50 | 41–50 | 41–51 | 38–53 |
-| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 46 | 43–52 | 41–52 | 41–54 | 39–55 |
+| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 46–55 | 45–55 | 44–55 | 42–55 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 45 | 45–48 | 45–48 | 45–48 | 43–49 |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 46–54 | 46–56 | 44–56 | 44–56 |
 | [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 48–50 | 46–52 | 46–55 | 46–56 |
@@ -240,28 +240,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.5% | 100% |  |
-| 38 | 0.1% | 99.5% |  |
-| 39 | 0.7% | 99.5% |  |
-| 40 | 0.3% | 98.8% |  |
-| 41 | 10% | 98% |  |
-| 42 | 0.2% | 89% |  |
-| 43 | 15% | 88% |  |
-| 44 | 3% | 74% |  |
-| 45 | 20% | 71% |  |
-| 46 | 20% | 51% | Median |
-| 47 | 2% | 31% | Last Result |
-| 48 | 5% | 29% |  |
-| 49 | 0.8% | 24% |  |
-| 50 | 19% | 23% |  |
-| 51 | 2% | 4% |  |
-| 52 | 1.1% | 2% |  |
-| 53 | 0.4% | 0.8% |  |
-| 54 | 0.2% | 0.4% |  |
-| 55 | 0.1% | 0.3% |  |
-| 56 | 0% | 0.2% |  |
-| 57 | 0% | 0.2% |  |
-| 58 | 0.2% | 0.2% |  |
+| 37 | 0.4% | 100% |  |
+| 38 | 0% | 99.6% |  |
+| 39 | 0.5% | 99.6% |  |
+| 40 | 0.3% | 99.0% |  |
+| 41 | 8% | 98.8% |  |
+| 42 | 0.3% | 91% |  |
+| 43 | 12% | 91% |  |
+| 44 | 3% | 79% |  |
+| 45 | 16% | 76% |  |
+| 46 | 17% | 60% | Median |
+| 47 | 6% | 42% | Last Result |
+| 48 | 8% | 36% |  |
+| 49 | 5% | 28% |  |
+| 50 | 10% | 23% |  |
+| 51 | 3% | 13% |  |
+| 52 | 7% | 11% |  |
+| 53 | 1.0% | 4% |  |
+| 54 | 0.5% | 3% |  |
+| 55 | 2% | 2% |  |
+| 56 | 0.1% | 0.2% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 
 

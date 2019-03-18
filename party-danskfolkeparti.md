@@ -10,7 +10,7 @@ Last result: **21.1%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.6% | 12.9–16.3% | 12.4–16.8% | 12.1–17.1% | 11.4–17.8% |
+| N/A | [Poll Average](average.html) | 14.6% | 12.9–16.3% | 12.4–16.8% | 12.1–17.1% | 11.4–17.7% |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 14.6% | 13.3–16.1% | 12.9–16.5% | 12.6–16.9% | 12.0–17.6% |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 13.7% | 12.6–14.8% | 12.3–15.2% | 12.1–15.5% | 11.6–16.0% |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.4% | 11.6–17.2% |
@@ -134,8 +134,8 @@ Last result: **37** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–31 | 25–31 | 23–31 | 21–31 |
-| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 27 | 25–29 | 24–31 | 23–31 | 21–31 |
+| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 27 | 23–29 | 23–29 | 23–30 | 21–31 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 27 | 26–27 | 21–27 | 21–27 | 21–27 |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 25 | 23–29 | 23–29 | 23–29 | 21–29 |
 | [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 25 | 24–26 | 24–29 | 22–29 | 22–31 |
@@ -239,20 +239,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.1% | 100% |  |
-| 20 | 0.3% | 99.9% |  |
-| 21 | 1.4% | 99.6% |  |
-| 22 | 0.4% | 98% |  |
-| 23 | 0.5% | 98% |  |
-| 24 | 1.3% | 97% |  |
-| 25 | 16% | 96% |  |
-| 26 | 12% | 80% |  |
-| 27 | 42% | 67% | Median |
-| 28 | 6% | 25% |  |
-| 29 | 0.5% | 19% |  |
-| 30 | 2% | 19% |  |
-| 31 | 17% | 17% |  |
+| 20 | 0.2% | 99.9% |  |
+| 21 | 1.4% | 99.7% |  |
+| 22 | 0.5% | 98% |  |
+| 23 | 3% | 98% |  |
+| 24 | 2% | 95% |  |
+| 25 | 20% | 93% |  |
+| 26 | 12% | 73% |  |
+| 27 | 40% | 61% | Median |
+| 28 | 7% | 20% |  |
+| 29 | 4% | 13% |  |
+| 30 | 2% | 10% |  |
+| 31 | 8% | 8% |  |
 | 32 | 0.1% | 0.2% |  |
-| 33 | 0% | 0% |  |
+| 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |
 | 36 | 0% | 0% |  |
