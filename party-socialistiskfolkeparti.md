@@ -10,14 +10,18 @@ Last result: **4.2%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.2% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.5–8.1% | 5.3–8.7% | 5.0–9.1% | 4.7–9.9% |
+| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
+| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 6.7% | 5.9–7.6% | 5.7–7.8% | 5.5–8.0% | 5.2–8.5% |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 5.7% | 4.9–6.7% | 4.6–7.0% | 4.4–7.3% | 4.1–7.8% |
 | [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 5.9% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
+| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.2% | 4.5–7.6% |
 | [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 5.9% | 5.1–7.0% | 4.8–7.3% | 4.6–7.5% | 4.3–8.1% |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.7% | 3.6–7.2% |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.2–8.0% |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.0% | 3.9–7.5% |
+| [28–31 January 2019](2019-01-31-Megafon.html) | Megafon <br> Politiken and TV 2 | 7.5% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.6–10.0% |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 6.7% | 6.0–7.5% | 5.8–7.8% | 5.6–8.0% | 5.3–8.4% |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 5.6% | 4.8–6.7% | 4.6–7.0% | 4.4–7.2% | 4.0–7.7% |
@@ -109,13 +113,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.2% | 100% | Last Result |
-| 4.5–5.5% | 23% | 98.8% |  |
-| 5.5–6.5% | 52% | 76% | Median |
-| 6.5–7.5% | 21% | 24% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.3% | 100% | Last Result |
+| 4.5–5.5% | 11% | 99.7% |  |
+| 5.5–6.5% | 43% | 89% | Median |
+| 6.5–7.5% | 28% | 46% |  |
+| 7.5–8.5% | 12% | 18% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 0.9% | 1.0% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -126,14 +132,18 @@ Last result: **7** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
-| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 8–14 | 8–14 | 8–14 | 8–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–12 | 10–13 | 9–14 | 9–16 |
+| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 11 | 11–13 | 11–14 | 11–16 | 11–16 |
+| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 8–13 | 8–13 | 8–13 | 7–14 |
 | [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–11 | 9–12 | 9–12 | 8–14 |
-| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 12 | 12 | 10–12 | 9–12 | 9–12 |
+| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 11 | 11–13 | 11–14 | 11–15 | 11–20 |
+| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 12 | 9–13 | 9–13 | 9–13 | 7–13 |
 | [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 9–12 | 9–13 | 9–15 | 6–16 |
-| [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 10 | 10 | 10–12 | 10–12 |
+| [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 8–11 | 7–12 | 7–12 | 7–14 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–12 | 8–12 | 8–13 | 8–14 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 8–12 | 8–13 | 7–13 | 7–14 |
+| [28–31 January 2019](2019-01-31-Megafon.html) | Megafon <br> Politiken and TV 2 | 14 | 11–16 | 11–16 | 10–16 | 10–17 |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 11 | 11–14 | 10–14 | 9–14 | 9–15 |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 8–12 | 8–12 | 7–14 |
@@ -142,12 +152,12 @@ Last result: **7** seats (General Election of 18 June 2015)
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–10 | 7–11 | 6–11 | 6–12 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 11 | 10–14 | 9–15 | 9–15 | 8–15 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 8–11 | 8–12 | 8–12 | 6–12 |
-| [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 10 | 10 | 10 | 10 | 10 |
+| [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 10 | 8–12 | 8–12 | 7–12 | 7–13 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10 | 10–13 | 10–13 | 9–14 | 9–15 |
 | [7–9 December 2018](2018-12-09-YouGov.html) | YouGov | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 8–11 | 8–13 | 8–13 | 7–13 |
 | [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 8–12 | 8–12 | 8–13 | 8–14 |
-| [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 10 | 10 | 8–10 | 8–11 | 6–13 |
+| [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 9 | 7–10 | 7–11 | 7–12 | 5–13 |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 8–10 | 7–10 | 7–11 | 6–12 |
 | [12–17 November 2018](2018-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–10 | 8–10 | 8–12 | 7–13 |
 | [7–15 November 2018](2018-11-15-Epinion.html) | Epinion <br> DR | 10 | 8–10 | 8–10 | 8–11 | 7–11 |
@@ -226,15 +236,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0% | 100% | Last Result |
-| 8 | 2% | 100% |  |
-| 9 | 5% | 98% |  |
-| 10 | 42% | 93% |  |
-| 11 | 9% | 50% | Median |
-| 12 | 28% | 41% |  |
-| 13 | 2% | 13% |  |
-| 14 | 10% | 11% |  |
-| 15 | 1.2% | 1.2% |  |
-| 16 | 0% | 0% |  |
+| 7 | 0.3% | 100% | Last Result |
+| 8 | 0.2% | 99.7% |  |
+| 9 | 4% | 99.6% |  |
+| 10 | 18% | 96% |  |
+| 11 | 44% | 78% | Median |
+| 12 | 27% | 33% |  |
+| 13 | 2% | 6% |  |
+| 14 | 2% | 4% |  |
+| 15 | 0.4% | 2% |  |
+| 16 | 1.5% | 2% |  |
+| 17 | 0% | 0.3% |  |
+| 18 | 0.1% | 0.3% |  |
+| 19 | 0% | 0.2% |  |
+| 20 | 0.2% | 0.2% |  |
+| 21 | 0% | 0% |  |
 
 

@@ -10,14 +10,18 @@ Last result: **26.3%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.5% | 23.7–29.2% | 23.1–29.8% | 22.7–30.4% | 21.9–31.4% |
+| N/A | [Poll Average](average.html) | 26.0% | 23.3–28.9% | 22.8–29.4% | 22.4–30.0% | 21.6–30.8% |
+| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 27.7% | 26.0–29.5% | 25.5–30.0% | 25.1–30.5% | 24.2–31.4% |
+| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 26.0% | 24.6–27.5% | 24.2–27.9% | 23.9–28.2% | 23.3–29.0% |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 28.6% | 26.9–30.5% | 26.4–31.0% | 26.0–31.5% | 25.1–32.4% |
 | [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 28.0% | 26.3–29.8% | 25.8–30.4% | 25.3–30.8% | 24.5–31.7% |
+| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.1% | 21.0–28.0% |
 | [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 28.2% | 26.7–29.7% | 26.4–30.1% | 26.0–30.5% | 25.3–31.2% |
 | [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 28.1% | 26.4–29.9% | 25.9–30.5% | 25.4–30.9% | 24.6–31.8% |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 29.0% | 27.2–30.8% | 26.7–31.4% | 26.3–31.8% | 25.4–32.7% |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 28.3% | 26.5–30.1% | 26.0–30.7% | 25.6–31.1% | 24.8–32.0% |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 27.5% | 25.7–29.3% | 25.3–29.8% | 24.8–30.3% | 24.0–31.1% |
+| [28–31 January 2019](2019-01-31-Megafon.html) | Megafon <br> Politiken and TV 2 | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 28.1% | 26.4–29.9% | 25.9–30.5% | 25.5–30.9% | 24.6–31.8% |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 27.9% | 26.6–29.3% | 26.2–29.7% | 25.8–30.1% | 25.2–30.8% |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 26.9% | 25.2–28.8% | 24.7–29.3% | 24.3–29.7% | 23.5–30.6% |
@@ -109,20 +113,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 2% | 99.8% |  |
-| 22.5–23.5% | 7% | 98% |  |
-| 23.5–24.5% | 11% | 91% |  |
-| 24.5–25.5% | 13% | 80% |  |
-| 25.5–26.5% | 17% | 66% | Last Result |
-| 26.5–27.5% | 18% | 50% | Median |
-| 27.5–28.5% | 15% | 32% |  |
-| 28.5–29.5% | 10% | 17% |  |
-| 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.3% | 0.4% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.4% | 100% |  |
+| 21.5–22.5% | 3% | 99.5% |  |
+| 22.5–23.5% | 10% | 96% |  |
+| 23.5–24.5% | 15% | 87% |  |
+| 24.5–25.5% | 15% | 72% |  |
+| 25.5–26.5% | 15% | 57% | Last Result, Median |
+| 26.5–27.5% | 15% | 42% |  |
+| 27.5–28.5% | 14% | 27% |  |
+| 28.5–29.5% | 9% | 14% |  |
+| 29.5–30.5% | 4% | 5% |  |
+| 30.5–31.5% | 0.8% | 0.9% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -133,14 +136,18 @@ Last result: **47** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 43–50 | 41–51 | 41–53 | 39–53 |
-| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 47–53 | 47–53 | 47–53 | 47–53 |
+| N/A | [Poll Average](average.html) | 46 | 41–50 | 41–50 | 41–51 | 38–53 |
+| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 45 | 45–48 | 45–48 | 45–48 | 43–49 |
+| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 46–54 | 46–56 | 44–56 | 44–56 |
 | [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 48–50 | 46–52 | 46–55 | 46–56 |
-| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 47 | 47 | 47 | 47–48 | 46–51 |
+| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 46 | 41–46 | 41–46 | 39–47 | 37–49 |
+| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 50 | 48–52 | 48–52 | 46–53 | 45–56 |
 | [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 47–54 | 45–57 | 45–58 | 43–58 |
-| [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 51 | 51 | 51–54 | 51–54 |
+| [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 48–55 | 48–55 | 47–56 | 47–57 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 48–54 | 46–54 | 45–55 | 43–57 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 46–53 | 45–54 | 45–55 | 43–56 |
+| [28–31 January 2019](2019-01-31-Megafon.html) | Megafon <br> Politiken and TV 2 | 44 | 40–49 | 40–51 | 40–51 | 39–51 |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 46–53 | 46–54 | 45–55 | 44–56 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 49 | 47–51 | 45–51 | 45–52 | 44–54 |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 46–51 | 45–52 | 43–54 | 42–55 |
@@ -149,12 +156,12 @@ Last result: **47** seats (General Election of 18 June 2015)
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 42–48 | 42–50 | 41–51 | 39–53 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 44 | 41–48 | 40–48 | 40–48 | 38–51 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 44–48 | 43–49 | 43–49 | 40–53 |
-| [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 49 | 49 | 49 | 49 | 49 |
+| [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 49 | 44–51 | 44–51 | 44–51 | 42–51 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 49 | 44–51 | 43–51 | 42–52 | 42–52 |
 | [7–9 December 2018](2018-12-09-YouGov.html) | YouGov | 44 | 41–49 | 41–49 | 41–49 | 41–49 |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 43–49 | 42–49 | 41–51 | 40–51 |
 | [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 42–51 | 42–53 | 41–53 | 39–54 |
-| [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 43 | 43 | 43 | 39–44 | 39–47 |
+| [29 November 2018](2018-11-29-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 42 | 40–46 | 40–48 | 39–48 | 38–49 |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 43–49 | 42–49 | 41–50 | 40–53 |
 | [12–17 November 2018](2018-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 45–49 | 44–51 | 43–51 | 41–52 |
 | [7–15 November 2018](2018-11-15-Epinion.html) | Epinion <br> DR | 49 | 45–49 | 45–49 | 44–49 | 43–52 |
@@ -233,25 +240,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.1% | 99.9% |  |
-| 39 | 0.4% | 99.8% |  |
-| 40 | 1.5% | 99.4% |  |
-| 41 | 6% | 98% |  |
-| 42 | 1.2% | 92% |  |
-| 43 | 14% | 90% |  |
-| 44 | 6% | 77% |  |
-| 45 | 4% | 71% |  |
-| 46 | 2% | 67% |  |
-| 47 | 22% | 65% | Last Result, Median |
-| 48 | 4% | 43% |  |
-| 49 | 28% | 39% |  |
-| 50 | 5% | 11% |  |
-| 51 | 2% | 5% |  |
-| 52 | 0.7% | 4% |  |
-| 53 | 3% | 3% |  |
-| 54 | 0% | 0.1% |  |
-| 55 | 0% | 0.1% |  |
-| 56 | 0% | 0% |  |
+| 37 | 0.5% | 100% |  |
+| 38 | 0.1% | 99.5% |  |
+| 39 | 0.7% | 99.5% |  |
+| 40 | 0.3% | 98.8% |  |
+| 41 | 10% | 98% |  |
+| 42 | 0.2% | 89% |  |
+| 43 | 15% | 88% |  |
+| 44 | 3% | 74% |  |
+| 45 | 20% | 71% |  |
+| 46 | 20% | 51% | Median |
+| 47 | 2% | 31% | Last Result |
+| 48 | 5% | 29% |  |
+| 49 | 0.8% | 24% |  |
+| 50 | 19% | 23% |  |
+| 51 | 2% | 4% |  |
+| 52 | 1.1% | 2% |  |
+| 53 | 0.4% | 0.8% |  |
+| 54 | 0.2% | 0.4% |  |
+| 55 | 0.1% | 0.3% |  |
+| 56 | 0% | 0.2% |  |
+| 57 | 0% | 0.2% |  |
+| 58 | 0.2% | 0.2% |  |
+| 59 | 0% | 0% |  |
 
 
