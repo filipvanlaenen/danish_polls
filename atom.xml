@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_polls</id>
   <title>All Registered Polls for the Folketinget</title>
-  <updated>2019-02-14T19:48:09.071241+01:00</updated>
+  <updated>2019-03-18T21:35:00.904484+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 25.1–30.5%, 44–55 seats</li><li>Dansk Folkeparti: 12.6–16.9%, 23–30 seats</li><li>Venstre: 16.7–21.4%, 29–37 seats</li><li>Enhedslisten–De Rød-Grønne: 7.6–11.1%, 14–20 seats</li><li>Liberal Alliance: 3.7–6.4%, 6–12 seats</li><li>Alternativet: 2.6–4.9%, 5–9 seats</li><li>Radikale Venstre: 5.6–8.7%, 9–16 seats</li><li>Socialistisk Folkeparti: 4.9–7.8%, 9–14 seats</li><li>Det Konservative Folkeparti: 3.1–5.5%, 6–9 seats</li><li>Kristendemokraterne: 0.2–1.1%, 0 seats</li><li>Nye Borgerlige: 1.4–3.1%, 0–6 seats</li><li>Klaus Riskær Pedersen: 0.4–1.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_polls/2019-03-17-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_polls/2019-03-17-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter for Ritzau, 11–17 March 2019</title>
+    <updated>2019-03-18T21:35:00.904484+01:00</updated>
+    <dc:date>2019-03-18T21:35:00.904484+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 25.6–31.1%, 45–55 seats</li><li>Dansk Folkeparti: 13.7–18.2%, 25–32 seats</li><li>Venstre: 15.7–20.4%, 28–36 seats</li><li>Enhedslisten–De Rød-Grønne: 7.1–10.5%, 13–18 seats</li><li>Liberal Alliance: 4.7–7.6%, 8–13 seats</li><li>Alternativet: 2.7–5.0%, 5–9 seats</li><li>Radikale Venstre: 5.4–8.5%, 10–15 seats</li><li>Socialistisk Folkeparti: 4.5–7.4%, 8–13 seats</li><li>Det Konservative Folkeparti: 2.8–5.1%, 5–10 seats</li><li>Kristendemokraterne: 0.5–1.8%, 0 seats</li><li>Nye Borgerlige: 1.2–3.0%, 0–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_polls/2019-02-09-Voxmeter.html</id>
@@ -479,5 +487,5 @@
     <updated>2019-01-15T21:35:43.587275+01:00</updated>
     <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
   </entry>
-  <dc:date>2019-02-14T19:48:09.071241+01:00</dc:date>
+  <dc:date>2019-03-18T21:35:00.904484+01:00</dc:date>
 </feed>
