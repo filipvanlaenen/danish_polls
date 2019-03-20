@@ -131,14 +131,14 @@ Last result: **0** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–9 | 0–10 | 0–11 | 0–11 |
+| N/A | [Poll Average](average.html) | 6 | 0–9 | 0–10 | 0–11 | 0–11 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–6 | 0–6 | 0–6 | 0–6 |
-| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 0 | 0–5 | 0–6 | 0–6 | 0–7 |
+| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–4 | 0–6 | 0–6 |
-| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–5 | 0–5 | 0–5 | 0–7 |
-| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 6 | 5–6 | 4–6 | 4–8 | 4–9 |
-| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 5 | 5–6 | 4–6 | 4–6 | 0–7 |
-| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 6 | 5–8 | 5–8 | 4–8 | 0–9 |
+| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 5 | 5–6 | 4–6 | 4–7 | 0–8 |
+| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
@@ -235,15 +235,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 0% | 80% |  |
-| 2 | 0% | 80% |  |
-| 3 | 0% | 80% |  |
-| 4 | 12% | 80% |  |
-| 5 | 19% | 67% | Median |
-| 6 | 27% | 49% |  |
-| 7 | 0.9% | 21% |  |
-| 8 | 0.2% | 21% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 0% | 88% |  |
+| 2 | 0% | 88% |  |
+| 3 | 0% | 88% |  |
+| 4 | 13% | 88% |  |
+| 5 | 24% | 75% |  |
+| 6 | 21% | 51% | Median |
+| 7 | 1.4% | 31% |  |
+| 8 | 9% | 29% |  |
 | 9 | 14% | 20% |  |
 | 10 | 2% | 7% |  |
 | 11 | 5% | 5% |  |

@@ -129,14 +129,14 @@ Last result: **9** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–9 | 5–9 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–9 | 5–9 | 5–10 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
-| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 6 | 6–7 | 5–7 | 5–7 | 5–9 |
+| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–10 | 6–11 | 6–11 | 5–11 |
-| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 8–10 | 6–10 | 6–10 | 6–10 |
-| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
+| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 7 | 5–10 | 5–10 | 5–10 | 5–10 |
 | [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 7 | 6–7 | 5–8 | 5–8 | 4–9 |
-| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 5–9 | 5–9 | 5–9 | 4–11 |
+| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 5–7 | 5–7 | 5–8 | 4–9 |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–9 | 6–9 | 6–10 | 5–11 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–8 | 5–8 | 5–9 | 4–10 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–7 | 4–7 | 4–8 | 0–8 |
@@ -234,12 +234,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.4% | 100% |  |
-| 5 | 23% | 99.6% |  |
-| 6 | 28% | 77% | Median |
-| 7 | 28% | 48% |  |
-| 8 | 7% | 20% |  |
-| 9 | 13% | 13% | Last Result |
-| 10 | 0.1% | 0.1% |  |
+| 5 | 12% | 99.6% |  |
+| 6 | 23% | 88% |  |
+| 7 | 39% | 65% | Median |
+| 8 | 11% | 26% |  |
+| 9 | 13% | 16% | Last Result |
+| 10 | 2% | 2% |  |
 | 11 | 0% | 0% |  |
 
 
