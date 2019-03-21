@@ -133,25 +133,25 @@ Last result: **34** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 30–36 | 28–37 | 28–37 | 28–38 |
+| N/A | [Poll Average](average.html) | 32 | 30–36 | 29–37 | 28–37 | 28–38 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–36 | 29–36 | 29–37 | 28–40 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 35 | 33–37 | 32–38 | 32–38 | 31–39 |
-| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 29–35 | 29–38 | 29–38 | 28–38 |
+| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 35 | 30–36 | 29–37 | 28–38 | 28–38 |
 | [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 30–35 | 29–35 | 28–36 | 27–38 |
-| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 32 | 30–34 | 30–34 | 28–35 | 28–39 |
-| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 30 | 28–33 | 28–33 | 28–34 | 28–36 |
+| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 32 | 30–34 | 29–35 | 28–36 | 27–38 |
+| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 32 | 29–32 | 28–34 | 28–34 | 28–36 |
 | [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 30–34 | 30–36 | 29–37 | 27–39 |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 30 | 30–34 | 27–36 | 26–38 | 26–38 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 30–34 | 29–36 | 28–36 | 27–38 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 29–36 | 29–37 | 28–39 | 28–40 |
-| [28–31 January 2019](2019-01-31-Megafon.html) | Megafon <br> Politiken and TV 2 | 31 | 29–33 | 27–33 | 27–33 | 26–35 |
+| [28–31 January 2019](2019-01-31-Megafon.html) | Megafon <br> Politiken and TV 2 | 29 | 27–32 | 26–33 | 26–35 | 25–35 |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 31–38 | 30–38 | 29–38 | 28–39 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 31 | 29–33 | 29–33 | 28–33 | 27–35 |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 30–34 | 29–35 | 27–37 | 27–39 |
 | [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 32 | 30–33 | 30–34 | 30–34 | 28–34 |
 | [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 32 | 27–33 | 27–35 | 27–35 | 27–36 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 32 | 30–38 | 30–39 | 30–39 | 28–39 |
-| [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 29 | 26–33 | 26–33 | 26–35 | 24–35 |
+| [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 30 | 28–30 | 26–33 | 26–34 | 26–35 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 32–37 | 32–37 | 32–37 | 29–38 |
 | [13 December 2018](2018-12-13-KantarGallup.html) | Kantar Gallup <br> Berlingske | 34 | 31–35 | 31–35 | 30–36 | 29–38 |
 | [6–11 December 2018](2018-12-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 32 | 30–36 | 29–36 | 27–36 | 27–37 |
@@ -237,19 +237,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
-| 28 | 5% | 99.9% |  |
-| 29 | 3% | 95% |  |
-| 30 | 22% | 92% |  |
-| 31 | 4% | 69% |  |
-| 32 | 20% | 66% | Median |
-| 33 | 8% | 46% |  |
-| 34 | 13% | 38% | Last Result |
+| 26 | 0% | 100% |  |
+| 27 | 0.3% | 99.9% |  |
+| 28 | 2% | 99.7% |  |
+| 29 | 3% | 97% |  |
+| 30 | 16% | 95% |  |
+| 31 | 6% | 78% |  |
+| 32 | 28% | 72% | Median |
+| 33 | 8% | 45% |  |
+| 34 | 11% | 37% | Last Result |
 | 35 | 12% | 25% |  |
 | 36 | 4% | 13% |  |
 | 37 | 8% | 9% |  |
-| 38 | 1.3% | 2% |  |
-| 39 | 0.2% | 0.5% |  |
+| 38 | 1.4% | 2% |  |
+| 39 | 0.2% | 0.4% |  |
 | 40 | 0.2% | 0.3% |  |
 | 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
