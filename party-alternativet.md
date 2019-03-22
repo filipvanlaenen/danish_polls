@@ -129,7 +129,7 @@ Last result: **9** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–9 | 5–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–9 | 5–10 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 6–10 | 6–11 | 6–11 | 5–11 |
@@ -144,8 +144,8 @@ Last result: **9** seats (General Election of 18 June 2015)
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 8 | 6–9 | 6–9 | 6–9 | 5–9 |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6–8 | 6–8 | 5–8 | 4–10 |
-| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 9 | 7–9 | 6–9 | 6–9 | 6–9 |
-| [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–9 | 6–10 | 5–10 | 4–10 |
+| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 7 | 7–8 | 6–8 | 6–9 | 5–9 |
+| [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 5–8 | 5–9 | 5–9 | 5–10 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–9 | 5–9 | 5–9 | 4–10 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 7–9 | 6–9 | 5–10 | 5–11 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
@@ -234,12 +234,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.4% | 100% |  |
-| 5 | 11% | 99.6% |  |
+| 5 | 12% | 99.6% |  |
 | 6 | 33% | 88% |  |
-| 7 | 28% | 55% | Median |
-| 8 | 13% | 27% |  |
-| 9 | 13% | 15% | Last Result |
-| 10 | 1.2% | 1.3% |  |
+| 7 | 37% | 55% | Median |
+| 8 | 13% | 18% |  |
+| 9 | 3% | 4% | Last Result |
+| 10 | 1.3% | 1.3% |  |
 | 11 | 0% | 0% |  |
 
 

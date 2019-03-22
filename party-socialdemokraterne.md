@@ -136,7 +136,7 @@ Last result: **47** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 46 | 42–52 | 41–52 | 41–54 | 39–55 |
+| N/A | [Poll Average](average.html) | 46 | 41–52 | 41–52 | 41–54 | 38–55 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 46–55 | 45–55 | 44–55 | 42–55 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 45 | 42–49 | 42–50 | 42–50 | 42–51 |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 47–54 | 47–55 | 46–56 | 44–58 |
@@ -151,8 +151,8 @@ Last result: **47** seats (General Election of 18 June 2015)
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 46–53 | 46–54 | 45–55 | 44–56 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 49 | 47–51 | 45–51 | 45–52 | 44–54 |
 | [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 46–51 | 45–52 | 43–54 | 42–55 |
-| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 43 | 41–44 | 41–44 | 40–44 | 39–45 |
-| [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 44–50 | 44–50 | 41–51 | 41–53 |
+| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 41 | 41–43 | 41–44 | 40–45 | 37–45 |
+| [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 44–49 | 43–49 | 43–51 | 41–52 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 42–48 | 42–50 | 41–51 | 39–53 |
 | [20 December 2018](2018-12-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 44 | 42–46 | 41–46 | 39–48 | 39–49 |
 | [10–16 December 2018](2018-12-16-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 44–48 | 43–49 | 43–49 | 40–53 |
@@ -241,15 +241,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 36 | 0.1% | 100% |  |
-| 37 | 0.1% | 99.9% |  |
-| 38 | 0.2% | 99.8% |  |
-| 39 | 0.8% | 99.6% |  |
-| 40 | 0.8% | 98.8% |  |
-| 41 | 7% | 98% |  |
-| 42 | 8% | 91% |  |
-| 43 | 20% | 83% |  |
-| 44 | 5% | 62% |  |
-| 45 | 7% | 58% |  |
+| 37 | 0.2% | 99.9% |  |
+| 38 | 0.2% | 99.7% |  |
+| 39 | 0.5% | 99.5% |  |
+| 40 | 1.2% | 99.0% |  |
+| 41 | 12% | 98% |  |
+| 42 | 12% | 86% |  |
+| 43 | 12% | 74% |  |
+| 44 | 3% | 62% |  |
+| 45 | 8% | 58% |  |
 | 46 | 5% | 51% | Median |
 | 47 | 9% | 46% | Last Result |
 | 48 | 7% | 37% |  |
