@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Wed, 20 Mar 2019 23:07:52 +0100</pubDate>
+    <pubDate>Fri, 22 Mar 2019 12:34:08 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–17 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-03-17-Voxmeter.html#seats</link>
@@ -220,14 +220,34 @@
       <dc:date>2019-03-19T22:57:05.216484+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 11–17 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-02-17-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 46–56 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 25–31 seats&lt;/li&gt;&lt;li&gt;Venstre: 29–37 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 13–19 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 8–13 seats&lt;/li&gt;&lt;li&gt;Alternativet: 6–10 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 9–14 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 7–12 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 5–9 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0–4 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-02-17-Voxmeter-seats.png"
+        length="206310"
+        type="image/png"/>
+      <pubDate>Fri, 22 Mar 2019 12:10:12 +0100</pubDate>
+      <dc:date>2019-03-22T12:10:12.937051+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 11–17 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-02-17-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-02-17-Voxmeter-coalitions-seats.png"
+        length="418770"
+        type="image/png"/>
+      <pubDate>Fri, 22 Mar 2019 12:10:12 +0100</pubDate>
+      <dc:date>2019-03-22T12:10:12.937051+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–17 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-02-17-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 26.3–31.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13.3–17.7%&lt;/li&gt;&lt;li&gt;Venstre: 15.9–20.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.0–10.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 4.9–7.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-02-17-Voxmeter.png"
         length="254346"
         type="image/png"/>
-      <pubDate>Mon, 18 Mar 2019 19:49:09 +0100</pubDate>
-      <dc:date>2019-03-18T19:49:09.891281+01:00</dc:date>
+      <pubDate>Fri, 22 Mar 2019 12:10:12 +0100</pubDate>
+      <dc:date>2019-03-22T12:10:12.937051+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 4–9 February 2019 – Seat Projections for the Parties</title>
@@ -406,8 +426,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-01-12-Voxmeter.png"
         length="261585"
         type="image/png"/>
-      <pubDate>Sat, 19 Jan 2019 14:55:16 +0100</pubDate>
-      <dc:date>2019-01-19T14:55:16.972785+01:00</dc:date>
+      <pubDate>Fri, 22 Mar 2019 12:34:08 +0100</pubDate>
+      <dc:date>2019-03-22T12:34:08.596244+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 2–6 January 2019 – Seat Projections for the Parties</title>
@@ -2289,6 +2309,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-03-20T23:07:52.298931+01:00</dc:date>
+    <dc:date>2019-03-22T12:34:08.596244+01:00</dc:date>
   </channel>
 </rss>
