@@ -150,7 +150,7 @@ Last result: **47** seats (General Election of 18 June 2015)
 | [28–31 January 2019](2019-01-31-Megafon.html) | Megafon <br> Politiken and TV 2 | 46 | 43–47 | 42–48 | 41–49 | 40–51 |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 46–53 | 46–54 | 45–55 | 44–56 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 49 | 47–51 | 45–51 | 45–52 | 44–54 |
-| [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 46–51 | 45–52 | 43–54 | 42–55 |
+| [14–20 January 2019](2019-01-20-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 45–51 | 45–52 | 44–54 | 42–55 |
 | [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 41 | 41–43 | 41–44 | 40–45 | 37–45 |
 | [7–12 January 2019](2019-01-12-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 44–49 | 43–49 | 43–51 | 41–52 |
 | [2–6 January 2019](2019-01-06-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 42–48 | 42–50 | 41–51 | 39–53 |
