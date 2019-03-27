@@ -131,8 +131,8 @@ Last result: **13** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 6–11 | 6–11 | 6–11 | 6–12 |
-| [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6–9 | 6–9 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 9 | 7–11 | 6–11 | 6–11 | 6–12 |
+| [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–10 | 7–11 | 6–12 | 6–13 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 11 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 8–12 | 8–12 | 7–14 |
@@ -236,11 +236,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0% | 100% |  |
-| 6 | 15% | 99.9% |  |
-| 7 | 9% | 85% |  |
-| 8 | 24% | 76% |  |
-| 9 | 27% | 52% | Median |
+| 5 | 0.1% | 100% |  |
+| 6 | 6% | 99.9% |  |
+| 7 | 10% | 94% |  |
+| 8 | 31% | 84% |  |
+| 9 | 28% | 53% | Median |
 | 10 | 9% | 25% |  |
 | 11 | 14% | 16% |  |
 | 12 | 1.3% | 2% |  |
