@@ -10,7 +10,11 @@ Last result: **4.6%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.3–8.3% | 4.9–8.9% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.8–7.9% | 5.6–8.2% | 5.4–8.5% | 5.1–9.1% |
+| [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 7.2% | 6.3–8.3% | 6.0–8.6% | 5.8–8.9% | 5.4–9.5% |
+| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.1% | N/A | N/A | N/A | N/A |
+| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 7.0% | N/A | N/A | N/A | N/A |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 5.7% | N/A | N/A | N/A | N/A |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 6.9% | 6.1–7.8% | 5.9–8.0% | 5.7–8.2% | 5.4–8.7% |
@@ -113,12 +117,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 7% | 99.9% | Last Result |
-| 5.5–6.5% | 41% | 93% |  |
-| 6.5–7.5% | 39% | 52% | Median |
-| 7.5–8.5% | 12% | 13% |  |
-| 8.5–9.5% | 1.3% | 1.4% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 4% | 100% | Last Result |
+| 5.5–6.5% | 36% | 96% |  |
+| 6.5–7.5% | 43% | 61% | Median |
+| 7.5–8.5% | 16% | 18% |  |
+| 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -131,7 +135,11 @@ Last result: **8** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 10–16 | 9–17 |
+| N/A | [Poll Average](average.html) | 12 | 10–15 | 10–19 | 10–19 | 9–19 |
+| [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 12–19 | 12–19 | 12–19 | 12–19 |
+| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
+| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten |  |  |  |  |  |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–15 | 11–15 | 10–15 | 9–15 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 12–15 | 10–15 | 9–16 | 9–16 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 13 | 11–14 | 10–15 | 10–15 | 9–15 |
@@ -236,16 +244,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.2% | 100% | Last Result |
-| 9 | 2% | 99.8% |  |
-| 10 | 13% | 98% |  |
-| 11 | 28% | 85% |  |
-| 12 | 25% | 57% | Median |
-| 13 | 10% | 31% |  |
-| 14 | 14% | 21% |  |
-| 15 | 4% | 7% |  |
-| 16 | 2% | 3% |  |
-| 17 | 0.6% | 0.6% |  |
-| 18 | 0% | 0% |  |
+| 8 | 0% | 100% | Last Result |
+| 9 | 1.1% | 100% |  |
+| 10 | 11% | 98.9% |  |
+| 11 | 19% | 88% |  |
+| 12 | 41% | 69% | Median |
+| 13 | 6% | 27% |  |
+| 14 | 10% | 21% |  |
+| 15 | 3% | 10% |  |
+| 16 | 0% | 7% |  |
+| 17 | 0% | 7% |  |
+| 18 | 0% | 7% |  |
+| 19 | 7% | 7% |  |
+| 20 | 0% | 0% |  |
 
 
