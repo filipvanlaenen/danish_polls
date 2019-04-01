@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Wed, 27 Mar 2019 16:55:21 +0100</pubDate>
+    <pubDate>Mon, 01 Apr 2019 19:37:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 25–31 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-03-31-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 26.0–31.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13.4–17.7%&lt;/li&gt;&lt;li&gt;Venstre: 16.4–21.1%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.8–10.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Alternativet: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.8–8.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.2–2.9%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.2–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-03-31-Voxmeter.png"
+        length="269688"
+        type="image/png"/>
+      <pubDate>Mon, 01 Apr 2019 19:37:57 +0200</pubDate>
+      <dc:date>2019-04-01T19:37:57.455336+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 18–24 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-03-24-Voxmeter.html#seats</link>
@@ -2399,6 +2409,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-03-27T16:55:21.568054+01:00</dc:date>
+    <dc:date>2019-04-01T19:37:57.455336+02:00</dc:date>
   </channel>
 </rss>
