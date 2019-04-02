@@ -135,10 +135,10 @@ Last result: **13** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–10 | 5–11 | 5–11 | 5–11 |
+| N/A | [Poll Average](average.html) | 8 | 5–10 | 4–11 | 4–11 | 4–11 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 9 | 8–10 | 7–10 | 6–11 | 5–12 |
-| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 4–7 | 4–7 | 4–8 | 4–9 |
 | [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–10 | 7–11 | 6–12 | 6–13 |
@@ -244,10 +244,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 10% | 99.9% |  |
-| 6 | 11% | 90% |  |
-| 7 | 18% | 80% |  |
+| 4 | 6% | 100% |  |
+| 5 | 6% | 94% |  |
+| 6 | 13% | 88% |  |
+| 7 | 13% | 75% |  |
 | 8 | 27% | 62% | Median |
 | 9 | 20% | 35% |  |
 | 10 | 6% | 15% |  |
