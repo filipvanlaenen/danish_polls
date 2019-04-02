@@ -10,11 +10,11 @@ Last result: **19.5%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.7% | 17.0–20.5% | 16.7–21.0% | 16.3–21.3% | 15.7–22.1% |
+| N/A | [Poll Average](average.html) | 17.8% | 16.1–19.9% | 15.7–20.5% | 15.3–21.0% | 14.6–21.8% |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 18.7% | 17.2–20.3% | 16.8–20.7% | 16.4–21.1% | 15.7–21.9% |
-| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 17.3% | N/A | N/A | N/A | N/A |
-| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 16.9% | N/A | N/A | N/A | N/A |
-| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 17.0% | N/A | N/A | N/A | N/A |
+| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 17.3% | 15.8–18.9% | 15.4–19.4% | 15.1–19.8% | 14.4–20.6% |
+| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 16.9% | 15.5–18.3% | 15.2–18.7% | 14.8–19.1% | 14.2–19.8% |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 17.0% | 15.8–18.3% | 15.4–18.6% | 15.2–18.9% | 14.6–19.6% |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 19.3% | 17.8–20.9% | 17.3–21.4% | 17.0–21.8% | 16.3–22.6% |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 18.9% | 17.5–20.5% | 17.0–21.0% | 16.7–21.4% | 16.0–22.2% |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 19.7% | 18.5–21.0% | 18.1–21.4% | 17.8–21.8% | 17.3–22.4% |
@@ -117,15 +117,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 4% | 99.7% |  |
-| 16.5–17.5% | 16% | 96% |  |
-| 17.5–18.5% | 26% | 80% |  |
-| 18.5–19.5% | 26% | 54% | Median |
-| 19.5–20.5% | 18% | 28% | Last Result |
-| 20.5–21.5% | 8% | 9% |  |
-| 21.5–22.5% | 2% | 2% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.4% | 100% |  |
+| 14.5–15.5% | 3% | 99.6% |  |
+| 15.5–16.5% | 14% | 96% |  |
+| 16.5–17.5% | 26% | 82% |  |
+| 17.5–18.5% | 25% | 57% | Median |
+| 18.5–19.5% | 17% | 32% |  |
+| 19.5–20.5% | 10% | 15% | Last Result |
+| 20.5–21.5% | 4% | 5% |  |
+| 21.5–22.5% | 0.8% | 0.8% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -138,11 +139,11 @@ Last result: **34** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 31–38 | 30–38 | 29–38 | 29–38 |
-| [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 38 | 35–38 | 35–38 | 35–38 | 30–38 |
-| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
-| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten |  |  |  |  |  |
-| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 32 | 28–36 | 27–37 | 27–37 | 27–38 |
+| [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–37 | 29–37 | 29–37 | 28–39 |
+| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 32 | 29–34 | 28–34 | 27–36 | 25–36 |
+| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 30 | 30–32 | 29–32 | 27–32 | 24–36 |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 28 | 27–32 | 27–33 | 27–33 | 27–34 |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 32–36 | 31–37 | 31–37 | 30–39 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–36 | 29–36 | 29–37 | 28–40 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 35 | 33–37 | 32–38 | 32–38 | 31–39 |
@@ -247,22 +248,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.2% | 100% |  |
-| 26 | 0% | 99.8% |  |
-| 27 | 0% | 99.8% |  |
-| 28 | 0.1% | 99.8% |  |
-| 29 | 4% | 99.7% |  |
-| 30 | 1.4% | 96% |  |
-| 31 | 20% | 95% |  |
-| 32 | 5% | 75% |  |
-| 33 | 3% | 70% |  |
-| 34 | 3% | 67% | Last Result |
-| 35 | 23% | 64% | Median |
-| 36 | 2% | 41% |  |
-| 37 | 11% | 39% |  |
-| 38 | 28% | 28% |  |
-| 39 | 0.1% | 0.3% |  |
-| 40 | 0.2% | 0.2% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 0.1% | 99.9% |  |
+| 26 | 0.2% | 99.8% |  |
+| 27 | 8% | 99.6% |  |
+| 28 | 5% | 92% |  |
+| 29 | 8% | 87% |  |
+| 30 | 17% | 79% |  |
+| 31 | 12% | 62% |  |
+| 32 | 15% | 50% | Median |
+| 33 | 11% | 35% |  |
+| 34 | 5% | 25% | Last Result |
+| 35 | 9% | 20% |  |
+| 36 | 2% | 12% |  |
+| 37 | 8% | 9% |  |
+| 38 | 1.2% | 1.5% |  |
+| 39 | 0.2% | 0.3% |  |
+| 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% |  |
 
 
