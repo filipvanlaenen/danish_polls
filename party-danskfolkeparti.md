@@ -140,11 +140,11 @@ Last result: **37** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 22–30 | 21–30 | 20–31 | 19–31 |
+| N/A | [Poll Average](average.html) | 27 | 22–30 | 21–30 | 20–30 | 19–31 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 27 | 25–30 | 24–31 | 24–31 | 23–32 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 23 | 20–28 | 20–28 | 19–28 | 18–28 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 26 | 24–28 | 23–29 | 22–29 | 22–29 |
-| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 28 | 26–30 | 26–31 | 23–31 | 22–31 |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 26 | 24–28 | 22–29 | 22–29 | 22–31 |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 26 | 25–30 | 24–30 | 24–30 | 24–32 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 27 | 23–29 | 23–29 | 23–30 | 21–31 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 25 | 22–27 | 21–27 | 21–27 | 20–29 |
@@ -253,16 +253,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.7% | 99.9% |  |
 | 20 | 2% | 99.2% |  |
 | 21 | 3% | 97% |  |
-| 22 | 5% | 94% |  |
-| 23 | 6% | 89% |  |
-| 24 | 9% | 83% |  |
-| 25 | 10% | 74% |  |
-| 26 | 8% | 64% |  |
-| 27 | 19% | 56% | Median |
-| 28 | 19% | 37% |  |
-| 29 | 4% | 18% |  |
-| 30 | 10% | 14% |  |
-| 31 | 3% | 3% |  |
+| 22 | 6% | 94% |  |
+| 23 | 6% | 88% |  |
+| 24 | 12% | 82% |  |
+| 25 | 13% | 70% |  |
+| 26 | 6% | 57% |  |
+| 27 | 21% | 51% | Median |
+| 28 | 14% | 30% |  |
+| 29 | 4% | 16% |  |
+| 30 | 10% | 12% |  |
+| 31 | 2% | 2% |  |
 | 32 | 0.3% | 0.4% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |

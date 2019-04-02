@@ -139,11 +139,11 @@ Last result: **34** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 28–36 | 27–37 | 27–37 | 27–38 |
+| N/A | [Poll Average](average.html) | 31 | 28–36 | 27–37 | 27–37 | 26–38 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–37 | 29–37 | 29–37 | 28–39 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 32 | 29–34 | 28–34 | 27–36 | 25–36 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 30 | 28–31 | 28–32 | 28–32 | 26–35 |
-| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 28 | 27–32 | 27–33 | 27–33 | 27–34 |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 29 | 27–32 | 27–33 | 27–34 | 26–35 |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 32–36 | 31–37 | 31–37 | 30–39 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–36 | 29–36 | 29–37 | 28–40 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 35 | 33–37 | 32–38 | 32–38 | 31–39 |
@@ -248,15 +248,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.2% | 99.9% |  |
-| 27 | 7% | 99.7% |  |
-| 28 | 7% | 92% |  |
-| 29 | 9% | 85% |  |
-| 30 | 12% | 77% |  |
-| 31 | 17% | 65% | Median |
-| 32 | 12% | 47% |  |
-| 33 | 11% | 36% |  |
+| 25 | 0.2% | 100% |  |
+| 26 | 0.4% | 99.8% |  |
+| 27 | 5% | 99.4% |  |
+| 28 | 5% | 94% |  |
+| 29 | 8% | 89% |  |
+| 30 | 13% | 82% |  |
+| 31 | 20% | 69% | Median |
+| 32 | 14% | 49% |  |
+| 33 | 10% | 35% |  |
 | 34 | 5% | 25% | Last Result |
 | 35 | 9% | 20% |  |
 | 36 | 2% | 12% |  |

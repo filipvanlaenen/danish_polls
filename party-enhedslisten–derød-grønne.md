@@ -140,7 +140,7 @@ Last result: **14** seats (General Election of 18 June 2015)
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 16 | 14–18 | 13–18 | 13–18 | 12–20 |
-| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 16 | 15–17 | 15–17 | 15–17 | 14–19 |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 17 | 14–19 | 14–19 | 14–19 | 14–19 |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 15–18 | 14–18 | 14–18 | 13–20 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–18 | 14–19 | 14–20 | 13–21 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 15 | 12–15 | 11–15 | 11–15 | 10–17 |
@@ -249,14 +249,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 1.0% | 99.8% |  |
 | 12 | 3% | 98.8% |  |
 | 13 | 6% | 96% |  |
-| 14 | 8% | 90% | Last Result |
-| 15 | 26% | 82% |  |
-| 16 | 16% | 56% | Median |
-| 17 | 27% | 41% |  |
-| 18 | 8% | 13% |  |
-| 19 | 4% | 5% |  |
-| 20 | 1.3% | 1.5% |  |
-| 21 | 0.1% | 0.2% |  |
+| 14 | 10% | 90% | Last Result |
+| 15 | 24% | 80% |  |
+| 16 | 11% | 55% | Median |
+| 17 | 25% | 45% |  |
+| 18 | 11% | 19% |  |
+| 19 | 7% | 8% |  |
+| 20 | 1.2% | 1.4% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 

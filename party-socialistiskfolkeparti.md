@@ -136,11 +136,11 @@ Last result: **7** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–14 | 9–14 | 8–16 |
+| N/A | [Poll Average](average.html) | 12 | 9–13 | 9–14 | 9–14 | 8–16 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 13 | 11–14 | 10–15 | 10–16 | 10–16 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 11 | 10–13 | 10–13 | 9–14 | 8–14 |
-| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 11 | 10–13 | 9–13 | 9–13 | 9–15 |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 12 | 11–13 | 10–14 | 10–15 | 10–15 |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 12 | 11–13 | 11–14 | 11–14 | 9–16 |
@@ -247,13 +247,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% | Last Result |
 | 8 | 0.8% | 99.9% |  |
-| 9 | 10% | 99.1% |  |
-| 10 | 20% | 89% |  |
-| 11 | 21% | 69% | Median |
-| 12 | 31% | 48% |  |
-| 13 | 10% | 17% |  |
-| 14 | 5% | 7% |  |
-| 15 | 1.1% | 2% |  |
+| 9 | 9% | 99.1% |  |
+| 10 | 16% | 90% |  |
+| 11 | 22% | 74% |  |
+| 12 | 31% | 52% | Median |
+| 13 | 12% | 21% |  |
+| 14 | 6% | 8% |  |
+| 15 | 2% | 2% |  |
 | 16 | 0.7% | 0.8% |  |
 | 17 | 0% | 0.1% |  |
 | 18 | 0% | 0% |  |
