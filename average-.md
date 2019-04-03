@@ -40,7 +40,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](average.png "Voting Intentions")
+![Graph with voting intentions not yet produced](average-.png "Voting Intentions")
 
 ### Confidence Intervals
 
@@ -255,7 +255,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Seats
 
-![Graph with seats not yet produced](average-seats.png "Seats")
+![Graph with seats not yet produced](average--seats.png "Seats")
 
 ### Confidence Intervals
 
@@ -278,7 +278,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Socialdemokraterne](party-socialdemokraterne.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-socialdemokraterne.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-socialdemokraterne.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -311,7 +311,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Dansk Folkeparti](party-danskfolkeparti.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-danskfolkeparti.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-danskfolkeparti.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -340,7 +340,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Venstre](party-venstre.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-venstre.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-venstre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -366,7 +366,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Enhedslisten–De Rød-Grønne](party-enhedslisten–derød-grønne.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-enhedslisten–derød-grønne.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-enhedslisten–derød-grønne.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -388,7 +388,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Liberal Alliance](party-liberalalliance.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-liberalalliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-liberalalliance.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -407,7 +407,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Alternativet](party-alternativet.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-alternativet.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-alternativet.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -425,7 +425,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Radikale Venstre](party-radikalevenstre.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-radikalevenstre.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-radikalevenstre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -447,7 +447,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Socialistisk Folkeparti](party-socialistiskfolkeparti.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-socialistiskfolkeparti.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-socialistiskfolkeparti.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -468,7 +468,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Det Konservative Folkeparti](party-detkonservativefolkeparti.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-detkonservativefolkeparti.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-detkonservativefolkeparti.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -488,7 +488,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Kristendemokraterne](party-kristendemokraterne.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-kristendemokraterne.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-kristendemokraterne.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -503,7 +503,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Nye Borgerlige](party-nyeborgerlige.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-nyeborgerlige.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-nyeborgerlige.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -527,7 +527,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Klaus Riskær Pedersen](party-klausriskærpedersen.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-klausriskærpedersen.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-klausriskærpedersen.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -542,7 +542,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](average--coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
@@ -566,7 +566,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Socialdemokraterne – Enhedslisten–De Rød-Grønne – Alternativet – Radikale Venstre – Socialistisk Folkeparti
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–ø–å–b–f.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-a–ø–å–b–f.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -595,7 +595,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Socialdemokraterne – Enhedslisten–De Rød-Grønne – Radikale Venstre – Socialistisk Folkeparti
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–ø–b–f.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-a–ø–b–f.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -627,7 +627,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Socialdemokraterne – Enhedslisten–De Rød-Grønne – Alternativet – Socialistisk Folkeparti
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–ø–å–f.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-a–ø–å–f.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -658,7 +658,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Dansk Folkeparti – Venstre – Liberal Alliance – Det Konservative Folkeparti – Kristendemokraterne – Klaus Riskær Pedersen – Nye Borgerlige
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-o–v–i–c–k–e–d.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-o–v–i–c–k–e–d.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -687,7 +687,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Dansk Folkeparti – Venstre – Liberal Alliance – Det Konservative Folkeparti – Klaus Riskær Pedersen – Nye Borgerlige
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-o–v–i–c–e–d.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-o–v–i–c–e–d.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -717,7 +717,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Dansk Folkeparti – Venstre – Liberal Alliance – Det Konservative Folkeparti – Kristendemokraterne – Nye Borgerlige
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-o–v–i–c–k–d.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-o–v–i–c–k–d.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -747,7 +747,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Dansk Folkeparti – Venstre – Liberal Alliance – Det Konservative Folkeparti – Nye Borgerlige
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-o–v–i–c–d.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-o–v–i–c–d.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -777,7 +777,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Socialdemokraterne – Enhedslisten–De Rød-Grønne – Socialistisk Folkeparti
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–ø–f.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-a–ø–f.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -807,7 +807,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Dansk Folkeparti – Venstre – Liberal Alliance – Det Konservative Folkeparti – Kristendemokraterne
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-o–v–i–c–k.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-o–v–i–c–k.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -842,7 +842,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Dansk Folkeparti – Venstre – Liberal Alliance – Det Konservative Folkeparti
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-o–v–i–c.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-o–v–i–c.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -877,7 +877,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–b–f.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-a–b–f.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -910,7 +910,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Socialdemokraterne – Radikale Venstre
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–b.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-a–b.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -943,7 +943,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Venstre – Liberal Alliance – Det Konservative Folkeparti
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–i–c.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-v–i–c.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -973,7 +973,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Venstre – Det Konservative Folkeparti
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–c.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-v–c.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -999,7 +999,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Venstre
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-v.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
