@@ -142,9 +142,9 @@ Last result: **34** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 28–35 | 27–37 | 26–37 | 25–38 |
+| N/A | [Poll Average](average.html) | 31 | 27–35 | 26–37 | 26–37 | 25–38 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 32 | 31–34 | 31–34 | 31–34 | 28–36 |
-| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 29 | 26–30 | 26–31 | 25–32 | 23–32 |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 26 | 26–32 | 25–33 | 25–33 | 23–34 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–37 | 29–37 | 29–37 | 28–39 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 32 | 29–34 | 28–34 | 27–36 | 25–36 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 30 | 28–31 | 28–32 | 28–32 | 26–35 |
@@ -253,17 +253,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.1% | 100% |  |
-| 24 | 0.1% | 99.9% |  |
-| 25 | 0.4% | 99.8% |  |
-| 26 | 3% | 99.5% |  |
-| 27 | 5% | 97% |  |
-| 28 | 5% | 91% |  |
-| 29 | 10% | 87% |  |
-| 30 | 15% | 76% |  |
+| 23 | 0.2% | 100% |  |
+| 24 | 0.1% | 99.8% |  |
+| 25 | 0.7% | 99.7% |  |
+| 26 | 8% | 99.0% |  |
+| 27 | 6% | 91% |  |
+| 28 | 5% | 86% |  |
+| 29 | 8% | 81% |  |
+| 30 | 11% | 74% |  |
 | 31 | 18% | 62% | Median |
-| 32 | 17% | 43% |  |
-| 33 | 4% | 26% |  |
+| 32 | 17% | 44% |  |
+| 33 | 5% | 28% |  |
 | 34 | 8% | 23% | Last Result |
 | 35 | 7% | 15% |  |
 | 36 | 1.3% | 7% |  |
