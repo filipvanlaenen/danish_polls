@@ -10,7 +10,9 @@ Last result: **4.6%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.6–8.3% | 5.3–8.7% | 5.1–9.1% | 4.7–9.9% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.5–8.2% | 5.2–8.6% | 5.0–9.0% | 4.5–9.8% |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 7.2% | 6.2–8.3% | 6.0–8.6% | 5.8–8.9% | 5.3–9.5% |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5.8% | 5.0–6.9% | 4.8–7.2% | 4.6–7.4% | 4.2–7.9% |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 7.2% | 6.3–8.3% | 6.0–8.6% | 5.8–8.9% | 5.4–9.5% |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.1% | 7.0–9.3% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
@@ -118,13 +120,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 8% | 99.7% | Last Result |
-| 5.5–6.5% | 31% | 92% |  |
-| 6.5–7.5% | 35% | 60% | Median |
-| 7.5–8.5% | 19% | 26% |  |
-| 8.5–9.5% | 6% | 7% |  |
-| 9.5–10.5% | 0.9% | 1.0% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 11% | 99.4% | Last Result |
+| 5.5–6.5% | 34% | 88% |  |
+| 6.5–7.5% | 32% | 54% | Median |
+| 7.5–8.5% | 16% | 22% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 0.8% | 0.9% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -137,7 +139,9 @@ Last result: **8** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–15 | 9–16 | 8–17 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–15 | 9–15 | 8–17 |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–13 | 12–14 | 11–15 | 10–16 |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 11 | 10–12 | 9–12 | 9–12 | 8–13 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–14 | 11–15 | 11–16 | 9–17 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
@@ -246,16 +250,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.6% | 100% | Last Result |
-| 9 | 6% | 99.4% |  |
-| 10 | 12% | 93% |  |
-| 11 | 13% | 82% |  |
-| 12 | 19% | 69% | Median |
-| 13 | 17% | 50% |  |
-| 14 | 25% | 33% |  |
-| 15 | 6% | 8% |  |
-| 16 | 1.3% | 3% |  |
-| 17 | 1.1% | 1.3% |  |
+| 8 | 0.7% | 100% | Last Result |
+| 9 | 6% | 99.3% |  |
+| 10 | 14% | 93% |  |
+| 11 | 16% | 79% |  |
+| 12 | 19% | 63% | Median |
+| 13 | 22% | 44% |  |
+| 14 | 16% | 22% |  |
+| 15 | 5% | 7% |  |
+| 16 | 1.1% | 2% |  |
+| 17 | 0.7% | 0.9% |  |
 | 18 | 0.1% | 0.2% |  |
 | 19 | 0% | 0.1% |  |
 | 20 | 0% | 0% |  |

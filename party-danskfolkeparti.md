@@ -10,7 +10,9 @@ Last result: **21.1%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.7% | 12.6–16.4% | 12.0–16.8% | 11.6–17.2% | 10.8–17.9% |
+| N/A | [Poll Average](average.html) | 14.5% | 12.7–16.2% | 12.1–16.7% | 11.7–17.0% | 10.8–17.7% |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 14.8% | 13.4–16.3% | 13.0–16.7% | 12.7–17.1% | 12.1–17.8% |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 14.4% | 13.1–15.8% | 12.7–16.2% | 12.4–16.6% | 11.8–17.3% |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 15.4% | 14.1–16.9% | 13.7–17.4% | 13.4–17.7% | 12.8–18.5% |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 12.6% | 11.4–14.1% | 11.0–14.5% | 10.7–14.8% | 10.1–15.5% |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 14.4% | 13.1–15.7% | 12.8–16.1% | 12.5–16.5% | 11.9–17.1% |
@@ -118,16 +120,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.3% | 100% |  |
-| 10.5–11.5% | 2% | 99.7% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 2% | 99.8% |  |
 | 11.5–12.5% | 7% | 98% |  |
-| 12.5–13.5% | 15% | 91% |  |
-| 13.5–14.5% | 23% | 75% |  |
-| 14.5–15.5% | 25% | 52% | Median |
-| 15.5–16.5% | 19% | 27% |  |
-| 16.5–17.5% | 7% | 8% |  |
-| 17.5–18.5% | 1.1% | 1.2% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 17% | 91% |  |
+| 13.5–14.5% | 26% | 75% |  |
+| 14.5–15.5% | 26% | 48% | Median |
+| 15.5–16.5% | 17% | 23% |  |
+| 16.5–17.5% | 5% | 6% |  |
+| 17.5–18.5% | 0.7% | 0.7% |  |
+| 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
 
@@ -140,7 +142,9 @@ Last result: **37** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 22–30 | 21–30 | 20–30 | 19–31 |
+| N/A | [Poll Average](average.html) | 26 | 22–29 | 21–30 | 20–30 | 19–30 |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 26 | 25–27 | 25–28 | 24–29 | 23–29 |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 26 | 24–28 | 23–28 | 21–28 | 21–30 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 27 | 25–30 | 24–31 | 24–31 | 23–32 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 23 | 20–28 | 20–28 | 19–28 | 18–28 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 26 | 24–28 | 23–29 | 22–29 | 22–29 |
@@ -250,21 +254,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
-| 19 | 0.7% | 99.9% |  |
-| 20 | 2% | 99.2% |  |
+| 19 | 0.6% | 99.9% |  |
+| 20 | 2% | 99.3% |  |
 | 21 | 3% | 97% |  |
-| 22 | 6% | 94% |  |
-| 23 | 6% | 88% |  |
-| 24 | 12% | 82% |  |
-| 25 | 13% | 70% |  |
-| 26 | 6% | 57% |  |
-| 27 | 21% | 51% | Median |
-| 28 | 14% | 30% |  |
-| 29 | 4% | 16% |  |
-| 30 | 10% | 12% |  |
-| 31 | 2% | 2% |  |
-| 32 | 0.3% | 0.4% |  |
-| 33 | 0.1% | 0.1% |  |
+| 22 | 5% | 94% |  |
+| 23 | 6% | 89% |  |
+| 24 | 13% | 83% |  |
+| 25 | 11% | 70% |  |
+| 26 | 14% | 59% | Median |
+| 27 | 21% | 45% |  |
+| 28 | 13% | 24% |  |
+| 29 | 3% | 11% |  |
+| 30 | 7% | 8% |  |
+| 31 | 0.4% | 0.5% |  |
+| 32 | 0.1% | 0.1% |  |
+| 33 | 0% | 0% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |
 | 36 | 0% | 0% |  |
