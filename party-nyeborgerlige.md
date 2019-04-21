@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.5–5.5% | 2.3–5.9% | 2.1–6.2% | 1.9–6.7% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.3% | 2.0–4.6% | 1.8–4.9% | 1.5–5.4% |
+| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.6% | 2.9–4.5% | 2.7–4.7% | 2.6–4.9% | 2.3–5.4% |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 2.2% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.7% |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 2.7% | 2.3–3.3% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 3.3% | 2.7–4.2% | 2.6–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 1.9% | 1.4–2.6% | 1.3–2.7% | 1.2–2.9% | 1.1–3.3% |
@@ -120,14 +123,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 11% | 100% |  |
-| 2.5–3.5% | 42% | 89% | Median |
-| 3.5–4.5% | 27% | 47% |  |
-| 4.5–5.5% | 11% | 20% |  |
-| 5.5–6.5% | 8% | 9% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 24% | 99.4% |  |
+| 2.5–3.5% | 44% | 76% | Median |
+| 3.5–4.5% | 26% | 31% |  |
+| 4.5–5.5% | 5% | 6% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -138,7 +140,10 @@ Last result: **0** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–10 | 4–10 | 0–11 | 0–11 |
+| N/A | [Poll Average](average.html) | 6 | 4–7 | 0–7 | 0–8 | 0–9 |
+| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 7 | 5–7 | 5–9 | 5–9 | 5–9 |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 0–7 | 0–7 | 0–7 |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–6 | 4–7 | 4–7 | 0–7 |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 7 | 5–7 | 4–7 | 4–8 | 4–9 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
@@ -249,20 +254,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 0% | 96% |  |
-| 2 | 0% | 96% |  |
-| 3 | 0% | 96% |  |
-| 4 | 5% | 96% |  |
-| 5 | 25% | 91% |  |
-| 6 | 27% | 65% | Median |
-| 7 | 17% | 38% |  |
-| 8 | 5% | 22% |  |
-| 9 | 4% | 16% |  |
-| 10 | 9% | 12% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0.3% | 0.4% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 0% | 94% |  |
+| 2 | 0% | 94% |  |
+| 3 | 0% | 94% |  |
+| 4 | 17% | 94% |  |
+| 5 | 26% | 77% |  |
+| 6 | 21% | 51% | Median |
+| 7 | 25% | 30% |  |
+| 8 | 3% | 5% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 

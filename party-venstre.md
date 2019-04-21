@@ -10,7 +10,10 @@ Last result: **19.5%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.5% | 15.6–19.7% | 15.1–20.3% | 14.7–20.8% | 13.8–21.7% |
+| N/A | [Poll Average](average.html) | 18.2% | 15.7–20.2% | 15.1–20.7% | 14.6–21.1% | 13.8–21.9% |
+| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 18.4% | 16.9–20.0% | 16.4–20.5% | 16.1–20.9% | 15.4–21.7% |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 18.8% | 17.3–20.4% | 16.8–20.9% | 16.5–21.3% | 15.8–22.1% |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 18.5% | 17.3–19.8% | 16.9–20.2% | 16.6–20.5% | 16.1–21.2% |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 18.3% | 16.8–19.9% | 16.4–20.3% | 16.0–20.7% | 15.3–21.5% |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 15.8% | 14.4–17.3% | 14.0–17.7% | 13.7–18.1% | 13.1–18.8% |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 18.7% | 17.2–20.3% | 16.8–20.7% | 16.4–21.1% | 15.7–21.9% |
@@ -120,16 +123,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
 | 13.5–14.5% | 2% | 99.7% |  |
-| 14.5–15.5% | 7% | 98% |  |
-| 15.5–16.5% | 17% | 91% |  |
-| 16.5–17.5% | 26% | 74% | Median |
-| 17.5–18.5% | 23% | 48% |  |
-| 18.5–19.5% | 14% | 25% |  |
-| 19.5–20.5% | 8% | 11% | Last Result |
-| 20.5–21.5% | 3% | 4% |  |
-| 21.5–22.5% | 0.6% | 0.6% |  |
+| 14.5–15.5% | 6% | 98% |  |
+| 15.5–16.5% | 12% | 91% |  |
+| 16.5–17.5% | 16% | 80% |  |
+| 17.5–18.5% | 22% | 63% | Median |
+| 18.5–19.5% | 22% | 42% |  |
+| 19.5–20.5% | 14% | 20% | Last Result |
+| 20.5–21.5% | 5% | 6% |  |
+| 21.5–22.5% | 0.9% | 1.0% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -142,7 +145,10 @@ Last result: **34** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–35 | 26–37 | 26–37 | 25–38 |
+| N/A | [Poll Average](average.html) | 32 | 27–36 | 26–37 | 26–37 | 25–38 |
+| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 32 | 30–37 | 30–37 | 29–37 | 28–39 |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 31–36 | 29–36 | 29–37 | 29–38 |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 33 | 33 | 33 | 33 | 31–35 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 32 | 31–34 | 31–34 | 31–34 | 28–36 |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 26 | 26–32 | 25–33 | 25–33 | 23–34 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–37 | 29–37 | 29–37 | 28–39 |
@@ -257,19 +263,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.1% | 99.8% |  |
 | 25 | 0.7% | 99.7% |  |
 | 26 | 8% | 99.0% |  |
-| 27 | 6% | 91% |  |
-| 28 | 5% | 86% |  |
-| 29 | 8% | 81% |  |
-| 30 | 11% | 74% |  |
-| 31 | 18% | 62% | Median |
-| 32 | 17% | 44% |  |
-| 33 | 5% | 28% |  |
-| 34 | 8% | 23% | Last Result |
-| 35 | 7% | 15% |  |
-| 36 | 1.3% | 7% |  |
-| 37 | 5% | 6% |  |
-| 38 | 0.9% | 1.0% |  |
-| 39 | 0.1% | 0.1% |  |
+| 27 | 1.5% | 90% |  |
+| 28 | 3% | 89% |  |
+| 29 | 5% | 86% |  |
+| 30 | 11% | 81% |  |
+| 31 | 15% | 70% |  |
+| 32 | 7% | 55% | Median |
+| 33 | 20% | 48% |  |
+| 34 | 4% | 28% | Last Result |
+| 35 | 10% | 24% |  |
+| 36 | 5% | 14% |  |
+| 37 | 8% | 9% |  |
+| 38 | 1.3% | 2% |  |
+| 39 | 0.1% | 0.2% |  |
 | 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% |  |
 
