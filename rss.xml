@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Wed, 24 Apr 2019 18:56:14 +0200</pubDate>
+    <pubDate>Wed, 24 Apr 2019 19:26:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 15–21 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-04-21-Voxmeter.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-04-21-Voxmeter.png"
         length="267338"
         type="image/png"/>
-      <pubDate>Wed, 24 Apr 2019 18:56:14 +0200</pubDate>
-      <dc:date>2019-04-24T18:56:14.26956+02:00</dc:date>
+      <pubDate>Wed, 24 Apr 2019 19:26:58 +0200</pubDate>
+      <dc:date>2019-04-24T19:26:58.105271+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 15–17 April 2019 – Seat Projections for the Parties</title>
@@ -2639,6 +2639,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-04-24T18:56:14.26956+02:00</dc:date>
+    <dc:date>2019-04-24T19:26:58.105271+02:00</dc:date>
   </channel>
 </rss>
