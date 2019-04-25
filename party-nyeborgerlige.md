@@ -142,7 +142,7 @@ Last result: **0** seats (General Election of 18 June 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 0–7 | 0–7 | 0–8 | 0–9 |
-| [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 7 | 5–7 | 5–9 | 5–9 | 5–9 |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 0–7 | 0–7 | 0–7 |
 | [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -260,9 +260,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 86% |  |
 | 2 | 0% | 86% |  |
 | 3 | 0% | 86% |  |
-| 4 | 8% | 86% |  |
-| 5 | 27% | 77% |  |
-| 6 | 22% | 50% | Median |
+| 4 | 10% | 86% |  |
+| 5 | 26% | 76% |  |
+| 6 | 21% | 50% | Median |
 | 7 | 24% | 29% |  |
 | 8 | 3% | 5% |  |
 | 9 | 2% | 2% |  |
