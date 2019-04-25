@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Wed, 24 Apr 2019 22:45:35 +0200</pubDate>
+    <pubDate>Thu, 25 Apr 2019 14:45:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 15–21 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-04-21-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 47–58 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 23–31 seats&lt;/li&gt;&lt;li&gt;Venstre: 30–37 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 14–20 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 5–10 seats&lt;/li&gt;&lt;li&gt;Alternativet: 4–8 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 9–15 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 9–14 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 6–11 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0–5 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-04-21-Voxmeter-seats.png"
+        length="221563"
+        type="image/png"/>
+      <pubDate>Thu, 25 Apr 2019 14:45:23 +0200</pubDate>
+      <dc:date>2019-04-25T14:45:23.161584+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 15–21 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-04-21-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-04-21-Voxmeter-coalitions-seats.png"
+        length="410446"
+        type="image/png"/>
+      <pubDate>Thu, 25 Apr 2019 14:45:23 +0200</pubDate>
+      <dc:date>2019-04-25T14:45:23.161584+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 15–21 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-04-21-Voxmeter.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-04-21-Voxmeter.png"
         length="267338"
         type="image/png"/>
-      <pubDate>Wed, 24 Apr 2019 22:45:35 +0200</pubDate>
-      <dc:date>2019-04-24T22:45:35.230065+02:00</dc:date>
+      <pubDate>Thu, 25 Apr 2019 14:45:23 +0200</pubDate>
+      <dc:date>2019-04-25T14:45:23.161584+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 15–17 April 2019 – Seat Projections for the Parties</title>
@@ -2639,6 +2659,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-04-24T22:45:35.230065+02:00</dc:date>
+    <dc:date>2019-04-25T14:45:23.161584+02:00</dc:date>
   </channel>
 </rss>
