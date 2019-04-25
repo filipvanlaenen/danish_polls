@@ -142,11 +142,11 @@ Last result: **14** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–19 | 12–19 | 11–20 |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–20 | 12–21 | 11–21 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 15–19 | 15–19 | 14–20 | 12–21 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 17 | 15–19 | 14–19 | 13–20 | 12–21 |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 16–18 | 16–20 | 16–22 | 14–25 |
-| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 17 | 16–17 | 16–17 | 16–17 | 15–20 |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 17 | 16–21 | 16–21 | 16–21 | 15–21 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–16 | 14–17 | 14–18 | 13–18 |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 15 | 15–17 | 14–18 | 14–18 | 12–20 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
@@ -263,12 +263,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 5% | 96% |  |
 | 14 | 5% | 91% | Last Result |
 | 15 | 23% | 87% |  |
-| 16 | 23% | 64% | Median |
-| 17 | 25% | 41% |  |
-| 18 | 9% | 15% |  |
-| 19 | 5% | 6% |  |
-| 20 | 1.4% | 2% |  |
-| 21 | 0.1% | 0.2% |  |
+| 16 | 19% | 64% | Median |
+| 17 | 22% | 45% |  |
+| 18 | 9% | 23% |  |
+| 19 | 8% | 14% |  |
+| 20 | 1.4% | 5% |  |
+| 21 | 4% | 4% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
