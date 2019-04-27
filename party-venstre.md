@@ -146,11 +146,11 @@ Last result: **34** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 27–36 | 26–37 | 26–37 | 25–38 |
+| N/A | [Poll Average](average.html) | 32 | 27–36 | 26–37 | 26–37 | 25–38 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 31–36 | 30–36 | 30–37 | 29–39 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 32 | 30–37 | 30–37 | 29–37 | 28–39 |
-| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 31–36 | 29–36 | 29–37 | 29–38 |
-| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 33 | 33–35 | 33–35 | 32–37 | 29–39 |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–36 | 30–38 | 28–38 | 28–40 |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 33 | 32–35 | 30–35 | 30–36 | 28–37 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 32 | 31–34 | 31–34 | 31–34 | 28–36 |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 26 | 26–32 | 25–33 | 25–33 | 23–34 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–37 | 29–37 | 29–37 | 28–39 |
@@ -268,16 +268,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 2% | 90% |  |
 | 28 | 3% | 89% |  |
 | 29 | 4% | 86% |  |
-| 30 | 12% | 82% |  |
-| 31 | 11% | 70% |  |
-| 32 | 8% | 58% |  |
-| 33 | 15% | 51% | Median |
-| 34 | 8% | 36% | Last Result |
-| 35 | 17% | 29% |  |
+| 30 | 13% | 82% |  |
+| 31 | 11% | 69% |  |
+| 32 | 11% | 58% | Median |
+| 33 | 11% | 47% |  |
+| 34 | 9% | 36% | Last Result |
+| 35 | 15% | 27% |  |
 | 36 | 2% | 12% |  |
 | 37 | 8% | 10% |  |
 | 38 | 1.3% | 2% |  |
-| 39 | 0.3% | 0.5% |  |
+| 39 | 0.2% | 0.4% |  |
 | 40 | 0.1% | 0.2% |  |
 | 41 | 0% | 0.1% |  |
 | 42 | 0% | 0% |  |

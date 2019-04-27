@@ -145,11 +145,11 @@ Last result: **37** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–28 | 22–29 | 21–29 | 20–31 |
+| N/A | [Poll Average](average.html) | 26 | 22–28 | 22–29 | 21–29 | 20–31 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 27 | 24–29 | 24–31 | 23–31 | 22–31 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 24 | 21–28 | 21–28 | 20–28 | 20–30 |
-| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 26 | 23–28 | 22–28 | 21–28 | 21–30 |
-| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 25 | 22–26 | 22–26 | 22–26 | 21–28 |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 25 | 22–28 | 22–29 | 21–29 | 20–30 |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 25 | 22–27 | 22–27 | 21–27 | 21–28 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 26 | 25–27 | 25–28 | 24–29 | 23–29 |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 27 | 24–28 | 23–29 | 23–30 | 21–31 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 27 | 25–30 | 24–31 | 24–31 | 23–32 |
@@ -262,18 +262,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.1% | 100% |  |
 | 20 | 0.9% | 99.9% |  |
-| 21 | 3% | 99.1% |  |
-| 22 | 9% | 96% |  |
-| 23 | 4% | 87% |  |
+| 21 | 4% | 99.1% |  |
+| 22 | 7% | 95% |  |
+| 23 | 5% | 88% |  |
 | 24 | 17% | 83% |  |
-| 25 | 16% | 66% | Median |
-| 26 | 10% | 50% |  |
-| 27 | 27% | 40% |  |
+| 25 | 15% | 66% |  |
+| 26 | 9% | 52% | Median |
+| 27 | 30% | 43% |  |
 | 28 | 6% | 13% |  |
 | 29 | 6% | 7% |  |
-| 30 | 0.6% | 2% |  |
+| 30 | 0.7% | 2% |  |
 | 31 | 1.1% | 1.2% |  |
-| 32 | 0% | 0.1% |  |
+| 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |

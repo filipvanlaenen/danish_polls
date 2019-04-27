@@ -144,7 +144,7 @@ Last result: **0** seats (General Election of 18 June 2015)
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–8 | 0–9 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 7 | 5–7 | 5–9 | 5–9 | 5–9 |
-| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 0–7 | 0–7 | 0–7 |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–6 | 0–7 | 0–7 |
 | [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–6 | 4–7 | 4–7 | 0–7 |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 7 | 5–7 | 4–7 | 4–8 | 4–9 |
@@ -261,7 +261,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 86% |  |
 | 3 | 0% | 86% |  |
 | 4 | 17% | 86% |  |
-| 5 | 23% | 69% | Median |
+| 5 | 22% | 68% | Median |
 | 6 | 17% | 46% |  |
 | 7 | 24% | 29% |  |
 | 8 | 3% | 5% |  |
