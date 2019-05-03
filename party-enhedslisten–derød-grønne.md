@@ -11,6 +11,7 @@ Last result: **7.8%** (General Election of 18 June 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.1% | 7.8–10.4% | 7.4–10.7% | 7.1–11.0% | 6.7–11.6% |
+| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.2% | 7.2–11.9% |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.2% | 7.2–11.9% |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 9.3% | 8.2–10.6% | 7.9–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 9.8% | 8.7–11.1% | 8.4–11.4% | 8.1–11.8% | 7.6–12.4% |
@@ -142,7 +143,8 @@ Last result: **14** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–19 | 12–20 | 11–21 |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–20 | 12–21 | 11–21 |
+| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 15–20 | 14–20 | 14–20 | 13–22 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 15–19 | 15–19 | 14–20 | 12–21 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 17 | 15–19 | 14–19 | 13–20 | 12–21 |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 16–18 | 15–20 | 14–21 | 14–22 |
@@ -259,16 +261,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
 | 11 | 1.0% | 99.8% |  |
-| 12 | 3% | 98.8% |  |
+| 12 | 2% | 98.8% |  |
 | 13 | 5% | 96% |  |
 | 14 | 5% | 91% | Last Result |
-| 15 | 26% | 87% |  |
+| 15 | 26% | 86% |  |
 | 16 | 19% | 61% | Median |
-| 17 | 21% | 41% |  |
-| 18 | 9% | 21% |  |
-| 19 | 7% | 11% |  |
-| 20 | 2% | 4% |  |
-| 21 | 2% | 2% |  |
+| 17 | 23% | 42% |  |
+| 18 | 7% | 20% |  |
+| 19 | 6% | 13% |  |
+| 20 | 4% | 7% |  |
+| 21 | 3% | 3% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
