@@ -10,7 +10,10 @@ Last result: **4.2%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.5–8.5% | 5.2–8.9% | 4.9–9.3% | 4.4–10.0% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.6–8.7% | 5.2–9.1% | 4.9–9.4% | 4.4–10.0% |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 8.6% | 7.7–9.5% | 7.5–9.8% | 7.3–10.0% | 6.9–10.5% |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 7.5% | 6.6–8.7% | 6.3–9.1% | 6.1–9.3% | 5.6–9.9% |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 7.8% | 7.0–8.6% | 6.8–8.9% | 6.6–9.1% | 6.3–9.5% |
 | [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.2% | 4.0–7.7% |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
@@ -125,13 +128,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% | Last Result |
-| 4.5–5.5% | 10% | 99.0% |  |
-| 5.5–6.5% | 27% | 89% |  |
-| 6.5–7.5% | 31% | 63% | Median |
-| 7.5–8.5% | 22% | 32% |  |
-| 8.5–9.5% | 8% | 10% |  |
-| 9.5–10.5% | 1.3% | 1.4% |  |
+| 3.5–4.5% | 0.8% | 100% | Last Result |
+| 4.5–5.5% | 8% | 99.2% |  |
+| 5.5–6.5% | 24% | 91% |  |
+| 6.5–7.5% | 30% | 67% | Median |
+| 7.5–8.5% | 24% | 37% |  |
+| 8.5–9.5% | 11% | 13% |  |
+| 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -144,7 +147,10 @@ Last result: **7** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–15 | 9–16 | 9–17 | 8–17 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–16 | 9–17 | 8–18 |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 16 | 14–17 | 14–17 | 13–18 | 12–20 |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 13 | 13–14 | 12–14 | 12–16 | 11–17 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 14 | 14 | 13–15 | 12–17 | 12–18 |
 | [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–12 | 8–12 | 8–12 | 7–14 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
@@ -260,18 +266,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.2% | 100% | Last Result |
-| 8 | 1.3% | 99.8% |  |
-| 9 | 7% | 98.5% |  |
-| 10 | 13% | 92% |  |
-| 11 | 20% | 79% |  |
-| 12 | 15% | 59% | Median |
-| 13 | 11% | 44% |  |
-| 14 | 13% | 33% |  |
-| 15 | 10% | 20% |  |
-| 16 | 7% | 10% |  |
+| 7 | 0.1% | 100% | Last Result |
+| 8 | 1.1% | 99.8% |  |
+| 9 | 6% | 98.7% |  |
+| 10 | 11% | 93% |  |
+| 11 | 17% | 82% |  |
+| 12 | 10% | 65% |  |
+| 13 | 14% | 54% | Median |
+| 14 | 18% | 41% |  |
+| 15 | 8% | 23% |  |
+| 16 | 12% | 15% |  |
 | 17 | 2% | 3% |  |
-| 18 | 0.4% | 0.4% |  |
-| 19 | 0% | 0% |  |
+| 18 | 0.5% | 0.8% |  |
+| 19 | 0% | 0.3% |  |
+| 20 | 0.3% | 0.3% |  |
+| 21 | 0% | 0% |  |
 
 

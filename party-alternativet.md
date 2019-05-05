@@ -10,7 +10,10 @@ Last result: **4.8%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.4–4.5% | 2.2–4.8% | 2.0–5.1% | 1.8–5.6% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.5–4.5% | 2.2–4.8% | 2.1–5.1% | 1.8–5.6% |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 3.4% | 2.9–4.0% | 2.7–4.2% | 2.6–4.4% | 2.4–4.7% |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.2% |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.0–4.8% | 2.8–5.1% |
 | [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 3.7% | 3.1–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.4% | 2.0–4.8% |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
@@ -125,11 +128,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 14% | 99.9% |  |
-| 2.5–3.5% | 40% | 86% | Median |
-| 3.5–4.5% | 37% | 46% |  |
-| 4.5–5.5% | 9% | 10% | Last Result |
-| 5.5–6.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 12% | 99.9% |  |
+| 2.5–3.5% | 41% | 88% | Median |
+| 3.5–4.5% | 38% | 47% |  |
+| 4.5–5.5% | 8% | 9% | Last Result |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -141,7 +144,10 @@ Last result: **9** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–9 | 4–9 | 0–11 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 4–8 | 4–9 | 0–10 |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 6 | 6–7 | 5–7 | 5–7 | 4–9 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 8 | 7–9 | 7–9 | 6–10 | 5–10 |
 | [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–9 | 6–9 | 5–10 | 4–10 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 4–7 | 4–7 | 4–8 | 0–9 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 5–7 | 5–7 | 4–9 | 0–9 |
@@ -261,13 +267,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 98% |  |
 | 2 | 0% | 98% |  |
 | 3 | 0% | 98% |  |
-| 4 | 9% | 98% |  |
-| 5 | 28% | 89% |  |
-| 6 | 20% | 61% | Median |
-| 7 | 24% | 41% |  |
-| 8 | 12% | 18% |  |
-| 9 | 3% | 5% | Last Result |
-| 10 | 2% | 2% |  |
+| 4 | 8% | 98% |  |
+| 5 | 20% | 91% |  |
+| 6 | 35% | 71% | Median |
+| 7 | 21% | 36% |  |
+| 8 | 11% | 15% |  |
+| 9 | 3% | 4% | Last Result |
+| 10 | 1.3% | 2% |  |
 | 11 | 0.5% | 0.5% |  |
 | 12 | 0% | 0% |  |
 

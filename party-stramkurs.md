@@ -1,4 +1,4 @@
-# Klaus Riskær Pedersen
+# Stram Kurs
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,29 +10,29 @@ Last result: **0.0%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.5% | 0.2–1.7% | 0.1–1.9% | 0.1–2.2% |
-| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
-| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
-| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
-| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
-| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
-| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
-| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
-| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
-| [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
-| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
-| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% | 0.4–1.8% |
-| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 0.6% | 0.4–0.9% | 0.4–1.1% | 0.3–1.1% | 0.2–1.3% |
-| [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
-| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
-| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.3% |
-| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
-| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.5% |
-| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.3–4.4% | 2.1–4.6% | 2.0–4.8% | 1.7–5.2% |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.8–5.3% |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
+| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.0% | N/A | N/A | N/A | N/A |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 0.0% | N/A | N/A | N/A | N/A |
+| [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.0% | N/A | N/A | N/A | N/A |
+| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0.0% | N/A | N/A | N/A | N/A |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
-| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 1.4% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
+| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
@@ -123,15 +123,18 @@ Last result: **0.0%** (General Election of 18 June 2015)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Klaus Riskær Pedersen.
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Stram Kurs.
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 16% | 100% | Last Result |
-| 0.5–1.5% | 74% | 84% | Median |
-| 1.5–2.5% | 10% | 10% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 17% | 99.9% |  |
+| 2.5–3.5% | 38% | 83% | Median |
+| 3.5–4.5% | 38% | 44% |  |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -142,29 +145,29 @@ Last result: **0** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
-| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
-| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
-| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
-| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 0 | 0 | 0 | 0 | 0 |
-| [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0–4 | 0–5 |
-| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0 | 0 | 0 | 0 | 0 |
-| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
-| [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0–4 |
-| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 6 | 4–9 | 4–9 | 4–9 | 0–10 |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 9 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 4–5 | 4–6 | 4–6 | 0–7 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov |  |  |  |  |  |
+| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen |  |  |  |  |  |
+| [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
+| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten |  |  |  |  |  |
+| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske |  |  |  |  |  |
+| [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [25 February–3 March 2019](2019-03-03-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [25–28 February 2019](2019-02-28-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
 | [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
-| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0–4 | 0–5 |
+| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
@@ -255,18 +258,23 @@ Last result: **0** seats (General Election of 18 June 2015)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-klausriskærpedersen.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-stramkurs.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Klaus Riskær Pedersen.
+The following table shows the probability mass function per seat for the [poll average](average.html) for Stram Kurs.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Last Result, Median |
-| 1 | 0% | 0.7% |  |
-| 2 | 0% | 0.7% |  |
-| 3 | 0% | 0.7% |  |
-| 4 | 0.7% | 0.7% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 0 | 1.1% | 100% | Last Result |
+| 1 | 0% | 98.9% |  |
+| 2 | 0% | 98.9% |  |
+| 3 | 0% | 98.9% |  |
+| 4 | 22% | 98.9% |  |
+| 5 | 25% | 77% |  |
+| 6 | 14% | 52% | Median |
+| 7 | 8% | 39% |  |
+| 8 | 4% | 31% |  |
+| 9 | 26% | 27% |  |
+| 10 | 0.9% | 0.9% |  |
+| 11 | 0% | 0% |  |
 
 
