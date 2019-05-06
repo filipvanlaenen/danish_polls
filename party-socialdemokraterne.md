@@ -154,10 +154,10 @@ Last result: **47** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49 | 41–54 | 38–55 | 36–56 | 36–59 |
-| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 40 | 36–42 | 36–42 | 36–44 | 35–45 |
+| N/A | [Poll Average](average.html) | 49 | 41–54 | 40–55 | 37–56 | 36–59 |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 42 | 37–43 | 36–43 | 36–44 | 36–45 |
 | [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 44 | 41–44 | 41–46 | 41–48 | 38–48 |
-| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 48 | 44–50 | 41–50 | 41–50 | 41–50 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 48 | 43–50 | 43–50 | 42–50 | 41–50 |
 | [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 46–51 | 46–52 | 45–52 | 43–56 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 48–55 | 48–58 | 47–58 | 44–58 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 44 | 41–47 | 41–49 | 41–50 | 39–51 |
@@ -274,16 +274,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0.1% | 100% |  |
-| 36 | 3% | 99.9% |  |
-| 37 | 0.8% | 97% |  |
-| 38 | 2% | 96% |  |
-| 39 | 0.5% | 94% |  |
-| 40 | 0.7% | 93% |  |
-| 41 | 8% | 93% |  |
-| 42 | 8% | 85% |  |
-| 43 | 0.8% | 76% |  |
+| 36 | 1.3% | 99.9% |  |
+| 37 | 2% | 98.6% |  |
+| 38 | 0.9% | 97% |  |
+| 39 | 0.4% | 96% |  |
+| 40 | 1.2% | 96% |  |
+| 41 | 7% | 94% |  |
+| 42 | 6% | 88% |  |
+| 43 | 6% | 82% |  |
 | 44 | 7% | 75% |  |
-| 45 | 5% | 69% |  |
+| 45 | 5% | 68% |  |
 | 46 | 2% | 63% |  |
 | 47 | 5% | 61% | Last Result |
 | 48 | 5% | 56% |  |
