@@ -151,11 +151,11 @@ Last result: **0** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–9 | 0–9 | 0–9 | 0–9 |
-| [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 6 | 4–9 | 4–9 | 4–9 | 4–9 |
-| [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 7 | 5–9 | 5–9 | 5–9 | 5–9 |
-| [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0–4 | 0–5 | 0–5 |
-| [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 5 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–8 | 0–8 |
+| [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 7 | 6–8 | 6–8 | 5–8 | 5–10 |
+| [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–5 | 4–5 | 0–6 | 0–6 |
 | [7 May 2019](2019-05-07-Epinion.html) | Epinion <br> DR | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [28 April–5 May 2019](2019-05-05-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4–5 | 0–5 | 0–6 |
 | [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 6 | 6–9 | 6–9 | 6–9 | 5–10 |
@@ -276,16 +276,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 0% | 80% |  |
-| 2 | 0% | 80% |  |
-| 3 | 0% | 80% |  |
-| 4 | 25% | 80% |  |
-| 5 | 25% | 54% | Median |
-| 6 | 13% | 29% |  |
-| 7 | 4% | 16% |  |
-| 8 | 0.1% | 11% |  |
-| 9 | 11% | 11% |  |
-| 10 | 0% | 0% |  |
+| 0 | 13% | 100% | Last Result |
+| 1 | 0% | 87% |  |
+| 2 | 0% | 87% |  |
+| 3 | 0% | 87% |  |
+| 4 | 28% | 87% |  |
+| 5 | 29% | 59% | Median |
+| 6 | 13% | 30% |  |
+| 7 | 14% | 17% |  |
+| 8 | 2% | 3% |  |
+| 9 | 0% | 0.3% |  |
+| 10 | 0.3% | 0.3% |  |
+| 11 | 0% | 0% |  |
 
 
