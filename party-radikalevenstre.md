@@ -10,8 +10,11 @@ Last result: **4.6%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.6–8.9% | 5.3–9.4% | 5.0–9.7% | 4.5–10.5% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.5–8.9% | 5.2–9.3% | 5.0–9.6% | 4.5–10.3% |
+| [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
+| [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.9–10.2% |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 6.5% | 5.6–7.6% | 5.3–8.0% | 5.1–8.2% | 4.7–8.8% |
+| [2–8 May 2019](2019-05-08-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 6.3% | 5.5–7.3% | 5.2–7.6% | 5.1–7.8% | 4.7–8.3% |
 | [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 8.4% | 7.6–9.3% | 7.4–9.6% | 7.2–9.8% | 6.8–10.3% |
 | [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
 | [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 7.1% | 6.2–8.3% | 6.0–8.6% | 5.7–8.8% | 5.3–9.4% |
@@ -135,13 +138,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 9% | 99.5% | Last Result |
-| 5.5–6.5% | 21% | 91% |  |
-| 6.5–7.5% | 29% | 70% | Median |
-| 7.5–8.5% | 24% | 41% |  |
-| 8.5–9.5% | 13% | 17% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 10% | 99.5% | Last Result |
+| 5.5–6.5% | 23% | 90% |  |
+| 6.5–7.5% | 25% | 67% | Median |
+| 7.5–8.5% | 25% | 42% |  |
+| 8.5–9.5% | 14% | 17% |  |
+| 9.5–10.5% | 3% | 3% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -153,8 +156,11 @@ Last result: **8** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–17 | 9–17 | 9–18 | 8–18 |
+| N/A | [Poll Average](average.html) | 12 | 10–16 | 9–17 | 9–18 | 8–18 |
+| [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 13–18 | 12–18 | 12–18 | 12–20 |
+| [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–16 | 11–16 | 11–17 | 10–19 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 11 | 10–14 | 10–14 | 10–15 | 9–16 |
+| [2–8 May 2019](2019-05-08-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 16 | 14–18 | 14–18 | 13–18 | 13–18 |
 | [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 17 | 14–18 | 13–18 | 13–18 | 12–19 |
 | [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 11 | 11–13 | 11–13 | 11–15 | 11–16 |
@@ -281,17 +287,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.2% | 100% |  |
 | 8 | 2% | 99.8% | Last Result |
 | 9 | 6% | 98% |  |
-| 10 | 8% | 92% |  |
-| 11 | 21% | 84% |  |
-| 12 | 20% | 64% | Median |
-| 13 | 7% | 44% |  |
-| 14 | 13% | 37% |  |
-| 15 | 3% | 24% |  |
-| 16 | 11% | 22% |  |
-| 17 | 7% | 11% |  |
-| 18 | 4% | 4% |  |
-| 19 | 0.1% | 0.2% |  |
-| 20 | 0% | 0.1% |  |
+| 10 | 12% | 92% |  |
+| 11 | 26% | 80% |  |
+| 12 | 5% | 54% | Median |
+| 13 | 7% | 48% |  |
+| 14 | 14% | 41% |  |
+| 15 | 10% | 27% |  |
+| 16 | 11% | 17% |  |
+| 17 | 2% | 7% |  |
+| 18 | 5% | 5% |  |
+| 19 | 0.2% | 0.4% |  |
+| 20 | 0.2% | 0.3% |  |
 | 21 | 0% | 0% |  |
 
 
