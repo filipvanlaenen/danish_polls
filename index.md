@@ -2,18 +2,18 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | A | O | V | Ø | I | Å | B | F | C | K | D | E |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 18 June 2015 | General Election | 26.3% <br> 47 | 21.1% <br> 37 | 19.5% <br> 34 | 7.8% <br> 14 | 7.5% <br> 13 | 4.8% <br> 9 | 4.6% <br> 8 | 4.2% <br> 7 | 3.4% <br> 6 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–32% <br> 41–56 | 12–17% <br> 20–30 | 15–21% <br> 26–37 | 7–11% <br> 12–19 | 3–6% <br> 4–11 | 2–5% <br> 4–9 | 5–9% <br> 9–15 | 5–8% <br> 9–15 | 4–6% <br> 7–13 | 0–2% <br> 0 | 2–6% <br> 0–11 | 0–2% <br> 0 |
-| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 25–31% <br> 47–54 | 13–17% <br> 24–29 | 16–21% <br> 31–34 | 7–11% <br> 14–18 | 3–6% <br> 6–9 | 2–5% <br> 5–7 | 6–9% <br> 11–15 | 5–8% <br> 9–13 | 3–6% <br> 7–10 | 0–2% <br> 0 | 2–4% <br> 4–7 | 0–1% <br> 0 |
-| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 28–33% <br> 50–59 | 12–17% <br> 23–30 | 14–18% <br> 25–33 | 7–11% <br> 14–18 | 3–5% <br> 5–9 | 2–4% <br> 0–7 | 5–7% <br> 9–13 | 6–9% <br> 10–15 | 4–6% <br> 7–10 | 1–2% <br> 0–4 | 2–5% <br> 4–8 | 1–2% <br> 0 |
-| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 23–28% <br> 40–51 | 11–15% <br> 19–28 | 15–20% <br> 27–36 | 8–11% <br> 14–20 | 4–6% <br> 6–11 | 3–5% <br> 5–9 | 7–10% <br> 12–17 | 6–9% <br> 10–16 | 4–7% <br> 8–14 | 1–2% <br> 0–4 | 3–5% <br> 5–10 | 1–2% <br> 0–4 |
-| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 26–31% <br> 48–54 | 12–16% <br> 22–29 | 15–19% <br> 28–32 | 7–11% <br> 13–18 | 2–4% <br> 4–8 | 3–6% <br> 6–11 | 6–9% <br> 11–15 | 5–8% <br> 9–14 | 3–6% <br> 6–10 | 1–2% <br> 0 | 3–5% <br> 5–9 | 0–2% <br> 0 |
-| [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 27–32% <br> 47–56 | 13–17% <br> 22–29 | 15–19% <br> 27–34 | 8–11% <br> 14–19 | 3–5% <br> 5–8 | 2–4% <br> 4–7 | 5–7% <br> 8–13 | 6–8% <br> 10–15 | 4–6% <br> 7–12 | 0–1% <br> 0 | 2–4% <br> 4–8 | 0–1% <br> 0 |
-| [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 24–28% <br> 42–50 | 12–15% <br> 21–27 | 18–22% <br> 32–38 | 7–9% <br> 11–15 | 4–7% <br> 8–11 | 3–5% <br> 5–8 | 6–8% <br> 10–15 | 6–8% <br> 11–14 | 4–6% <br> 7–11 | 1% <br> 0 | 2–3% <br> 0–6 | 1–2% <br> 0 |
-| [11–14 January 2019](2019-01-14-YouGov.html) | YouGov | 22–26% <br> 40–45 | 14–18% <br> 25–30 | 16–19% <br> 29–35 | 9–12% <br> 16–20 | 4–6% <br> 7–10 | 3–5% <br> 6–9 | 5–7% <br> 10–12 | 5–7% <br> 9–12 | 4–6% <br> 7–10 | 1–2% <br> 0 | 5–7% <br> 9–12 | N/A <br> N/A |
-| 18 June 2015 | General Election | 26.3% <br> 47 | 21.1% <br> 37 | 19.5% <br> 34 | 7.8% <br> 14 | 7.5% <br> 13 | 4.8% <br> 9 | 4.6% <br> 8 | 4.2% <br> 7 | 3.4% <br> 6 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | A | O | V | Ø | I | Å | B | F | C | K | D | E | P |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 18 June 2015 | General Election | 26.3% <br> 47 | 21.1% <br> 37 | 19.5% <br> 34 | 7.8% <br> 14 | 7.5% <br> 13 | 4.8% <br> 9 | 4.6% <br> 8 | 4.2% <br> 7 | 3.4% <br> 6 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 23–30% <br> 41–54 | 10–15% <br> 17–26 | 16–22% <br> 27–39 | 7–12% <br> 12–20 | 3–6% <br> 4–10 | 2–6% <br> 4–9 | 5–10% <br> 9–18 | 6–10% <br> 10–17 | 3–6% <br> 6–11 | 0–2% <br> 0–5 | 1–6% <br> 0–12 | 0–2% <br> 0 | 1–5% <br> 0–8 |
+| [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 22–27% <br> 39–47 | 9–13% <br> 15–23 | 17–22% <br> 31–39 | 8–11% <br> 13–21 | 3–5% <br> 5–9 | 2–4% <br> 0–7 | 7–10% <br> 12–18 | 6–10% <br> 11–17 | 4–6% <br> 6–11 | 1–2% <br> 0–4 | 2–4% <br> 4–8 | 0–1% <br> 0 | 2–4% <br> 0–7 |
+| [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 25–31% <br> 44–56 | 9–13% <br> 17–25 | 17–22% <br> 30–41 | 8–12% <br> 13–21 | 3–5% <br> 5–10 | 2–4% <br> 0–7 | 6–10% <br> 11–17 | 6–9% <br> 10–17 | 3–5% <br> 5–9 | 1–3% <br> 0–5 | 1–3% <br> 0–5 | 0–1% <br> 0 | 1–3% <br> 0–4 |
+| [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 24–29% <br> 41–51 | 9–13% <br> 16–21 | 15–20% <br> 27–37 | 6–10% <br> 11–19 | 2–4% <br> 4–7 | 4–6% <br> 6–11 | 5–8% <br> 10–15 | 7–10% <br> 13–19 | 3–6% <br> 7–10 | 0–1% <br> 0 | 4–7% <br> 7–12 | 0–1% <br> 0 | 3–5% <br> 5–8 |
+| [2–8 May 2019](2019-05-08-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 26–31% <br> 47–56 | 11–15% <br> 21–28 | 15–20% <br> 28–34 | 8–11% <br> 14–20 | 3–5% <br> 4–8 | 3–5% <br> 6–9 | 5–8% <br> 10–14 | 6–8% <br> 10–14 | 3–6% <br> 6–9 | 1–2% <br> 0–4 | 1–3% <br> 0–6 | 0–1% <br> 0 | 3–5% <br> 5–8 |
+| [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 22–26% <br> 40–46 | 11–14% <br> 19–25 | 16–20% <br> 30–35 | 8–11% <br> 15–19 | 3–5% <br> 6–10 | 2–4% <br> 4–7 | 7–10% <br> 13–18 | 6–9% <br> 12–15 | 4–6% <br> 6–11 | 1–2% <br> 0 | 2–4% <br> 0–6 | 1–2% <br> 0 | 3–4% <br> 5–8 |
+| [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 25–30% <br> 46–52 | 10–14% <br> 19–23 | 17–22% <br> 33–41 | 9–12% <br> 16–21 | 4–6% <br> 7–10 | 2–4% <br> 5–7 | 6–9% <br> 11–15 | 5–8% <br> 10–14 | 3–5% <br> 5–8 | 1–2% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0–6 |
+| [7 May 2019](2019-05-07-Epinion.html) | Epinion <br> DR | 26–30% <br> 46–51 | 12–16% <br> 21–28 | 16–19% <br> 28–34 | 8–10% <br> 12–18 | 3–5% <br> 4–8 | 3–5% <br> 6–9 | 4–7% <br> 8–14 | 6–8% <br> 11–15 | 4–6% <br> 8–12 | 0–1% <br> 0 | 2–4% <br> 4–7 | 0–1% <br> 0 | 2–4% <br> 0–5 |
+| 18 June 2015 | General Election | 26.3% <br> 47 | 21.1% <br> 37 | 19.5% <br> 34 | 7.8% <br> 14 | 7.5% <br> 13 | 4.8% <br> 9 | 4.6% <br> 8 | 4.2% <br> 7 | 3.4% <br> 6 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -32,6 +32,7 @@ Only polls for which at least the sample size has been published are included in
 + **K:** Kristendemokraterne
 + **D:** Nye Borgerlige
 + **E:** Klaus Riskær Pedersen
++ **P:** Stram Kurs
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
