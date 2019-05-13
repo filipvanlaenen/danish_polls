@@ -166,7 +166,7 @@ Last result: **47** seats (General Election of 18 June 2015)
 | N/A | [Poll Average](average.html) | 49 | 43–52 | 42–53 | 42–53 | 39–56 |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 50 | 47–50 | 46–50 | 44–50 | 44–54 |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 46–52 | 46–53 | 45–54 | 44–56 |
-| [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 50–51 | 50–51 | 50–51 | 44–52 |
+| [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 49–53 | 47–53 | 46–55 | 43–56 |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 42 | 42–45 | 40–47 | 39–47 | 36–50 |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 45–55 | 44–56 | 44–56 | 44–57 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 49 | 44–51 | 43–51 | 41–51 | 41–52 |
