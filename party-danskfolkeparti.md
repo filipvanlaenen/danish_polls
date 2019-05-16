@@ -167,10 +167,10 @@ Last result: **37** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–25 | 18–26 | 17–26 | 15–28 |
-| [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 22 | 22 | 22 | 22 | 21–24 |
-| [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 23 | 17–24 | 17–24 | 16–24 | 15–25 |
-| [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 21 | 21 | 21 | 20–21 | 19–24 |
+| N/A | [Poll Average](average.html) | 22 | 18–25 | 18–26 | 17–26 | 16–28 |
+| [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 22 | 19–22 | 19–23 | 19–24 | 18–26 |
+| [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 18 | 18–23 | 17–23 | 16–24 | 16–25 |
+| [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 21 | 20–22 | 18–25 | 17–25 | 17–25 |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 19 | 19–21 | 19–22 | 19–23 | 18–24 |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 20 | 20–23 | 19–24 | 19–25 | 18–26 |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 23 | 20–24 | 20–24 | 18–25 | 18–26 |
@@ -301,17 +301,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 0.6% | 99.9% |  |
-| 16 | 0.4% | 99.3% |  |
-| 17 | 3% | 98.9% |  |
-| 18 | 2% | 96% |  |
-| 19 | 3% | 94% |  |
-| 20 | 19% | 92% |  |
-| 21 | 5% | 72% |  |
-| 22 | 20% | 67% | Median |
-| 23 | 12% | 48% |  |
-| 24 | 18% | 36% |  |
+| 15 | 0.4% | 100% |  |
+| 16 | 0.7% | 99.6% |  |
+| 17 | 1.4% | 98.9% |  |
+| 18 | 10% | 97% |  |
+| 19 | 6% | 88% |  |
+| 20 | 21% | 82% |  |
+| 21 | 8% | 61% |  |
+| 22 | 11% | 53% | Median |
+| 23 | 10% | 42% |  |
+| 24 | 14% | 32% |  |
 | 25 | 11% | 18% |  |
 | 26 | 5% | 7% |  |
 | 27 | 0.8% | 2% |  |

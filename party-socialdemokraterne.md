@@ -167,10 +167,10 @@ Last result: **47** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49 | 43–53 | 42–55 | 42–55 | 39–56 |
-| [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 50 | 48–50 | 47–50 | 47–52 |
-| [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 53 | 46–55 | 46–55 | 45–56 | 45–57 |
-| [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 48–49 | 48–50 | 48–50 | 48–51 |
+| N/A | [Poll Average](average.html) | 49 | 43–52 | 42–53 | 42–54 | 39–56 |
+| [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 48–54 | 47–56 | 47–56 | 46–57 |
+| [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 47 | 47–53 | 47–54 | 47–55 | 46–57 |
+| [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 48–52 | 48–55 | 47–57 | 44–57 |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 50 | 47–50 | 46–50 | 44–50 | 44–54 |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 46–52 | 46–53 | 45–54 | 44–56 |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 49–53 | 47–53 | 46–55 | 43–56 |
@@ -311,18 +311,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 10% | 90% |  |
 | 44 | 2% | 80% |  |
 | 45 | 4% | 78% |  |
-| 46 | 7% | 73% |  |
-| 47 | 4% | 67% | Last Result |
-| 48 | 3% | 63% |  |
-| 49 | 12% | 59% | Median |
-| 50 | 15% | 47% |  |
-| 51 | 16% | 32% |  |
-| 52 | 0.8% | 16% |  |
-| 53 | 9% | 15% |  |
-| 54 | 0.8% | 6% |  |
-| 55 | 5% | 6% |  |
-| 56 | 0.6% | 1.0% |  |
-| 57 | 0.4% | 0.4% |  |
-| 58 | 0% | 0% |  |
+| 46 | 5% | 74% |  |
+| 47 | 12% | 68% | Last Result |
+| 48 | 4% | 57% |  |
+| 49 | 14% | 53% | Median |
+| 50 | 13% | 39% |  |
+| 51 | 15% | 26% |  |
+| 52 | 1.4% | 11% |  |
+| 53 | 6% | 10% |  |
+| 54 | 2% | 4% |  |
+| 55 | 0.6% | 2% |  |
+| 56 | 1.4% | 2% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0.1% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 
