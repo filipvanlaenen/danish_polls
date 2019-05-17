@@ -10,8 +10,13 @@ Last result: **0.8%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.4–1.7% | 0.3–1.9% | 0.3–2.1% | 0.2–2.4% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.1% | 0.5–2.5% |
+| [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 1.7% | N/A | N/A | N/A | N/A |
+| [15 May 2019](2019-05-15-YouGov.html) | YouGov | 0.7% | N/A | N/A | N/A | N/A |
+| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 1.4% | N/A | N/A | N/A | N/A |
+| [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 1.3% | N/A | N/A | N/A | N/A |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.6–2.5% |
+| [11–13 May 2019](2019-05-13-Epinion.html) | Epinion | 0.5% | N/A | N/A | N/A | N/A |
 | [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.4% | 0.2–1.6% |
 | [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 0.7% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.2–1.6% |
@@ -142,10 +147,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 16% | 100% |  |
-| 0.5–1.5% | 66% | 84% | Last Result, Median |
-| 1.5–2.5% | 18% | 18% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 0.5% | 100% |  |
+| 0.5–1.5% | 75% | 99.5% | Last Result, Median |
+| 1.5–2.5% | 24% | 24% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -158,7 +163,12 @@ Last result: **0** seats (General Election of 18 June 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
+| [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [15 May 2019](2019-05-15-YouGov.html) | YouGov |  |  |  |  |  |
+| [15 May 2019](2019-05-15-Gallup.html) | Gallup |  |  |  |  |  |
+| [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [11–13 May 2019](2019-05-13-Epinion.html) | Epinion |  |  |  |  |  |
 | [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0–4 | 0–4 |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
