@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Sat, 18 May 2019 13:04:27 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 21:24:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 14–16 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-05-16-Voxmeter.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-16-Voxmeter.png"
         length="288972"
         type="image/png"/>
-      <pubDate>Fri, 17 May 2019 23:04:51 +0200</pubDate>
-      <dc:date>2019-05-17T23:04:51.077006+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 19:19:22 +0200</pubDate>
+      <dc:date>2019-05-18T19:19:22.557399+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 15 May 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-15-YouGov.png"
         length="292467"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 10:36:05 +0200</pubDate>
-      <dc:date>2019-05-18T10:36:05.661344+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 21:24:55 +0200</pubDate>
+      <dc:date>2019-05-18T21:24:55.282681+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 15 May 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-15-Gallup.png"
         length="275538"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 11:10:55 +0200</pubDate>
-      <dc:date>2019-05-18T11:10:55.878746+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 20:08:03 +0200</pubDate>
+      <dc:date>2019-05-18T20:08:03.873105+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 12–14 May 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-14-Voxmeter.png"
         length="286625"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 11:23:31 +0200</pubDate>
-      <dc:date>2019-05-18T11:23:31.490796+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 19:36:14 +0200</pubDate>
+      <dc:date>2019-05-18T19:36:14.785373+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–13 May 2019 – Seat Projections for the Parties</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-13-Epinion.png"
         length="272738"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 13:04:27 +0200</pubDate>
-      <dc:date>2019-05-18T13:04:27.50495+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 18:41:46 +0200</pubDate>
+      <dc:date>2019-05-18T18:41:46.562325+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 8–12 May 2019 – Seat Projections for the Parties</title>
@@ -3319,6 +3319,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-05-18T13:04:27.50495+02:00</dc:date>
+    <dc:date>2019-05-18T21:24:55.282681+02:00</dc:date>
   </channel>
 </rss>
