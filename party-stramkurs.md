@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 18 June 2015)
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
-| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 0.0% | N/A | N/A | N/A | N/A |
+| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 2.6% | N/A | N/A | N/A | N/A |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.8–5.3% | 2.5–5.7% |
@@ -169,7 +169,7 @@ Last result: **0** seats (General Election of 18 June 2015)
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–8 | 0–10 | 0–10 |
 | [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–7 | 0–7 | 0–7 | 0–7 |
 | [15 May 2019](2019-05-15-YouGov.html) | YouGov | 6 | 5–10 | 5–10 | 5–10 | 5–10 |
-| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–4 | 0–5 | 0–5 | 0–7 |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [11–13 May 2019](2019-05-13-Epinion.html) | Epinion | 4 | 0–4 | 0–5 | 0–6 | 0–6 |
@@ -310,8 +310,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 84% |  |
 | 2 | 0% | 84% |  |
 | 3 | 0% | 84% |  |
-| 4 | 25% | 84% |  |
-| 5 | 30% | 59% | Median |
+| 4 | 24% | 84% |  |
+| 5 | 30% | 60% | Median |
 | 6 | 12% | 30% |  |
 | 7 | 11% | 18% |  |
 | 8 | 3% | 8% |  |

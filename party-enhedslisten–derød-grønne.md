@@ -22,7 +22,7 @@ Last result: **7.8%** (General Election of 18 June 2015)
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 7.6% | 6.6–8.7% | 6.4–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.2% | 7.2–11.9% |
-| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 0.0% | N/A | N/A | N/A | N/A |
+| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 10.5% | N/A | N/A | N/A | N/A |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.8–11.4% | 7.3–12.0% |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 7.9% | 6.9–9.2% | 6.6–9.5% | 6.4–9.8% | 5.9–10.4% |
@@ -168,10 +168,10 @@ Last result: **14** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–20 | 14–20 | 13–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 16 | 14–20 | 14–20 | 13–20 | 13–21 |
 | [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 16–17 | 15–18 | 15–19 | 13–21 |
 | [15 May 2019](2019-05-15-YouGov.html) | YouGov | 16 | 13–19 | 13–19 | 13–19 | 13–19 |
-| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 15 | 13–16 | 13–17 | 13–17 | 13–18 |
+| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 14 | 14–16 | 14–17 | 13–18 | 12–19 |
 | [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 19 | 17–22 | 17–22 | 17–22 | 15–22 |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 18 | 17–21 | 17–22 | 16–24 | 15–24 |
 | [11–13 May 2019](2019-05-13-Epinion.html) | Epinion | 16 | 16–18 | 16–18 | 16–18 | 15–19 |
@@ -308,12 +308,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 4% | 99.9% |  |
-| 14 | 2% | 96% | Last Result |
-| 15 | 15% | 95% |  |
-| 16 | 42% | 80% | Median |
-| 17 | 9% | 38% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 3% | 99.8% |  |
+| 14 | 9% | 97% | Last Result |
+| 15 | 10% | 88% |  |
+| 16 | 40% | 78% | Median |
+| 17 | 8% | 38% |  |
 | 18 | 6% | 29% |  |
 | 19 | 11% | 23% |  |
 | 20 | 11% | 12% |  |

@@ -22,7 +22,7 @@ Last result: **3.4%** (General Election of 18 June 2015)
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.1% | 4.0–7.7% |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.5–6.2% | 3.2–6.7% |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 4.3% | 3.6–5.3% | 3.4–5.6% | 3.2–5.8% | 2.9–6.3% |
-| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 0.0% | N/A | N/A | N/A | N/A |
+| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 5.9% | N/A | N/A | N/A | N/A |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 5.0% | 4.2–5.9% | 3.9–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.8–5.2% | 2.5–5.7% |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 4.6% | 3.8–5.6% | 3.6–5.8% | 3.4–6.1% | 3.1–6.6% |
@@ -169,10 +169,10 @@ Last result: **6** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–12 | 7–14 | 6–15 | 5–15 |
+| N/A | [Poll Average](average.html) | 9 | 7–13 | 7–14 | 6–15 | 5–15 |
 | [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–8 | 5–8 | 5–9 | 5–10 |
 | [15 May 2019](2019-05-15-YouGov.html) | YouGov | 13 | 12–15 | 11–15 | 10–15 | 8–19 |
-| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 11 | 10–11 | 10–11 | 10–12 | 9–13 |
+| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 12 | 10–13 | 10–13 | 10–13 | 9–13 |
 | [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 8–11 | 8–11 | 8–11 | 7–11 |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 9–10 | 9–10 | 9–11 | 8–14 |
 | [11–13 May 2019](2019-05-13-Epinion.html) | Epinion | 7 | 7–8 | 7–8 | 7–8 | 5–9 |
@@ -314,11 +314,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 2% | 98.7% | Last Result |
 | 7 | 28% | 97% |  |
 | 8 | 17% | 69% |  |
-| 9 | 19% | 52% | Median |
-| 10 | 5% | 32% |  |
-| 11 | 13% | 27% |  |
-| 12 | 4% | 14% |  |
-| 13 | 3% | 10% |  |
+| 9 | 19% | 51% | Median |
+| 10 | 4% | 32% |  |
+| 11 | 6% | 28% |  |
+| 12 | 5% | 22% |  |
+| 13 | 10% | 17% |  |
 | 14 | 3% | 7% |  |
 | 15 | 3% | 3% |  |
 | 16 | 0.1% | 0.3% |  |
