@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Sun, 19 May 2019 20:32:41 +0200</pubDate>
+    <pubDate>Mon, 20 May 2019 06:55:03 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 14–16 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-05-16-Voxmeter.html</link>
@@ -238,6 +238,16 @@
         type="image/png"/>
       <pubDate>Sun, 12 May 2019 21:36:58 +0200</pubDate>
       <dc:date>2019-05-12T21:36:58.2924+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat, 10 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-05-10-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.9–29.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 9.8–13.4%&lt;/li&gt;&lt;li&gt;Venstre: 14.5–18.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 8.9–12.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.4–4.5%&lt;/li&gt;&lt;li&gt;Alternativet: 2.5–4.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.0–7.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 6.2–9.2%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.7–7.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.8–2.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.7–3.4%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Stram Kurs: 1.8–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-10-Norstat.png"
+        length="283159"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 06:55:03 +0200</pubDate>
+      <dc:date>2019-05-20T06:55:03.013937+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 8–10 May 2019 – Seat Projections for the Parties</title>
@@ -3319,6 +3329,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-05-19T20:32:41.700261+02:00</dc:date>
+    <dc:date>2019-05-20T06:55:03.013937+02:00</dc:date>
   </channel>
 </rss>
