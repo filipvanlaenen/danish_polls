@@ -31,7 +31,7 @@ Last result: **0.0%** (General Election of 18 June 2015)
 | [16–18 May 2019](2019-05-18-Voxmeter.html) | Voxmeter <br> Ritzau | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [13–17 May 2019](2019-05-17-YouGov.html) | YouGov | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [15–17 May 2019](2019-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
-| [14–17 May 2019](2019-05-17-Norstat.html) | Norstat | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.7–3.5% | 1.5–3.9% |
+| [14–17 May 2019](2019-05-17-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.7–3.5% | 1.5–3.9% |
 | [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 2.6% | 2.0–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [15 May 2019](2019-05-15-YouGov.html) | YouGov | 3.9% | 3.2–4.9% | 3.0–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [13–15 May 2019](2019-05-15-Voxmeter.html) | Voxmeter <br> Ritzau | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
@@ -199,19 +199,19 @@ Last result: **0** seats (General Election of 18 June 2015)
 | [20–23 May 2019](2019-05-23-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [20–22 May 2019](2019-05-22-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–7 | 0–7 | 0–7 | 0–8 |
 | [22 May 2019](2019-05-22-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 6 | 4–6 | 4–6 | 0–7 | 0–8 |
-| [19–21 May 2019](2019-05-21-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
+| [19–21 May 2019](2019-05-21-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–7 | 4–7 | 0–7 | 0–8 |
 | [21 May 2019](2019-05-21-Gallup.html) | Gallup | 0 | 0 | 0 | 0–3 | 0–4 |
-| [16–20 May 2019](2019-05-20-YouGov.html) | YouGov | 6 | 0–6 | 0–6 | 0–7 | 0–7 |
-| [18–20 May 2019](2019-05-20-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 0–7 | 0–7 | 0–7 | 0–8 |
+| [16–20 May 2019](2019-05-20-YouGov.html) | YouGov | 6 | 5–6 | 4–7 | 4–7 | 0–9 |
+| [18–20 May 2019](2019-05-20-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 4–7 | 4–7 | 0–7 | 0–7 |
 | [18–20 May 2019](2019-05-20-Epinion.html) | Epinion <br> DR | 4 | 4–5 | 0–6 | 0–6 | 0–6 |
-| [17–19 May 2019](2019-05-19-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–5 | 0–6 | 0–7 |
-| [16–18 May 2019](2019-05-18-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
-| [13–17 May 2019](2019-05-17-YouGov.html) | YouGov | 6 | 5–10 | 5–10 | 5–10 | 4–10 |
-| [15–17 May 2019](2019-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5 |
-| [14–17 May 2019](2019-05-17-Norstat.html) | Norstat | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
+| [17–19 May 2019](2019-05-19-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 0–6 | 0–6 | 0–7 | 0–8 |
+| [16–18 May 2019](2019-05-18-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
+| [13–17 May 2019](2019-05-17-YouGov.html) | YouGov | 8 | 5–8 | 5–10 | 5–10 | 4–10 |
+| [15–17 May 2019](2019-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 4–5 | 0–5 |
+| [14–17 May 2019](2019-05-17-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4–5 | 4–5 | 0–7 |
 | [15 May 2019](2019-05-15-YouGov.html) | YouGov | 7 | 5–9 | 5–9 | 5–9 | 5–10 |
-| [13–15 May 2019](2019-05-15-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5–6 |
+| [13–15 May 2019](2019-05-15-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–5 | 0–6 | 0–6 |
 | [15 May 2019](2019-05-15-Gallup.html) | Gallup | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
