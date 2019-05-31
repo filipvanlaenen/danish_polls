@@ -193,13 +193,13 @@ Last result: **13** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–9 | 4–10 | 0–10 | 0–11 |
-| [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 6 | 5–8 | 5–8 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 4–10 | 0–10 | 0–11 |
+| [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 4–8 | 4–8 | 4–8 | 4–9 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 6 | 0–7 | 0–7 | 0–7 | 0–7 |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–7 | 5–7 | 4–7 | 0–8 |
 | [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 4 | 0–6 | 0–6 | 0–6 | 0–8 |
 | [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 4–6 | 0–6 | 0–7 | 0–8 |
-| [28 May 2019](2019-05-28-Gallup.html) | Gallup | 6 | 5–6 | 4–8 | 4–8 | 4–8 |
+| [28 May 2019](2019-05-28-Gallup.html) | Gallup | 6 | 6 | 5–6 | 5–7 | 4–8 |
 | [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [24–26 May 2019](2019-05-26-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6–7 | 5–8 | 5–8 | 4–9 |
 | [21–25 May 2019](2019-05-25-YouGov.html) | YouGov | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
@@ -364,11 +364,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 97% |  |
 | 2 | 0% | 97% |  |
 | 3 | 0% | 97% |  |
-| 4 | 4% | 97% |  |
-| 5 | 22% | 93% |  |
-| 6 | 26% | 72% | Median |
-| 7 | 19% | 45% |  |
-| 8 | 16% | 26% |  |
+| 4 | 6% | 97% |  |
+| 5 | 15% | 91% |  |
+| 6 | 28% | 76% | Median |
+| 7 | 18% | 48% |  |
+| 8 | 20% | 29% |  |
 | 9 | 4% | 10% |  |
 | 10 | 4% | 6% |  |
 | 11 | 2% | 2% |  |
