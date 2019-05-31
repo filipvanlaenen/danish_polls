@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Fri, 31 May 2019 12:02:55 +0200</pubDate>
+    <pubDate>Fri, 31 May 2019 13:09:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 28–30 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-05-30-Megafon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 41–50 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 20–25 seats&lt;/li&gt;&lt;li&gt;Venstre: 32–40 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 13–19 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4–8 seats&lt;/li&gt;&lt;li&gt;Alternativet: 5–8 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 12–18 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 11–15 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 8–12 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0–6 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-30-Megafon-seats.png"
+        length="242970"
+        type="image/png"/>
+      <pubDate>Fri, 31 May 2019 13:09:08 +0200</pubDate>
+      <dc:date>2019-05-31T13:09:08.209856+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 28–30 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-05-30-Megafon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-30-Megafon-coalitions-seats.png"
+        length="362951"
+        type="image/png"/>
+      <pubDate>Fri, 31 May 2019 13:09:08 +0200</pubDate>
+      <dc:date>2019-05-31T13:09:08.209856+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 28–30 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-05-30-Megafon.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-30-Megafon.png"
         length="290941"
         type="image/png"/>
-      <pubDate>Fri, 31 May 2019 09:51:01 +0200</pubDate>
-      <dc:date>2019-05-31T09:51:01.551236+02:00</dc:date>
+      <pubDate>Fri, 31 May 2019 13:09:08 +0200</pubDate>
+      <dc:date>2019-05-31T13:09:08.209856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 25–29 May 2019 – Seat Projections for the Parties</title>
@@ -140,14 +160,34 @@
       <dc:date>2019-05-31T11:46:00.679227+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 28 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-05-28-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 42–48 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 18–22 seats&lt;/li&gt;&lt;li&gt;Venstre: 33–40 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 12–19 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 5–7 seats&lt;/li&gt;&lt;li&gt;Alternativet: 4–7 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 10–15 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 13–18 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 11–14 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 4–7 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-28-Gallup-seats.png"
+        length="223960"
+        type="image/png"/>
+      <pubDate>Fri, 31 May 2019 12:28:42 +0200</pubDate>
+      <dc:date>2019-05-31T12:28:42.362366+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 28 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-05-28-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-28-Gallup-coalitions-seats.png"
+        length="340120"
+        type="image/png"/>
+      <pubDate>Fri, 31 May 2019 12:28:42 +0200</pubDate>
+      <dc:date>2019-05-31T12:28:42.362366+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 28 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-05-28-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 23.4–27.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 9.4–12.6%&lt;/li&gt;&lt;li&gt;Venstre: 18.3–22.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.2–10.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.2–4.0%&lt;/li&gt;&lt;li&gt;Alternativet: 2.2–3.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 5.6–8.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 7.2–10.1%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 5.7–8.3%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.9–2.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.2–3.9%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.5–1.4%&lt;/li&gt;&lt;li&gt;Stram Kurs: 1.0–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-28-Gallup.png"
         length="279367"
         type="image/png"/>
-      <pubDate>Fri, 31 May 2019 12:02:55 +0200</pubDate>
-      <dc:date>2019-05-31T12:02:55.661407+02:00</dc:date>
+      <pubDate>Fri, 31 May 2019 12:28:42 +0200</pubDate>
+      <dc:date>2019-05-31T12:28:42.362366+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 25–27 May 2019 – Seat Projections for the Parties</title>
@@ -4219,6 +4259,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-05-31T12:02:55.661407+02:00</dc:date>
+    <dc:date>2019-05-31T13:09:08.209856+02:00</dc:date>
   </channel>
 </rss>
