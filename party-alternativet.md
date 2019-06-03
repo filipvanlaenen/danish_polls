@@ -200,10 +200,10 @@ Last result: **9** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 0–8 | 0–9 | 0–9 | 0–10 |
-| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 4–6 | 4–6 | 4–8 |
-| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 0 | 0 | 0–5 | 0–5 | 0–5 |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–9 | 4–9 | 0–10 |
+| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 4–7 | 4–7 | 3–9 |
+| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 6 | 5–6 | 4–6 | 4–6 | 0–7 |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 5–7 | 5–7 | 4–7 | 4–7 |
 | [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 4–5 | 0–7 |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 4 | 4–6 | 4–7 | 4–7 | 0–7 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 7 | 7 | 7 | 7 |
@@ -374,14 +374,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 0% | 89% |  |
-| 2 | 0% | 89% |  |
-| 3 | 0% | 89% |  |
-| 4 | 15% | 89% |  |
-| 5 | 15% | 73% |  |
-| 6 | 38% | 59% | Median |
-| 7 | 8% | 20% |  |
+| 0 | 1.4% | 100% |  |
+| 1 | 0% | 98.6% |  |
+| 2 | 0% | 98.6% |  |
+| 3 | 0% | 98.6% |  |
+| 4 | 16% | 98.6% |  |
+| 5 | 13% | 83% |  |
+| 6 | 46% | 70% | Median |
+| 7 | 11% | 23% |  |
 | 8 | 4% | 12% |  |
 | 9 | 7% | 8% | Last Result |
 | 10 | 0.8% | 0.9% |  |

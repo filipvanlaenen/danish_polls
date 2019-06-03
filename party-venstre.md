@@ -205,12 +205,12 @@ Last result: **34** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 30–39 | 30–39 | 29–39 | 28–40 |
-| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 30–36 | 28–36 | 28–36 | 27–38 |
-| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 35 | 34–35 | 32–35 | 32–35 | 32–35 |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 29–35 | 29–35 | 29–35 | 29–35 |
+| N/A | [Poll Average](average.html) | 34 | 30–39 | 30–39 | 29–39 | 27–41 |
+| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 33 | 28–36 | 28–36 | 27–36 | 26–38 |
+| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 30 | 30–36 | 30–40 | 30–40 | 30–41 |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 31–32 | 31–32 | 30–35 | 26–36 |
 | [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 34 | 34 | 29–34 | 27–36 |
-| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 35 | 29–36 | 29–36 | 28–36 | 28–36 |
+| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 35 | 29–36 | 28–36 | 28–36 | 28–37 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 31 | 31 | 31 | 31 | 31 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 34 | 34–36 | 34–37 | 32–40 | 31–42 |
 | [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 39 | 39 | 39 | 39 | 39 |
@@ -379,23 +379,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.2% | 99.9% |  |
-| 28 | 1.4% | 99.7% |  |
-| 29 | 1.2% | 98% |  |
-| 30 | 13% | 97% |  |
-| 31 | 9% | 84% |  |
-| 32 | 9% | 75% |  |
-| 33 | 8% | 66% |  |
-| 34 | 11% | 58% | Last Result, Median |
-| 35 | 15% | 46% |  |
-| 36 | 6% | 31% |  |
-| 37 | 10% | 25% |  |
+| 26 | 0.3% | 100% |  |
+| 27 | 0.5% | 99.7% |  |
+| 28 | 2% | 99.2% |  |
+| 29 | 1.4% | 98% |  |
+| 30 | 13% | 96% |  |
+| 31 | 12% | 83% |  |
+| 32 | 8% | 72% |  |
+| 33 | 8% | 64% |  |
+| 34 | 11% | 56% | Last Result, Median |
+| 35 | 6% | 45% |  |
+| 36 | 6% | 39% |  |
+| 37 | 18% | 33% |  |
 | 38 | 1.1% | 15% |  |
 | 39 | 13% | 14% |  |
-| 40 | 0.6% | 1.1% |  |
-| 41 | 0.1% | 0.5% |  |
-| 42 | 0.3% | 0.3% |  |
-| 43 | 0% | 0% |  |
+| 40 | 0.6% | 1.2% |  |
+| 41 | 0.1% | 0.6% |  |
+| 42 | 0.3% | 0.5% |  |
+| 43 | 0% | 0.2% |  |
+| 44 | 0.1% | 0.1% |  |
+| 45 | 0% | 0% |  |
 
 
