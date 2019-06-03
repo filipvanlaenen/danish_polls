@@ -201,15 +201,15 @@ Last result: **7** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–17 | 11–18 | 10–18 | 9–18 |
+| N/A | [Poll Average](average.html) | 14 | 11–17 | 10–18 | 10–18 | 9–18 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 15–17 | 14–17 | 14–17 | 13–19 |
-| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 12 | 12 | 9–12 | 7–14 | 7–15 |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 15 | 15–16 | 14–16 | 12–18 |
-| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 14 | 14 | 14 | 10–18 |
-| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 19 | 13–20 | 13–20 | 13–20 | 12–20 |
-| [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 14 | 14 | 14 | 14 |
+| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 12 | 10–15 | 10–16 | 9–16 | 8–16 |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 13 | 13–15 | 13–15 | 13–17 |
+| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 12–17 | 12–17 | 12–18 | 10–18 |
+| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 16 | 16–18 | 13–18 | 13–20 | 12–20 |
+| [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 14–16 | 14–16 | 13–16 | 12–17 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 14 | 13–15 | 12–15 | 11–15 | 10–16 |
-| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 17 | 17 | 17 | 17 | 17 |
+| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 15 | 13–17 | 13–17 | 13–18 | 13–19 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 16 | 14–17 | 14–18 | 13–18 | 12–19 |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 13–16 | 12–18 | 12–18 | 11–18 |
 | [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 16 | 14–20 | 14–20 | 13–20 | 13–20 |
@@ -375,19 +375,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0% | 100% | Last Result |
-| 8 | 0% | 100% |  |
-| 9 | 1.5% | 100% |  |
-| 10 | 1.2% | 98% |  |
-| 11 | 9% | 97% |  |
-| 12 | 17% | 88% |  |
-| 13 | 6% | 72% |  |
+| 7 | 0.1% | 100% | Last Result |
+| 8 | 0% | 99.9% |  |
+| 9 | 0.9% | 99.9% |  |
+| 10 | 5% | 99.0% |  |
+| 11 | 10% | 94% |  |
+| 12 | 12% | 85% |  |
+| 13 | 8% | 73% |  |
 | 14 | 22% | 65% | Median |
-| 15 | 19% | 44% |  |
-| 16 | 1.1% | 25% |  |
-| 17 | 15% | 24% |  |
-| 18 | 9% | 9% |  |
-| 19 | 0.1% | 0.2% |  |
+| 15 | 24% | 42% |  |
+| 16 | 4% | 18% |  |
+| 17 | 4% | 14% |  |
+| 18 | 10% | 10% |  |
+| 19 | 0.2% | 0.3% |  |
 | 20 | 0% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
