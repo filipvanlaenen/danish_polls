@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Mon, 03 Jun 2019 19:15:21 +0200</pubDate>
+    <pubDate>Mon, 03 Jun 2019 20:06:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 31 May–2 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-06-02-Voxmeter.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-02-Voxmeter.png"
         length="279658"
         type="image/png"/>
-      <pubDate>Mon, 03 Jun 2019 18:58:04 +0200</pubDate>
-      <dc:date>2019-06-03T18:58:04.146347+02:00</dc:date>
+      <pubDate>Mon, 03 Jun 2019 19:49:07 +0200</pubDate>
+      <dc:date>2019-06-03T19:49:07.515596+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 28 May–1 June 2019 – Voting Intentions</title>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Mon, 03 Jun 2019 19:15:21 +0200</pubDate>
       <dc:date>2019-06-03T19:15:21.858567+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 29–31 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-05-31-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.8–30.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 9.3–13.2%&lt;/li&gt;&lt;li&gt;Venstre: 15.6–20.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.3–10.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Alternativet: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 7.1–10.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 6.3–9.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Stram Kurs: 1.1–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-31-Voxmeter.png"
+        length="287820"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 19:28:17 +0200</pubDate>
+      <dc:date>2019-06-03T19:28:17.727861+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 26–30 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-05-30-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.3–30.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 7.8–11.5%&lt;/li&gt;&lt;li&gt;Venstre: 16.0–20.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.9–10.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Alternativet: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 6.8–10.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 7.3–10.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.4–1.5%&lt;/li&gt;&lt;li&gt;Stram Kurs: 1.6–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-30-YouGov.png"
+        length="286658"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 20:06:10 +0200</pubDate>
+      <dc:date>2019-06-03T20:06:10.972567+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 28–30 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-05-30-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.5–30.0%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 9.8–13.7%&lt;/li&gt;&lt;li&gt;Venstre: 15.7–20.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Alternativet: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 6.9–10.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 6.1–9.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.2–7.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Stram Kurs: 1.4–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-30-Voxmeter.png"
+        length="288725"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 19:49:13 +0200</pubDate>
+      <dc:date>2019-06-03T19:49:13.619772+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 28–30 May 2019 – Seat Projections for the Parties</title>
@@ -68,6 +98,16 @@
         type="image/png"/>
       <pubDate>Fri, 31 May 2019 13:09:08 +0200</pubDate>
       <dc:date>2019-05-31T13:09:08.209856+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 28–30 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-05-30-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.1–28.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 9.2–12.1%&lt;/li&gt;&lt;li&gt;Venstre: 18.6–22.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.3–9.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.0–3.6%&lt;/li&gt;&lt;li&gt;Alternativet: 2.1–3.7%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 6.0–8.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 7.6–10.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 4.2–6.3%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 1.3–2.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 2.4–4.0%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.4–1.2%&lt;/li&gt;&lt;li&gt;Stram Kurs: 1.6–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-05-30-Epinion.png"
+        length="274458"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 20:01:05 +0200</pubDate>
+      <dc:date>2019-06-03T20:01:05.967989+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 25–29 May 2019 – Seat Projections for the Parties</title>
@@ -4289,6 +4329,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-06-03T19:15:21.858567+02:00</dc:date>
+    <dc:date>2019-06-03T20:06:10.972567+02:00</dc:date>
   </channel>
 </rss>
