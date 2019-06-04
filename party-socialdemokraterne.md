@@ -210,10 +210,10 @@ Last result: **47** seats (General Election of 18 June 2015)
 | N/A | [Poll Average](average.html) | 48 | 43–54 | 43–60 | 42–60 | 40–60 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 55 | 50–60 | 50–60 | 47–60 | 46–60 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 51 | 48–55 | 47–56 | 46–56 | 44–57 |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 49–51 | 49–51 | 49–51 | 48–52 |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 49–54 | 48–55 | 47–55 | 46–57 |
 | [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 47–52 | 45–55 | 44–56 | 44–56 |
-| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 51 | 45–55 | 45–55 | 45–55 | 44–55 |
-| [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 46–47 | 46–47 | 46–50 | 44–53 |
+| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 49 | 45–55 | 45–55 | 45–55 | 44–55 |
+| [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 45–50 | 45–52 | 43–55 | 42–56 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 49 | 45–49 | 43–49 | 41–50 | 40–50 |
 | [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 47 | 45–50 | 44–50 | 43–52 | 42–52 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 46 | 43–49 | 43–50 | 42–50 | 41–52 |

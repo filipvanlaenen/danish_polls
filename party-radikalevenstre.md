@@ -205,10 +205,10 @@ Last result: **8** seats (General Election of 18 June 2015)
 | N/A | [Poll Average](average.html) | 14 | 11–17 | 10–18 | 10–18 | 10–19 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–17 | 13–18 | 13–19 | 13–19 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 16 | 14–18 | 12–18 | 12–19 | 11–19 |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 13–16 | 13–16 | 13–16 | 11–17 |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–16 | 13–18 | 13–20 | 11–20 |
 | [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 15–16 | 14–17 | 13–18 | 11–21 |
-| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 14 | 13–15 | 13–17 | 13–17 | 12–18 |
-| [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 16 | 14–16 | 13–16 | 12–17 |
+| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 14 | 13–16 | 13–17 | 13–17 | 12–19 |
+| [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–17 | 13–19 | 13–20 | 12–20 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 12–16 | 12–17 | 12–18 | 12–18 |
 | [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 11 | 10–15 | 10–15 | 10–15 | 10–15 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 13 | 13–14 | 12–16 | 12–17 | 10–18 |
