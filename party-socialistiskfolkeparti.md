@@ -10,7 +10,15 @@ Last result: **4.2%** (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.4–9.3% | 6.0–9.7% | 5.8–10.0% | 5.3–10.6% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.6–9.0% | 6.3–9.5% | 6.0–9.9% | 5.5–10.7% |
+| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 6.9% | 6.0–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.1% |
+| [4 June 2019](2019-06-04-Gallup.html) | Gallup | 7.6% | 7.1–8.1% | 7.0–8.3% | 6.9–8.4% | 6.7–8.6% |
+| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 8.1% | 7.4–8.8% | 7.2–9.1% | 7.1–9.2% | 6.7–9.6% |
+| [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 5.4% | 4.5–6.5% | 4.3–6.8% | 4.1–7.1% | 3.7–7.7% |
+| [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 8.9% | 7.8–10.1% | 7.5–10.5% | 7.3–10.8% | 6.8–11.4% |
+| [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 7.4% | 6.5–8.5% | 6.2–8.7% | 6.0–9.0% | 5.6–9.6% |
+| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 8.4% | 7.5–9.6% | 7.2–9.9% | 7.0–10.2% | 6.5–10.7% |
+| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 5.9% | 5.0–7.2% | 4.7–7.5% | 4.5–7.8% | 4.1–8.5% |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.1–10.7% | 6.7–11.3% |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 6.7% | 5.7–7.9% | 5.4–8.2% | 5.2–8.5% | 4.8–9.1% |
 | [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 8.3% | 7.2–9.5% | 7.0–9.8% | 6.7–10.1% | 6.2–10.7% |
@@ -183,14 +191,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% | Last Result |
-| 4.5–5.5% | 1.3% | 100% |  |
-| 5.5–6.5% | 13% | 98.7% |  |
-| 6.5–7.5% | 31% | 86% |  |
-| 7.5–8.5% | 29% | 55% | Median |
-| 8.5–9.5% | 20% | 26% |  |
-| 9.5–10.5% | 6% | 6% |  |
-| 10.5–11.5% | 0.6% | 0.6% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 8% | 99.5% |  |
+| 6.5–7.5% | 33% | 91% |  |
+| 7.5–8.5% | 39% | 58% | Median |
+| 8.5–9.5% | 15% | 20% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.6% | 0.7% |  |
 | 11.5–12.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -201,7 +210,15 @@ Last result: **7** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–17 | 10–18 | 10–18 | 9–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–18 | 12–18 | 11–19 |
+| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 12 | 12 | 12 | 12–13 | 11–14 |
+| [4 June 2019](2019-06-04-Gallup.html) | Gallup | 12 | 12–13 | 12–15 | 12–16 | 12–16 |
+| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 15 | 15 | 14–15 | 14–15 | 13–17 |
+| [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 9 | 9 | 9 | 9 | 9–10 |
+| [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–18 | 13–18 | 13–19 | 12–22 |
+| [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 13 | 12–14 | 12–14 | 12–16 | 11–18 |
+| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 15 | 15–16 | 13–16 | 13–16 | 12–18 |
+| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 12 | 11–12 | 11–12 | 7–12 | 7–12 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 15–17 | 14–17 | 14–17 | 13–19 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 12 | 10–15 | 10–16 | 9–16 | 8–16 |
 | [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 13–15 | 13–17 | 13–20 | 11–20 |
@@ -375,20 +392,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% | Last Result |
-| 8 | 0% | 99.9% |  |
-| 9 | 0.9% | 99.9% |  |
-| 10 | 5% | 99.0% |  |
-| 11 | 10% | 94% |  |
-| 12 | 12% | 85% |  |
-| 13 | 8% | 73% |  |
-| 14 | 22% | 65% | Median |
-| 15 | 24% | 42% |  |
-| 16 | 4% | 18% |  |
-| 17 | 4% | 14% |  |
-| 18 | 10% | 10% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 7 | 0% | 100% | Last Result |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0.4% | 100% |  |
+| 11 | 0.5% | 99.6% |  |
+| 12 | 32% | 99.1% |  |
+| 13 | 11% | 67% |  |
+| 14 | 20% | 56% | Median |
+| 15 | 23% | 37% |  |
+| 16 | 7% | 13% |  |
+| 17 | 0.5% | 7% |  |
+| 18 | 5% | 6% |  |
+| 19 | 0.3% | 0.5% |  |
+| 20 | 0.1% | 0.2% |  |
+| 21 | 0% | 0.1% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
