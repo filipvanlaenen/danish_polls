@@ -208,14 +208,14 @@ Last result: **0** seats (General Election of 18 June 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–6 | 0–7 | 0–7 | 0–8 |
-| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 6 | 6 | 6 | 5–6 | 0–6 |
+| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 6 | 5–6 | 4–6 | 0–7 | 0–8 |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 0–4 | 0–5 |
-| [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 5 | 5 | 5–7 | 5–7 | 5–7 |
+| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 4 | 0–4 | 0–4 | 0–4 | 0–6 |
+| [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–7 | 4–8 |
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0–4 | 0–5 |
-| [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 6 | 0–6 | 0–6 | 0–6 | 0–7 |
-| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–6 | 0–6 | 0–6 | 0–6 |
+| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 5 | 4–8 | 4–8 | 4–8 | 0–8 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–4 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 4 | 0–7 | 0–7 | 0–7 | 0–8 |
 | [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -389,15 +389,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 0% | 57% |  |
-| 2 | 0% | 57% |  |
-| 3 | 0% | 57% |  |
-| 4 | 13% | 57% | Median |
-| 5 | 16% | 43% |  |
-| 6 | 22% | 27% |  |
+| 0 | 44% | 100% | Last Result |
+| 1 | 0% | 56% |  |
+| 2 | 0% | 56% |  |
+| 3 | 0% | 56% |  |
+| 4 | 12% | 56% | Median |
+| 5 | 18% | 44% |  |
+| 6 | 20% | 26% |  |
 | 7 | 5% | 6% |  |
-| 8 | 0.5% | 0.5% |  |
+| 8 | 0.6% | 0.6% |  |
 | 9 | 0% | 0% |  |
 
 
