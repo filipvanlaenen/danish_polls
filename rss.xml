@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Thu, 06 Jun 2019 20:06:16 +0200</pubDate>
+    <pubDate>Fri, 07 Jun 2019 20:00:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 31 May–4 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-06-04-YouGov.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-04-YouGov.png"
         length="286350"
         type="image/png"/>
-      <pubDate>Thu, 06 Jun 2019 06:50:38 +0200</pubDate>
-      <dc:date>2019-06-06T06:50:38.663778+02:00</dc:date>
+      <pubDate>Thu, 06 Jun 2019 22:45:15 +0200</pubDate>
+      <dc:date>2019-06-06T22:45:15.83613+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 4 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-06-04-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 44–49 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 17–21 seats&lt;/li&gt;&lt;li&gt;Venstre: 37–42 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 13–16 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4–6 seats&lt;/li&gt;&lt;li&gt;Alternativet: 4–6 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 12–15 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 12–15 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 10–13 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0–4 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 4–6 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-04-Gallup-seats.png"
+        length="212790"
+        type="image/png"/>
+      <pubDate>Fri, 07 Jun 2019 19:40:50 +0200</pubDate>
+      <dc:date>2019-06-07T19:40:50.441821+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 4 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-06-04-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-04-Gallup-coalitions-seats.png"
+        length="313066"
+        type="image/png"/>
+      <pubDate>Fri, 07 Jun 2019 19:40:50 +0200</pubDate>
+      <dc:date>2019-06-07T19:40:50.441821+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 4 June 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-04-Gallup.png"
         length="244316"
         type="image/png"/>
-      <pubDate>Thu, 06 Jun 2019 19:28:23 +0200</pubDate>
-      <dc:date>2019-06-06T19:28:23.934534+02:00</dc:date>
+      <pubDate>Fri, 07 Jun 2019 19:40:50 +0200</pubDate>
+      <dc:date>2019-06-07T19:40:50.441821+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 4 June 2019 – Voting Intentions</title>
@@ -36,8 +56,28 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-04-Epinion.png"
         length="264563"
         type="image/png"/>
-      <pubDate>Thu, 06 Jun 2019 19:16:38 +0200</pubDate>
-      <dc:date>2019-06-06T19:16:38.690134+02:00</dc:date>
+      <pubDate>Fri, 07 Jun 2019 20:00:54 +0200</pubDate>
+      <dc:date>2019-06-07T20:00:54.898904+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 30 May–3 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-06-03-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 46–52 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 15–21 seats&lt;/li&gt;&lt;li&gt;Venstre: 29–38 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 14–19 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 5–9 seats&lt;/li&gt;&lt;li&gt;Alternativet: 4–9 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 10–14 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 8–12 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 6–11 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0–5 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 5–9 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs: 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-03-YouGov-seats.png"
+        length="240090"
+        type="image/png"/>
+      <pubDate>Fri, 07 Jun 2019 18:22:48 +0200</pubDate>
+      <dc:date>2019-06-07T18:22:48.047936+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 30 May–3 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-06-03-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-03-YouGov-coalitions-seats.png"
+        length="342410"
+        type="image/png"/>
+      <pubDate>Fri, 07 Jun 2019 18:22:48 +0200</pubDate>
+      <dc:date>2019-06-07T18:22:48.047936+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 30 May–3 June 2019 – Voting Intentions</title>
@@ -46,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-03-YouGov.png"
         length="291092"
         type="image/png"/>
-      <pubDate>Thu, 06 Jun 2019 19:22:11 +0200</pubDate>
-      <dc:date>2019-06-06T19:22:11.791874+02:00</dc:date>
+      <pubDate>Fri, 07 Jun 2019 18:22:48 +0200</pubDate>
+      <dc:date>2019-06-07T18:22:48.047936+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 1–3 June 2019 – Seat Projections for the Parties</title>
@@ -80,14 +120,34 @@
       <dc:date>2019-06-06T20:06:16.277119+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 3 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-06-03-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 46–55 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 16–22 seats&lt;/li&gt;&lt;li&gt;Venstre: 28–36 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 13–18 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 4–9 seats&lt;/li&gt;&lt;li&gt;Alternativet: 0–6 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 10–17 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 11–16 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 6–11 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0–5 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 6–10 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs: 0–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-03-Norstat-seats.png"
+        length="250849"
+        type="image/png"/>
+      <pubDate>Fri, 07 Jun 2019 19:11:40 +0200</pubDate>
+      <dc:date>2019-06-07T19:11:40.906653+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 3 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-06-03-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-03-Norstat-coalitions-seats.png"
+        length="396081"
+        type="image/png"/>
+      <pubDate>Fri, 07 Jun 2019 19:11:40 +0200</pubDate>
+      <dc:date>2019-06-07T19:11:40.906653+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 3 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-06-03-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 26.1–31.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 8.9–12.3%&lt;/li&gt;&lt;li&gt;Venstre: 15.9–20.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 7.3–10.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 2.7–4.8%&lt;/li&gt;&lt;li&gt;Alternativet: 1.8–3.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 6.0–8.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 6.0–9.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 3.4–5.8%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 1.3–2.9%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 3.1–5.3%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.0–0.6%&lt;/li&gt;&lt;li&gt;Stram Kurs: 1.5–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-03-Norstat.png"
         length="281553"
         type="image/png"/>
-      <pubDate>Thu, 06 Jun 2019 19:00:11 +0200</pubDate>
-      <dc:date>2019-06-06T19:00:11.169878+02:00</dc:date>
+      <pubDate>Fri, 07 Jun 2019 19:11:40 +0200</pubDate>
+      <dc:date>2019-06-07T19:11:40.906653+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Greens Analyseinstitut for Børsen, 3 June 2019 – Voting Intentions</title>
@@ -96,8 +156,28 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-03-GreensAnalyseinstitut.png"
         length="285856"
         type="image/png"/>
-      <pubDate>Thu, 06 Jun 2019 19:05:28 +0200</pubDate>
-      <dc:date>2019-06-06T19:05:28.187649+02:00</dc:date>
+      <pubDate>Thu, 06 Jun 2019 22:50:21 +0200</pubDate>
+      <dc:date>2019-06-06T22:50:21.158258+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 29 May–2 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-06-02-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 47–55 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 12–18 seats&lt;/li&gt;&lt;li&gt;Venstre: 33–41 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 13–20 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 0–5 seats&lt;/li&gt;&lt;li&gt;Alternativet: 0–6 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 11–18 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 7–14 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 8–12 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0–5 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 5–9 seats&lt;/li&gt;&lt;li&gt;Stram Kurs: 4–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-02-YouGov-seats.png"
+        length="240707"
+        type="image/png"/>
+      <pubDate>Fri, 07 Jun 2019 18:47:47 +0200</pubDate>
+      <dc:date>2019-06-07T18:47:47.220312+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 29 May–2 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-06-02-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-02-YouGov-coalitions-seats.png"
+        length="403544"
+        type="image/png"/>
+      <pubDate>Fri, 07 Jun 2019 18:47:47 +0200</pubDate>
+      <dc:date>2019-06-07T18:47:47.220312+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 29 May–2 June 2019 – Voting Intentions</title>
@@ -106,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-06-02-YouGov.png"
         length="277630"
         type="image/png"/>
-      <pubDate>Thu, 06 Jun 2019 19:58:30 +0200</pubDate>
-      <dc:date>2019-06-06T19:58:30.147248+02:00</dc:date>
+      <pubDate>Fri, 07 Jun 2019 18:47:47 +0200</pubDate>
+      <dc:date>2019-06-07T18:47:47.220312+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 31 May–2 June 2019 – Seat Projections for the Parties</title>
@@ -4569,6 +4649,6 @@
       <pubDate>Tue, 15 Jan 2019 21:35:43 +0100</pubDate>
       <dc:date>2019-01-15T21:35:43.587275+01:00</dc:date>
     </item>
-    <dc:date>2019-06-06T20:06:16.277119+02:00</dc:date>
+    <dc:date>2019-06-07T20:00:54.898904+02:00</dc:date>
   </channel>
 </rss>
