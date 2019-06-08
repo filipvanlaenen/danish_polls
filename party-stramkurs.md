@@ -210,11 +210,11 @@ Last result: **0** seats (General Election of 18 June 2015)
 | N/A | [Poll Average](average.html) | 4 | 0–6 | 0–7 | 0–7 | 0–8 |
 | [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 6 | 5–6 | 4–6 | 0–7 | 0–8 |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 4 | 0–4 | 0–4 | 0–4 | 0–6 |
+| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 5 | 5–6 | 5–6 | 5–7 | 4–8 |
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0–4 | 0–5 |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
-| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–6 | 0–6 | 0–6 | 0–6 |
+| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 5–6 | 4–6 | 0–6 | 0–7 |
 | [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 5 | 4–8 | 4–8 | 4–8 | 0–8 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–4 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 4 | 0–7 | 0–7 | 0–7 | 0–8 |
@@ -389,15 +389,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% | Last Result |
-| 1 | 0% | 56% |  |
-| 2 | 0% | 56% |  |
-| 3 | 0% | 56% |  |
-| 4 | 12% | 56% | Median |
-| 5 | 18% | 44% |  |
-| 6 | 20% | 26% |  |
+| 0 | 49% | 100% | Last Result |
+| 1 | 0% | 51% |  |
+| 2 | 0% | 51% |  |
+| 3 | 0% | 51% |  |
+| 4 | 6% | 50% | Median |
+| 5 | 19% | 44% |  |
+| 6 | 19% | 25% |  |
 | 7 | 5% | 6% |  |
-| 8 | 0.6% | 0.6% |  |
+| 8 | 0.8% | 0.8% |  |
 | 9 | 0% | 0% |  |
 
 

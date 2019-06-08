@@ -206,9 +206,9 @@ Last result: **0** seats (General Election of 18 June 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
@@ -387,12 +387,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 0% | 20% |  |
-| 2 | 0% | 20% |  |
-| 3 | 0.2% | 20% |  |
-| 4 | 18% | 20% |  |
-| 5 | 1.3% | 1.4% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 0% | 22% |  |
+| 2 | 0% | 22% |  |
+| 3 | 0.1% | 22% |  |
+| 4 | 21% | 22% |  |
+| 5 | 1.1% | 1.3% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 

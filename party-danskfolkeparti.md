@@ -215,14 +215,14 @@ Last result: **37** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–23 | 16–24 | 16–24 | 15–25 |
-| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 20 | 20–22 | 20–22 | 19–23 | 16–23 |
+| N/A | [Poll Average](average.html) | 20 | 16–23 | 16–24 | 15–24 | 15–25 |
+| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 20 | 20–22 | 19–22 | 18–23 | 15–23 |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
-| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 17 | 15–17 | 15–19 | 15–19 | 15–20 |
+| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 18 | 15–19 | 15–19 | 15–19 | 15–20 |
 | [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 20 | 15–21 | 15–21 | 15–21 | 14–21 |
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 16–21 | 16–22 | 16–22 | 15–24 |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 17 | 16–20 | 16–22 | 16–22 | 15–23 |
-| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 20 | 18–20 | 17–20 | 17–20 | 16–22 |
+| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 19 | 18–20 | 17–20 | 17–21 | 15–23 |
 | [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 14 | 13–17 | 13–18 | 12–18 | 11–19 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 16–18 | 15–20 | 15–21 | 14–21 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 15 | 13–17 | 13–18 | 12–18 | 12–20 |
@@ -397,14 +397,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0% | 100% |  |
-| 15 | 2% | 99.9% |  |
-| 16 | 8% | 98% |  |
-| 17 | 18% | 90% |  |
-| 18 | 5% | 72% |  |
-| 19 | 9% | 66% |  |
-| 20 | 24% | 58% | Median |
-| 21 | 17% | 33% |  |
+| 15 | 3% | 100% |  |
+| 16 | 7% | 97% |  |
+| 17 | 11% | 90% |  |
+| 18 | 11% | 78% |  |
+| 19 | 14% | 67% |  |
+| 20 | 19% | 53% | Median |
+| 21 | 18% | 34% |  |
 | 22 | 6% | 16% |  |
 | 23 | 4% | 10% |  |
 | 24 | 5% | 6% |  |

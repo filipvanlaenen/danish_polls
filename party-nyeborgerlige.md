@@ -209,14 +209,14 @@ Last result: **0** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–9 | 0–9 | 0–10 | 0–10 |
-| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 9 | 8–10 | 7–10 | 7–12 | 6–13 |
+| N/A | [Poll Average](average.html) | 5 | 0–9 | 0–9 | 0–10 | 0–11 |
+| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 9 | 7–10 | 7–11 | 7–12 | 6–13 |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 5 | 5–6 | 4–6 | 4–6 | 0–6 |
+| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 7 | 6–8 | 6–9 | 6–10 | 5–11 |
-| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 6 | 6 | 5–7 | 4–7 | 4–8 |
+| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
 | [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 7 | 5–8 | 5–8 | 5–9 | 5–10 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–5 | 0–6 | 0–6 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 7 | 6–9 | 5–11 | 5–11 | 4–12 |
@@ -396,15 +396,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 84% |  |
 | 3 | 0% | 84% |  |
 | 4 | 15% | 84% |  |
-| 5 | 21% | 70% | Median |
-| 6 | 25% | 49% |  |
-| 7 | 10% | 24% |  |
-| 8 | 3% | 14% |  |
-| 9 | 8% | 11% |  |
-| 10 | 3% | 3% |  |
-| 11 | 0.1% | 0.5% |  |
-| 12 | 0.1% | 0.4% |  |
-| 13 | 0.3% | 0.3% |  |
+| 5 | 25% | 70% | Median |
+| 6 | 21% | 45% |  |
+| 7 | 11% | 24% |  |
+| 8 | 3% | 13% |  |
+| 9 | 7% | 10% |  |
+| 10 | 2% | 3% |  |
+| 11 | 0.6% | 1.1% |  |
+| 12 | 0.2% | 0.4% |  |
+| 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
 

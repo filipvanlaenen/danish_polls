@@ -208,14 +208,14 @@ Last result: **6** seats (General Election of 18 June 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
-| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 9 | 9 | 8–9 | 7–9 | 6–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–12 | 7–12 | 7–12 | 6–13 |
+| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 9 | 7–9 | 7–9 | 7–10 | 6–11 |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
+| [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 12 | 11–12 | 10–12 | 10–12 | 9–13 |
 | [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 10 | 7–11 | 7–11 | 6–11 | 6–14 |
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 9 | 7–9 | 6–10 | 6–11 | 6–12 |
-| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 8 | 8–10 | 8–11 | 8–11 | 7–12 |
+| [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 9 | 8–11 | 8–11 | 8–11 | 7–13 |
 | [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 9 | 9–12 | 8–12 | 8–12 | 6–13 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 8 | 8–10 | 7–10 | 7–11 | 6–12 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 10 | 8–11 | 8–13 | 8–13 | 7–13 |
@@ -390,14 +390,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 2% | 100% | Last Result |
-| 7 | 5% | 98% |  |
-| 8 | 19% | 93% |  |
-| 9 | 31% | 73% | Median |
-| 10 | 21% | 42% |  |
-| 11 | 13% | 22% |  |
-| 12 | 8% | 9% |  |
-| 13 | 0.7% | 0.8% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 2% | 99.9% | Last Result |
+| 7 | 7% | 98% |  |
+| 8 | 16% | 91% |  |
+| 9 | 28% | 75% | Median |
+| 10 | 20% | 47% |  |
+| 11 | 14% | 27% |  |
+| 12 | 13% | 14% |  |
+| 13 | 1.0% | 1.0% |  |
 | 14 | 0% | 0% |  |
 
 
