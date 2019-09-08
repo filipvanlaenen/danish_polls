@@ -1,0 +1,900 @@
+# Poll Average
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
+
+## Summary
+
+The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
+
+| Period     | Polling firm/Commissioner(s) | A | V | O | B | F | Ø | C | Å | D | I | P | K | E |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 5 June 2019 | General Election | 25.9% <br> 48 | 23.4% <br> 43 | 8.7% <br> 16 | 8.6% <br> 16 | 7.7% <br> 14 | 6.9% <br> 13 | 6.6% <br> 12 | 3.0% <br> 5 | 2.4% <br> 4 | 2.3% <br> 4 | 1.8% <br> 0 | 1.7% <br> 0 | 0.8% <br> 0 |
+| N/A | Poll Average | 24–29% <br> 43–51 | 21–26% <br> 36–47 | 6–10% <br> 11–17 | 8–11% <br> 14–21 | 8–11% <br> 13–21 | 5–8% <br> 9–17 | 6–8% <br> 10–17 | 1–3% <br> 0–6 | 1–3% <br> 0–6 | 2–4% <br> 4–7 | 1–2% <br> 0–4 | 1–2% <br> 0–5 | N/A <br> N/A |
+| [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 24–29% <br> 43–51 | 21–26% <br> 36–47 | 6–10% <br> 11–17 | 8–11% <br> 14–21 | 8–11% <br> 13–21 | 5–8% <br> 9–17 | 5–9% <br> 10–17 | 1–3% <br> 0–6 | 1–3% <br> 0–6 | 2–4% <br> 4–7 | 1–2% <br> 0–4 | 1–2% <br> 0–5 | N/A <br> N/A |
+| [8 August 2019](2019-08-08-Gallup.html) | Gallup | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 5 June 2019 | General Election | 25.9% <br> 48 | 23.4% <br> 43 | 8.7% <br> 16 | 8.6% <br> 16 | 7.7% <br> 14 | 6.9% <br> 13 | 6.6% <br> 12 | 3.0% <br> 5 | 2.4% <br> 4 | 2.3% <br> 4 | 1.8% <br> 0 | 1.7% <br> 0 | 0.8% <br> 0 |
+
+Only polls for which at least the sample size has been published are included in the table above.
+
+**Legend:**
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the Folketinget (95% confidence interval)
++ **A:** Socialdemokraterne
++ **V:** Venstre
++ **O:** Dansk Folkeparti
++ **B:** Radikale Venstre
++ **F:** Socialistisk Folkeparti
++ **Ø:** Enhedslisten–De Rød-Grønne
++ **C:** Det Konservative Folkeparti
++ **Å:** Alternativet
++ **D:** Nye Borgerlige
++ **I:** Liberal Alliance
++ **P:** Stram Kurs
++ **K:** Kristendemokraterne
++ **E:** Klaus Riskær Pedersen
++ **N/A (single party):** Party not included the published results
++ **N/A (entire row):** Calculation for this opinion poll not started yet
+
+## Voting Intentions
+
+![Graph with voting intentions not yet produced](average.png "Voting Intentions")
+
+### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#socialdemokraterne">Socialdemokraterne</a> | 25.9% | 26.7% | 25.0–28.5% |24.5–29.0% | 24.1–29.4% | 23.3–30.3% |
+| <a href="#venstre">Venstre</a> | 23.4% | 23.5% | 21.8–25.2% |21.4–25.7% | 21.0–26.1% | 20.2–26.9% |
+| <a href="#dansk-folkeparti">Dansk Folkeparti</a> | 8.7% | 8.0% | 6.9–9.1% |6.7–9.4% | 6.4–9.7% | 6.0–10.3% |
+| <a href="#radikale-venstre">Radikale Venstre</a> | 8.6% | 9.4% | 8.3–10.6% |8.0–10.9% | 7.7–11.2% | 7.2–11.9% |
+| <a href="#socialistisk-folkeparti">Socialistisk Folkeparti</a> | 7.7% | 9.3% | 8.2–10.5% |7.9–10.8% | 7.6–11.1% | 7.2–11.8% |
+| <a href="#enhedslisten–de-rød-grønne">Enhedslisten–De Rød-Grønne</a> | 6.9% | 6.8% | 5.9–7.9% |5.6–8.2% | 5.4–8.5% | 5.0–9.0% |
+| <a href="#det-konservative-folkeparti">Det Konservative Folkeparti</a> | 6.6% | 6.9% | 6.0–8.0% |5.7–8.3% | 5.5–8.5% | 5.1–9.1% |
+| <a href="#alternativet">Alternativet</a> | 3.0% | 2.2% | 1.6–2.8% |1.5–3.0% | 1.4–3.1% | 1.2–3.5% |
+| <a href="#nye-borgerlige">Nye Borgerlige</a> | 2.4% | 2.0% | 1.5–2.6% |1.3–2.8% | 1.2–2.9% | 1.1–3.3% |
+| <a href="#liberal-alliance">Liberal Alliance</a> | 2.3% | 2.7% | 2.1–3.4% |2.0–3.6% | 1.9–3.8% | 1.6–4.2% |
+| <a href="#stram-kurs">Stram Kurs</a> | 1.8% | 1.2% | 0.8–1.7% |0.7–1.8% | 0.7–2.0% | 0.5–2.3% |
+| <a href="#kristendemokraterne">Kristendemokraterne</a> | 1.7% | 1.5% | 1.1–2.0% |1.0–2.2% | 0.9–2.3% | 0.7–2.7% |
+| <a href="#klaus-riskær-pedersen">Klaus Riskær Pedersen</a> | 0.8% | N/A | N/A |N/A | N/A | N/A |
+
+### Socialdemokraterne
+
+*For a full overview of the results for this party, see the [Socialdemokraterne](party-socialdemokraterne.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.8% | 99.9% |  |
+| 23.5–24.5% | 5% | 99.1% |  |
+| 24.5–25.5% | 14% | 95% |  |
+| 25.5–26.5% | 26% | 80% | Last Result |
+| 26.5–27.5% | 28% | 54% | Median |
+| 27.5–28.5% | 18% | 27% |  |
+| 28.5–29.5% | 7% | 9% |  |
+| 29.5–30.5% | 2% | 2% |  |
+| 30.5–31.5% | 0.3% | 0.3% |  |
+| 31.5–32.5% | 0% | 0% |  |
+
+### Venstre
+
+*For a full overview of the results for this party, see the [Venstre](party-venstre.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 1.0% | 99.9% |  |
+| 20.5–21.5% | 6% | 98.9% |  |
+| 21.5–22.5% | 17% | 93% |  |
+| 22.5–23.5% | 28% | 76% | Last Result, Median |
+| 23.5–24.5% | 27% | 47% |  |
+| 24.5–25.5% | 15% | 20% |  |
+| 25.5–26.5% | 5% | 6% |  |
+| 26.5–27.5% | 1.0% | 1.1% |  |
+| 27.5–28.5% | 0.1% | 0.1% |  |
+| 28.5–29.5% | 0% | 0% |  |
+
+### Dansk Folkeparti
+
+*For a full overview of the results for this party, see the [Dansk Folkeparti](party-danskfolkeparti.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 4% | 99.9% |  |
+| 6.5–7.5% | 27% | 96% |  |
+| 7.5–8.5% | 45% | 69% | Median |
+| 8.5–9.5% | 21% | 24% | Last Result |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
+
+### Radikale Venstre
+
+*For a full overview of the results for this party, see the [Radikale Venstre](party-radikalevenstre.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 1.4% | 100% |  |
+| 7.5–8.5% | 16% | 98.6% |  |
+| 8.5–9.5% | 41% | 83% | Last Result, Median |
+| 9.5–10.5% | 32% | 42% |  |
+| 10.5–11.5% | 9% | 11% |  |
+| 11.5–12.5% | 1.1% | 1.2% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
+
+### Socialistisk Folkeparti
+
+*For a full overview of the results for this party, see the [Socialistisk Folkeparti](party-socialistiskfolkeparti.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 2% | 100% |  |
+| 7.5–8.5% | 18% | 98% | Last Result |
+| 8.5–9.5% | 42% | 80% | Median |
+| 9.5–10.5% | 30% | 38% |  |
+| 10.5–11.5% | 8% | 9% |  |
+| 11.5–12.5% | 0.8% | 0.9% |  |
+| 12.5–13.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 0% |  |
+
+### Enhedslisten–De Rød-Grønne
+
+*For a full overview of the results for this party, see the [Enhedslisten–De Rød-Grønne](party-enhedslisten–derød-grønne.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 4% | 99.9% |  |
+| 5.5–6.5% | 32% | 96% |  |
+| 6.5–7.5% | 45% | 63% | Last Result, Median |
+| 7.5–8.5% | 16% | 18% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
+
+### Det Konservative Folkeparti
+
+*For a full overview of the results for this party, see the [Det Konservative Folkeparti](party-detkonservativefolkeparti.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 3% | 100% |  |
+| 5.5–6.5% | 29% | 97% |  |
+| 6.5–7.5% | 46% | 68% | Last Result, Median |
+| 7.5–8.5% | 19% | 22% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
+
+### Alternativet
+
+*For a full overview of the results for this party, see the [Alternativet](party-alternativet.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 7% | 100% |  |
+| 1.5–2.5% | 73% | 93% | Median |
+| 2.5–3.5% | 20% | 21% | Last Result |
+| 3.5–4.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0% | 0% |  |
+
+### Nye Borgerlige
+
+*For a full overview of the results for this party, see the [Nye Borgerlige](party-nyeborgerlige.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 15% | 100% |  |
+| 1.5–2.5% | 74% | 85% | Last Result, Median |
+| 2.5–3.5% | 11% | 11% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
+
+### Liberal Alliance
+
+*For a full overview of the results for this party, see the [Liberal Alliance](party-liberalalliance.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 35% | 99.7% | Last Result |
+| 2.5–3.5% | 58% | 64% | Median |
+| 3.5–4.5% | 6% | 7% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
+
+### Stram Kurs
+
+*For a full overview of the results for this party, see the [Stram Kurs](party-stramkurs.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0.6% | 100% |  |
+| 0.5–1.5% | 82% | 99.4% | Median |
+| 1.5–2.5% | 17% | 17% | Last Result |
+| 2.5–3.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 0% |  |
+
+### Kristendemokraterne
+
+*For a full overview of the results for this party, see the [Kristendemokraterne](party-kristendemokraterne.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 57% | 100% | Median |
+| 1.5–2.5% | 42% | 43% | Last Result |
+| 2.5–3.5% | 0.9% | 0.9% |  |
+| 3.5–4.5% | 0% | 0% |  |
+
+
+## Seats
+
+![Graph with seats not yet produced](average-seats.png "Seats")
+
+![Graph with seating plan not yet produced](average-seating-plan.png "Seating Plan")
+
+### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#socialdemokraterne">Socialdemokraterne</a> | 48 | 50 | 47–51 |43–51 | 43–51 | 43–51 |
+| <a href="#venstre">Venstre</a> | 43 | 40 | 36–46 |36–47 | 36–47 | 36–47 |
+| <a href="#dansk-folkeparti">Dansk Folkeparti</a> | 16 | 15 | 13–17 |11–17 | 11–17 | 11–17 |
+| <a href="#radikale-venstre">Radikale Venstre</a> | 16 | 16 | 15–18 |15–18 | 14–21 | 14–23 |
+| <a href="#socialistisk-folkeparti">Socialistisk Folkeparti</a> | 14 | 18 | 14–21 |13–21 | 13–21 | 13–21 |
+| <a href="#enhedslisten–de-rød-grønne">Enhedslisten–De Rød-Grønne</a> | 13 | 13 | 9–14 |9–14 | 9–17 | 9–17 |
+| <a href="#det-konservative-folkeparti">Det Konservative Folkeparti</a> | 12 | 12 | 10–17 |10–17 | 10–17 | 10–17 |
+| <a href="#alternativet">Alternativet</a> | 5 | 0 | 0–4 |0–6 | 0–6 | 0–6 |
+| <a href="#nye-borgerlige">Nye Borgerlige</a> | 4 | 0 | 0–5 |0–6 | 0–6 | 0–6 |
+| <a href="#liberal-alliance">Liberal Alliance</a> | 4 | 5 | 4–7 |4–7 | 4–7 | 0–8 |
+| <a href="#stram-kurs">Stram Kurs</a> | 0 | 0 | 0–4 |0–4 | 0–4 | 0–4 |
+| <a href="#kristendemokraterne">Kristendemokraterne</a> | 0 | 0 | 0–5 |0–5 | 0–5 | 0–5 |
+| <a href="#klaus-riskær-pedersen">Klaus Riskær Pedersen</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+
+### Socialdemokraterne
+
+*For a full overview of the results for this party, see the [Socialdemokraterne](party-socialdemokraterne.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-socialdemokraterne.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 41 | 0.4% | 100% |  |
+| 42 | 0% | 99.6% |  |
+| 43 | 7% | 99.6% |  |
+| 44 | 0.5% | 93% |  |
+| 45 | 0% | 92% |  |
+| 46 | 0.1% | 92% |  |
+| 47 | 23% | 92% |  |
+| 48 | 2% | 69% | Last Result |
+| 49 | 9% | 67% |  |
+| 50 | 35% | 58% | Median |
+| 51 | 23% | 23% |  |
+| 52 | 0% | 0.1% |  |
+| 53 | 0% | 0.1% |  |
+| 54 | 0% | 0.1% |  |
+| 55 | 0% | 0.1% |  |
+| 56 | 0% | 0.1% |  |
+| 57 | 0% | 0% |  |
+
+### Venstre
+
+*For a full overview of the results for this party, see the [Venstre](party-venstre.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-venstre.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 36 | 19% | 100% |  |
+| 37 | 18% | 80% |  |
+| 38 | 3% | 63% |  |
+| 39 | 1.3% | 60% |  |
+| 40 | 18% | 58% | Median |
+| 41 | 0.1% | 40% |  |
+| 42 | 2% | 40% |  |
+| 43 | 21% | 38% | Last Result |
+| 44 | 0.8% | 17% |  |
+| 45 | 0% | 16% |  |
+| 46 | 7% | 16% |  |
+| 47 | 9% | 9% |  |
+| 48 | 0% | 0.1% |  |
+| 49 | 0% | 0.1% |  |
+| 50 | 0% | 0.1% |  |
+| 51 | 0% | 0.1% |  |
+| 52 | 0% | 0.1% |  |
+| 53 | 0% | 0% |  |
+
+### Dansk Folkeparti
+
+*For a full overview of the results for this party, see the [Dansk Folkeparti](party-danskfolkeparti.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-danskfolkeparti.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 11 | 7% | 100% |  |
+| 12 | 0.1% | 93% |  |
+| 13 | 23% | 93% |  |
+| 14 | 18% | 70% |  |
+| 15 | 3% | 52% | Median |
+| 16 | 36% | 49% | Last Result |
+| 17 | 12% | 13% |  |
+| 18 | 0% | 0.4% |  |
+| 19 | 0% | 0.4% |  |
+| 20 | 0.4% | 0.4% |  |
+| 21 | 0% | 0% |  |
+
+### Radikale Venstre
+
+*For a full overview of the results for this party, see the [Radikale Venstre](party-radikalevenstre.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-radikalevenstre.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 13 | 0.1% | 100% |  |
+| 14 | 3% | 99.9% |  |
+| 15 | 7% | 97% |  |
+| 16 | 49% | 90% | Last Result, Median |
+| 17 | 15% | 41% |  |
+| 18 | 22% | 25% |  |
+| 19 | 0.1% | 3% |  |
+| 20 | 0% | 3% |  |
+| 21 | 1.3% | 3% |  |
+| 22 | 0% | 2% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0% | 0% |  |
+
+### Socialistisk Folkeparti
+
+*For a full overview of the results for this party, see the [Socialistisk Folkeparti](party-socialistiskfolkeparti.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-socialistiskfolkeparti.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 13 | 9% | 100% |  |
+| 14 | 4% | 91% | Last Result |
+| 15 | 2% | 87% |  |
+| 16 | 4% | 85% |  |
+| 17 | 18% | 81% |  |
+| 18 | 16% | 64% | Median |
+| 19 | 0.1% | 48% |  |
+| 20 | 27% | 48% |  |
+| 21 | 21% | 21% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
+
+### Enhedslisten–De Rød-Grønne
+
+*For a full overview of the results for this party, see the [Enhedslisten–De Rød-Grønne](party-enhedslisten–derød-grønne.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-enhedslisten–derød-grønne.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 8 | 0.1% | 100% |  |
+| 9 | 15% | 99.9% |  |
+| 10 | 0.5% | 85% |  |
+| 11 | 7% | 84% |  |
+| 12 | 18% | 77% |  |
+| 13 | 30% | 59% | Last Result, Median |
+| 14 | 24% | 28% |  |
+| 15 | 1.3% | 4% |  |
+| 16 | 0.1% | 3% |  |
+| 17 | 3% | 3% |  |
+| 18 | 0% | 0% |  |
+
+### Det Konservative Folkeparti
+
+*For a full overview of the results for this party, see the [Det Konservative Folkeparti](party-detkonservativefolkeparti.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-detkonservativefolkeparti.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 9 | 0.1% | 100% |  |
+| 10 | 39% | 99.9% |  |
+| 11 | 3% | 61% |  |
+| 12 | 15% | 58% | Last Result, Median |
+| 13 | 2% | 43% |  |
+| 14 | 20% | 41% |  |
+| 15 | 3% | 21% |  |
+| 16 | 0% | 19% |  |
+| 17 | 19% | 19% |  |
+| 18 | 0% | 0% |  |
+
+### Alternativet
+
+*For a full overview of the results for this party, see the [Alternativet](party-alternativet.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-alternativet.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 64% | 100% | Median |
+| 1 | 0% | 36% |  |
+| 2 | 0% | 36% |  |
+| 3 | 0% | 36% |  |
+| 4 | 27% | 36% |  |
+| 5 | 0.5% | 9% | Last Result |
+| 6 | 9% | 9% |  |
+| 7 | 0% | 0% |  |
+
+### Nye Borgerlige
+
+*For a full overview of the results for this party, see the [Nye Borgerlige](party-nyeborgerlige.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-nyeborgerlige.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 50% | 100% | Median |
+| 1 | 0% | 50% |  |
+| 2 | 0% | 50% |  |
+| 3 | 0% | 50% |  |
+| 4 | 20% | 50% | Last Result |
+| 5 | 22% | 30% |  |
+| 6 | 7% | 8% |  |
+| 7 | 0% | 0% |  |
+
+### Liberal Alliance
+
+*For a full overview of the results for this party, see the [Liberal Alliance](party-liberalalliance.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-liberalalliance.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 2% | 100% |  |
+| 1 | 0% | 98% |  |
+| 2 | 0% | 98% |  |
+| 3 | 0% | 98% |  |
+| 4 | 29% | 98% | Last Result |
+| 5 | 47% | 69% | Median |
+| 6 | 0.3% | 22% |  |
+| 7 | 20% | 22% |  |
+| 8 | 1.3% | 1.4% |  |
+| 9 | 0% | 0% |  |
+
+### Stram Kurs
+
+*For a full overview of the results for this party, see the [Stram Kurs](party-stramkurs.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-stramkurs.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 0% | 16% |  |
+| 2 | 0% | 16% |  |
+| 3 | 0% | 16% |  |
+| 4 | 16% | 16% |  |
+| 5 | 0% | 0.1% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
+
+### Kristendemokraterne
+
+*For a full overview of the results for this party, see the [Kristendemokraterne](party-kristendemokraterne.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-kristendemokraterne.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 0% | 31% |  |
+| 2 | 0% | 31% |  |
+| 3 | 0% | 31% |  |
+| 4 | 9% | 31% |  |
+| 5 | 21% | 21% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne – Alternativet | 96 | 99 | 99.5% | 94–100 | 93–100 | 93–100 | 88–103 |
+| Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne | 91 | 96 | 92% | 91–100 | 89–100 | 89–100 | 88–100 |
+| Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti | 78 | 85 | 0% | 78–86 | 78–86 | 78–86 | 77–86 |
+| Socialdemokraterne – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne – Alternativet | 80 | 81 | 0% | 77–84 | 77–84 | 77–84 | 74–84 |
+| Socialdemokraterne – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne | 75 | 80 | 0% | 75–84 | 74–84 | 74–84 | 72–84 |
+| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Stram Kurs – Kristendemokraterne – Klaus Riskær Pedersen | 79 | 76 | 0% | 75–81 | 75–82 | 75–82 | 72–87 |
+| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Klaus Riskær Pedersen | 79 | 76 | 0% | 75–79 | 75–82 | 75–82 | 72–83 |
+| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne | 79 | 76 | 0% | 75–79 | 75–82 | 75–82 | 72–83 |
+| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Klaus Riskær Pedersen | 79 | 75 | 0% | 71–78 | 71–78 | 71–79 | 68–81 |
+| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance | 79 | 75 | 0% | 71–78 | 71–78 | 71–79 | 68–81 |
+| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Liberal Alliance – Kristendemokraterne | 75 | 75 | 0% | 70–76 | 70–78 | 70–78 | 70–80 |
+| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Liberal Alliance | 75 | 73 | 0% | 70–75 | 70–78 | 70–78 | 68–79 |
+| Socialdemokraterne – Radikale Venstre | 64 | 66 | 0% | 65–67 | 58–67 | 58–69 | 58–70 |
+| Venstre – Det Konservative Folkeparti – Liberal Alliance | 59 | 58 | 0% | 54–61 | 54–61 | 54–61 | 54–61 |
+| Venstre – Det Konservative Folkeparti | 55 | 53 | 0% | 50–56 | 50–57 | 50–57 | 49–57 |
+| Venstre | 43 | 40 | 0% | 36–46 | 36–47 | 36–47 | 36–47 |
+
+### Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne – Alternativet
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–b–f–ø–å.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 87 | 0% | 100% |  |
+| 88 | 0.5% | 99.9% |  |
+| 89 | 0% | 99.5% |  |
+| 90 | 0% | 99.5% | Majority |
+| 91 | 0% | 99.5% |  |
+| 92 | 0% | 99.5% |  |
+| 93 | 7% | 99.5% |  |
+| 94 | 16% | 92% |  |
+| 95 | 0.1% | 76% |  |
+| 96 | 3% | 76% | Last Result |
+| 97 | 12% | 74% | Median |
+| 98 | 1.4% | 62% |  |
+| 99 | 21% | 60% |  |
+| 100 | 37% | 39% |  |
+| 101 | 0.1% | 2% |  |
+| 102 | 0% | 2% |  |
+| 103 | 2% | 2% |  |
+| 104 | 0% | 0% |  |
+
+### Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–b–f–ø.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 87 | 0% | 100% |  |
+| 88 | 0.5% | 99.9% |  |
+| 89 | 7% | 99.5% |  |
+| 90 | 0.5% | 92% | Majority |
+| 91 | 9% | 92% | Last Result |
+| 92 | 0% | 83% |  |
+| 93 | 0% | 83% |  |
+| 94 | 15% | 83% |  |
+| 95 | 0% | 67% |  |
+| 96 | 20% | 67% |  |
+| 97 | 3% | 47% | Median |
+| 98 | 1.3% | 44% |  |
+| 99 | 23% | 43% |  |
+| 100 | 19% | 19% |  |
+| 101 | 0% | 0% |  |
+
+### Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–b–f.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 76 | 0.1% | 100% |  |
+| 77 | 0.4% | 99.8% |  |
+| 78 | 17% | 99.4% | Last Result |
+| 79 | 3% | 83% |  |
+| 80 | 0.1% | 80% |  |
+| 81 | 0.1% | 80% |  |
+| 82 | 0% | 80% |  |
+| 83 | 4% | 80% |  |
+| 84 | 18% | 76% | Median |
+| 85 | 17% | 58% |  |
+| 86 | 41% | 41% |  |
+| 87 | 0% | 0.1% |  |
+| 88 | 0.1% | 0.1% |  |
+| 89 | 0% | 0% |  |
+
+### Socialdemokraterne – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne – Alternativet
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–f–ø–å.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 74 | 0.5% | 100% |  |
+| 75 | 0% | 99.5% |  |
+| 76 | 0.8% | 99.5% |  |
+| 77 | 17% | 98.7% |  |
+| 78 | 7% | 82% |  |
+| 79 | 0% | 75% |  |
+| 80 | 2% | 75% | Last Result |
+| 81 | 33% | 73% | Median |
+| 82 | 3% | 40% |  |
+| 83 | 0.1% | 37% |  |
+| 84 | 37% | 37% |  |
+| 85 | 0% | 0.1% |  |
+| 86 | 0% | 0% |  |
+
+### Socialdemokraterne – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–f–ø.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 71 | 0.4% | 100% |  |
+| 72 | 0.5% | 99.6% |  |
+| 73 | 0% | 99.1% |  |
+| 74 | 8% | 99.0% |  |
+| 75 | 9% | 91% | Last Result |
+| 76 | 2% | 83% |  |
+| 77 | 17% | 81% |  |
+| 78 | 0.1% | 64% |  |
+| 79 | 0% | 64% |  |
+| 80 | 18% | 64% |  |
+| 81 | 24% | 46% | Median |
+| 82 | 3% | 22% |  |
+| 83 | 0% | 20% |  |
+| 84 | 19% | 19% |  |
+| 85 | 0% | 0% |  |
+
+### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Stram Kurs – Kristendemokraterne – Klaus Riskær Pedersen
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–p–k–e.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 72 | 2% | 100% | Median |
+| 73 | 0% | 98% |  |
+| 74 | 0.1% | 98% |  |
+| 75 | 37% | 98% |  |
+| 76 | 21% | 61% |  |
+| 77 | 1.4% | 40% |  |
+| 78 | 12% | 38% |  |
+| 79 | 3% | 26% | Last Result |
+| 80 | 0.1% | 24% |  |
+| 81 | 16% | 24% |  |
+| 82 | 7% | 8% |  |
+| 83 | 0% | 0.5% |  |
+| 84 | 0% | 0.5% |  |
+| 85 | 0% | 0.5% |  |
+| 86 | 0% | 0.5% |  |
+| 87 | 0.5% | 0.5% |  |
+| 88 | 0% | 0.1% |  |
+| 89 | 0% | 0% |  |
+
+### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Klaus Riskær Pedersen
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–k–e.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 72 | 2% | 100% | Median |
+| 73 | 0% | 98% |  |
+| 74 | 0.1% | 98% |  |
+| 75 | 37% | 98% |  |
+| 76 | 21% | 61% |  |
+| 77 | 17% | 40% |  |
+| 78 | 12% | 23% |  |
+| 79 | 3% | 11% | Last Result |
+| 80 | 0% | 8% |  |
+| 81 | 0.8% | 8% |  |
+| 82 | 7% | 8% |  |
+| 83 | 0.5% | 0.5% |  |
+| 84 | 0% | 0.1% |  |
+| 85 | 0% | 0% |  |
+
+### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–k.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 72 | 2% | 100% | Median |
+| 73 | 0% | 98% |  |
+| 74 | 0.1% | 98% |  |
+| 75 | 37% | 98% |  |
+| 76 | 21% | 61% |  |
+| 77 | 17% | 40% |  |
+| 78 | 12% | 23% |  |
+| 79 | 3% | 11% | Last Result |
+| 80 | 0% | 8% |  |
+| 81 | 0.8% | 8% |  |
+| 82 | 7% | 8% |  |
+| 83 | 0.5% | 0.5% |  |
+| 84 | 0% | 0.1% |  |
+| 85 | 0% | 0% |  |
+
+### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Klaus Riskær Pedersen
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–e.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 68 | 2% | 100% |  |
+| 69 | 0% | 98% |  |
+| 70 | 0.1% | 98% |  |
+| 71 | 21% | 98% |  |
+| 72 | 0.1% | 77% | Median |
+| 73 | 0% | 77% |  |
+| 74 | 0% | 77% |  |
+| 75 | 37% | 77% |  |
+| 76 | 0% | 39% |  |
+| 77 | 17% | 39% |  |
+| 78 | 19% | 23% |  |
+| 79 | 3% | 4% | Last Result |
+| 80 | 0% | 0.9% |  |
+| 81 | 0.8% | 0.8% |  |
+| 82 | 0% | 0.1% |  |
+| 83 | 0% | 0.1% |  |
+| 84 | 0% | 0.1% |  |
+| 85 | 0% | 0% |  |
+
+### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 68 | 2% | 100% |  |
+| 69 | 0% | 98% |  |
+| 70 | 0.1% | 98% |  |
+| 71 | 21% | 98% |  |
+| 72 | 0.1% | 77% | Median |
+| 73 | 0% | 77% |  |
+| 74 | 0% | 77% |  |
+| 75 | 37% | 77% |  |
+| 76 | 0% | 39% |  |
+| 77 | 17% | 39% |  |
+| 78 | 19% | 23% |  |
+| 79 | 3% | 4% | Last Result |
+| 80 | 0% | 0.9% |  |
+| 81 | 0.8% | 0.8% |  |
+| 82 | 0% | 0.1% |  |
+| 83 | 0% | 0.1% |  |
+| 84 | 0% | 0.1% |  |
+| 85 | 0% | 0% |  |
+
+### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Liberal Alliance – Kristendemokraterne
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–i–k.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 70 | 20% | 100% |  |
+| 71 | 0% | 80% |  |
+| 72 | 2% | 80% | Median |
+| 73 | 20% | 79% |  |
+| 74 | 0% | 59% |  |
+| 75 | 21% | 59% | Last Result |
+| 76 | 28% | 38% |  |
+| 77 | 0% | 10% |  |
+| 78 | 9% | 10% |  |
+| 79 | 0.6% | 1.1% |  |
+| 80 | 0% | 0.5% |  |
+| 81 | 0.4% | 0.5% |  |
+| 82 | 0% | 0% |  |
+
+### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Liberal Alliance
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–i.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 67 | 0% | 100% |  |
+| 68 | 2% | 99.9% |  |
+| 69 | 0% | 98% |  |
+| 70 | 20% | 98% |  |
+| 71 | 21% | 79% |  |
+| 72 | 7% | 57% | Median |
+| 73 | 20% | 50% |  |
+| 74 | 0% | 31% |  |
+| 75 | 21% | 31% | Last Result |
+| 76 | 0.1% | 9% |  |
+| 77 | 0% | 9% |  |
+| 78 | 9% | 9% |  |
+| 79 | 0.1% | 0.5% |  |
+| 80 | 0% | 0.4% |  |
+| 81 | 0.4% | 0.4% |  |
+| 82 | 0% | 0% |  |
+
+### Socialdemokraterne – Radikale Venstre
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–b.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 58 | 7% | 100% |  |
+| 59 | 0.4% | 93% |  |
+| 60 | 0% | 93% |  |
+| 61 | 0.1% | 92% |  |
+| 62 | 1.0% | 92% |  |
+| 63 | 0% | 91% |  |
+| 64 | 0% | 91% | Last Result |
+| 65 | 33% | 91% |  |
+| 66 | 20% | 59% | Median |
+| 67 | 36% | 39% |  |
+| 68 | 0% | 3% |  |
+| 69 | 1.3% | 3% |  |
+| 70 | 2% | 2% |  |
+| 71 | 0.1% | 0.1% |  |
+| 72 | 0% | 0% |  |
+
+### Venstre – Det Konservative Folkeparti – Liberal Alliance
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–c–i.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 52 | 0% | 100% |  |
+| 53 | 0% | 99.9% |  |
+| 54 | 19% | 99.9% |  |
+| 55 | 2% | 80% |  |
+| 56 | 3% | 79% |  |
+| 57 | 17% | 76% | Median |
+| 58 | 22% | 59% |  |
+| 59 | 0.1% | 37% | Last Result |
+| 60 | 3% | 37% |  |
+| 61 | 34% | 34% |  |
+| 62 | 0.1% | 0.3% |  |
+| 63 | 0.1% | 0.2% |  |
+| 64 | 0% | 0.1% |  |
+| 65 | 0% | 0% |  |
+
+### Venstre – Det Konservative Folkeparti
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–c.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 47 | 0.1% | 100% |  |
+| 48 | 0% | 99.9% |  |
+| 49 | 1.3% | 99.9% |  |
+| 50 | 19% | 98.6% |  |
+| 51 | 3% | 79% |  |
+| 52 | 15% | 76% | Median |
+| 53 | 24% | 61% |  |
+| 54 | 18% | 37% |  |
+| 55 | 2% | 19% | Last Result |
+| 56 | 7% | 16% |  |
+| 57 | 9% | 9% |  |
+| 58 | 0% | 0.5% |  |
+| 59 | 0% | 0.4% |  |
+| 60 | 0% | 0.4% |  |
+| 61 | 0.4% | 0.4% |  |
+| 62 | 0% | 0.1% |  |
+| 63 | 0% | 0.1% |  |
+| 64 | 0% | 0% |  |
+
+### Venstre
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 36 | 19% | 100% |  |
+| 37 | 18% | 80% |  |
+| 38 | 3% | 63% |  |
+| 39 | 1.3% | 60% |  |
+| 40 | 18% | 58% | Median |
+| 41 | 0.1% | 40% |  |
+| 42 | 2% | 40% |  |
+| 43 | 21% | 38% | Last Result |
+| 44 | 0.8% | 17% |  |
+| 45 | 0% | 16% |  |
+| 46 | 7% | 16% |  |
+| 47 | 9% | 9% |  |
+| 48 | 0% | 0.1% |  |
+| 49 | 0% | 0.1% |  |
+| 50 | 0% | 0.1% |  |
+| 51 | 0% | 0.1% |  |
+| 52 | 0% | 0.1% |  |
+| 53 | 0% | 0% |  |
+
+
+## Technical Information
+
++ **Number of polls included in this average:** 2
++ **Lowest number of simulations done in a poll included in this average:** 0
++ **Total number of simulations done in the polls included in this average:** 8,192
++ **Error estimate:** 2.90%
