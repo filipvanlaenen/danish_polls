@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | A | V | O | B | F | Ø | C | Å | D | I | P | K | E |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 5 June 2019 | General Election | 25.9% <br> 48 | 23.4% <br> 43 | 8.7% <br> 16 | 8.6% <br> 16 | 7.7% <br> 14 | 6.9% <br> 13 | 6.6% <br> 12 | 3.0% <br> 5 | 2.4% <br> 4 | 2.3% <br> 4 | 1.8% <br> 0 | 1.7% <br> 0 | 0.8% <br> 0 |
-| N/A | [Poll Average](average.html) | 24–29% <br> 43–51 | 21–26% <br> 36–47 | 6–10% <br> 11–17 | 8–11% <br> 14–21 | 8–11% <br> 13–21 | 5–8% <br> 9–17 | 6–8% <br> 10–17 | 1–3% <br> 0–6 | 1–3% <br> 0–6 | 2–4% <br> 4–7 | 1–2% <br> 0–4 | 1–2% <br> 0–5 | N/A <br> N/A |
-| [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 24–29% <br> 43–51 | 21–26% <br> 36–47 | 6–10% <br> 11–17 | 8–11% <br> 14–21 | 8–11% <br> 13–21 | 5–8% <br> 9–17 | 5–9% <br> 10–17 | 1–3% <br> 0–6 | 1–3% <br> 0–6 | 2–4% <br> 4–7 | 1–2% <br> 0–4 | 1–2% <br> 0–5 | N/A <br> N/A |
-| [8 August 2019](2019-08-08-Gallup.html) | Gallup | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 24–29% <br> 42–54 | 21–26% <br> 38–44 | 7–11% <br> 12–19 | 8–11% <br> 14–20 | 7–11% <br> 13–19 | 6–9% <br> 10–16 | 6–8% <br> 10–15 | 2–3% <br> 0–5 | 1–4% <br> 0–6 | 2–4% <br> 4–7 | 1–2% <br> 0 | 1–2% <br> 0–4 | 0–1% <br> 0 |
+| [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 24–29% <br> 43–54 | 21–26% <br> 38–44 | 6–10% <br> 11–16 | 8–11% <br> 14–20 | 8–11% <br> 15–21 | 5–8% <br> 10–16 | 5–9% <br> 10–16 | 1–3% <br> 0–6 | 1–3% <br> 0–5 | 2–4% <br> 4–7 | 1–2% <br> 0 | 1–2% <br> 0–5 | N/A <br> N/A |
+| [8 August 2019](2019-08-08-Gallup.html) | Gallup | 23–28% <br> 41–48 | 21–26% <br> 41–44 | 8–11% <br> 15–19 | 8–10% <br> 16–19 | 6–9% <br> 11–16 | 6–9% <br> 12–15 | 6–8% <br> 10–15 | 2–3% <br> 0–5 | 2–4% <br> 0–6 | 2–3% <br> 4–6 | 1–2% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 |
 | 5 June 2019 | General Election | 25.9% <br> 48 | 23.4% <br> 43 | 8.7% <br> 16 | 8.6% <br> 16 | 7.7% <br> 14 | 6.9% <br> 13 | 6.6% <br> 12 | 3.0% <br> 5 | 2.4% <br> 4 | 2.3% <br> 4 | 1.8% <br> 0 | 1.7% <br> 0 | 0.8% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
