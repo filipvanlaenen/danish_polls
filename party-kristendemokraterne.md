@@ -10,12 +10,12 @@ Last result: **1.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.0% | 1.0–2.2% | 0.9–2.3% | 0.7–2.7% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.1–1.9% | 1.0–2.1% | 0.9–2.2% | 0.7–2.6% |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1.4% | 1.1–2.0% | 0.9–2.2% | 0.9–2.3% | 0.7–2.7% |
 | [18–25 August 2019](2019-08-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1.6% | N/A | N/A | N/A | N/A |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 1.6% | N/A | N/A | N/A | N/A |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 1.2% | N/A | N/A | N/A | N/A |
-| [8 August 2019](2019-08-08-Gallup.html) | Gallup | 1.4% | N/A | N/A | N/A | N/A |
+| [8 August 2019](2019-08-08-Gallup.html) | Gallup | 1.4% | 1.1–1.8% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% |
 | [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 1.8% | N/A | N/A | N/A | N/A |
 | [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 1.6% | N/A | N/A | N/A | N/A |
 | [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 1.5% | N/A | N/A | N/A | N/A |
@@ -27,9 +27,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 57% | 100% | Median |
-| 1.5–2.5% | 42% | 43% | Last Result |
-| 2.5–3.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 62% | 100% | Median |
+| 1.5–2.5% | 37% | 38% | Last Result |
+| 2.5–3.5% | 0.5% | 0.5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -41,12 +41,12 @@ Last result: **0** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–5 |
+| [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [18–25 August 2019](2019-08-25-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [8 August 2019](2019-08-08-Gallup.html) | Gallup |  |  |  |  |  |
+| [8 August 2019](2019-08-08-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
@@ -59,13 +59,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Last Result, Median |
-| 1 | 0% | 31% |  |
-| 2 | 0% | 31% |  |
-| 3 | 0% | 31% |  |
-| 4 | 9% | 31% |  |
-| 5 | 21% | 21% |  |
-| 6 | 0.1% | 0.1% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 0% | 4% |  |
+| 4 | 2% | 4% |  |
+| 5 | 1.4% | 2% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
