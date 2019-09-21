@@ -44,7 +44,7 @@ Last result: **0** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
-| [9–14 September 2019](2019-09-14-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–5 |
+| [9–14 September 2019](2019-09-14-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–4 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [18–25 August 2019](2019-08-25-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 2% |  |
 | 3 | 0% | 2% |  |
 | 4 | 2% | 2% |  |
-| 5 | 0.2% | 0.3% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 

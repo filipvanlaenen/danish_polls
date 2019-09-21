@@ -50,8 +50,8 @@ Last result: **43** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42 | 36–42 | 36–45 | 36–45 | 35–46 |
-| [9–14 September 2019](2019-09-14-Voxmeter.html) | Voxmeter <br> Ritzau | 37 | 36–42 | 36–42 | 36–43 | 35–45 |
+| N/A | [Poll Average](average.html) | 42 | 36–44 | 36–45 | 36–45 | 34–47 |
+| [9–14 September 2019](2019-09-14-Voxmeter.html) | Voxmeter <br> Ritzau | 37 | 36–44 | 36–44 | 36–44 | 34–50 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 42 | 39–44 | 38–47 | 38–47 | 35–47 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 42 | 37–45 | 37–47 | 37–49 | 36–49 |
 | [18–25 August 2019](2019-08-25-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
@@ -72,21 +72,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 32 | 0.1% | 100% |  |
 | 33 | 0% | 99.9% |  |
-| 34 | 0.1% | 99.9% |  |
-| 35 | 0.4% | 99.8% |  |
-| 36 | 17% | 99.4% |  |
-| 37 | 15% | 82% |  |
-| 38 | 1.2% | 68% |  |
-| 39 | 7% | 67% |  |
-| 40 | 6% | 60% |  |
-| 41 | 4% | 54% |  |
-| 42 | 41% | 50% | Median |
-| 43 | 2% | 10% | Last Result |
-| 44 | 2% | 8% |  |
-| 45 | 4% | 6% |  |
+| 34 | 0.8% | 99.9% |  |
+| 35 | 0.2% | 99.1% |  |
+| 36 | 19% | 98.9% |  |
+| 37 | 8% | 80% |  |
+| 38 | 4% | 72% |  |
+| 39 | 10% | 68% |  |
+| 40 | 4% | 58% |  |
+| 41 | 2% | 53% |  |
+| 42 | 37% | 51% | Median |
+| 43 | 2% | 14% | Last Result |
+| 44 | 5% | 12% |  |
+| 45 | 4% | 7% |  |
 | 46 | 1.4% | 2% |  |
-| 47 | 0.2% | 0.3% |  |
-| 48 | 0% | 0.1% |  |
-| 49 | 0% | 0% |  |
+| 47 | 0.4% | 0.8% |  |
+| 48 | 0% | 0.3% |  |
+| 49 | 0% | 0.3% |  |
+| 50 | 0.3% | 0.3% |  |
+| 51 | 0% | 0% |  |
 
 
