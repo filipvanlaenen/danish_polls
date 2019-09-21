@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Fri, 20 Sep 2019 15:33:20 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 23:40:02 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 9–14 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-09-14-Voxmeter.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-09-14-Voxmeter.png"
         length="284216"
         type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 15:33:20 +0200</pubDate>
-      <dc:date>2019-09-20T15:33:20.114061+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 23:40:02 +0200</pubDate>
+      <dc:date>2019-09-20T23:40:02.606915+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 2–9 September 2019 – Voting Intentions</title>
@@ -49,6 +49,6 @@
       <pubDate>Mon, 09 Sep 2019 19:40:09 +0200</pubDate>
       <dc:date>2019-09-09T19:40:09.239657+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T15:33:20.114061+02:00</dc:date>
+    <dc:date>2019-09-20T23:40:02.606915+02:00</dc:date>
   </channel>
 </rss>
