@@ -22,7 +22,7 @@ Last result: **6.9%** (General Election of 5 June 2019)
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 7.4% | 6.6–8.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.3% |
 | [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 7.1% | 6.2–8.2% | 5.9–8.6% | 5.7–8.8% | 5.3–9.4% |
 | [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
-| [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 7.1% | N/A | N/A | N/A | N/A |
+| [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.5% |
 
 ### Probability Mass Function
 
@@ -60,7 +60,7 @@ Last result: **13** seats (General Election of 5 June 2019)
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 14 | 12–15 | 12–15 | 12–15 | 11–17 |
 | [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 12–14 | 11–14 | 11–15 | 10–17 |
 | [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 9–15 | 9–15 | 9–15 | 9–16 |
-| [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 11–14 | 11–15 | 11–16 | 10–16 |
 
 ### Probability Mass Function
 
