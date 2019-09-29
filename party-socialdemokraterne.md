@@ -53,9 +53,9 @@ Last result: **48** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 42–52 | 42–52 | 42–52 | 40–56 |
-| [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 46–52 | 46–53 | 46–55 | 44–56 |
-| [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 45 | 42–49 | 42–49 | 41–50 | 39–53 |
+| N/A | [Poll Average](average.html) | 48 | 44–53 | 43–53 | 43–53 | 42–54 |
+| [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 47–53 | 46–53 | 46–53 | 43–56 |
+| [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 48 | 43–50 | 43–50 | 43–52 | 42–53 |
 | [9–14 September 2019](2019-09-14-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 48–53 | 47–57 | 46–59 | 43–59 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 46–57 | 45–57 | 44–57 | 41–57 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 43–52 | 43–54 | 43–55 | 42–56 |
@@ -75,26 +75,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.1% | 99.9% |  |
-| 39 | 0.2% | 99.9% |  |
-| 40 | 0.2% | 99.7% |  |
-| 41 | 0.7% | 99.5% |  |
-| 42 | 9% | 98.8% |  |
-| 43 | 2% | 89% |  |
-| 44 | 7% | 88% |  |
-| 45 | 4% | 80% |  |
-| 46 | 17% | 76% |  |
-| 47 | 10% | 59% | Median |
-| 48 | 20% | 49% | Last Result |
-| 49 | 4% | 29% |  |
-| 50 | 3% | 25% |  |
-| 51 | 2% | 22% |  |
-| 52 | 18% | 20% |  |
-| 53 | 1.4% | 2% |  |
-| 54 | 0.1% | 1.1% |  |
-| 55 | 0.3% | 1.0% |  |
-| 56 | 0.6% | 0.7% |  |
-| 57 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.1% | 99.9% |  |
+| 42 | 2% | 99.8% |  |
+| 43 | 4% | 98% |  |
+| 44 | 5% | 94% |  |
+| 45 | 5% | 89% |  |
+| 46 | 10% | 84% |  |
+| 47 | 9% | 74% |  |
+| 48 | 26% | 65% | Last Result, Median |
+| 49 | 3% | 39% |  |
+| 50 | 13% | 36% |  |
+| 51 | 3% | 22% |  |
+| 52 | 7% | 20% |  |
+| 53 | 12% | 13% |  |
+| 54 | 0.4% | 0.8% |  |
+| 55 | 0.1% | 0.4% |  |
+| 56 | 0.2% | 0.3% |  |
+| 57 | 0% | 0.1% |  |
+| 58 | 0% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 

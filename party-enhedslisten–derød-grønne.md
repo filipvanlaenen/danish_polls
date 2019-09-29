@@ -48,9 +48,9 @@ Last result: **13** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 10–17 | 10–17 | 9–18 |
-| [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–14 | 10–14 | 10–14 | 9–17 |
-| [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 14 | 10–17 | 10–17 | 10–17 | 9–19 |
+| N/A | [Poll Average](average.html) | 14 | 11–15 | 11–16 | 11–16 | 10–17 |
+| [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 11–14 | 11–15 | 10–16 | 10–17 |
+| [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 12 | 12–16 | 11–16 | 11–16 | 10–18 |
 | [9–14 September 2019](2019-09-14-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 10–16 | 9–16 | 9–18 | 9–18 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–15 | 12–15 | 11–16 | 10–18 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–15 | 11–15 | 10–16 | 9–16 |
@@ -70,17 +70,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 1.0% | 100% |  |
-| 10 | 6% | 99.0% |  |
-| 11 | 2% | 93% |  |
-| 12 | 10% | 91% |  |
-| 13 | 16% | 82% | Last Result |
-| 14 | 34% | 65% | Median |
-| 15 | 19% | 31% |  |
-| 16 | 3% | 13% |  |
-| 17 | 9% | 10% |  |
-| 18 | 0.3% | 0.5% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 2% | 99.8% |  |
+| 11 | 11% | 98% |  |
+| 12 | 20% | 87% |  |
+| 13 | 7% | 67% | Last Result |
+| 14 | 32% | 59% | Median |
+| 15 | 18% | 27% |  |
+| 16 | 7% | 9% |  |
+| 17 | 1.3% | 2% |  |
+| 18 | 0.2% | 0.3% |  |
+| 19 | 0% | 0% |  |
 
 
