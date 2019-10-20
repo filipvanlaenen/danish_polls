@@ -54,8 +54,8 @@ Last result: **48** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48 | 45–51 | 44–52 | 43–53 | 41–56 |
-| [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 46–53 | 46–56 | 44–56 | 44–56 |
+| N/A | [Poll Average](average.html) | 48 | 44–52 | 44–53 | 43–53 | 41–56 |
+| [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 46–53 | 44–53 | 44–53 | 43–56 |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 49 | 48–55 | 48–57 | 46–57 | 45–57 |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 47–53 | 46–53 | 46–53 | 43–56 |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 48 | 44–50 | 43–50 | 41–50 | 41–52 |
@@ -78,23 +78,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0% | 100% |  |
+| 40 | 0.1% | 100% |  |
 | 41 | 1.3% | 99.9% |  |
 | 42 | 0.9% | 98.6% |  |
-| 43 | 2% | 98% |  |
-| 44 | 5% | 95% |  |
-| 45 | 1.4% | 90% |  |
-| 46 | 11% | 89% |  |
-| 47 | 7% | 78% |  |
+| 43 | 3% | 98% |  |
+| 44 | 6% | 95% |  |
+| 45 | 2% | 89% |  |
+| 46 | 8% | 87% |  |
+| 47 | 9% | 79% |  |
 | 48 | 30% | 71% | Last Result, Median |
-| 49 | 19% | 41% |  |
-| 50 | 11% | 21% |  |
-| 51 | 1.0% | 10% |  |
-| 52 | 5% | 9% |  |
-| 53 | 2% | 5% |  |
-| 54 | 0% | 2% |  |
-| 55 | 0.1% | 2% |  |
-| 56 | 2% | 2% |  |
+| 49 | 13% | 41% |  |
+| 50 | 12% | 28% |  |
+| 51 | 3% | 16% |  |
+| 52 | 5% | 13% |  |
+| 53 | 7% | 8% |  |
+| 54 | 0.1% | 0.8% |  |
+| 55 | 0.1% | 0.8% |  |
+| 56 | 0.7% | 0.7% |  |
 | 57 | 0% | 0% |  |
 
 
