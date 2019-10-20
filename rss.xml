@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Sun, 20 Oct 2019 11:17:05 +0200</pubDate>
+    <pubDate>Sun, 20 Oct 2019 14:03:45 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 7–12 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2019-10-12-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 24.3–29.7%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 7.5–11.1%&lt;/li&gt;&lt;li&gt;Venstre: 21.0–26.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.2–9.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 1.7–3.6%&lt;/li&gt;&lt;li&gt;Alternativet: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 7.4–10.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 6.5–9.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 6.1–9.3%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.0–0.7%&lt;/li&gt;&lt;li&gt;Stram Kurs: 1.0–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2019-10-12-Voxmeter.png"
+        length="284216"
+        type="image/png"/>
+      <pubDate>Sun, 20 Oct 2019 14:03:45 +0200</pubDate>
+      <dc:date>2019-10-20T14:03:45.546233+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for 2019-10-07, 30 September–7 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2019-10-07-Voxmeter.html#seats</link>
@@ -199,6 +209,6 @@
       <pubDate>Thu, 26 Sep 2019 08:10:13 +0200</pubDate>
       <dc:date>2019-09-26T08:10:13.73786+02:00</dc:date>
     </item>
-    <dc:date>2019-10-20T11:17:05.076733+02:00</dc:date>
+    <dc:date>2019-10-20T14:03:45.546233+02:00</dc:date>
   </channel>
 </rss>
