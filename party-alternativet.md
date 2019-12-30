@@ -65,10 +65,10 @@ Last result: **5** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 0–6 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–6 | 4–7 | 0–7 | 0–8 |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [9 December 2019](2019-12-09-Gallup.html) | Gallup | 5 | 0–5 | 0–5 | 0–5 | 0–7 |
+| [9 December 2019](2019-12-09-Gallup.html) | Gallup | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [25 November–1 December 2019](2019-12-01-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 5 | 4–5 | 4–6 | 0–6 | 0–7 |
@@ -105,13 +105,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 0% | 92% |  |
-| 2 | 0% | 92% |  |
-| 3 | 0% | 92% |  |
-| 4 | 22% | 92% |  |
-| 5 | 56% | 70% | Last Result, Median |
-| 6 | 11% | 14% |  |
+| 0 | 17% | 100% |  |
+| 1 | 0% | 83% |  |
+| 2 | 0% | 83% |  |
+| 3 | 0% | 83% |  |
+| 4 | 21% | 83% |  |
+| 5 | 46% | 61% | Last Result, Median |
+| 6 | 12% | 15% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
