@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_polls</id>
   <title>All Registered Polls for the Folketinget</title>
-  <updated>2019-12-30T09:42:29.233853+01:00</updated>
+  <updated>2020-01-06T19:13:52.136629+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 23.5–28.8%, 43–51 seats</li><li>Dansk Folkeparti: 6.5–9.8%, 11–17 seats</li><li>Venstre: 21.3–26.5%, 39–48 seats</li><li>Enhedslisten–De Rød-Grønne: 5.9–9.2%, 11–16 seats</li><li>Liberal Alliance: 0.8–2.3%, 0–4 seats</li><li>Alternativet: 2.2–4.4%, 4–7 seats</li><li>Radikale Venstre: 7.3–10.9%, 13–20 seats</li><li>Socialistisk Folkeparti: 6.6–9.9%, 12–19 seats</li><li>Det Konservative Folkeparti: 6.9–10.3%, 13–18 seats</li><li>Nye Borgerlige: 1.4–3.2%, 0–6 seats</li><li>Klaus Riskær Pedersen: 0.2–1.0%, 0 seats</li><li>Stram Kurs: 1.0–2.5%, 0–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_polls/2020-01-05-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_polls/2020-01-05-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter for Ritzau, 30 December 2019–5 January 2020</title>
+    <updated>2020-01-06T19:13:52.136629+01:00</updated>
+    <dc:date>2020-01-06T19:13:52.136629+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 22.9–28.2%, 41–52 seats</li><li>Dansk Folkeparti: 7.0–10.4%, 13–19 seats</li><li>Venstre: 21.3–26.5%, 38–48 seats</li><li>Enhedslisten–De Rød-Grønne: 6.3–9.6%, 11–18 seats</li><li>Liberal Alliance: 1.0–2.5%, 0–5 seats</li><li>Alternativet: 1.9–3.9%, 0–7 seats</li><li>Radikale Venstre: 7.0–10.4%, 12–19 seats</li><li>Socialistisk Folkeparti: 6.1–9.3%, 11–17 seats</li><li>Det Konservative Folkeparti: 6.5–9.9%, 12–18 seats</li><li>Nye Borgerlige: 0.9–2.4%, 0–4 seats</li><li>Klaus Riskær Pedersen: 0.5–1.7%, 0 seats</li><li>Stram Kurs: 1.4–3.2%, 0–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_polls/2019-12-22-Voxmeter.html</id>
@@ -79,5 +87,5 @@
     <updated>2019-10-20T11:17:05.076733+02:00</updated>
     <dc:date>2019-10-20T11:17:05.076733+02:00</dc:date>
   </entry>
-  <dc:date>2019-12-30T09:42:29.233853+01:00</dc:date>
+  <dc:date>2020-01-06T19:13:52.136629+01:00</dc:date>
 </feed>
