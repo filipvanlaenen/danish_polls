@@ -10,7 +10,8 @@ Last result: **23.4%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.2% | 21.7–24.7% | 21.2–25.1% | 20.8–25.5% | 20.0–26.2% |
+| N/A | [Poll Average](average.html) | 23.0% | 21.4–24.5% | 20.9–25.0% | 20.4–25.3% | 19.6–26.1% |
+| [13–19 January 2020](2020-01-19-Voxmeter.html) | Voxmeter <br> Ritzau | 22.3% | 20.7–24.0% | 20.2–24.5% | 19.8–24.9% | 19.1–25.8% |
 | [6–11 January 2020](2020-01-11-Voxmeter.html) | Voxmeter <br> Ritzau | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.6–26.3% |
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 23.8% | 22.2–25.6% | 21.7–26.1% | 21.3–26.5% | 20.5–27.4% |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 23.8% | 22.2–25.6% | 21.7–26.1% | 21.3–26.5% | 20.6–27.4% |
@@ -51,15 +52,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 1.3% | 99.8% |  |
-| 20.5–21.5% | 7% | 98.5% |  |
-| 21.5–22.5% | 21% | 92% |  |
-| 22.5–23.5% | 33% | 70% | Last Result, Median |
-| 23.5–24.5% | 26% | 37% |  |
-| 24.5–25.5% | 10% | 12% |  |
-| 25.5–26.5% | 2% | 2% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
+| 18.5–19.5% | 0.4% | 100% |  |
+| 19.5–20.5% | 3% | 99.5% |  |
+| 20.5–21.5% | 9% | 97% |  |
+| 21.5–22.5% | 23% | 88% |  |
+| 22.5–23.5% | 32% | 65% | Last Result, Median |
+| 23.5–24.5% | 23% | 33% |  |
+| 24.5–25.5% | 8% | 10% |  |
+| 25.5–26.5% | 1.5% | 2% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -71,7 +72,8 @@ Last result: **43** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 39–47 | 39–48 | 38–48 | 37–48 |
+| N/A | [Poll Average](average.html) | 41 | 39–47 | 39–48 | 39–48 | 37–48 |
+| [13–19 January 2020](2020-01-19-Voxmeter.html) | Voxmeter <br> Ritzau | 41 | 41–42 | 39–42 | 38–43 | 37–46 |
 | [6–11 January 2020](2020-01-11-Voxmeter.html) | Voxmeter <br> Ritzau | 41 | 39–45 | 39–46 | 38–46 | 35–49 |
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 43 | 41–47 | 41–47 | 39–48 | 37–49 |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 43 | 40–45 | 38–47 | 38–48 | 37–50 |
@@ -113,23 +115,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0.1% | 100% |  |
-| 35 | 0.1% | 99.9% |  |
-| 36 | 0.1% | 99.8% |  |
-| 37 | 0.5% | 99.7% |  |
-| 38 | 2% | 99.1% |  |
-| 39 | 24% | 97% |  |
-| 40 | 16% | 74% |  |
-| 41 | 12% | 58% | Median |
-| 42 | 7% | 46% |  |
-| 43 | 11% | 39% | Last Result |
-| 44 | 6% | 28% |  |
-| 45 | 7% | 22% |  |
-| 46 | 3% | 15% |  |
+| 35 | 0.1% | 100% |  |
+| 36 | 0.1% | 99.9% |  |
+| 37 | 0.4% | 99.8% |  |
+| 38 | 2% | 99.4% |  |
+| 39 | 22% | 98% |  |
+| 40 | 5% | 75% |  |
+| 41 | 36% | 70% | Median |
+| 42 | 7% | 34% |  |
+| 43 | 4% | 27% | Last Result |
+| 44 | 5% | 23% |  |
+| 45 | 5% | 18% |  |
+| 46 | 1.3% | 13% |  |
 | 47 | 4% | 12% |  |
 | 48 | 8% | 8% |  |
-| 49 | 0.2% | 0.3% |  |
-| 50 | 0.1% | 0.1% |  |
-| 51 | 0% | 0% |  |
+| 49 | 0.1% | 0.1% |  |
+| 50 | 0% | 0% |  |
 
 
