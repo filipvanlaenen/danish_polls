@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Wed, 22 Jan 2020 06:51:36 +0100</pubDate>
+    <pubDate>Fri, 31 Jan 2020 06:52:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 20–26 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-01-26-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 25.2–30.7%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 6.5–9.8%&lt;/li&gt;&lt;li&gt;Venstre: 20.1–25.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 5.9–9.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Alternativet: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 7.4–10.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 6.6–9.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.0–0.5%&lt;/li&gt;&lt;li&gt;Stram Kurs: 1.6–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-01-26-Voxmeter.png"
+        length="267009"
+        type="image/png"/>
+      <pubDate>Fri, 31 Jan 2020 06:52:30 +0100</pubDate>
+      <dc:date>2020-01-31T06:52:30.237681+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 13–19 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2020-01-19-Voxmeter.html</link>
@@ -559,6 +569,6 @@
       <pubDate>Thu, 26 Sep 2019 08:10:13 +0200</pubDate>
       <dc:date>2019-09-26T08:10:13.73786+02:00</dc:date>
     </item>
-    <dc:date>2020-01-22T06:51:36.083933+01:00</dc:date>
+    <dc:date>2020-01-31T06:52:30.237681+01:00</dc:date>
   </channel>
 </rss>
