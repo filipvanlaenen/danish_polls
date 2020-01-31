@@ -10,7 +10,8 @@ Last result: **3.0%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 2.0–3.2% | 1.9–3.4% | 1.7–3.6% | 1.5–3.9% |
+| N/A | [Poll Average](average.html) | 2.6% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–4.0% |
+| [20–26 January 2020](2020-01-26-Voxmeter.html) | Voxmeter <br> Ritzau | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [13–19 January 2020](2020-01-19-Voxmeter.html) | Voxmeter <br> Ritzau | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [6–11 January 2020](2020-01-11-Voxmeter.html) | Voxmeter <br> Ritzau | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 2.0–4.8% |
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 2.0–4.8% |
@@ -52,9 +53,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.6% | 100% |  |
-| 1.5–2.5% | 49% | 99.4% |  |
-| 2.5–3.5% | 48% | 50% | Last Result, Median |
+| 0.5–1.5% | 0.5% | 100% |  |
+| 1.5–2.5% | 49% | 99.5% |  |
+| 2.5–3.5% | 48% | 51% | Last Result, Median |
 | 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -67,7 +68,8 @@ Last result: **5** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
+| [20–26 January 2020](2020-01-26-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 0–6 | 0–6 | 0–7 |
 | [13–19 January 2020](2020-01-19-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 5–7 | 4–7 | 4–7 | 0–7 |
 | [6–11 January 2020](2020-01-11-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–7 | 4–7 | 4–7 | 4–9 |
@@ -110,14 +112,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% |  |
-| 1 | 0% | 83% |  |
-| 2 | 0% | 83% |  |
-| 3 | 0% | 83% |  |
-| 4 | 18% | 83% |  |
-| 5 | 33% | 66% | Last Result, Median |
-| 6 | 6% | 33% |  |
-| 7 | 27% | 27% |  |
-| 8 | 0% | 0% |  |
+| 0 | 18% | 100% |  |
+| 1 | 0% | 82% |  |
+| 2 | 0% | 82% |  |
+| 3 | 0.1% | 82% |  |
+| 4 | 17% | 82% |  |
+| 5 | 59% | 65% | Last Result, Median |
+| 6 | 5% | 6% |  |
+| 7 | 1.3% | 1.4% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 
