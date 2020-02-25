@@ -10,8 +10,8 @@ Last result: **25.9%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.4% | 25.0–27.9% | 24.6–28.3% | 24.2–28.7% | 23.6–29.4% |
-| [17–23 February 2020](2020-02-23-Voxmeter.html) | Voxmeter <br> Ritzau | 27.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 26.9% | 25.3–28.8% | 24.8–29.3% | 24.4–29.8% | 23.7–30.8% |
+| [17–23 February 2020](2020-02-23-Voxmeter.html) | Voxmeter <br> Ritzau | 27.5% | 25.7–29.3% | 25.3–29.8% | 24.8–30.2% | 24.0–31.1% |
 | [10–16 February 2020](2020-02-16-Voxmeter.html) | Voxmeter <br> Ritzau | 27.8% | 26.0–29.7% | 25.6–30.2% | 25.1–30.7% | 24.3–31.6% |
 | [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 26.4% | 25.0–27.9% | 24.6–28.3% | 24.2–28.7% | 23.6–29.4% |
 | [3–8 February 2020](2020-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 28.4% | 26.7–30.3% | 26.2–30.8% | 25.8–31.2% | 25.0–32.1% |
@@ -58,15 +58,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.4% | 100% |  |
-| 23.5–24.5% | 4% | 99.5% |  |
-| 24.5–25.5% | 17% | 95% |  |
-| 25.5–26.5% | 33% | 78% | Last Result, Median |
-| 26.5–27.5% | 29% | 45% |  |
-| 27.5–28.5% | 13% | 16% |  |
-| 28.5–29.5% | 3% | 3% |  |
-| 29.5–30.5% | 0.3% | 0.3% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.3% | 100% |  |
+| 23.5–24.5% | 3% | 99.7% |  |
+| 24.5–25.5% | 12% | 97% |  |
+| 25.5–26.5% | 25% | 85% | Last Result |
+| 26.5–27.5% | 28% | 60% | Median |
+| 27.5–28.5% | 19% | 32% |  |
+| 28.5–29.5% | 9% | 13% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 0.6% | 0.7% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -77,8 +79,8 @@ Last result: **48** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 51 | 51 | 49–51 | 45–51 |
-| [17–23 February 2020](2020-02-23-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 51 | 47–51 | 46–51 | 45–53 | 45–56 |
+| [17–23 February 2020](2020-02-23-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 46–51 | 45–53 | 45–54 | 43–56 |
 | [10–16 February 2020](2020-02-16-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 50–53 | 48–53 | 48–53 | 46–56 |
 | [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 51 | 51 | 51 | 49–51 | 45–51 |
 | [3–8 February 2020](2020-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 55 | 49–55 | 48–55 | 47–55 | 46–57 |
@@ -126,16 +128,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.1% | 100% |  |
-| 44 | 0% | 99.9% |  |
-| 45 | 1.0% | 99.9% |  |
-| 46 | 0.2% | 98.9% |  |
-| 47 | 0% | 98.8% |  |
-| 48 | 0% | 98.8% | Last Result |
-| 49 | 1.4% | 98.7% |  |
-| 50 | 0% | 97% |  |
-| 51 | 97% | 97% | Median |
-| 52 | 0.1% | 0.1% |  |
-| 53 | 0% | 0% |  |
+| 42 | 0.1% | 100% |  |
+| 43 | 0.2% | 99.9% |  |
+| 44 | 0.1% | 99.7% |  |
+| 45 | 3% | 99.6% |  |
+| 46 | 3% | 97% |  |
+| 47 | 8% | 94% |  |
+| 48 | 1.2% | 85% | Last Result |
+| 49 | 4% | 84% |  |
+| 50 | 25% | 80% |  |
+| 51 | 50% | 55% | Median |
+| 52 | 2% | 5% |  |
+| 53 | 1.3% | 3% |  |
+| 54 | 0.9% | 2% |  |
+| 55 | 0.2% | 1.0% |  |
+| 56 | 0.6% | 0.7% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 
