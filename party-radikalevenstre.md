@@ -80,7 +80,7 @@ Last result: **16** seats (General Election of 5 June 2019)
 | [10–16 February 2020](2020-02-16-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 13–14 | 13–15 | 13–15 | 12–18 |
 | [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 15 | 15 | 15 | 14–15 | 14–15 |
 | [3–8 February 2020](2020-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–17 | 13–17 | 12–18 | 12–21 |
-| [27 January–2 February 2020](2020-02-02-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 14–17 | 14–20 | 14–20 | 13–20 |
+| [27 January–2 February 2020](2020-02-02-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–18 | 14–19 | 13–19 | 13–21 |
 | [20–26 January 2020](2020-01-26-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 15–17 | 15–18 | 14–18 | 13–19 |
 | [13–19 January 2020](2020-01-19-Voxmeter.html) | Voxmeter <br> Ritzau | 18 | 14–18 | 14–18 | 13–18 | 13–20 |
 | [6–11 January 2020](2020-01-11-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–17 | 12–17 | 12–18 | 11–20 |
