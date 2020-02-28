@@ -75,11 +75,11 @@ Last result: **13** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 11–17 | 11–17 | 11–17 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 11–17 | 11–17 | 11–17 | 10–17 |
 | [17–23 February 2020](2020-02-23-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 11–17 | 11–17 | 10–17 | 10–17 |
-| [10–16 February 2020](2020-02-16-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 14–16 | 13–16 | 13–16 | 12–17 |
-| [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 11 | 11 | 11 | 11–12 | 11–13 |
-| [3–8 February 2020](2020-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–15 | 11–15 | 10–16 | 9–16 |
+| [10–16 February 2020](2020-02-16-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–16 | 11–16 | 11–16 | 11–18 |
+| [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 11 | 11–13 | 11–14 | 11–14 | 10–15 |
+| [3–8 February 2020](2020-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–15 | 11–15 | 11–16 | 9–17 |
 | [27 January–2 February 2020](2020-02-02-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–14 | 10–15 | 10–15 | 9–16 |
 | [20–26 January 2020](2020-01-26-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 10–13 | 10–15 | 10–17 | 10–17 |
 | [13–19 January 2020](2020-01-19-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 12–14 | 12–15 | 11–15 | 10–18 |
@@ -124,12 +124,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 1.4% | 100% |  |
-| 11 | 53% | 98.6% | Median |
-| 12 | 4% | 46% |  |
-| 13 | 4% | 42% | Last Result |
-| 14 | 11% | 38% |  |
-| 15 | 0.5% | 27% |  |
+| 10 | 2% | 100% |  |
+| 11 | 36% | 98% |  |
+| 12 | 9% | 62% |  |
+| 13 | 12% | 52% | Last Result, Median |
+| 14 | 13% | 40% |  |
+| 15 | 0.8% | 28% |  |
 | 16 | 3% | 27% |  |
 | 17 | 23% | 24% |  |
 | 18 | 0.2% | 0.2% |  |
