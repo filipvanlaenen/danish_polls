@@ -10,7 +10,8 @@ Last result: **3.0%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 0.8–3.4% | 0.7–3.7% | 0.6–3.9% | 0.4–4.4% |
+| N/A | [Poll Average](average.html) | 1.9% | 0.6–3.4% | 0.4–3.7% | 0.4–3.9% | 0.3–4.4% |
+| [16–22 March 2020](2020-03-22-Voxmeter.html) | Voxmeter <br> Ritzau | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.5% |
 | [9–15 March 2020](2020-03-15-Voxmeter.html) | Voxmeter <br> Ritzau | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [2–7 March 2020](2020-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [25 February–2 March 2020](2020-03-02-Epinion.html) | Epinion <br> DR | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
@@ -62,9 +63,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 32% | 98% |  |
-| 1.5–2.5% | 39% | 67% | Median |
+| 0.0–0.5% | 9% | 100% |  |
+| 0.5–1.5% | 25% | 91% |  |
+| 1.5–2.5% | 38% | 66% | Median |
 | 2.5–3.5% | 20% | 27% | Last Result |
 | 3.5–4.5% | 8% | 8% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
@@ -80,6 +81,7 @@ Last result: **5** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–6 | 0–7 | 0–7 | 0–7 |
+| [16–22 March 2020](2020-03-22-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [9–15 March 2020](2020-03-15-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–4 |
 | [2–7 March 2020](2020-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [25 February–2 March 2020](2020-03-02-Epinion.html) | Epinion <br> DR | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
