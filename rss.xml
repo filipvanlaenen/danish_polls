@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Wed, 01 Apr 2020 07:59:50 +0200</pubDate>
+    <pubDate>Sat, 04 Apr 2020 19:36:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 23–29 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2020-03-29-Voxmeter.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-03-29-Voxmeter.png"
         length="245255"
         type="image/png"/>
-      <pubDate>Wed, 01 Apr 2020 07:59:50 +0200</pubDate>
-      <dc:date>2020-04-01T07:59:50.608084+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2020 19:36:19 +0200</pubDate>
+      <dc:date>2020-04-04T19:36:19.972689+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 16–22 March 2020 – Seat Projections for the Parties</title>
@@ -909,6 +909,6 @@
       <pubDate>Thu, 26 Sep 2019 08:10:13 +0200</pubDate>
       <dc:date>2019-09-26T08:10:13.73786+02:00</dc:date>
     </item>
-    <dc:date>2020-04-01T07:59:50.608084+02:00</dc:date>
+    <dc:date>2020-04-04T19:36:19.972689+02:00</dc:date>
   </channel>
 </rss>
