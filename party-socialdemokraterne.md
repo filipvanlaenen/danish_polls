@@ -92,8 +92,8 @@ Last result: **48** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 45–57 | 42–57 | 39–59 | 39–59 |
-| [23–29 March 2020](2020-03-29-Voxmeter.html) | Voxmeter <br> Ritzau | 57 | 54–59 | 53–59 | 51–59 | 50–60 |
+| N/A | [Poll Average](average.html) | 51 | 45–57 | 42–58 | 39–59 | 39–60 |
+| [23–29 March 2020](2020-03-29-Voxmeter.html) | Voxmeter <br> Ritzau | 56 | 51–59 | 51–60 | 51–60 | 50–60 |
 | [16–22 March 2020](2020-03-22-Voxmeter.html) | Voxmeter <br> Ritzau | 51 | 48–54 | 47–55 | 47–56 | 44–57 |
 | [9–15 March 2020](2020-03-15-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 45–53 | 45–54 | 45–54 | 43–56 |
 | [2–7 March 2020](2020-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 53 | 49–55 | 46–56 | 45–56 | 45–58 |
@@ -162,17 +162,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 2% | 69% | Last Result |
 | 49 | 5% | 66% |  |
 | 50 | 4% | 61% |  |
-| 51 | 19% | 57% | Median |
-| 52 | 3% | 38% |  |
-| 53 | 1.3% | 35% |  |
-| 54 | 2% | 34% |  |
-| 55 | 9% | 33% |  |
-| 56 | 6% | 24% |  |
-| 57 | 14% | 18% |  |
-| 58 | 0.9% | 4% |  |
-| 59 | 3% | 3% |  |
-| 60 | 0.2% | 0.3% |  |
+| 51 | 24% | 57% | Median |
+| 52 | 3% | 34% |  |
+| 53 | 0.9% | 31% |  |
+| 54 | 6% | 30% |  |
+| 55 | 9% | 24% |  |
+| 56 | 3% | 15% |  |
+| 57 | 5% | 11% |  |
+| 58 | 4% | 6% |  |
+| 59 | 1.1% | 3% |  |
+| 60 | 1.4% | 1.4% |  |
 | 61 | 0% | 0.1% |  |
-| 62 | 0% | 0% |  |
+| 62 | 0% | 0.1% |  |
+| 63 | 0% | 0% |  |
 
 
