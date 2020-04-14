@@ -92,8 +92,8 @@ Last result: **12** seats (General Election of 5 June 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–15 | 10–16 | 9–16 | 8–18 |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 9–13 | 9–13 | 8–14 | 8–14 |
-| [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 15 | 12–15 | 12–15 | 10–15 | 10–15 |
-| [23–29 March 2020](2020-03-29-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
+| [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 14 | 12–14 | 11–15 | 11–16 | 10–16 |
+| [23–29 March 2020](2020-03-29-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 10–13 | 10–13 | 9–14 | 8–15 |
 | [16–22 March 2020](2020-03-22-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–14 | 10–15 | 10–15 | 9–16 |
 | [9–15 March 2020](2020-03-15-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–14 | 10–15 | 10–15 | 10–17 |
 | [2–7 March 2020](2020-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–15 | 12–16 | 11–17 | 10–17 |
@@ -152,18 +152,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.8% | 100% |  |
+| 8 | 0.7% | 100% |  |
 | 9 | 2% | 99.2% |  |
 | 10 | 7% | 97% |  |
-| 11 | 5% | 90% |  |
-| 12 | 15% | 85% | Last Result |
-| 13 | 28% | 71% | Median |
-| 14 | 11% | 42% |  |
-| 15 | 22% | 31% |  |
-| 16 | 7% | 8% |  |
+| 11 | 6% | 90% |  |
+| 12 | 13% | 84% | Last Result |
+| 13 | 35% | 71% | Median |
+| 14 | 21% | 37% |  |
+| 15 | 6% | 16% |  |
+| 16 | 8% | 9% |  |
 | 17 | 0.6% | 1.2% |  |
 | 18 | 0.1% | 0.6% |  |
-| 19 | 0.4% | 0.5% |  |
+| 19 | 0.4% | 0.4% |  |
 | 20 | 0% | 0% |  |
 
 
