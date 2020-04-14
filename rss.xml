@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Folketinget</title>
     <link>https://filipvanlaenen.github.io/danish_polls</link>
     <description>All Registered Polls for the Folketinget</description>
-    <pubDate>Mon, 13 Apr 2020 20:17:03 +0200</pubDate>
+    <pubDate>Tue, 14 Apr 2020 19:42:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 23 March–5 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2020-04-05-Voxmeter.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2020-04-13T19:52:05.892654+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 27 March–3 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-04-03-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 54–63 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13–17 seats&lt;/li&gt;&lt;li&gt;Venstre: 36–46 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 11–16 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 0–4 seats&lt;/li&gt;&lt;li&gt;Alternativet: 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 12–17 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 10–15 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 11–16 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 6–9 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-04-03-Gallup-seats.png"
+        length="209162"
+        type="image/png"/>
+      <pubDate>Mon, 13 Apr 2020 20:53:17 +0200</pubDate>
+      <dc:date>2020-04-13T20:53:17.754868+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 27 March–3 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-04-03-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-04-03-Gallup-coalitions-seats.png"
+        length="357456"
+        type="image/png"/>
+      <pubDate>Mon, 13 Apr 2020 20:53:17 +0200</pubDate>
+      <dc:date>2020-04-13T20:53:17.754868+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 27 March–3 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2020-04-03-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 29.6–34.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 6.8–9.6%&lt;/li&gt;&lt;li&gt;Venstre: 19.8–24.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 6.3–8.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance: 1.0–2.3%&lt;/li&gt;&lt;li&gt;Alternativet: 0.4–1.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre: 6.7–9.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 5.7–8.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 5.7–8.3%&lt;/li&gt;&lt;li&gt;Kristendemokraterne: 0.7–1.9%&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Stram Kurs: 0.5–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-04-03-Gallup.png"
         length="262001"
         type="image/png"/>
-      <pubDate>Mon, 13 Apr 2020 20:17:03 +0200</pubDate>
-      <dc:date>2020-04-13T20:17:03.525077+02:00</dc:date>
+      <pubDate>Mon, 13 Apr 2020 20:53:17 +0200</pubDate>
+      <dc:date>2020-04-13T20:53:17.754868+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 23–29 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-03-29-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne: 51–62 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti: 13–19 seats&lt;/li&gt;&lt;li&gt;Venstre: 36–44 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne: 11–16 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance: 0–5 seats&lt;/li&gt;&lt;li&gt;Alternativet: 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre: 14–20 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti: 12–16 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti: 9–14 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige: 0–7 seats&lt;/li&gt;&lt;li&gt;Stram Kurs: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-03-29-Voxmeter-seats.png"
+        length="205243"
+        type="image/png"/>
+      <pubDate>Tue, 14 Apr 2020 19:42:45 +0200</pubDate>
+      <dc:date>2020-04-14T19:42:45.98529+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 23–29 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-03-29-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-03-29-Voxmeter-coalitions-seats.png"
+        length="373531"
+        type="image/png"/>
+      <pubDate>Tue, 14 Apr 2020 19:42:45 +0200</pubDate>
+      <dc:date>2020-04-14T19:42:45.98529+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 23–29 March 2020 – Voting Intentions</title>
@@ -56,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-03-29-Voxmeter.png"
         length="245255"
         type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 14:24:08 +0200</pubDate>
-      <dc:date>2020-04-12T14:24:08.553552+02:00</dc:date>
+      <pubDate>Tue, 14 Apr 2020 19:42:45 +0200</pubDate>
+      <dc:date>2020-04-14T19:42:45.98529+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 16–22 March 2020 – Seat Projections for the Parties</title>
@@ -859,6 +899,6 @@
       <pubDate>Thu, 26 Sep 2019 08:10:13 +0200</pubDate>
       <dc:date>2019-09-26T08:10:13.73786+02:00</dc:date>
     </item>
-    <dc:date>2020-04-13T20:17:03.525077+02:00</dc:date>
+    <dc:date>2020-04-14T19:42:45.98529+02:00</dc:date>
   </channel>
 </rss>
