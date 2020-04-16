@@ -10,8 +10,8 @@ Last result: **6.6%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.1–8.4% | 5.8–8.8% | 5.6–9.1% | 5.0–9.8% |
-| [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 6.5% | 5.6–7.5% | 5.3–7.9% | 5.1–8.1% | 4.7–8.7% |
+| N/A | [Poll Average](average.html) | 7.2% | 6.1–8.4% | 5.8–8.8% | 5.5–9.1% | 5.1–9.8% |
+| [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 6.5% | 5.6–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.7% |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.6% | 4.4–8.1% |
 | [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 6.9% | 6.1–7.8% | 5.9–8.1% | 5.7–8.3% | 5.4–8.8% |
 | [23–29 March 2020](2020-03-29-Voxmeter.html) | Voxmeter <br> Ritzau | 6.3% | 5.4–7.3% | 5.2–7.6% | 5.0–7.9% | 4.6–8.4% |
@@ -32,13 +32,13 @@ Last result: **6.6%** (General Election of 5 June 2019)
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 8.5% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
-| [12 December 2019](2019-12-12-Gallup.html) | Gallup | 8.2% | 7.3–9.2% | 7.0–9.5% | 6.9–9.7% | 6.4–10.2% |
+| [12 December 2019](2019-12-12-Gallup.html) | Gallup | 8.2% | 7.3–9.1% | 7.1–9.4% | 6.9–9.7% | 6.5–10.2% |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 7.1% | 6.2–8.2% | 5.9–8.5% | 5.7–8.8% | 5.3–9.4% |
 | [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
-| [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 6.3% | N/A | N/A | N/A | N/A |
+| [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–8.0% | 4.5–8.5% |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 7.0% | 6.3–7.9% | 6.1–8.2% | 5.9–8.4% | 5.5–8.9% |
-| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 6.7% | N/A | N/A | N/A | N/A |
+| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.0% |
 | [8 November 2019](2019-11-08-Gallup.html) | Gallup | 7.3% | 6.6–8.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.2% |
 | [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 6.9% | 6.0–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.2% |
@@ -71,10 +71,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 21% | 98% |  |
-| 6.5–7.5% | 42% | 77% | Last Result, Median |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 20% | 97% |  |
+| 6.5–7.5% | 42% | 78% | Last Result, Median |
 | 7.5–8.5% | 28% | 36% |  |
 | 8.5–9.5% | 7% | 8% |  |
 | 9.5–10.5% | 0.8% | 0.9% |  |
@@ -90,8 +90,8 @@ Last result: **12** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–16 | 12–16 | 11–16 | 10–19 |
-| [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–18 |
+| [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 9–13 | 9–13 | 8–14 | 8–14 |
 | [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 14 | 12–14 | 11–15 | 11–16 | 10–16 |
 | [23–29 March 2020](2020-03-29-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 10–13 | 10–13 | 9–14 | 8–15 |
@@ -112,13 +112,13 @@ Last result: **12** seats (General Election of 5 June 2019)
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–17 | 14–17 | 13–18 | 12–19 |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–17 | 12–18 | 12–18 | 11–20 |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–16 | 12–17 | 12–18 | 11–19 |
-| [12 December 2019](2019-12-12-Gallup.html) | Gallup |  |  |  |  |  |
+| [12 December 2019](2019-12-12-Gallup.html) | Gallup | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–16 | 11–17 | 11–17 | 10–18 |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 10–17 | 10–17 | 10–17 | 10–17 |
 | [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 12–16 | 12–16 | 12–17 | 10–20 |
-| [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 10–14 | 9–15 | 9–15 | 9–15 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 15 | 11–15 | 10–15 | 10–15 | 10–16 |
-| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 10–14 | 9–14 | 9–15 | 9–16 |
 | [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 10–13 | 10–15 | 10–18 | 9–18 |
 | [8 November 2019](2019-11-08-Gallup.html) | Gallup | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
 | [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 11–12 | 11–15 | 10–15 | 10–15 |
@@ -153,16 +153,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.8% | 100% |  |
-| 11 | 2% | 99.2% |  |
-| 12 | 11% | 97% | Last Result |
-| 13 | 38% | 86% | Median |
-| 14 | 27% | 48% |  |
-| 15 | 8% | 21% |  |
-| 16 | 11% | 12% |  |
-| 17 | 0.8% | 2% |  |
-| 18 | 0.2% | 0.8% |  |
-| 19 | 0.6% | 0.6% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 0.3% | 99.9% |  |
+| 10 | 2% | 99.7% |  |
+| 11 | 7% | 98% |  |
+| 12 | 19% | 91% | Last Result |
+| 13 | 31% | 72% | Median |
+| 14 | 24% | 41% |  |
+| 15 | 7% | 17% |  |
+| 16 | 8% | 10% |  |
+| 17 | 0.6% | 1.2% |  |
+| 18 | 0.1% | 0.6% |  |
+| 19 | 0.4% | 0.4% |  |
 | 20 | 0% | 0% |  |
 
 

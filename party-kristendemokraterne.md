@@ -32,13 +32,13 @@ Last result: **1.7%** (General Election of 5 June 2019)
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
-| [12 December 2019](2019-12-12-Gallup.html) | Gallup | 1.5% | 1.1–2.1% | 1.0–2.2% | 1.0–2.3% | 0.8–2.6% |
+| [12 December 2019](2019-12-12-Gallup.html) | Gallup | 1.5% | 1.1–2.0% | 1.1–2.1% | 1.0–2.2% | 0.8–2.5% |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
-| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 0.9% | N/A | N/A | N/A | N/A |
+| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 1.5% | 1.2–2.2% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
 | [8 November 2019](2019-11-08-Gallup.html) | Gallup | 1.8% | 1.4–2.3% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% |
 | [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 1.4% | 1.1–2.0% | 1.0–2.2% | 0.9–2.4% | 0.7–2.7% |
@@ -108,13 +108,13 @@ Last result: **0** seats (General Election of 5 June 2019)
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [12 December 2019](2019-12-12-Gallup.html) | Gallup |  |  |  |  |  |
+| [12 December 2019](2019-12-12-Gallup.html) | Gallup | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
-| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [8 November 2019](2019-11-08-Gallup.html) | Gallup | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
