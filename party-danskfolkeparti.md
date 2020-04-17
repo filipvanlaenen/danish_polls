@@ -47,17 +47,17 @@ Last result: **8.7%** (General Election of 5 June 2019)
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 8.5% | 7.5–9.7% | 7.2–10.1% | 7.0–10.4% | 6.5–11.0% |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 9.2% | 8.1–10.4% | 7.8–10.8% | 7.5–11.1% | 7.1–11.7% |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 8.6% | 7.5–9.8% | 7.3–10.1% | 7.0–10.4% | 6.6–11.0% |
-| [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau | 9.0% | N/A | N/A | N/A | N/A |
+| [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.6% |
 | [29 September 2019](2019-09-29-Gallup.html) | Gallup | 8.7% | 7.9–9.7% | 7.6–10.0% | 7.4–10.3% | 7.0–10.8% |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 9.4% | 8.3–10.7% | 8.0–11.0% | 7.8–11.4% | 7.3–12.0% |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
-| [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau | 8.9% | N/A | N/A | N/A | N/A |
+| [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau | 8.9% | 7.9–10.2% | 7.6–10.5% | 7.3–10.8% | 6.9–11.4% |
 | [12 September 2019](2019-09-12-Gallup.html) | Gallup | 9.4% | 8.6–10.4% | 8.3–10.7% | 8.1–10.9% | 7.7–11.4% |
 | [9 September 2019](2019-09-09-YouGov.html) | YouGov | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.5% | 8.2–13.2% |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 8.1% | 7.1–9.2% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 6.0–10.3% |
-| [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 8.4% | N/A | N/A | N/A | N/A |
-| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.3% | N/A | N/A | N/A | N/A |
+| [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
+| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.3% | 7.2–9.5% | 7.0–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.8–10.1% | 6.3–10.7% |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 8.3% | 7.2–9.5% | 7.0–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 9.5% | 8.6–10.5% | 8.4–10.8% | 8.1–11.1% | 7.7–11.6% |
@@ -128,17 +128,17 @@ Last result: **16** seats (General Election of 5 June 2019)
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 15–20 | 13–20 | 13–21 | 12–21 |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–19 | 13–20 | 13–20 | 13–21 |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 16 | 13–17 | 12–17 | 12–18 | 12–19 |
-| [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 16–18 | 16–18 | 16–18 | 13–21 |
 | [29 September 2019](2019-09-29-Gallup.html) | Gallup | 14 | 14 | 14 | 14–16 | 14–19 |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 16–19 | 16–19 | 14–20 | 14–22 |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 21 | 20–22 | 19–23 | 18–23 | 16–23 |
-| [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 15–18 | 14–19 | 13–19 | 12–21 |
 | [12 September 2019](2019-09-12-Gallup.html) | Gallup | 17 | 15–20 | 14–20 | 14–20 | 14–20 |
 | [9 September 2019](2019-09-09-YouGov.html) | YouGov | 18 | 18 | 18–19 | 18–20 | 17–23 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 12–17 | 12–17 | 12–17 | 11–18 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 13–18 | 12–18 | 11–18 | 11–19 |
-| [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
+| [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 13–15 | 13–15 | 13–17 | 13–19 |
+| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 17 | 13–18 | 12–18 | 12–18 | 12–19 |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 13–19 | 13–19 | 12–19 | 12–20 |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 18 | 14–19 | 14–19 | 12–19 | 11–19 |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 17 | 16–19 | 15–19 | 15–19 | 14–21 |
