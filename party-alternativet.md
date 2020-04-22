@@ -10,7 +10,8 @@ Last result: **3.0%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 0.7–2.3% | 0.6–2.4% | 0.6–2.6% | 0.4–2.9% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.2% | 0.5–2.4% | 0.5–2.6% | 0.4–2.9% |
+| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.7–2.0% | 0.5–2.3% |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 0.8% | 0.6–1.3% | 0.5–1.5% | 0.4–1.6% | 0.3–1.9% |
 | [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.4–1.4% | 0.4–1.6% |
@@ -71,9 +72,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 53% | 98% | Median |
-| 1.5–2.5% | 42% | 45% |  |
+| 0.0–0.5% | 5% | 100% |  |
+| 0.5–1.5% | 54% | 95% | Median |
+| 1.5–2.5% | 38% | 41% |  |
 | 2.5–3.5% | 3% | 3% | Last Result |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -87,6 +88,7 @@ Last result: **5** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
