@@ -98,9 +98,9 @@ Last result: **43** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 34–41 | 34–42 | 33–46 | 32–46 |
+| N/A | [Poll Average](average.html) | 37 | 34–41 | 34–42 | 32–46 | 31–46 |
 | [1–30 April 2020](2020-04-30-Voxmeter.html) | Voxmeter | 38 | 34–42 | 34–42 | 33–43 | 32–45 |
-| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 35 | 34–36 | 32–36 | 32–36 | 31–39 |
+| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 35 | 33–38 | 32–39 | 31–40 | 30–41 |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 39 | 36–43 | 35–43 | 34–43 | 33–45 |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 41 | 38–44 | 37–44 | 36–44 | 35–46 |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 39 | 36–41 | 36–41 | 36–41 | 34–42 |
@@ -166,17 +166,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.4% | 100% |  |
-| 32 | 2% | 99.5% |  |
-| 33 | 1.0% | 98% |  |
-| 34 | 8% | 97% |  |
-| 35 | 12% | 88% |  |
-| 36 | 27% | 76% | Median |
-| 37 | 6% | 49% |  |
-| 38 | 8% | 43% |  |
-| 39 | 6% | 34% |  |
-| 40 | 3% | 28% |  |
-| 41 | 18% | 25% |  |
+| 30 | 0.4% | 100% |  |
+| 31 | 0.3% | 99.6% |  |
+| 32 | 2% | 99.3% |  |
+| 33 | 2% | 97% |  |
+| 34 | 6% | 95% |  |
+| 35 | 10% | 89% |  |
+| 36 | 25% | 80% |  |
+| 37 | 7% | 54% | Median |
+| 38 | 11% | 47% |  |
+| 39 | 7% | 36% |  |
+| 40 | 3% | 29% |  |
+| 41 | 19% | 26% |  |
 | 42 | 2% | 7% |  |
 | 43 | 0.8% | 5% | Last Result |
 | 44 | 1.0% | 4% |  |

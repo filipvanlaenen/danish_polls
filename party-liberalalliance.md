@@ -94,7 +94,7 @@ Last result: **4** seats (General Election of 5 June 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–7 |
 | [1–30 April 2020](2020-04-30-Voxmeter.html) | Voxmeter | 4 | 0–6 | 0–6 | 0–7 | 0–7 |
-| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
+| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 0–5 | 0–5 | 0–5 | 0–7 |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 4 | 4–5 | 0–5 | 0–5 | 0–6 |
@@ -160,14 +160,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% |  |
-| 1 | 0% | 56% |  |
-| 2 | 0% | 56% |  |
-| 3 | 0% | 56% |  |
-| 4 | 39% | 56% | Last Result, Median |
-| 5 | 13% | 17% |  |
-| 6 | 3% | 4% |  |
-| 7 | 0.9% | 0.9% |  |
+| 0 | 43% | 100% |  |
+| 1 | 0% | 57% |  |
+| 2 | 0% | 57% |  |
+| 3 | 0% | 57% |  |
+| 4 | 39% | 57% | Last Result, Median |
+| 5 | 14% | 19% |  |
+| 6 | 4% | 5% |  |
+| 7 | 1.0% | 1.1% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
