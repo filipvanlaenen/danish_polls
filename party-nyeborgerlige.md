@@ -10,11 +10,12 @@ Last result: **2.4%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 3.0–7.1% | 2.8–7.5% | 2.6–7.9% | 2.4–8.5% |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 5.9% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
-| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–9.0% |
-| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 6.8% | 4.9–8.6% | 4.9–8.6% | 4.9–8.6% | 4.9–9.9% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.0–4.4% | 1.8–4.7% | 1.6–4.9% | 1.3–5.3% |
+| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 2.1% | 1.7–2.9% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 2.1% | N/A | N/A | N/A | N/A |
+| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.0% | N/A | N/A | N/A | N/A |
+| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 1.6% | N/A | N/A | N/A | N/A |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 3.1% | 2.6–3.7% | 2.5–3.9% | 2.4–4.1% | 2.2–4.4% |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
@@ -77,16 +78,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% | Last Result |
-| 2.5–3.5% | 22% | 98% |  |
-| 3.5–4.5% | 22% | 77% |  |
-| 4.5–5.5% | 13% | 55% | Median |
-| 5.5–6.5% | 21% | 42% |  |
-| 6.5–7.5% | 16% | 21% |  |
-| 7.5–8.5% | 4% | 5% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 26% | 98% | Last Result |
+| 2.5–3.5% | 37% | 72% | Median |
+| 3.5–4.5% | 29% | 36% |  |
+| 4.5–5.5% | 7% | 7% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -97,10 +96,11 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 6–13 | 6–14 | 6–15 | 4–15 |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 11 | 9–13 | 9–13 | 9–13 | 7–15 |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 11 | 10–12 | 9–13 | 9–14 | 9–15 |
-| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 12 | 10–15 | 10–15 | 10–15 | 9–16 |
+| N/A | [Poll Average](average.html) | 6 | 0–7 | 0–8 | 0–8 | 0–10 |
+| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 4 | 0–5 | 0–5 | 0–6 | 0–7 |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 4 | 0–5 | 0–5 | 0–6 | 0–7 |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 6 | 6 | 5–7 | 4–7 | 4–8 |
@@ -166,21 +166,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.8% | 100% | Last Result |
-| 5 | 1.4% | 99.2% |  |
-| 6 | 28% | 98% |  |
-| 7 | 15% | 70% |  |
-| 8 | 4% | 55% |  |
-| 9 | 3% | 51% | Median |
-| 10 | 13% | 47% |  |
-| 11 | 10% | 34% |  |
-| 12 | 7% | 24% |  |
-| 13 | 12% | 18% |  |
-| 14 | 3% | 6% |  |
-| 15 | 3% | 3% |  |
-| 16 | 0.1% | 0.2% |  |
-| 17 | 0% | 0.1% |  |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 0 | 13% | 100% |  |
+| 1 | 0% | 87% |  |
+| 2 | 0% | 87% |  |
+| 3 | 0% | 87% |  |
+| 4 | 16% | 87% | Last Result |
+| 5 | 6% | 71% |  |
+| 6 | 38% | 65% | Median |
+| 7 | 20% | 27% |  |
+| 8 | 5% | 7% |  |
+| 9 | 0.9% | 1.4% |  |
+| 10 | 0.5% | 0.6% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
