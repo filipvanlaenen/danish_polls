@@ -13,7 +13,7 @@ Last result: **25.9%** (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 34.1% | 31.3–36.3% | 30.7–36.8% | 30.2–37.3% | 29.4–38.2% |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 34.7% | 32.8–36.6% | 32.3–37.2% | 31.8–37.6% | 30.9–38.6% |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 34.1% | 32.3–36.1% | 31.8–36.6% | 31.3–37.1% | 30.4–38.0% |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 33.3% | N/A | N/A | N/A | N/A |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 33.3% | 31.4–35.2% | 30.9–35.7% | 30.4–36.2% | 29.6–37.2% |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 34.2% | N/A | N/A | N/A | N/A |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 35.6% | N/A | N/A | N/A | N/A |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 35.1% | 33.2–37.0% | 32.7–37.6% | 32.3–38.0% | 31.4–39.0% |
@@ -105,8 +105,8 @@ Last result: **48** seats (General Election of 5 June 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 62 | 59–68 | 57–69 | 55–70 | 54–71 |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 64 | 60–69 | 58–71 | 58–71 | 55–71 |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 64 | 59–68 | 57–68 | 57–68 | 56–69 |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 62 | 59–68 | 58–68 | 57–68 | 56–69 |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 60 | 57–63 | 57–65 | 56–65 | 53–67 |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 66 | 62–69 | 60–70 | 59–71 | 58–71 |
