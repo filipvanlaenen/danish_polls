@@ -10,10 +10,12 @@ Last result: **8.6%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 5.8–8.6% | 5.5–8.9% | 5.3–9.2% | 4.9–9.8% |
+| N/A | [Poll Average](average.html) | 7.3% | 5.9–8.6% | 5.6–9.0% | 5.4–9.3% | 5.0–9.8% |
 | [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 7.7% | 6.8–8.9% | 6.5–9.2% | 6.2–9.5% | 5.8–10.1% |
+| [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
 | [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 7.5% | 6.5–8.7% | 6.3–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [7–11 May 2020](2020-05-11-YouGov.html) | YouGov | 7.8% | 6.9–8.9% | 6.7–9.2% | 6.5–9.5% | 6.1–10.0% |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 7.9% | 6.9–9.0% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
@@ -80,15 +82,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 6% | 99.9% |  |
-| 5.5–6.5% | 27% | 94% |  |
-| 6.5–7.5% | 30% | 67% | Median |
-| 7.5–8.5% | 27% | 37% |  |
-| 8.5–9.5% | 9% | 10% | Last Result |
-| 9.5–10.5% | 1.0% | 1.0% |  |
+| 4.5–5.5% | 4% | 99.9% |  |
+| 5.5–6.5% | 22% | 96% |  |
+| 6.5–7.5% | 31% | 74% | Median |
+| 7.5–8.5% | 31% | 43% |  |
+| 8.5–9.5% | 11% | 12% | Last Result |
+| 9.5–10.5% | 1.1% | 1.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -99,10 +101,12 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–15 | 10–16 | 10–17 | 9–18 |
+| N/A | [Poll Average](average.html) | 13 | 11–16 | 10–16 | 10–17 | 9–18 |
 | [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 14 | 13–16 | 12–17 | 12–17 | 10–18 |
+| [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 14 | 13–17 | 13–17 | 12–17 | 11–19 |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
+| [7–11 May 2020](2020-05-11-YouGov.html) | YouGov | 16 | 14–16 | 13–17 | 12–17 | 11–18 |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 15 | 13–17 | 11–17 | 10–17 | 10–18 |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 16 | 12–17 | 12–17 | 12–17 | 10–18 |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 11 | 10–13 | 10–13 | 9–14 | 9–16 |
@@ -173,14 +177,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
 | 9 | 1.2% | 99.9% |  |
-| 10 | 21% | 98.8% |  |
-| 11 | 17% | 78% |  |
-| 12 | 9% | 61% |  |
-| 13 | 14% | 52% | Median |
-| 14 | 17% | 39% |  |
-| 15 | 15% | 22% |  |
-| 16 | 3% | 6% | Last Result |
-| 17 | 3% | 4% |  |
+| 10 | 8% | 98.7% |  |
+| 11 | 18% | 90% |  |
+| 12 | 8% | 73% |  |
+| 13 | 16% | 65% | Median |
+| 14 | 15% | 49% |  |
+| 15 | 14% | 34% |  |
+| 16 | 16% | 21% | Last Result |
+| 17 | 4% | 4% |  |
 | 18 | 0.8% | 0.9% |  |
 | 19 | 0.1% | 0.2% |  |
 | 20 | 0.1% | 0.1% |  |
