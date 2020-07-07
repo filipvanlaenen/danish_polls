@@ -13,7 +13,7 @@ Last result: **7.7%** (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 7.2% | 6.1–8.3% | 5.8–8.7% | 5.6–9.0% | 5.2–9.7% |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 7.8% | 6.9–9.0% | 6.6–9.3% | 6.4–9.6% | 5.9–10.2% |
-| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 7.4% | N/A | N/A | N/A | N/A |
+| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 7.4% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
 | [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [11 June 2020](2020-06-11-Gallup.html) | Gallup | 6.6% | 5.8–7.5% | 5.6–7.7% | 5.4–7.9% | 5.1–8.4% |
 | [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 6.6% | 5.8–7.6% | 5.6–7.9% | 5.4–8.1% | 5.0–8.6% |
@@ -110,7 +110,7 @@ Last result: **14** seats (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 10–15 | 9–16 |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 11–13 | 11–15 | 11–15 | 11–16 |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
-| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 14–15 | 12–15 | 12–15 | 10–18 |
 | [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–14 | 10–15 | 10–16 | 10–16 |
 | [11 June 2020](2020-06-11-Gallup.html) | Gallup | 11 | 10–13 | 10–14 | 10–15 | 9–16 |
 | [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 12 | 10–14 | 10–15 | 10–15 | 10–16 |
