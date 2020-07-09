@@ -110,9 +110,9 @@ Last result: **4** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–14 | 9–14 | 8–15 | 8–16 |
-| [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 9–11 | 9–12 | 8–12 | 8–13 |
+| [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 11 | 11–14 | 10–14 | 9–14 | 8–15 |
-| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 9 | 6–9 | 6–9 | 6–10 | 5–11 |
+| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 7 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [11 June 2020](2020-06-11-Gallup.html) | Gallup | 10 | 9–12 | 9–13 | 8–13 | 8–13 |
 | [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 14 | 13–15 | 13–16 | 12–16 | 11–17 |
@@ -193,10 +193,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 2% | 99.9% |  |
-| 9 | 18% | 97% |  |
-| 10 | 20% | 80% |  |
+| 7 | 0.3% | 100% |  |
+| 8 | 4% | 99.7% |  |
+| 9 | 9% | 96% |  |
+| 10 | 28% | 87% |  |
 | 11 | 22% | 59% | Median |
 | 12 | 11% | 37% |  |
 | 13 | 13% | 26% |  |
