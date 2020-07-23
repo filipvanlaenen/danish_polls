@@ -11,6 +11,7 @@ Last result: **3.0%** (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.5–1.7% | 0.4–1.8% | 0.3–2.0% | 0.2–2.3% |
+| [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 0.7% | 0.5–1.1% | 0.4–1.3% | 0.4–1.4% | 0.3–1.6% |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% | 0.2–1.5% |
@@ -89,8 +90,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 12% | 100% |  |
-| 0.5–1.5% | 74% | 88% | Median |
+| 0.0–0.5% | 13% | 100% |  |
+| 0.5–1.5% | 73% | 87% | Median |
 | 1.5–2.5% | 14% | 14% |  |
 | 2.5–3.5% | 0.1% | 0.1% | Last Result |
 | 3.5–4.5% | 0% | 0% |  |
@@ -105,6 +106,7 @@ Last result: **5** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0–4 |
 | [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
@@ -189,7 +191,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 1.5% |  |
 | 2 | 0% | 1.5% |  |
 | 3 | 0.1% | 1.5% |  |
-| 4 | 1.3% | 1.4% |  |
+| 4 | 1.2% | 1.4% |  |
 | 5 | 0.2% | 0.2% | Last Result |
 | 6 | 0% | 0% |  |
 
