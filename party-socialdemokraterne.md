@@ -133,7 +133,7 @@ Last result: **48** seats (General Election of 5 June 2019)
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 62 | 59–68 | 58–68 | 57–68 | 56–69 |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 60 | 57–63 | 57–65 | 56–65 | 53–67 |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 65 | 59–65 | 57–66 | 57–67 | 54–69 |
-| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 68 | 61–68 | 61–68 | 59–71 | 58–73 |
+| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 66 | 61–69 | 61–71 | 60–73 | 58–75 |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 66 | 62–69 | 60–70 | 59–71 | 58–71 |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 63 | 60–65 | 60–67 | 59–67 | 59–68 |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 64 | 61–67 | 59–67 | 58–70 | 57–72 |
