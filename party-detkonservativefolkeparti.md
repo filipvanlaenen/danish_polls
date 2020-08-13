@@ -158,12 +158,12 @@ Last result: **12** seats (General Election of 5 June 2019)
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 10–14 | 9–15 | 9–15 | 9–15 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 15 | 11–15 | 10–15 | 10–15 | 10–16 |
 | [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 10–14 | 9–14 | 9–15 | 9–16 |
-| [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 10–13 | 10–15 | 10–18 | 9–18 |
+| [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 11–14 | 11–15 | 10–15 | 9–16 |
 | [8 November 2019](2019-11-08-Gallup.html) | Gallup | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
 | [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 11–12 | 11–15 | 10–15 | 10–15 |
 | [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 12–16 | 12–16 | 11–16 | 9–18 |
 | [23 October 2019](2019-10-23-Epinion.html) | Epinion <br> DR | 12 | 10–14 | 10–14 | 10–14 | 10–16 |
-| [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–14 | 11–14 | 11–15 | 8–16 |
+| [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–13 | 10–14 | 10–14 | 9–16 |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–18 | 11–18 | 11–18 | 10–18 |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
 | [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 10–13 | 10–13 | 9–13 | 9–15 |
@@ -182,7 +182,7 @@ Last result: **12** seats (General Election of 5 June 2019)
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 13 | 11–15 | 10–15 | 10–15 | 10–16 |
 | [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 12–14 | 12–14 | 11–16 | 11–18 |
 | [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 10–13 | 10–13 | 10–13 | 9–16 |
-| [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–16 | 12–16 | 12–16 | 11–16 |
+| [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 
 ### Probability Mass Function
 
