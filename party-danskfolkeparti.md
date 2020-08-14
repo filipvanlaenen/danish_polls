@@ -151,7 +151,7 @@ Last result: **16** seats (General Election of 5 June 2019)
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–17 | 12–18 | 12–19 | 12–19 |
 | [12 December 2019](2019-12-12-Gallup.html) | Gallup | 14 | 13–17 | 13–17 | 13–17 | 12–17 |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 15–20 | 14–20 | 13–21 | 13–21 |
-| [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 16–21 | 15–21 | 15–21 | 13–22 |
+| [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 18 | 16–20 | 15–21 | 15–21 | 13–22 |
 | [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 15–18 | 13–19 | 13–19 | 13–20 |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 15–17 | 14–19 | 14–20 | 13–23 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
@@ -178,7 +178,7 @@ Last result: **16** seats (General Election of 5 June 2019)
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 13–19 | 13–19 | 12–19 | 12–20 |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 18 | 14–19 | 14–19 | 12–19 | 11–19 |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 17 | 16–19 | 15–19 | 15–19 | 14–21 |
-| [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–14 | 12–18 | 12–18 | 11–19 |
+| [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 13–18 | 12–19 | 12–19 | 12–19 |
 | [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–16 | 13–17 | 13–18 | 12–18 |
 | [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–15 | 11–16 | 11–18 | 9–18 |
 
