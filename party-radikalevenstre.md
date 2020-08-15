@@ -10,7 +10,8 @@ Last result: **8.6%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 5.9–8.6% | 5.6–9.0% | 5.4–9.3% | 5.0–10.0% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.9–8.6% | 5.6–9.0% | 5.4–9.4% | 5.0–10.0% |
+| [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 7.4% | 6.5–8.6% | 6.2–8.9% | 6.0–9.3% | 5.5–9.8% |
 | [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 6.4% | 5.6–7.4% | 5.3–7.6% | 5.1–7.9% | 4.8–8.4% |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.2% | 7.2–9.4% | 6.9–9.7% | 6.7–10.0% | 6.2–10.6% |
@@ -93,10 +94,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 4% | 100% |  |
 | 5.5–6.5% | 26% | 96% |  |
-| 6.5–7.5% | 35% | 70% | Median |
-| 7.5–8.5% | 25% | 35% |  |
-| 8.5–9.5% | 9% | 10% | Last Result |
-| 9.5–10.5% | 1.4% | 2% |  |
+| 6.5–7.5% | 34% | 70% | Median |
+| 7.5–8.5% | 25% | 36% |  |
+| 8.5–9.5% | 9% | 11% | Last Result |
+| 9.5–10.5% | 1.5% | 2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -110,6 +111,7 @@ Last result: **16** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–16 | 10–17 | 10–17 | 9–17 |
+| [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 11–16 | 11–16 | 11–16 | 10–17 |
 | [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 11 | 10–13 | 10–14 | 10–15 | 9–15 |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–15 | 11–15 | 11–16 | 10–17 |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 12–17 | 11–17 | 11–17 | 11–18 |
@@ -153,7 +155,7 @@ Last result: **16** seats (General Election of 5 June 2019)
 | [12 December 2019](2019-12-12-Gallup.html) | Gallup | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–17 | 11–17 | 11–18 | 11–19 |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–18 | 13–19 | 13–20 | 12–21 |
-| [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 16 | 14–21 | 14–21 | 14–21 | 14–22 |
+| [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 14 | 13–19 | 13–19 | 12–19 | 12–21 |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–15 | 12–15 | 12–17 | 11–20 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 18 | 14–18 | 13–18 | 13–18 | 13–19 |
 | [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–17 | 12–19 | 12–19 | 11–20 |
@@ -174,13 +176,13 @@ Last result: **16** seats (General Election of 5 June 2019)
 | [9 September 2019](2019-09-09-YouGov.html) | YouGov | 14 | 14 | 14 | 13–16 | 12–17 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 16–19 | 15–22 | 14–22 | 13–22 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 15–19 | 13–20 | 13–20 | 13–22 |
-| [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 13–15 | 13–15 | 13–16 | 13–19 |
+| [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 13–19 | 13–19 | 13–19 | 12–20 |
 | [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 18 | 16–20 | 16–22 | 15–22 | 14–22 |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 13–18 | 13–18 | 13–18 | 12–19 |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 13–17 | 12–17 | 12–17 | 12–19 |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 16 | 15–17 | 14–18 | 14–19 | 12–19 |
 | [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–18 | 13–20 | 13–20 | 12–21 |
-| [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–19 | 13–19 | 12–20 | 12–20 |
+| [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–18 | 13–18 | 13–19 | 12–20 |
 | [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 15–20 | 15–20 | 14–20 | 14–21 |
 
 ### Probability Mass Function
@@ -194,14 +196,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.1% | 100% |  |
 | 9 | 0.9% | 99.9% |  |
 | 10 | 14% | 99.0% |  |
-| 11 | 14% | 85% |  |
-| 12 | 20% | 71% |  |
-| 13 | 12% | 51% | Median |
-| 14 | 17% | 39% |  |
-| 15 | 8% | 22% |  |
-| 16 | 4% | 13% | Last Result |
+| 11 | 11% | 85% |  |
+| 12 | 18% | 73% |  |
+| 13 | 13% | 56% | Median |
+| 14 | 17% | 43% |  |
+| 15 | 9% | 26% |  |
+| 16 | 8% | 17% | Last Result |
 | 17 | 9% | 9% |  |
-| 18 | 0.2% | 0.3% |  |
+| 18 | 0.3% | 0.4% |  |
 | 19 | 0% | 0.1% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |

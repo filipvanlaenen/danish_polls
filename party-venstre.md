@@ -10,7 +10,8 @@ Last result: **23.4%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 16.5–21.8% | 16.0–22.4% | 15.6–22.8% | 14.9–23.6% |
+| N/A | [Poll Average](average.html) | 19.0% | 16.5–21.7% | 16.0–22.3% | 15.6–22.7% | 14.8–23.5% |
+| [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 18.9% | 17.4–20.5% | 16.9–21.0% | 16.6–21.4% | 15.9–22.2% |
 | [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.2% | 14.4–19.9% |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 20.1% | 18.6–21.8% | 18.1–22.2% | 17.8–22.6% | 17.1–23.5% |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 17.4% | 16.0–19.0% | 15.6–19.4% | 15.3–19.8% | 14.6–20.6% |
@@ -93,17 +94,16 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.2% | 100% |  |
 | 14.5–15.5% | 2% | 99.8% |  |
-| 15.5–16.5% | 8% | 98% |  |
-| 16.5–17.5% | 14% | 89% |  |
-| 17.5–18.5% | 13% | 76% |  |
-| 18.5–19.5% | 13% | 63% |  |
-| 19.5–20.5% | 18% | 50% | Median |
-| 20.5–21.5% | 18% | 32% |  |
-| 21.5–22.5% | 10% | 14% |  |
-| 22.5–23.5% | 3% | 4% | Last Result |
-| 23.5–24.5% | 0.5% | 0.6% |  |
+| 15.5–16.5% | 9% | 98% |  |
+| 16.5–17.5% | 16% | 89% |  |
+| 17.5–18.5% | 16% | 73% |  |
+| 18.5–19.5% | 14% | 57% | Median |
+| 19.5–20.5% | 16% | 43% |  |
+| 20.5–21.5% | 15% | 27% |  |
+| 21.5–22.5% | 9% | 12% |  |
+| 22.5–23.5% | 3% | 3% | Last Result |
+| 23.5–24.5% | 0.4% | 0.5% |  |
 | 24.5–25.5% | 0% | 0% |  |
-| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -114,7 +114,8 @@ Last result: **43** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 28–40 | 28–43 | 28–43 | 27–43 |
+| N/A | [Poll Average](average.html) | 34 | 28–40 | 28–43 | 28–43 | 27–43 |
+| [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 34 | 32–36 | 31–40 | 31–40 | 28–40 |
 | [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 31 | 29–33 | 28–33 | 27–36 | 27–36 |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 36 | 33–38 | 33–39 | 32–40 | 31–42 |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 32 | 28–34 | 28–36 | 28–36 | 26–37 |
@@ -158,7 +159,7 @@ Last result: **43** seats (General Election of 5 June 2019)
 | [12 December 2019](2019-12-12-Gallup.html) | Gallup | 43 | 42–45 | 41–45 | 41–45 | 39–48 |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 43 | 40–46 | 39–47 | 38–48 | 37–49 |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 42 | 38–45 | 38–47 | 37–47 | 35–49 |
-| [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 37 | 35–42 | 35–43 | 35–43 | 32–45 |
+| [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 37 | 37–43 | 35–45 | 34–45 | 34–47 |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 43 | 39–47 | 39–47 | 38–47 | 37–53 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 39 | 39–45 | 39–45 | 38–45 | 38–47 |
 | [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 40–49 | 38–49 | 38–49 | 38–51 |
@@ -179,13 +180,13 @@ Last result: **43** seats (General Election of 5 June 2019)
 | [9 September 2019](2019-09-09-YouGov.html) | YouGov | 40 | 40 | 36–40 | 33–40 | 33–41 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 42 | 39–44 | 38–47 | 38–47 | 35–47 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 42 | 37–45 | 37–47 | 37–49 | 36–49 |
-| [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 38 | 38–44 | 38–44 | 38–45 | 36–47 |
+| [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 39 | 38–41 | 37–44 | 37–45 | 37–47 |
 | [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 41 | 36–43 | 35–43 | 33–43 | 32–44 |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 35–49 | 35–52 | 35–52 | 35–52 |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 43 | 43–46 | 40–47 | 40–48 | 40–52 |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 42 | 39–45 | 37–45 | 37–46 | 37–47 |
 | [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 45 | 41–48 | 41–48 | 39–48 | 37–50 |
-| [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 43 | 39–45 | 39–48 | 39–48 | 39–51 |
+| [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 43 | 40–46 | 40–47 | 39–48 | 39–50 |
 | [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 43 | 41–49 | 40–49 | 39–49 | 37–49 |
 
 ### Probability Mass Function
@@ -200,23 +201,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 0.3% | 99.9% |  |
 | 27 | 0.8% | 99.7% |  |
 | 28 | 9% | 98.9% |  |
-| 29 | 0.9% | 90% |  |
-| 30 | 1.2% | 89% |  |
-| 31 | 11% | 88% |  |
-| 32 | 5% | 76% |  |
-| 33 | 9% | 71% |  |
-| 34 | 5% | 62% |  |
-| 35 | 8% | 56% | Median |
-| 36 | 13% | 49% |  |
-| 37 | 8% | 36% |  |
-| 38 | 12% | 28% |  |
-| 39 | 3% | 16% |  |
-| 40 | 4% | 14% |  |
-| 41 | 1.1% | 10% |  |
-| 42 | 1.1% | 8% |  |
+| 29 | 1.0% | 90% |  |
+| 30 | 1.5% | 89% |  |
+| 31 | 12% | 87% |  |
+| 32 | 9% | 75% |  |
+| 33 | 8% | 66% |  |
+| 34 | 11% | 58% | Median |
+| 35 | 7% | 47% |  |
+| 36 | 6% | 40% |  |
+| 37 | 7% | 34% |  |
+| 38 | 11% | 27% |  |
+| 39 | 2% | 16% |  |
+| 40 | 5% | 14% |  |
+| 41 | 0.8% | 9% |  |
+| 42 | 1.0% | 8% |  |
 | 43 | 7% | 7% | Last Result |
 | 44 | 0.3% | 0.4% |  |
-| 45 | 0% | 0.1% |  |
-| 46 | 0% | 0% |  |
+| 45 | 0% | 0% |  |
 
 
