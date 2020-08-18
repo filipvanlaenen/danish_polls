@@ -181,7 +181,7 @@ Last result: **43** seats (General Election of 5 June 2019)
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 42 | 39–44 | 38–47 | 38–47 | 35–47 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 42 | 37–45 | 37–47 | 37–49 | 36–49 |
 | [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 39 | 38–41 | 37–44 | 37–45 | 37–47 |
-| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 39 | 35–43 | 35–43 | 34–43 | 32–44 |
+| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 39 | 35–43 | 35–44 | 34–44 | 32–45 |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 48 | 35–49 | 35–52 | 35–52 | 35–52 |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 43 | 43–46 | 40–47 | 40–48 | 40–52 |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 42 | 39–45 | 37–45 | 37–46 | 37–47 |
