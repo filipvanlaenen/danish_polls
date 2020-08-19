@@ -153,7 +153,7 @@ Last result: **12** seats (General Election of 5 June 2019)
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–17 | 14–17 | 13–18 | 12–19 |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–17 | 12–18 | 12–18 | 11–20 |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–16 | 12–17 | 12–18 | 11–19 |
-| [12 December 2019](2019-12-12-Gallup.html) | Gallup | 15 | 13–17 | 13–18 | 12–18 | 12–18 |
+| [12 December 2019](2019-12-12-Gallup.html) | Gallup | 15 | 13–19 | 13–19 | 12–19 | 12–19 |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–16 | 11–17 | 11–17 | 10–18 |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 10–16 | 10–17 | 10–17 | 9–18 |
 | [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 13–17 | 12–17 | 12–17 | 12–20 |
@@ -173,7 +173,7 @@ Last result: **12** seats (General Election of 5 June 2019)
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–13 | 11–15 | 11–16 | 10–17 |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10 | 10–12 | 10–13 | 10–13 | 9–15 |
 | [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–17 | 11–17 | 11–18 | 10–18 |
-| [12 September 2019](2019-09-12-Gallup.html) | Gallup | 16 | 15–16 | 14–18 | 13–18 | 13–18 |
+| [12 September 2019](2019-09-12-Gallup.html) | Gallup | 15 | 15 | 15–16 | 14–16 | 13–18 |
 | [9 September 2019](2019-09-09-YouGov.html) | YouGov | 15 | 15 | 14–15 | 14–15 | 11–16 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 10–15 | 10–15 | 9–16 | 8–16 |

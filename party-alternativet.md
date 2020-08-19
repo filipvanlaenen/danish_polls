@@ -168,7 +168,7 @@ Last result: **5** seats (General Election of 5 June 2019)
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–5 | 0–5 | 0–7 |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 5–7 | 4–7 | 0–7 | 0–8 |
 | [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–6 | 0–6 | 0–7 | 0–8 |
-| [12 September 2019](2019-09-12-Gallup.html) | Gallup | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
+| [12 September 2019](2019-09-12-Gallup.html) | Gallup | 6 | 4–6 | 4–6 | 0–6 | 0–6 |
 | [9 September 2019](2019-09-09-YouGov.html) | YouGov | 5 | 5 | 5 | 4–5 | 3–6 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–6 | 0–6 | 0–7 | 0–8 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
