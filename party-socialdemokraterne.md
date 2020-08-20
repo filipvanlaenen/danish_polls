@@ -152,7 +152,7 @@ Last result: **48** seats (General Election of 5 June 2019)
 | [3–8 February 2020](2020-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 48–56 | 46–56 | 46–57 | 44–61 |
 | [27 January–2 February 2020](2020-02-02-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 45–54 | 45–55 | 44–55 | 43–56 |
 | [20–26 January 2020](2020-01-26-Voxmeter.html) | Voxmeter <br> Ritzau | 54 | 52–54 | 50–55 | 46–56 | 44–56 |
-| [13–19 January 2020](2020-01-19-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 50 | 46–50 | 45–51 | 42–54 |
+| [13–19 January 2020](2020-01-19-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 45–52 | 44–54 | 44–54 | 42–55 |
 | [6–11 January 2020](2020-01-11-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 47–52 | 46–52 | 44–53 | 42–55 |
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 43–51 | 43–51 | 43–51 | 41–53 |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 43–50 | 43–51 | 41–52 | 41–54 |
