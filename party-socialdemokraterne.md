@@ -151,7 +151,7 @@ Last result: **48** seats (General Election of 5 June 2019)
 | [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 51 | 46–51 | 45–51 | 44–51 | 42–53 |
 | [3–8 February 2020](2020-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 48–56 | 46–56 | 46–57 | 44–61 |
 | [27 January–2 February 2020](2020-02-02-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 45–54 | 45–55 | 44–55 | 43–56 |
-| [20–26 January 2020](2020-01-26-Voxmeter.html) | Voxmeter <br> Ritzau | 54 | 52–54 | 50–55 | 46–56 | 44–56 |
+| [20–26 January 2020](2020-01-26-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 50–54 | 48–54 | 46–54 | 44–56 |
 | [13–19 January 2020](2020-01-19-Voxmeter.html) | Voxmeter <br> Ritzau | 50 | 45–52 | 44–54 | 44–54 | 42–55 |
 | [6–11 January 2020](2020-01-11-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 47–52 | 46–52 | 44–53 | 42–55 |
 | [30 December 2019–5 January 2020](2020-01-05-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 43–51 | 43–51 | 43–51 | 41–53 |
@@ -167,7 +167,7 @@ Last result: **48** seats (General Election of 5 June 2019)
 | [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 48–50 | 45–51 | 44–52 | 43–54 |
 | [8 November 2019](2019-11-08-Gallup.html) | Gallup | 47 | 44–52 | 44–52 | 43–52 | 43–53 |
 | [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 46 | 46–48 | 44–48 | 44–51 | 44–57 |
-| [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 47–48 | 47–48 | 47–51 | 43–53 |
+| [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau | 47 | 47–48 | 47–49 | 46–50 | 43–53 |
 | [23 October 2019](2019-10-23-Epinion.html) | Epinion <br> DR | 47 | 44–48 | 42–49 | 42–49 | 42–51 |
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 52 | 47–53 | 45–54 | 43–54 | 43–56 |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 49 | 46–53 | 44–53 | 44–53 | 43–56 |
