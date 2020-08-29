@@ -164,12 +164,12 @@ Last result: **14** seats (General Election of 5 June 2019)
 | [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 15–18 | 15–20 | 15–20 | 13–21 |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 14–17 | 13–17 | 13–17 | 12–19 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 15 | 14–16 | 13–16 | 13–16 | 11–17 |
-| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 11–17 | 10–17 | 10–17 | 9–18 |
+| [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 13–15 | 12–15 | 12–17 | 10–18 |
 | [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 14–15 | 13–18 | 12–19 | 11–19 |
 | [8 November 2019](2019-11-08-Gallup.html) | Gallup | 13 | 12–15 | 12–15 | 12–16 | 10–16 |
 | [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 14–17 | 14–18 | 14–18 | 12–20 |
 | [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 16–19 | 14–21 | 13–21 | 13–23 |
-| [23 October 2019](2019-10-23-Epinion.html) | Epinion <br> DR | 12 | 12–14 | 11–14 | 11–14 | 9–15 |
+| [23 October 2019](2019-10-23-Epinion.html) | Epinion <br> DR | 12 | 11–14 | 10–14 | 10–15 | 10–16 |
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 17 | 14–18 | 14–20 | 13–20 | 13–20 |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–16 | 12–17 | 11–18 | 11–18 |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 16 | 14–18 | 13–18 | 13–18 | 11–19 |
