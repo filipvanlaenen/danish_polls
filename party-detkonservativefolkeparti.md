@@ -167,22 +167,22 @@ Last result: **12** seats (General Election of 5 June 2019)
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 15 | 11–15 | 10–15 | 10–15 | 10–16 |
 | [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 11–14 | 11–15 | 10–15 | 9–16 |
-| [8 November 2019](2019-11-08-Gallup.html) | Gallup | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
+| [8 November 2019](2019-11-08-Gallup.html) | Gallup | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–15 | 11–15 | 10–16 | 9–16 |
 | [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau | 16 | 12–16 | 12–16 | 11–16 | 10–18 |
 | [23 October 2019](2019-10-23-Epinion.html) | Epinion <br> DR | 12 | 11–14 | 10–15 | 10–15 | 10–16 |
-| [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–13 | 10–14 | 10–14 | 9–16 |
-| [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–18 | 11–18 | 11–18 | 10–18 |
+| [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–13 | 10–14 | 10–14 | 9–16 |
+| [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–17 | 11–18 | 11–18 | 10–18 |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
 | [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 10–13 | 10–15 | 10–16 | 9–16 |
 | [29 September 2019](2019-09-29-Gallup.html) | Gallup | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
-| [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–13 | 11–15 | 11–16 | 10–17 |
+| [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–14 | 11–14 | 11–16 | 10–17 |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10 | 10–12 | 10–13 | 10–13 | 9–15 |
 | [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 10–17 | 10–17 | 10–17 | 10–18 |
 | [12 September 2019](2019-09-12-Gallup.html) | Gallup | 15 | 15 | 15–16 | 14–16 | 13–18 |
-| [9 September 2019](2019-09-09-YouGov.html) | YouGov | 15 | 15 | 14–15 | 14–15 | 11–16 |
-| [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
-| [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 10–15 | 10–15 | 9–16 | 8–16 |
+| [9 September 2019](2019-09-09-YouGov.html) | YouGov | 15 | 15 | 14–15 | 13–15 | 11–17 |
+| [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–15 | 11–16 | 11–17 | 10–18 |
+| [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–15 | 10–15 | 9–16 | 8–17 |
 | [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 10–14 | 10–14 | 9–15 | 9–17 |
 | [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 14 | 12–16 | 12–17 | 12–18 | 10–18 |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 14 | 13–14 | 13–15 | 11–16 |
