@@ -6,6 +6,22 @@
     <description>All Registered Polls for the Folketinget</description>
     <pubDate>Wed, 22 Jul 2020 19:46:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 24–30 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-08-30-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 24–30 August 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-08-30-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-08-30-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-08-30-Voxmeter.png" length="331287" type="image/png"/>
+      <pubDate>Thu, 3 Sep 2020 09:11:49 +0200</pubDate>
+      <dc:date>2020-09-03T09:11:49.524771+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 24–27 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-08-27-Megafon.html</link>
+      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Megafon for Politiken and TV 2, 24–27 August 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-08-27-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-08-27-Megafon.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-08-27-Megafon.png" length="360546" type="image/png"/>
+      <pubDate>Thu, 3 Sep 2020 09:24:17 +0200</pubDate>
+      <dc:date>2020-09-03T09:24:17.221679+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 17–23 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2020-08-23-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 17–23 August 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-08-23-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-08-23-Voxmeter-seating-plan.png"/>]]></description>
@@ -196,54 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-06-21-Voxmeter.png" length="324468" type="image/png"/>
       <pubDate>Wed, 8 Jul 2020 23:20:08 +0200</pubDate>
       <dc:date>2020-07-08T23:20:08.564202+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter for Ritzau, 8–13 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter for Ritzau, 8–13 June 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter-seating-plan.png" length="651584" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2020 10:11:30 +0200</pubDate>
-      <dc:date>2020-06-19T10:11:30.297835+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter for Ritzau, 8–13 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter for Ritzau, 8–13 June 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter-seats.png" length="275033" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2020 10:11:30 +0200</pubDate>
-      <dc:date>2020-06-19T10:11:30.297835+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter for Ritzau, 8–13 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter for Ritzau, 8–13 June 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-06-13-Voxmeter.png" length="328848" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2020 10:11:30 +0200</pubDate>
-      <dc:date>2020-06-19T10:11:30.297835+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 11 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Gallup, 11 June 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup-seating-plan.png" length="642819" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2020 10:39:21 +0200</pubDate>
-      <dc:date>2020-06-19T10:39:21.477172+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 11 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Gallup, 11 June 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup-seats.png" length="269606" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2020 10:39:21 +0200</pubDate>
-      <dc:date>2020-06-19T10:39:21.477172+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 11 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Gallup, 11 June 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-06-11-Gallup.png" length="312464" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2020 10:39:21 +0200</pubDate>
-      <dc:date>2020-06-19T10:39:21.477172+02:00</dc:date>
     </item>
   </channel>
 </rss>
