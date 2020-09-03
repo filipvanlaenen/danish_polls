@@ -10,7 +10,9 @@ Last result: **8.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.8–8.0% | 5.5–8.3% | 5.3–8.6% | 4.8–9.2% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.8–8.2% | 5.5–8.5% | 5.2–8.8% | 4.7–9.4% |
+| [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
+| [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 6.2% | 5.3–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.4% |
 | [17–23 August 2020](2020-08-23-Voxmeter.html) | Voxmeter | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [10–16 August 2020](2020-08-16-Voxmeter.html) | Voxmeter <br> Ritzau | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 6.1% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.4–8.3% |
@@ -96,12 +98,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 5% | 99.8% |  |
-| 5.5–6.5% | 30% | 95% |  |
-| 6.5–7.5% | 42% | 65% | Median |
-| 7.5–8.5% | 19% | 22% |  |
-| 8.5–9.5% | 3% | 3% | Last Result |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 6% | 99.8% |  |
+| 5.5–6.5% | 28% | 94% |  |
+| 6.5–7.5% | 38% | 66% | Median |
+| 7.5–8.5% | 23% | 28% |  |
+| 8.5–9.5% | 4% | 5% | Last Result |
+| 9.5–10.5% | 0.3% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -113,7 +115,9 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 9–15 | 9–16 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
+| [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 14 | 10–15 | 10–16 | 10–16 | 10–18 |
+| [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 13 | 11–13 | 11–13 | 11–13 | 10–13 |
 | [17–23 August 2020](2020-08-23-Voxmeter.html) | Voxmeter | 12 | 11–15 | 11–15 | 10–16 | 9–17 |
 | [10–16 August 2020](2020-08-16-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–15 | 11–15 | 10–15 | 9–16 |
 | [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 11 | 10–13 | 10–13 | 9–14 | 8–15 |
@@ -199,16 +203,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.1% | 100% |  |
-| 9 | 3% | 99.9% |  |
-| 10 | 8% | 96% |  |
-| 11 | 16% | 89% |  |
-| 12 | 31% | 72% | Median |
-| 13 | 24% | 42% |  |
-| 14 | 9% | 18% |  |
-| 15 | 7% | 9% |  |
-| 16 | 1.5% | 2% | Last Result |
-| 17 | 0.4% | 0.5% |  |
-| 18 | 0% | 0% |  |
+| 9 | 1.1% | 100% |  |
+| 10 | 6% | 98.9% |  |
+| 11 | 11% | 93% |  |
+| 12 | 14% | 82% |  |
+| 13 | 42% | 68% | Median |
+| 14 | 14% | 26% |  |
+| 15 | 9% | 12% |  |
+| 16 | 2% | 3% | Last Result |
+| 17 | 0.5% | 0.7% |  |
+| 18 | 0.2% | 0.3% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
