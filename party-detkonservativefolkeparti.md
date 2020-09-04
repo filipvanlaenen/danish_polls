@@ -115,9 +115,9 @@ Last result: **12** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 13–19 | 12–20 |
-| [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 16 | 14–19 | 13–19 | 13–20 | 10–20 |
-| [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 18 | 16–18 | 16–18 | 16–18 | 15–18 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
+| [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 14 | 14–15 | 14–16 | 14–18 | 13–19 |
+| [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 18 | 16–18 | 16–19 | 15–19 | 14–21 |
 | [17–23 August 2020](2020-08-23-Voxmeter.html) | Voxmeter | 14 | 14–16 | 13–16 | 12–17 | 11–19 |
 | [10–16 August 2020](2020-08-16-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 12–16 | 12–17 | 12–17 | 10–19 |
 | [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–15 | 11–15 | 10–16 | 9–16 |
@@ -203,17 +203,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 0.1% | 99.8% |  |
-| 12 | 0.2% | 99.7% | Last Result |
-| 13 | 3% | 99.5% |  |
-| 14 | 5% | 97% |  |
-| 15 | 26% | 91% |  |
-| 16 | 18% | 66% | Median |
-| 17 | 6% | 48% |  |
-| 18 | 37% | 42% |  |
+| 12 | 0.2% | 100% | Last Result |
+| 13 | 1.5% | 99.8% |  |
+| 14 | 24% | 98% |  |
+| 15 | 23% | 74% |  |
+| 16 | 14% | 51% | Median |
+| 17 | 6% | 37% |  |
+| 18 | 27% | 31% |  |
 | 19 | 3% | 4% |  |
-| 20 | 1.5% | 2% |  |
+| 20 | 0.9% | 1.1% |  |
 | 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 

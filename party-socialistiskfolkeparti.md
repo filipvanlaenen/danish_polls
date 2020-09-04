@@ -115,9 +115,9 @@ Last result: **14** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 10–17 | 10–19 |
-| [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 13 | 12–16 | 12–18 | 10–19 | 10–19 |
-| [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 11–15 | 11–15 | 11–15 | 11–16 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
+| [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 15 | 14–16 | 12–16 | 12–16 | 12–17 |
+| [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 11–15 | 11–15 | 11–17 | 10–19 |
 | [17–23 August 2020](2020-08-23-Voxmeter.html) | Voxmeter | 15 | 12–15 | 11–15 | 11–16 | 11–17 |
 | [10–16 August 2020](2020-08-16-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 12–14 | 11–15 | 10–16 | 10–17 |
 | [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 15 | 13–17 | 12–17 | 12–17 | 12–19 |
@@ -204,16 +204,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.3% | 100% |  |
-| 10 | 3% | 99.7% |  |
-| 11 | 9% | 97% |  |
-| 12 | 24% | 89% |  |
-| 13 | 24% | 65% | Median |
-| 14 | 9% | 41% | Last Result |
-| 15 | 25% | 32% |  |
-| 16 | 4% | 7% |  |
-| 17 | 0.9% | 3% |  |
-| 18 | 1.0% | 2% |  |
-| 19 | 1.1% | 1.1% |  |
+| 10 | 2% | 99.7% |  |
+| 11 | 6% | 98% |  |
+| 12 | 23% | 92% |  |
+| 13 | 14% | 68% |  |
+| 14 | 15% | 54% | Last Result, Median |
+| 15 | 34% | 39% |  |
+| 16 | 4% | 5% |  |
+| 17 | 1.2% | 2% |  |
+| 18 | 0.1% | 0.5% |  |
+| 19 | 0.3% | 0.3% |  |
 | 20 | 0% | 0% |  |
 
 
