@@ -119,7 +119,7 @@ Last result: **16** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 10–15 | 9–16 |
-| [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 13 | 11–14 | 11–15 | 11–15 | 10–15 |
+| [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 12 | 11–14 | 11–15 | 10–15 | 10–15 |
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 10 | 10–11 | 10–13 | 9–14 | 8–14 |
 | [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 11 | 9–14 | 9–14 | 8–14 | 7–15 |
 | [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 12 | 12–14 | 12–14 | 12–15 | 11–17 |
@@ -212,11 +212,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 0.4% | 99.9% |  |
 | 9 | 1.4% | 99.5% |  |
-| 10 | 19% | 98% |  |
-| 11 | 14% | 79% |  |
-| 12 | 18% | 64% | Median |
-| 13 | 31% | 47% |  |
-| 14 | 9% | 16% |  |
+| 10 | 20% | 98% |  |
+| 11 | 14% | 78% |  |
+| 12 | 20% | 64% | Median |
+| 13 | 30% | 44% |  |
+| 14 | 8% | 15% |  |
 | 15 | 6% | 7% |  |
 | 16 | 0.6% | 1.0% | Last Result |
 | 17 | 0.3% | 0.3% |  |
