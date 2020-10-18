@@ -10,7 +10,12 @@ Last result: **7.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 6.2–8.6% | 5.9–9.0% | 5.7–9.4% | 5.3–10.1% |
+| N/A | [Poll Average](average.html) | 7.1% | 6.2–8.3% | 6.0–8.7% | 5.8–9.1% | 5.4–9.7% |
+| [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 7.8% | 6.8–9.0% | 6.6–9.4% | 6.3–9.7% | 5.9–10.3% |
+| [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 8.2% | 7.3–9.1% | 7.1–9.4% | 6.9–9.6% | 6.6–10.1% |
+| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.1–8.3% | 5.7–8.7% |
+| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 6.8% | 6.1–7.7% | 5.9–7.9% | 5.7–8.2% | 5.3–8.6% |
+| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 8.8% | 7.8–10.0% | 7.5–10.3% | 7.2–10.6% | 6.8–11.2% |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 6.6% | 5.9–7.5% | 5.7–7.7% | 5.5–8.0% | 5.2–8.4% |
@@ -102,13 +107,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.4% | 100% |  |
-| 5.5–6.5% | 19% | 98.6% |  |
-| 6.5–7.5% | 39% | 79% | Median |
-| 7.5–8.5% | 29% | 40% | Last Result |
-| 8.5–9.5% | 10% | 12% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.2% |  |
+| 4.5–5.5% | 1.0% | 100% |  |
+| 5.5–6.5% | 21% | 99.0% |  |
+| 6.5–7.5% | 47% | 78% | Median |
+| 7.5–8.5% | 24% | 31% | Last Result |
+| 8.5–9.5% | 6% | 7% |  |
+| 9.5–10.5% | 0.8% | 0.8% |  |
+| 10.5–11.5% | 0% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -120,8 +125,13 @@ Last result: **14** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 10–16 | 10–17 | 10–18 |
-| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 15 | 14–17 | 13–17 | 12–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 13 | 11–16 | 11–16 | 10–16 | 10–18 |
+| [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 15 | 14–16 | 13–17 | 12–17 | 12–19 |
+| [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 15 | 15 | 14–15 | 14–17 | 13–18 |
+| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 13 | 13–14 | 13–14 | 13–14 | 12–14 |
+| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 12 | 11–15 | 11–15 | 11–15 | 9–15 |
+| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 17 | 13–17 | 13–17 | 13–18 | 13–21 |
+| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 17 | 14–18 | 13–19 | 13–20 | 12–20 |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 12 | 10–14 | 10–14 | 10–14 | 10–15 |
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 16 | 16 | 14–17 | 14–18 | 13–19 |
@@ -214,17 +224,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.3% | 100% |  |
-| 10 | 5% | 99.6% |  |
-| 11 | 11% | 95% |  |
-| 12 | 23% | 83% |  |
-| 13 | 15% | 60% | Median |
-| 14 | 17% | 45% | Last Result |
-| 15 | 19% | 29% |  |
-| 16 | 5% | 9% |  |
-| 17 | 3% | 4% |  |
-| 18 | 0.6% | 1.1% |  |
-| 19 | 0.3% | 0.4% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 10 | 4% | 99.7% |  |
+| 11 | 17% | 96% |  |
+| 12 | 14% | 80% |  |
+| 13 | 19% | 66% | Median |
+| 14 | 17% | 46% | Last Result |
+| 15 | 18% | 29% |  |
+| 16 | 9% | 11% |  |
+| 17 | 1.0% | 2% |  |
+| 18 | 0.2% | 0.6% |  |
+| 19 | 0.4% | 0.4% |  |
+| 20 | 0% | 0% |  |
 
 
