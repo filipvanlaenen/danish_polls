@@ -10,9 +10,11 @@ Last result: **6.9%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 6.0–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.2% |
+| N/A | [Poll Average](average.html) | 7.2% | 6.2–8.7% | 5.9–9.2% | 5.7–9.6% | 5.3–10.4% |
+| [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.5% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–11.0% |
 | [12–18 October 2020](2020-10-18-Voxmeter.html) | Voxmeter | 7.2% | 6.2–8.3% | 6.0–8.6% | 5.7–8.9% | 5.3–9.5% |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.4–8.6% | 5.0–9.2% |
+| [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 6.6% | 5.8–7.6% | 5.5–7.9% | 5.3–8.1% | 5.0–8.6% |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 6.4% | 5.7–7.3% | 5.5–7.5% | 5.3–7.8% | 5.0–8.2% |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 6.7% | 6.0–7.5% | 5.8–7.7% | 5.7–7.9% | 5.4–8.2% |
 | [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 7.3% | 6.5–8.2% | 6.3–8.5% | 6.1–8.7% | 5.8–9.1% |
@@ -108,13 +110,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 29% | 97% |  |
-| 6.5–7.5% | 46% | 68% | Last Result, Median |
-| 7.5–8.5% | 19% | 22% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 4.5–5.5% | 1.5% | 100% |  |
+| 5.5–6.5% | 21% | 98.5% |  |
+| 6.5–7.5% | 42% | 77% | Last Result, Median |
+| 7.5–8.5% | 24% | 36% |  |
+| 8.5–9.5% | 9% | 12% |  |
+| 9.5–10.5% | 2% | 3% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -125,9 +128,11 @@ Last result: **13** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–15 | 10–15 | 10–15 | 9–16 |
+| N/A | [Poll Average](average.html) | 13 | 11–16 | 11–18 | 11–18 | 9–19 |
+| [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 16 | 14–18 | 13–19 | 13–19 | 11–19 |
 | [12–18 October 2020](2020-10-18-Voxmeter.html) | Voxmeter | 12 | 11–14 | 11–15 | 11–16 | 10–17 |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 12 | 11–15 | 11–15 | 11–17 | 10–17 |
+| [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 11 | 11–14 | 10–15 | 9–16 | 9–16 |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 12 | 12 | 12–13 | 10–14 | 10–14 |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 13 | 12–13 | 12–13 | 12–13 | 10–13 |
 | [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 15 | 12–15 | 11–16 | 11–16 | 10–16 |
@@ -224,18 +229,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.1% | 100% |  |
-| 9 | 1.2% | 99.9% |  |
-| 10 | 10% | 98.7% |  |
-| 11 | 17% | 88% |  |
-| 12 | 28% | 72% | Median |
-| 13 | 23% | 44% | Last Result |
-| 14 | 8% | 21% |  |
-| 15 | 10% | 12% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0.1% | 0.3% |  |
-| 18 | 0% | 0.1% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 9 | 0.8% | 100% |  |
+| 10 | 1.4% | 99.2% |  |
+| 11 | 22% | 98% |  |
+| 12 | 20% | 76% |  |
+| 13 | 18% | 57% | Last Result, Median |
+| 14 | 12% | 39% |  |
+| 15 | 14% | 27% |  |
+| 16 | 3% | 13% |  |
+| 17 | 4% | 10% |  |
+| 18 | 5% | 6% |  |
+| 19 | 1.2% | 1.3% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 
