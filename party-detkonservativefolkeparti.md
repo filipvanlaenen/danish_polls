@@ -11,6 +11,7 @@ Last result: **6.6%** (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.5% | 9.2–11.9% | 8.7–12.3% | 8.4–12.7% | 7.7–13.5% |
+| [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 9.3% | 8.2–10.6% | 7.9–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 9.0–14.1% |
 | [12–18 October 2020](2020-10-18-Voxmeter.html) | Voxmeter | 9.3% | 8.2–10.6% | 7.9–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.9–11.5% | 7.4–12.2% |
@@ -129,7 +130,8 @@ Last result: **12** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–22 | 17–23 | 16–25 | 14–25 |
+| N/A | [Poll Average](average.html) | 20 | 17–22 | 16–23 | 16–25 | 14–25 |
+| [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 17 | 16–19 | 15–19 | 14–21 | 13–22 |
 | [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 20 | 18–25 | 18–25 | 18–25 | 16–25 |
 | [12–18 October 2020](2020-10-18-Voxmeter.html) | Voxmeter | 17 | 16–18 | 15–19 | 14–20 | 13–20 |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 17 | 16–19 | 16–19 | 14–20 | 13–21 |
@@ -231,14 +233,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0% | 100% | Last Result |
-| 13 | 0.5% | 100% |  |
-| 14 | 0.4% | 99.5% |  |
-| 15 | 1.1% | 99.1% |  |
-| 16 | 0.8% | 98% |  |
-| 17 | 13% | 97% |  |
-| 18 | 19% | 84% |  |
-| 19 | 7% | 64% |  |
-| 20 | 15% | 58% | Median |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.6% | 99.8% |  |
+| 15 | 1.4% | 99.2% |  |
+| 16 | 4% | 98% |  |
+| 17 | 10% | 94% |  |
+| 18 | 14% | 84% |  |
+| 19 | 12% | 70% |  |
+| 20 | 14% | 58% | Median |
 | 21 | 25% | 43% |  |
 | 22 | 10% | 18% |  |
 | 23 | 4% | 9% |  |
