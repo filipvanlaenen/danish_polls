@@ -10,7 +10,8 @@ Last result: **2.4%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.7–10.4% | 5.3–10.9% | 5.0–11.3% | 4.5–12.1% |
+| N/A | [Poll Average](average.html) | 8.6% | 5.8–10.4% | 5.3–10.9% | 5.0–11.3% | 4.5–12.1% |
+| [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 8.9% | 8.0–9.9% | 7.8–10.1% | 7.6–10.4% | 7.2–10.8% |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 5.7% | 4.9–6.8% | 4.7–7.1% | 4.5–7.3% | 4.1–7.9% |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 6.1% | 5.2–7.1% | 5.0–7.5% | 4.8–7.7% | 4.4–8.3% |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
@@ -116,12 +117,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.7% | 100% |  |
 | 4.5–5.5% | 7% | 99.3% |  |
-| 5.5–6.5% | 22% | 92% |  |
-| 6.5–7.5% | 25% | 70% | Median |
-| 7.5–8.5% | 8% | 45% |  |
-| 8.5–9.5% | 13% | 37% |  |
-| 9.5–10.5% | 15% | 23% |  |
-| 10.5–11.5% | 7% | 8% |  |
+| 5.5–6.5% | 15% | 93% |  |
+| 6.5–7.5% | 15% | 78% |  |
+| 7.5–8.5% | 12% | 63% |  |
+| 8.5–9.5% | 24% | 51% | Median |
+| 9.5–10.5% | 18% | 27% |  |
+| 10.5–11.5% | 7% | 9% |  |
 | 11.5–12.5% | 1.4% | 2% |  |
 | 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -135,7 +136,8 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–19 | 10–20 | 10–21 | 9–22 |
+| N/A | [Poll Average](average.html) | 16 | 10–19 | 10–20 | 10–21 | 9–22 |
+| [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 16 | 15–16 | 14–17 | 14–17 | 13–18 |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 10 | 10–11 | 9–11 | 9–12 | 8–13 |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 10 | 9–13 | 9–13 | 8–13 | 8–15 |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 11 | 9–15 | 9–15 | 9–15 | 8–17 |
@@ -246,13 +248,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.2% | 100% |  |
 | 9 | 1.2% | 99.7% |  |
 | 10 | 15% | 98.6% |  |
-| 11 | 10% | 83% |  |
-| 12 | 20% | 73% |  |
-| 13 | 12% | 53% | Median |
-| 14 | 3% | 41% |  |
-| 15 | 2% | 38% |  |
-| 16 | 10% | 36% |  |
-| 17 | 9% | 26% |  |
+| 11 | 5% | 83% |  |
+| 12 | 6% | 78% |  |
+| 13 | 11% | 73% |  |
+| 14 | 5% | 61% |  |
+| 15 | 3% | 57% |  |
+| 16 | 26% | 54% | Median |
+| 17 | 9% | 28% |  |
 | 18 | 7% | 18% |  |
 | 19 | 3% | 11% |  |
 | 20 | 3% | 8% |  |
