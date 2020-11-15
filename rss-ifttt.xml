@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Folketinget</description>
     <pubDate>Wed, 22 Jul 2020 19:46:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Gallup, 6–12 November 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Gallup, 6–12 November 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup-seating-plan.png" length="635926" type="image/png"/>
+      <pubDate>Sun, 15 Nov 2020 11:16:10 +0100</pubDate>
+      <dc:date>2020-11-15T11:16:10.156381+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 6–12 November 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.html#seats</link>
+      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Gallup, 6–12 November 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup-seats.png" length="279741" type="image/png"/>
+      <pubDate>Sun, 15 Nov 2020 11:16:10 +0100</pubDate>
+      <dc:date>2020-11-15T11:16:10.156381+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 6–12 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.html</link>
+      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Gallup, 6–12 November 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.png" length="354134" type="image/png"/>
+      <pubDate>Sun, 15 Nov 2020 11:16:10 +0100</pubDate>
+      <dc:date>2020-11-15T11:16:10.156381+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 2–7 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2020-11-07-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 2–7 November 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-11-07-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-11-07-Voxmeter-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter.png" length="333551" type="image/png"/>
       <pubDate>Sun, 18 Oct 2020 15:46:07 +0200</pubDate>
       <dc:date>2020-10-18T15:46:07.153303+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion Altinget, 22–28 September 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Epinion Altinget, 22–28 September 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget-seating-plan.png" length="642327" type="image/png"/>
-      <pubDate>Sun, 18 Oct 2020 19:27:31 +0200</pubDate>
-      <dc:date>2020-10-18T19:27:31.440485+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion Altinget, 22–28 September 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Epinion Altinget, 22–28 September 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget-seats.png" length="273291" type="image/png"/>
-      <pubDate>Sun, 18 Oct 2020 19:27:31 +0200</pubDate>
-      <dc:date>2020-10-18T19:27:31.440485+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion Altinget, 22–28 September 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Epinion Altinget, 22–28 September 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-09-28-EpinionAltinget.png" length="339744" type="image/png"/>
-      <pubDate>Sun, 18 Oct 2020 19:27:31 +0200</pubDate>
-      <dc:date>2020-10-18T19:27:31.440485+02:00</dc:date>
     </item>
   </channel>
 </rss>
