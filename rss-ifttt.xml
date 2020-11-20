@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Folketinget</description>
     <pubDate>Wed, 22 Jul 2020 19:46:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 9–15 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2020-11-15-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 9–15 November 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-11-15-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-11-15-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-11-15-Voxmeter.png" length="331921" type="image/png"/>
+      <pubDate>Fri, 20 Nov 2020 18:59:40 +0100</pubDate>
+      <dc:date>2020-11-20T18:59:40.769377+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 6–12 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Gallup, 6–12 November 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-11-12-Gallup-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-10-04-Gallup.png" length="347616" type="image/png"/>
       <pubDate>Sun, 18 Oct 2020 17:49:49 +0200</pubDate>
       <dc:date>2020-10-18T17:49:49.384807+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 28 September–4 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 28 September–4 October 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter-seating-plan.png" length="632985" type="image/png"/>
-      <pubDate>Sun, 18 Oct 2020 15:46:07 +0200</pubDate>
-      <dc:date>2020-10-18T15:46:07.153303+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 28 September–4 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 28 September–4 October 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter-seats.png" length="250919" type="image/png"/>
-      <pubDate>Sun, 18 Oct 2020 15:46:07 +0200</pubDate>
-      <dc:date>2020-10-18T15:46:07.153303+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 28 September–4 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 28 September–4 October 2020<br/>Details on https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2020-10-04-Voxmeter.png" length="333551" type="image/png"/>
-      <pubDate>Sun, 18 Oct 2020 15:46:07 +0200</pubDate>
-      <dc:date>2020-10-18T15:46:07.153303+02:00</dc:date>
     </item>
   </channel>
 </rss>
