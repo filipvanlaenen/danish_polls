@@ -10,7 +10,9 @@ Last result: **8.6%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 4.0–7.3% | 3.6–7.6% | 3.3–7.8% | 2.9–8.3% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.1–7.5% | 4.7–7.9% | 4.4–8.1% | 3.9–8.8% |
+| [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
+| [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 6.3% | 5.4–7.4% | 5.1–7.7% | 4.9–7.9% | 4.5–8.5% |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 6.3% | 5.6–7.1% | 5.4–7.4% | 5.2–7.6% | 4.9–8.0% |
@@ -115,15 +117,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 4% | 99.9% |  |
-| 3.5–4.5% | 12% | 96% |  |
-| 4.5–5.5% | 10% | 84% |  |
-| 5.5–6.5% | 37% | 74% | Median |
-| 6.5–7.5% | 31% | 37% |  |
-| 7.5–8.5% | 5% | 5% |  |
-| 8.5–9.5% | 0.2% | 0.2% | Last Result |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 14% | 97% |  |
+| 5.5–6.5% | 38% | 82% | Median |
+| 6.5–7.5% | 35% | 44% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 0.9% | 0.9% | Last Result |
 | 9.5–10.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -134,7 +136,9 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 7–13 | 6–14 | 6–14 | 5–15 |
+| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–14 | 9–15 | 7–16 |
+| [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 9 | 9–10 | 7–11 | 7–11 | 7–12 |
+| [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 11 | 11–14 | 10–16 | 10–16 | 9–16 |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 12 | 10–13 | 10–14 | 9–14 | 8–15 |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 9 | 8–12 | 7–12 | 7–12 | 6–12 |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 11 | 11–13 | 11–14 | 10–14 | 9–14 |
@@ -241,18 +245,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 2% | 100% |  |
-| 6 | 4% | 98% |  |
-| 7 | 10% | 95% |  |
-| 8 | 3% | 85% |  |
-| 9 | 2% | 82% |  |
-| 10 | 9% | 80% |  |
-| 11 | 32% | 70% | Median |
-| 12 | 16% | 38% |  |
-| 13 | 17% | 23% |  |
-| 14 | 4% | 5% |  |
-| 15 | 1.0% | 1.1% |  |
-| 16 | 0.1% | 0.1% | Last Result |
+| 7 | 1.1% | 100% |  |
+| 8 | 0.5% | 98.8% |  |
+| 9 | 16% | 98% |  |
+| 10 | 9% | 83% |  |
+| 11 | 39% | 73% | Median |
+| 12 | 12% | 35% |  |
+| 13 | 15% | 22% |  |
+| 14 | 5% | 8% |  |
+| 15 | 1.4% | 3% |  |
+| 16 | 1.1% | 1.2% | Last Result |
 | 17 | 0% | 0% |  |
 
 
