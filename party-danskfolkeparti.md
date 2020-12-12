@@ -10,7 +10,9 @@ Last result: **8.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 5.1–7.1% | 4.8–7.4% | 4.6–7.7% | 4.2–8.2% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.6–6.9% | 4.3–7.2% | 4.1–7.5% | 3.7–8.0% |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 4.7% | 4.0–5.5% | 3.9–5.7% | 3.7–5.9% | 3.4–6.3% |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 5.8% | 5.1–6.6% | 4.9–6.8% | 4.8–7.0% | 4.5–7.4% |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 6.5% | 5.7–7.5% | 5.4–7.7% | 5.2–8.0% | 4.9–8.5% |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 5.7% | 4.9–6.8% | 4.6–7.0% | 4.5–7.3% | 4.1–7.8% |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 5.6% | 4.8–6.6% | 4.6–6.9% | 4.4–7.2% | 4.0–7.7% |
@@ -28,7 +30,7 @@ Last result: **8.7%** (General Election of 5 June 2019)
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 6.8% | 5.9–7.8% | 5.7–8.0% | 5.5–8.3% | 5.1–8.8% |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 7.1% | 6.3–7.9% | 6.1–8.2% | 5.9–8.4% | 5.6–8.9% |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 6.2% | 5.6–7.0% | 5.4–7.2% | 5.2–7.3% | 5.0–7.7% |
-| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 6.6% | 5.9–7.5% | 5.7–7.7% | 5.5–8.0% | 5.2–8.4% |
+| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion | 6.6% | 5.9–7.5% | 5.7–7.7% | 5.5–8.0% | 5.2–8.4% |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.7% | 4.4–8.3% |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 6.8% | 5.8–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.0% |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 6.2% | 5.4–7.3% | 5.2–7.6% | 5.0–7.8% | 4.6–8.4% |
@@ -120,12 +122,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 25% | 98% |  |
-| 5.5–6.5% | 45% | 73% | Median |
-| 6.5–7.5% | 24% | 28% |  |
-| 7.5–8.5% | 4% | 4% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 9% | 99.8% |  |
+| 4.5–5.5% | 33% | 90% |  |
+| 5.5–6.5% | 40% | 58% | Median |
+| 6.5–7.5% | 15% | 17% |  |
+| 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% | Last Result |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -138,7 +141,9 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–14 | 9–14 | 9–14 | 8–15 |
+| N/A | [Poll Average](average.html) | 10 | 9–13 | 8–13 | 7–13 | 7–14 |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 10 | 9–12 | 8–12 | 8–13 | 8–14 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 12 | 10–13 | 10–13 | 9–13 | 9–15 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 10 | 9–12 | 8–12 | 8–12 | 7–14 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 10 | 10–13 | 9–13 | 9–13 | 8–13 |
@@ -156,7 +161,7 @@ Last result: **16** seats (General Election of 5 June 2019)
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 13 | 10–15 | 10–17 | 10–17 | 10–17 |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 15 | 15 | 13–15 | 12–15 | 10–16 |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 11 | 11–13 | 11–13 | 11–13 | 11–13 |
-| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
+| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion | 13 | 12–15 | 11–15 | 11–15 | 10–15 |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 10 | 9–12 | 9–13 | 9–13 | 8–15 |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 12 | 12–14 | 11–15 | 11–15 | 9–17 |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 11 | 8–13 | 8–14 | 8–14 | 7–15 |
@@ -250,15 +255,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.2% | 100% |  |
-| 8 | 2% | 99.8% |  |
-| 9 | 24% | 98% |  |
-| 10 | 23% | 74% |  |
-| 11 | 13% | 51% | Median |
-| 12 | 11% | 39% |  |
-| 13 | 17% | 28% |  |
-| 14 | 10% | 10% |  |
-| 15 | 0.5% | 0.5% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 3% | 99.8% |  |
+| 8 | 5% | 97% |  |
+| 9 | 16% | 91% |  |
+| 10 | 35% | 75% | Median |
+| 11 | 18% | 41% |  |
+| 12 | 11% | 22% |  |
+| 13 | 10% | 11% |  |
+| 14 | 0.5% | 0.8% |  |
+| 15 | 0.3% | 0.3% |  |
 | 16 | 0% | 0% | Last Result |
 
 

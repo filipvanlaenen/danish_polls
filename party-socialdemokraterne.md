@@ -10,7 +10,9 @@ Last result: **25.9%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.0% | 28.8–33.4% | 28.2–34.0% | 27.7–34.6% | 26.9–35.6% |
+| N/A | [Poll Average](average.html) | 31.1% | 28.9–33.4% | 28.3–34.1% | 27.9–34.6% | 27.0–35.6% |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 29.5% | 28.0–31.0% | 27.6–31.5% | 27.2–31.9% | 26.5–32.6% |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 31.5% | 30.1–33.0% | 29.7–33.4% | 29.3–33.8% | 28.7–34.5% |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 32.9% | 31.3–34.7% | 30.8–35.2% | 30.4–35.6% | 29.6–36.4% |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 31.2% | 29.4–33.1% | 28.9–33.6% | 28.4–34.1% | 27.6–35.0% |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 30.5% | 28.7–32.3% | 28.2–32.9% | 27.7–33.3% | 26.9–34.3% |
@@ -28,7 +30,7 @@ Last result: **25.9%** (General Election of 5 June 2019)
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 32.3% | 30.6–34.0% | 30.2–34.5% | 29.8–34.9% | 29.0–35.8% |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 32.2% | 30.7–33.7% | 30.3–34.1% | 29.9–34.5% | 29.2–35.2% |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 29.4% | 28.2–30.7% | 27.8–31.1% | 27.5–31.4% | 26.9–32.1% |
-| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 31.3% | 29.9–32.8% | 29.4–33.2% | 29.1–33.6% | 28.4–34.3% |
+| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion | 31.3% | 29.9–32.8% | 29.4–33.2% | 29.1–33.6% | 28.4–34.3% |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 33.0% | 31.2–35.0% | 30.7–35.5% | 30.2–36.0% | 29.4–36.9% |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 32.9% | 31.1–34.8% | 30.5–35.4% | 30.1–35.9% | 29.2–36.8% |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 32.6% | 30.9–34.5% | 30.4–35.0% | 29.9–35.5% | 29.1–36.4% |
@@ -122,13 +124,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0.2% | 100% | Last Result |
-| 26.5–27.5% | 2% | 99.8% |  |
-| 27.5–28.5% | 6% | 98% |  |
-| 28.5–29.5% | 13% | 92% |  |
-| 29.5–30.5% | 19% | 79% |  |
-| 30.5–31.5% | 21% | 60% | Median |
-| 31.5–32.5% | 18% | 39% |  |
-| 32.5–33.5% | 12% | 20% |  |
+| 26.5–27.5% | 1.3% | 99.8% |  |
+| 27.5–28.5% | 5% | 98.6% |  |
+| 28.5–29.5% | 12% | 93% |  |
+| 29.5–30.5% | 19% | 81% |  |
+| 30.5–31.5% | 22% | 62% | Median |
+| 31.5–32.5% | 19% | 40% |  |
+| 32.5–33.5% | 12% | 21% |  |
 | 33.5–34.5% | 6% | 9% |  |
 | 34.5–35.5% | 2% | 3% |  |
 | 35.5–36.5% | 0.5% | 0.6% |  |
@@ -144,7 +146,9 @@ Last result: **48** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 55 | 52–63 | 51–63 | 51–64 | 49–64 |
+| N/A | [Poll Average](average.html) | 56 | 50–63 | 49–63 | 49–64 | 49–64 |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 50 | 49–57 | 49–59 | 49–59 | 49–59 |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 56 | 54–59 | 52–59 | 52–59 | 52–60 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 63 | 57–64 | 56–64 | 56–64 | 55–65 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 56 | 52–62 | 51–62 | 51–62 | 49–63 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 55 | 52–55 | 52–56 | 51–58 | 48–60 |
@@ -162,7 +166,7 @@ Last result: **48** seats (General Election of 5 June 2019)
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 58 | 57–61 | 56–61 | 56–63 | 54–64 |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 57 | 57 | 57–59 | 56–61 | 54–63 |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 52 | 52–53 | 52–53 | 52–53 | 52–55 |
-| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 56 | 54–61 | 53–62 | 53–63 | 51–64 |
+| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion | 57 | 54–59 | 51–62 | 51–62 | 51–64 |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 60 | 57–65 | 55–65 | 54–65 | 53–65 |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 63 | 59–63 | 57–63 | 56–66 | 52–66 |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 59 | 56–64 | 55–64 | 53–65 | 52–66 |
@@ -257,23 +261,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 47 | 0.1% | 100% |  |
-| 48 | 0.2% | 99.9% | Last Result |
-| 49 | 0.9% | 99.7% |  |
-| 50 | 0.5% | 98.8% |  |
-| 51 | 8% | 98% |  |
-| 52 | 4% | 90% |  |
-| 53 | 14% | 86% |  |
-| 54 | 12% | 73% |  |
-| 55 | 18% | 61% | Median |
-| 56 | 6% | 43% |  |
-| 57 | 9% | 37% |  |
-| 58 | 3% | 28% |  |
-| 59 | 2% | 25% |  |
-| 60 | 3% | 23% |  |
-| 61 | 1.3% | 20% |  |
-| 62 | 7% | 19% |  |
-| 63 | 8% | 12% |  |
-| 64 | 4% | 4% |  |
+| 48 | 0.1% | 99.9% | Last Result |
+| 49 | 5% | 99.8% |  |
+| 50 | 7% | 95% |  |
+| 51 | 2% | 88% |  |
+| 52 | 6% | 86% |  |
+| 53 | 3% | 80% |  |
+| 54 | 7% | 77% |  |
+| 55 | 17% | 70% |  |
+| 56 | 16% | 53% | Median |
+| 57 | 6% | 38% |  |
+| 58 | 6% | 32% |  |
+| 59 | 5% | 26% |  |
+| 60 | 3% | 20% |  |
+| 61 | 0.8% | 18% |  |
+| 62 | 6% | 17% |  |
+| 63 | 8% | 11% |  |
+| 64 | 3% | 3% |  |
 | 65 | 0.1% | 0.2% |  |
 | 66 | 0% | 0% |  |
 

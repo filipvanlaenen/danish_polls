@@ -10,7 +10,9 @@ Last result: **0.8%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.4–1.0% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0.6% | 0.4–1.0% | 0.4–1.1% | 0.3–1.1% | 0.2–1.3% |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 0.0% | N/A | N/A | N/A | N/A |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.0% | N/A | N/A | N/A | N/A |
@@ -28,7 +30,7 @@ Last result: **0.8%** (General Election of 5 June 2019)
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
-| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 0.0% | N/A | N/A | N/A | N/A |
+| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion | 0.0% | N/A | N/A | N/A | N/A |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
@@ -120,9 +122,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 89% | 100% | Median |
-| 0.5–1.5% | 11% | 11% | Last Result |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 31% | 100% |  |
+| 0.5–1.5% | 69% | 69% | Last Result, Median |
+| 1.5–2.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -134,6 +137,8 @@ Last result: **0** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion |  |  |  |  |  |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
@@ -151,7 +156,7 @@ Last result: **0** seats (General Election of 5 June 2019)
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov |  |  |  |  |  |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget |  |  |  |  |  |
+| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion |  |  |  |  |  |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
