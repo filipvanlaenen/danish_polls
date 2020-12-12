@@ -144,15 +144,15 @@ Last result: **43** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 25–37 | 25–37 | 25–37 | 20–39 |
-| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 25 | 25–28 | 24–28 | 20–29 | 20–29 |
+| N/A | [Poll Average](average.html) | 32 | 26–37 | 26–37 | 24–37 | 23–39 |
+| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 26 | 23–29 | 23–30 | 23–30 | 21–31 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 34 | 32–38 | 31–39 | 30–39 | 28–41 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 29 | 29–31 | 29–32 | 28–33 | 25–34 |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 33 | 32–36 | 30–38 | 30–39 | 30–41 |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 37 | 33–38 | 33–38 | 32–40 | 30–41 |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 34 | 31–35 | 30–37 | 29–37 | 28–38 |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 37 | 33–37 | 32–37 | 30–37 | 30–38 |
-| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 28 | 24–29 | 23–29 | 23–29 | 23–30 |
+| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 29 | 26–34 | 24–34 | 24–34 | 23–34 |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 31 | 31–34 | 31–35 | 31–35 | 29–37 |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 35 | 31–37 | 31–39 | 30–39 | 29–40 |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 38 | 32–39 | 32–40 | 32–41 | 31–44 |
@@ -256,17 +256,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 0.7% | 100% |  |
-| 21 | 0% | 99.3% |  |
-| 22 | 0% | 99.3% |  |
-| 23 | 0% | 99.3% |  |
-| 24 | 0.7% | 99.2% |  |
-| 25 | 9% | 98.5% |  |
-| 26 | 2% | 89% |  |
-| 27 | 2% | 88% |  |
-| 28 | 6% | 86% |  |
-| 29 | 15% | 80% |  |
-| 30 | 3% | 64% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.1% | 99.9% |  |
+| 23 | 2% | 99.8% |  |
+| 24 | 0.7% | 98% |  |
+| 25 | 2% | 97% |  |
+| 26 | 6% | 95% |  |
+| 27 | 7% | 90% |  |
+| 28 | 1.2% | 82% |  |
+| 29 | 15% | 81% |  |
+| 30 | 4% | 66% |  |
 | 31 | 8% | 62% |  |
 | 32 | 7% | 53% | Median |
 | 33 | 17% | 47% |  |

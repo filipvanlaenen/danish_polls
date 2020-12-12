@@ -140,15 +140,15 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–14 | 8–15 | 8–15 | 6–16 |
-| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 11 | 8–11 | 8–11 | 6–11 | 6–14 |
+| N/A | [Poll Average](average.html) | 11 | 9–14 | 8–15 | 8–15 | 7–16 |
+| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 9 | 8–11 | 8–11 | 8–12 | 7–12 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 14 | 12–16 | 11–16 | 11–16 | 9–17 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 9 | 9–10 | 7–11 | 7–11 | 7–12 |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 11 | 11–14 | 10–16 | 10–16 | 9–16 |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 12 | 10–13 | 10–14 | 9–14 | 8–15 |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 9 | 8–12 | 7–12 | 7–12 | 6–12 |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 11 | 11–13 | 11–14 | 10–14 | 9–14 |
-| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 9 | 7–10 | 7–11 | 7–11 | 7–11 |
+| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 8 | 8 | 8–9 | 7–10 | 6–11 |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 9 | 8–10 | 8–11 | 7–11 | 7–14 |
@@ -252,15 +252,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.8% | 100% |  |
-| 7 | 1.3% | 99.2% |  |
-| 8 | 6% | 98% |  |
-| 9 | 16% | 92% |  |
-| 10 | 9% | 76% |  |
-| 11 | 32% | 67% | Median |
-| 12 | 5% | 34% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 1.3% | 99.9% |  |
+| 8 | 4% | 98.6% |  |
+| 9 | 24% | 95% |  |
+| 10 | 11% | 71% |  |
+| 11 | 25% | 60% | Median |
+| 12 | 6% | 35% |  |
 | 13 | 13% | 29% |  |
-| 14 | 7% | 16% |  |
+| 14 | 6% | 16% |  |
 | 15 | 8% | 10% |  |
 | 16 | 2% | 2% | Last Result |
 | 17 | 0.2% | 0.2% |  |

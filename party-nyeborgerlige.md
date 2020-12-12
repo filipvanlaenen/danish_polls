@@ -141,15 +141,15 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–17 | 9–17 | 9–17 | 8–20 |
-| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 17 | 13–17 | 13–18 | 13–19 | 13–20 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 9–17 | 8–19 |
+| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 16 | 13–17 | 13–18 | 13–18 | 13–19 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 10 | 8–11 | 8–12 | 8–13 | 7–14 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 13 | 13–15 | 13–15 | 12–18 | 12–19 |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 10 | 9–10 | 8–11 | 8–12 | 7–13 |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 9 | 8–11 | 8–11 | 7–12 | 7–13 |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 16 | 15–16 | 14–17 | 14–17 | 13–18 |
-| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 14 | 13–19 | 13–19 | 13–19 | 13–20 |
+| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 16 | 14–20 | 13–21 | 13–21 | 13–21 |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 10 | 10–11 | 9–11 | 9–12 | 8–13 |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 10 | 9–13 | 9–13 | 8–13 | 8–15 |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 11 | 9–15 | 9–15 | 9–15 | 8–17 |
@@ -262,14 +262,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 6% | 93% |  |
 | 11 | 8% | 87% |  |
 | 12 | 7% | 79% |  |
-| 13 | 27% | 72% | Median |
-| 14 | 4% | 45% |  |
-| 15 | 7% | 41% |  |
-| 16 | 17% | 34% |  |
-| 17 | 15% | 17% |  |
-| 18 | 1.3% | 2% |  |
-| 19 | 0.2% | 0.7% |  |
-| 20 | 0.5% | 0.5% |  |
+| 13 | 28% | 72% | Median |
+| 14 | 4% | 44% |  |
+| 15 | 9% | 40% |  |
+| 16 | 22% | 31% |  |
+| 17 | 6% | 9% |  |
+| 18 | 2% | 2% |  |
+| 19 | 0.5% | 0.6% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 
