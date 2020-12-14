@@ -147,8 +147,8 @@ Last result: **43** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 26–35 | 26–36 | 24–37 | 23–39 |
-| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 32 | 30–32 | 29–34 | 29–34 | 29–35 |
-| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 35 | 30–35 | 28–35 | 28–35 | 28–37 |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 31 | 28–35 | 26–35 | 26–35 | 26–35 |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 31 | 29–35 | 29–35 | 28–35 | 27–36 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 26 | 23–29 | 23–30 | 23–30 | 21–31 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 34 | 32–38 | 31–39 | 30–39 | 28–41 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 29 | 29–31 | 29–32 | 28–33 | 25–34 |
@@ -265,18 +265,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 2% | 99.8% |  |
 | 24 | 0.7% | 98% |  |
 | 25 | 2% | 97% |  |
-| 26 | 6% | 95% |  |
-| 27 | 7% | 90% |  |
-| 28 | 2% | 82% |  |
-| 29 | 16% | 80% |  |
-| 30 | 5% | 64% |  |
-| 31 | 12% | 59% | Median |
-| 32 | 16% | 47% |  |
-| 33 | 6% | 31% |  |
-| 34 | 7% | 25% |  |
-| 35 | 13% | 19% |  |
+| 26 | 7% | 95% |  |
+| 27 | 8% | 88% |  |
+| 28 | 2% | 81% |  |
+| 29 | 20% | 79% |  |
+| 30 | 7% | 59% |  |
+| 31 | 15% | 52% | Median |
+| 32 | 11% | 37% |  |
+| 33 | 6% | 25% |  |
+| 34 | 7% | 20% |  |
+| 35 | 8% | 13% |  |
 | 36 | 2% | 5% |  |
-| 37 | 2% | 4% |  |
+| 37 | 1.4% | 4% |  |
 | 38 | 1.1% | 2% |  |
 | 39 | 0.8% | 1.1% |  |
 | 40 | 0.1% | 0.3% |  |

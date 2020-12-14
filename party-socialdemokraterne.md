@@ -146,9 +146,9 @@ Last result: **48** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 56 | 50–63 | 49–63 | 49–64 | 49–64 |
-| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 50 | 49–57 | 49–59 | 49–59 | 49–59 |
-| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 56 | 54–59 | 52–59 | 52–59 | 52–60 |
+| N/A | [Poll Average](average.html) | 55 | 52–63 | 51–63 | 51–64 | 49–64 |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 54 | 51–57 | 50–59 | 49–59 | 48–59 |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 56 | 53–60 | 52–60 | 52–60 | 50–62 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 63 | 57–64 | 56–64 | 56–64 | 55–65 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 56 | 52–62 | 51–62 | 51–62 | 49–63 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 55 | 52–55 | 52–56 | 51–58 | 48–60 |
@@ -261,19 +261,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 47 | 0.1% | 100% |  |
-| 48 | 0.1% | 99.9% | Last Result |
-| 49 | 5% | 99.8% |  |
-| 50 | 7% | 95% |  |
-| 51 | 2% | 88% |  |
-| 52 | 6% | 86% |  |
-| 53 | 3% | 80% |  |
-| 54 | 7% | 77% |  |
-| 55 | 17% | 70% |  |
-| 56 | 16% | 53% | Median |
-| 57 | 6% | 38% |  |
-| 58 | 6% | 32% |  |
-| 59 | 5% | 26% |  |
-| 60 | 3% | 20% |  |
+| 48 | 0.3% | 99.9% | Last Result |
+| 49 | 0.8% | 99.6% |  |
+| 50 | 1.3% | 98.8% |  |
+| 51 | 3% | 98% |  |
+| 52 | 9% | 95% |  |
+| 53 | 4% | 86% |  |
+| 54 | 13% | 82% |  |
+| 55 | 20% | 70% | Median |
+| 56 | 10% | 49% |  |
+| 57 | 9% | 40% |  |
+| 58 | 4% | 31% |  |
+| 59 | 4% | 26% |  |
+| 60 | 5% | 22% |  |
 | 61 | 0.8% | 18% |  |
 | 62 | 6% | 17% |  |
 | 63 | 8% | 11% |  |

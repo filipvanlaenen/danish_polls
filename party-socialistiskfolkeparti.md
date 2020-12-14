@@ -141,9 +141,9 @@ Last result: **14** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–16 | 11–16 | 11–18 |
-| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 14 | 12–16 | 11–17 | 11–17 | 11–18 |
-| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 14 | 12–14 | 11–15 | 11–15 | 11–15 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–17 | 11–17 | 10–19 |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 15 | 14–17 | 13–17 | 12–18 | 11–19 |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 13 | 11–14 | 10–15 | 10–15 | 10–16 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 13 | 12–16 | 11–16 | 11–16 | 11–17 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 14 | 12–16 | 12–16 | 11–17 | 10–18 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 14–16 | 13–16 | 12–17 | 11–19 |
@@ -255,16 +255,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.3% | 100% |  |
-| 11 | 6% | 99.7% |  |
-| 12 | 8% | 94% |  |
-| 13 | 16% | 87% |  |
-| 14 | 31% | 70% | Last Result, Median |
-| 15 | 26% | 39% |  |
-| 16 | 11% | 13% |  |
-| 17 | 2% | 2% |  |
-| 18 | 0.6% | 0.8% |  |
-| 19 | 0.2% | 0.2% |  |
-| 20 | 0% | 0% |  |
+| 10 | 2% | 100% |  |
+| 11 | 7% | 98% |  |
+| 12 | 7% | 92% |  |
+| 13 | 19% | 84% |  |
+| 14 | 19% | 65% | Last Result, Median |
+| 15 | 27% | 46% |  |
+| 16 | 12% | 19% |  |
+| 17 | 6% | 7% |  |
+| 18 | 0.6% | 1.2% |  |
+| 19 | 0.5% | 0.6% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 

@@ -141,9 +141,9 @@ Last result: **13** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–16 | 11–17 | 11–17 | 10–17 |
-| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 13 | 11–17 | 11–17 | 11–17 | 11–17 |
-| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 11 | 11–13 | 11–14 | 11–14 | 10–14 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 13 | 12–16 | 11–16 | 11–16 | 10–17 |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 13 | 11–14 | 10–14 | 10–15 | 10–15 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 13 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 12 | 11–14 | 11–16 | 11–16 | 9–17 |
@@ -256,14 +256,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.2% | 100% |  |
-| 10 | 0.4% | 99.8% |  |
-| 11 | 19% | 99.4% |  |
-| 12 | 27% | 81% |  |
-| 13 | 18% | 53% | Last Result, Median |
-| 14 | 14% | 35% |  |
-| 15 | 9% | 21% |  |
-| 16 | 6% | 12% |  |
-| 17 | 6% | 6% |  |
+| 10 | 2% | 99.8% |  |
+| 11 | 10% | 98% |  |
+| 12 | 27% | 88% |  |
+| 13 | 30% | 61% | Last Result, Median |
+| 14 | 13% | 32% |  |
+| 15 | 9% | 19% |  |
+| 16 | 8% | 10% |  |
+| 17 | 1.2% | 1.4% |  |
 | 18 | 0.2% | 0.3% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |

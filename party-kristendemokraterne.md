@@ -138,7 +138,7 @@ Last result: **0** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0 | 0 | 0 | 0–4 | 0–5 |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0 | 0 | 0 | 0–4 | 0–4 |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0–4 | 0–4 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
