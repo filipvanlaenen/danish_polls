@@ -166,7 +166,7 @@ Last result: **43** seats (General Election of 5 June 2019)
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 28 | 26–31 | 26–32 | 25–32 | 24–33 |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 33 | 33 | 32–34 | 32–35 | 30–36 |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 37 | 33–37 | 33–37 | 33–37 | 33–37 |
-| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion | 31 | 29–33 | 29–33 | 29–33 | 28–34 |
+| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion | 33 | 30–35 | 30–36 | 29–36 | 28–36 |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 40 | 34–40 | 32–40 | 31–40 | 30–41 |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 32 | 30–36 | 30–36 | 29–38 | 27–38 |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 36 | 33–39 | 32–39 | 31–39 | 31–42 |
