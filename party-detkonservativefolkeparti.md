@@ -10,7 +10,9 @@ Last result: **6.6%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 9.2–12.1% | 8.8–12.5% | 8.5–12.9% | 8.0–13.5% |
+| N/A | [Poll Average](average.html) | 10.5% | 9.3–12.1% | 9.0–12.5% | 8.7–12.9% | 8.2–13.5% |
+| [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 10.4% | N/A | N/A | N/A | N/A |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 11.7% | 10.7–12.8% | 10.4–13.2% | 10.2–13.4% | 9.7–14.0% |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 9.9% | 9.1–10.9% | 8.8–11.2% | 8.6–11.5% | 8.2–11.9% |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 10.3% | 9.3–11.5% | 9.0–11.8% | 8.7–12.1% | 8.3–12.7% |
@@ -122,15 +124,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% | Last Result |
-| 7.5–8.5% | 3% | 99.9% |  |
-| 8.5–9.5% | 17% | 97% |  |
-| 9.5–10.5% | 33% | 81% | Median |
-| 10.5–11.5% | 28% | 48% |  |
-| 11.5–12.5% | 15% | 19% |  |
+| 6.5–7.5% | 0% | 100% | Last Result |
+| 7.5–8.5% | 2% | 100% |  |
+| 8.5–9.5% | 15% | 98% |  |
+| 9.5–10.5% | 33% | 83% |  |
+| 10.5–11.5% | 30% | 50% | Median |
+| 11.5–12.5% | 15% | 20% |  |
 | 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.4% | 0.5% |  |
+| 13.5–14.5% | 0.5% | 0.5% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -142,7 +143,9 @@ Last result: **12** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–22 | 16–23 | 15–24 | 14–25 |
+| N/A | [Poll Average](average.html) | 18 | 17–22 | 16–23 | 16–24 | 15–25 |
+| [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 17 | 17–20 | 16–20 | 15–20 | 13–21 |
+| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 21 | 20–24 | 20–24 | 19–25 | 17–25 |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 18 | 16–20 | 16–22 | 16–22 | 15–22 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 17 | 17–19 | 16–20 | 15–21 | 14–22 |
@@ -257,15 +260,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0% | 100% | Last Result |
-| 13 | 0.1% | 100% |  |
-| 14 | 0.4% | 99.9% |  |
-| 15 | 4% | 99.5% |  |
-| 16 | 5% | 95% |  |
-| 17 | 24% | 91% |  |
-| 18 | 14% | 66% |  |
-| 19 | 10% | 52% | Median |
-| 20 | 19% | 42% |  |
-| 21 | 11% | 24% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 0.3% | 99.8% |  |
+| 15 | 2% | 99.6% |  |
+| 16 | 4% | 98% |  |
+| 17 | 36% | 94% |  |
+| 18 | 10% | 58% | Median |
+| 19 | 6% | 48% |  |
+| 20 | 20% | 42% |  |
+| 21 | 11% | 22% |  |
 | 22 | 5% | 12% |  |
 | 23 | 2% | 7% |  |
 | 24 | 4% | 5% |  |

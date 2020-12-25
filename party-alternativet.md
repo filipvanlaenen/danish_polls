@@ -11,6 +11,8 @@ Last result: **3.0%** (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.7% | 0.2–1.2% | 0.1–1.4% | 0.1–1.5% | 0.1–1.8% |
+| [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 0.6% | N/A | N/A | N/A | N/A |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
@@ -137,6 +139,8 @@ Last result: **5** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
@@ -250,11 +254,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Median |
-| 1 | 0% | 0.2% |  |
-| 2 | 0% | 0.2% |  |
-| 3 | 0% | 0.2% |  |
-| 4 | 0.2% | 0.2% |  |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% | Last Result |
 
 
