@@ -12,7 +12,7 @@ Last result: **8.7%** (General Election of 5 June 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.6% | 4.5–6.8% | 4.3–7.1% | 4.1–7.4% | 3.7–8.0% |
 | [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.8–7.5% |
-| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 5.4% | N/A | N/A | N/A | N/A |
+| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 5.4% | 4.6–6.5% | 4.4–6.8% | 4.2–7.0% | 3.9–7.5% |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 4.7% | 4.0–5.5% | 3.9–5.7% | 3.7–5.9% | 3.4–6.3% |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 5.8% | 5.1–6.6% | 4.9–6.8% | 4.8–7.0% | 4.5–7.4% |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 6.5% | 5.7–7.5% | 5.4–7.7% | 5.2–8.0% | 4.9–8.5% |
@@ -143,9 +143,9 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–13 | 8–13 | 7–13 | 7–14 |
-| [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 8 | 8–11 | 8–12 | 8–13 | 7–13 |
-| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 10 | 8–13 | 8–13 | 7–13 | 6–14 |
+| [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 9 | 8–11 | 8–11 | 8–11 | 6–13 |
+| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 10 | 8–11 | 8–12 | 8–12 | 7–15 |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 8 | 7–10 | 7–11 | 7–11 | 6–13 |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 11 | 8–12 | 8–13 | 8–13 | 8–14 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 12 | 10–13 | 10–13 | 9–13 | 9–15 |
@@ -259,14 +259,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.5% | 100% |  |
-| 7 | 3% | 99.5% |  |
-| 8 | 23% | 96% |  |
-| 9 | 10% | 74% |  |
-| 10 | 25% | 63% | Median |
-| 11 | 15% | 39% |  |
-| 12 | 11% | 24% |  |
-| 13 | 12% | 13% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 3% | 99.4% |  |
+| 8 | 18% | 96% |  |
+| 9 | 15% | 78% |  |
+| 10 | 26% | 63% | Median |
+| 11 | 14% | 38% |  |
+| 12 | 11% | 23% |  |
+| 13 | 12% | 12% |  |
 | 14 | 0.4% | 0.6% |  |
 | 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% | Last Result |

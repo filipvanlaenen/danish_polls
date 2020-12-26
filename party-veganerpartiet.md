@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 5 June 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.2–1.5% | 0.2–1.7% | 0.1–1.8% | 0.1–2.1% |
 | [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
-| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 0.2% | N/A | N/A | N/A | N/A |
+| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–0.9% | 0.2–1.1% |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 1.3% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% |
@@ -141,7 +141,7 @@ Last result: **0** seats (General Election of 5 June 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
 | [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0–4 |
