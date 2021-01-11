@@ -10,7 +10,8 @@ Last result: **2.3%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.6–4.4% | 2.4–4.7% | 2.2–4.9% | 2.0–5.4% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.4% | 2.4–4.6% | 2.2–4.9% | 2.0–5.4% |
+| [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.3% | 1.3–3.7% |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.8% | 1.9–4.1% |
@@ -141,7 +142,8 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 4–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 4–8 | 4–8 | 0–9 |
+| [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 5 | 5–7 | 4–8 | 4–8 | 0–8 |
 | [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 6 | 4–6 | 4–7 | 0–8 | 0–9 |
 | [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 4 | 0–6 | 0–6 | 0–6 | 0–6 |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 5 | 4–6 | 4–6 | 0–7 | 0–8 |
@@ -257,16 +259,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 0% | 98% |  |
-| 2 | 0% | 98% |  |
-| 3 | 0% | 98% |  |
-| 4 | 10% | 98% | Last Result |
-| 5 | 23% | 89% |  |
-| 6 | 28% | 66% | Median |
-| 7 | 26% | 37% |  |
+| 0 | 1.4% | 100% |  |
+| 1 | 0% | 98.6% |  |
+| 2 | 0% | 98.6% |  |
+| 3 | 0% | 98.6% |  |
+| 4 | 6% | 98.6% | Last Result |
+| 5 | 30% | 93% |  |
+| 6 | 23% | 63% | Median |
+| 7 | 29% | 40% |  |
 | 8 | 10% | 11% |  |
-| 9 | 1.1% | 1.4% |  |
+| 9 | 1.0% | 1.3% |  |
 | 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 
