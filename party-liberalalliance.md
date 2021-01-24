@@ -10,7 +10,8 @@ Last result: **2.3%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.3% | 2.2–4.6% | 2.1–4.9% | 1.9–5.4% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.4–3.9% | 2.2–4.2% | 2.1–4.4% | 1.8–4.8% |
+| [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 2.8% | 2.3–3.5% | 2.1–3.7% | 2.0–3.9% | 1.8–4.3% |
 | [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 2.8% | 2.2–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
 | [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
@@ -128,12 +129,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 15% | 100% | Last Result |
-| 2.5–3.5% | 50% | 85% | Median |
-| 3.5–4.5% | 29% | 35% |  |
-| 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 19% | 100% | Last Result |
+| 2.5–3.5% | 59% | 81% | Median |
+| 3.5–4.5% | 20% | 22% |  |
+| 4.5–5.5% | 1.2% | 1.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -144,7 +144,8 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 4–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 0–8 | 0–9 |
+| [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 6 | 4–6 | 4–7 | 4–8 | 0–8 |
 | [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 5 | 4–7 | 0–8 | 0–8 | 0–8 |
 | [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 5 | 5–7 | 4–8 | 4–8 | 0–8 |
@@ -263,17 +264,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 0% | 98% |  |
-| 2 | 0% | 98% |  |
-| 3 | 0% | 98% |  |
-| 4 | 11% | 98% | Last Result |
-| 5 | 23% | 87% |  |
-| 6 | 26% | 64% | Median |
-| 7 | 27% | 38% |  |
+| 0 | 3% | 100% |  |
+| 1 | 0% | 97% |  |
+| 2 | 0% | 97% |  |
+| 3 | 0% | 97% |  |
+| 4 | 15% | 97% | Last Result |
+| 5 | 26% | 82% |  |
+| 6 | 35% | 56% | Median |
+| 7 | 11% | 22% |  |
 | 8 | 10% | 11% |  |
-| 9 | 1.0% | 1.3% |  |
-| 10 | 0.3% | 0.3% |  |
-| 11 | 0% | 0% |  |
+| 9 | 0.9% | 0.9% |  |
+| 10 | 0% | 0% |  |
 
 
