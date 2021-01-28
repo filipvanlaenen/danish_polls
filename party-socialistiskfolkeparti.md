@@ -10,8 +10,10 @@ Last result: **7.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 6.4–9.3% | 6.1–9.7% | 5.9–10.1% | 5.4–10.8% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.5–9.1% | 6.1–9.5% | 5.8–9.9% | 5.4–10.6% |
+| [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
 | [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
+| [18–21 January 2021](2021-01-21-Epinion.html) | Epinion | 7.6% | 6.8–8.5% | 6.6–8.7% | 6.4–9.0% | 6.1–9.4% |
 | [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 6.7% | 5.8–7.7% | 5.6–7.9% | 5.4–8.2% | 5.0–8.7% |
 | [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
 | [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 8.7% | 7.6–9.9% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
@@ -129,15 +131,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.9% | 100% |  |
-| 5.5–6.5% | 11% | 99.1% |  |
-| 6.5–7.5% | 28% | 88% |  |
-| 7.5–8.5% | 32% | 60% | Last Result, Median |
-| 8.5–9.5% | 21% | 28% |  |
-| 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 0.8% | 0.8% |  |
-| 11.5–12.5% | 0% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 4.5–5.5% | 1.0% | 100% |  |
+| 5.5–6.5% | 11% | 99.0% |  |
+| 6.5–7.5% | 30% | 88% |  |
+| 7.5–8.5% | 36% | 58% | Last Result, Median |
+| 8.5–9.5% | 18% | 22% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.6% | 0.6% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -148,8 +149,10 @@ Last result: **14** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–17 | 11–17 | 10–18 | 10–19 |
+| N/A | [Poll Average](average.html) | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
+| [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 14 | 12–17 | 12–17 | 11–17 | 10–17 |
 | [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
+| [18–21 January 2021](2021-01-21-Epinion.html) | Epinion | 14 | 13–17 | 12–17 | 11–17 | 11–17 |
 | [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 11 | 11–13 | 10–14 | 10–14 | 9–14 |
 | [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 15 | 13–17 | 12–18 | 12–18 | 12–20 |
 | [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 14 | 14–18 | 14–18 | 13–19 | 12–21 |
@@ -269,17 +272,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.3% | 100% |  |
-| 10 | 3% | 99.7% |  |
-| 11 | 19% | 97% |  |
-| 12 | 8% | 78% |  |
-| 13 | 12% | 70% |  |
-| 14 | 13% | 58% | Last Result, Median |
-| 15 | 21% | 45% |  |
-| 16 | 11% | 24% |  |
-| 17 | 9% | 13% |  |
-| 18 | 3% | 4% |  |
-| 19 | 0.9% | 1.2% |  |
-| 20 | 0.2% | 0.3% |  |
+| 10 | 1.4% | 99.7% |  |
+| 11 | 16% | 98% |  |
+| 12 | 7% | 82% |  |
+| 13 | 13% | 75% |  |
+| 14 | 20% | 62% | Last Result, Median |
+| 15 | 15% | 42% |  |
+| 16 | 9% | 27% |  |
+| 17 | 15% | 17% |  |
+| 18 | 2% | 3% |  |
+| 19 | 0.6% | 0.7% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 
