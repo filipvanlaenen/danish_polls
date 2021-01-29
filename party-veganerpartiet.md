@@ -146,7 +146,7 @@ Last result: **0** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
-| [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0–4 | 0–4 |
+| [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
 | [18–21 January 2021](2021-01-21-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
@@ -267,11 +267,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Last Result, Median |
-| 1 | 0% | 0.7% |  |
-| 2 | 0% | 0.7% |  |
-| 3 | 0% | 0.7% |  |
-| 4 | 0.7% | 0.7% |  |
-| 5 | 0% | 0% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0% | 2% |  |
+| 4 | 2% | 2% |  |
+| 5 | 0.2% | 0.2% |  |
+| 6 | 0% | 0% |  |
 
 
