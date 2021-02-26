@@ -10,8 +10,10 @@ Last result: **8.6%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 3.5–7.6% | 3.2–8.0% | 3.0–8.3% | 2.6–8.9% |
+| N/A | [Poll Average](average.html) | 6.2% | 3.4–7.7% | 3.1–8.1% | 2.9–8.4% | 2.6–8.9% |
+| [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 6.2% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.1% | 4.0–7.7% |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 4.0% | N/A | N/A | N/A | N/A |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.6% | 2.3–5.0% |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.0% | 4.6–8.6% |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 5.4% | 4.6–6.5% | 4.4–6.8% | 4.2–7.0% | 3.9–7.5% |
@@ -136,15 +138,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 10% | 99.7% |  |
-| 3.5–4.5% | 10% | 90% |  |
-| 4.5–5.5% | 14% | 79% |  |
-| 5.5–6.5% | 31% | 65% | Median |
-| 6.5–7.5% | 24% | 34% |  |
-| 7.5–8.5% | 9% | 10% |  |
-| 8.5–9.5% | 1.2% | 1.3% | Last Result |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 12% | 99.6% |  |
+| 3.5–4.5% | 12% | 87% |  |
+| 4.5–5.5% | 10% | 75% |  |
+| 5.5–6.5% | 27% | 65% | Median |
+| 6.5–7.5% | 25% | 39% |  |
+| 7.5–8.5% | 12% | 13% |  |
+| 8.5–9.5% | 2% | 2% | Last Result |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -156,8 +158,10 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 7–13 | 6–14 | 5–14 | 5–16 |
+| N/A | [Poll Average](average.html) | 11 | 7–13 | 5–13 | 5–15 | 5–16 |
+| [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 11 | 11 | 11–13 | 10–13 | 9–15 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 11 | 8–13 | 8–13 | 8–13 | 7–14 |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen |  |  |  |  |  |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 7 | 5–8 | 5–8 | 5–8 | 4–10 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 10 | 9–11 | 9–12 | 8–12 | 7–13 |
@@ -283,20 +287,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 5% | 99.8% |  |
-| 6 | 1.1% | 95% |  |
-| 7 | 5% | 94% |  |
-| 8 | 11% | 89% |  |
-| 9 | 6% | 78% |  |
-| 10 | 12% | 72% |  |
-| 11 | 19% | 60% | Median |
-| 12 | 21% | 41% |  |
-| 13 | 15% | 20% |  |
-| 14 | 4% | 6% |  |
-| 15 | 1.3% | 2% |  |
-| 16 | 0.5% | 0.7% | Last Result |
-| 17 | 0.2% | 0.2% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 6% | 99.8% |  |
+| 6 | 1.4% | 94% |  |
+| 7 | 5% | 92% |  |
+| 8 | 12% | 87% |  |
+| 9 | 5% | 75% |  |
+| 10 | 7% | 71% |  |
+| 11 | 39% | 64% | Median |
+| 12 | 8% | 25% |  |
+| 13 | 12% | 16% |  |
+| 14 | 2% | 4% |  |
+| 15 | 2% | 3% |  |
+| 16 | 0.6% | 0.9% | Last Result |
+| 17 | 0.2% | 0.3% |  |
 | 18 | 0% | 0% |  |
 
 
