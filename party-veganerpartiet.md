@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.1% | 0.1–1.3% |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
-| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 0.9% | N/A | N/A | N/A | N/A |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 0.9% | 0.7–1.1% | 0.7–1.2% | 0.6–1.2% | 0.6–1.4% |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
@@ -137,10 +138,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 62% | 100% | Last Result, Median |
-| 0.5–1.5% | 38% | 38% |  |
+| 0.0–0.5% | 50% | 100% | Last Result |
+| 0.5–1.5% | 49% | 50% | Median |
 | 1.5–2.5% | 0% | 0% |  |
-| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -152,9 +152,10 @@ Last result: **0** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 0 | 0 | 0 | 0 | 0 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen |  |  |  |  |  |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 0 | 0 | 0 | 0 | 0 |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 0 | 0 | 0–4 | 0–4 | 0–4 |
