@@ -162,10 +162,10 @@ Last result: **4** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 14–21 | 13–21 | 12–21 | 12–22 |
-| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 18 | 17–18 | 15–20 | 15–21 | 13–22 |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 18 | 16–20 | 15–20 | 14–20 | 13–22 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 14 | 12–15 | 12–16 | 12–17 | 11–19 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 15 | 12–18 | 12–18 | 11–18 | 11–19 |
-| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 21 | 18–21 | 18–21 | 18–22 | 17–22 |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 21 | 19–21 | 17–21 | 16–22 | 16–23 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 15 | 13–17 | 12–17 | 11–17 | 11–19 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 15 | 14–16 | 13–16 | 13–17 | 11–19 |
@@ -302,15 +302,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 2% | 99.8% |  |
 | 13 | 5% | 97% |  |
 | 14 | 15% | 92% |  |
-| 15 | 13% | 78% |  |
-| 16 | 4% | 65% |  |
-| 17 | 9% | 61% |  |
-| 18 | 15% | 52% | Median |
-| 19 | 5% | 37% |  |
-| 20 | 9% | 32% |  |
-| 21 | 21% | 22% |  |
-| 22 | 1.4% | 2% |  |
-| 23 | 0.3% | 0.4% |  |
+| 15 | 13% | 77% |  |
+| 16 | 9% | 65% |  |
+| 17 | 4% | 56% |  |
+| 18 | 6% | 52% | Median |
+| 19 | 6% | 46% |  |
+| 20 | 23% | 39% |  |
+| 21 | 15% | 16% |  |
+| 22 | 1.1% | 1.4% |  |
+| 23 | 0.2% | 0.3% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 

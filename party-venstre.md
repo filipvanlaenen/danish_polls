@@ -167,10 +167,10 @@ Last result: **43** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 17–25 | 17–27 | 16–27 | 15–27 |
-| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 18 | 18–24 | 17–24 | 17–24 | 17–24 |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 20 | 18–22 | 17–24 | 17–24 | 16–24 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 21 | 19–24 | 18–25 | 18–25 | 17–25 |
-| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 17 | 16–18 | 15–19 | 15–19 | 14–21 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 23 | 20–24 | 19–25 | 18–26 | 18–27 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 22 | 20–23 | 20–24 | 19–26 | 19–28 |
@@ -297,17 +297,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.3% | 100% |  |
-| 15 | 1.1% | 99.7% |  |
+| 15 | 1.0% | 99.7% |  |
 | 16 | 3% | 98.6% |  |
-| 17 | 15% | 96% |  |
-| 18 | 26% | 81% |  |
-| 19 | 4% | 55% |  |
-| 20 | 3% | 51% | Median |
-| 21 | 10% | 48% |  |
-| 22 | 9% | 38% |  |
-| 23 | 6% | 29% |  |
-| 24 | 9% | 23% |  |
-| 25 | 5% | 15% |  |
+| 17 | 17% | 95% |  |
+| 18 | 21% | 79% |  |
+| 19 | 6% | 57% |  |
+| 20 | 2% | 51% | Median |
+| 21 | 16% | 49% |  |
+| 22 | 10% | 33% |  |
+| 23 | 5% | 23% |  |
+| 24 | 3% | 18% |  |
+| 25 | 6% | 15% |  |
 | 26 | 2% | 9% |  |
 | 27 | 7% | 7% |  |
 | 28 | 0.1% | 0.1% |  |

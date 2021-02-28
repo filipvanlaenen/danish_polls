@@ -156,11 +156,11 @@ Last result: **13** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–16 | 11–17 | 10–17 | 10–18 |
-| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 13 | 12–13 | 11–13 | 10–13 | 9–15 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–17 | 10–17 | 10–18 |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 11 | 11–14 | 10–14 | 10–15 | 9–15 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 15 | 11–17 | 11–17 | 11–18 | 11–18 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 16 | 14–18 | 13–18 | 12–19 | 12–20 |
-| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 14 | 13–16 | 12–16 | 12–16 | 12–16 |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 15 | 14–15 | 13–15 | 13–15 | 12–16 |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 13 | 11–14 | 11–15 | 10–16 | 10–17 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 16 | 12–17 | 12–17 | 12–17 | 11–18 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 15 | 13–16 | 13–17 | 13–18 | 11–20 |
@@ -286,14 +286,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.4% | 100% |  |
-| 10 | 2% | 99.5% |  |
-| 11 | 17% | 97% |  |
-| 12 | 20% | 80% |  |
-| 13 | 27% | 60% | Last Result, Median |
-| 14 | 10% | 33% |  |
-| 15 | 10% | 23% |  |
-| 16 | 8% | 14% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 0.4% | 99.9% |  |
+| 10 | 3% | 99.5% |  |
+| 11 | 28% | 96% |  |
+| 12 | 12% | 69% |  |
+| 13 | 18% | 57% | Last Result, Median |
+| 14 | 12% | 38% |  |
+| 15 | 19% | 26% |  |
+| 16 | 2% | 7% |  |
 | 17 | 5% | 6% |  |
 | 18 | 0.7% | 0.8% |  |
 | 19 | 0% | 0.1% |  |
