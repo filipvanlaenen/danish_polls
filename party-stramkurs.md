@@ -11,6 +11,7 @@ Last result: **1.8%** (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
+| [7–14 March 2021](2021-03-14-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [1–6 March 2021](2021-03-06-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [22–28 February 2021](2021-02-28-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 0.0% | N/A | N/A | N/A | N/A |
@@ -154,6 +155,7 @@ Last result: **0** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–14 March 2021](2021-03-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [1–6 March 2021](2021-03-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [22–28 February 2021](2021-02-28-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [22–25 February 2021](2021-02-25-Megafon.html) | Megafon |  |  |  |  |  |
