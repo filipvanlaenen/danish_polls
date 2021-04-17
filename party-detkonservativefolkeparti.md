@@ -176,7 +176,7 @@ Last result: **12** seats (General Election of 5 June 2019)
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 26 | 26–28 | 26–28 | 26–29 | 24–32 |
 | [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 28 | 26–32 | 24–34 | 23–35 | 23–35 |
 | [2–8 April 2021](2021-04-08-Gallup.html) | Gallup | 29 | 28–33 | 27–33 | 26–33 | 25–33 |
-| [29 March–4 April 2021](2021-04-04-Voxmeter.html) | Voxmeter | 28 | 25–32 | 25–32 | 25–32 | 24–34 |
+| [29 March–4 April 2021](2021-04-04-Voxmeter.html) | Voxmeter | 29 | 26–32 | 25–33 | 25–34 | 24–35 |
 | [22–28 March 2021](2021-03-28-Voxmeter.html) | Voxmeter | 26 | 23–28 | 23–29 | 22–29 | 21–31 |
 | [15–21 March 2021](2021-03-21-Voxmeter.html) | Voxmeter | 25 | 22–26 | 22–27 | 20–28 | 19–29 |
 | [7–14 March 2021](2021-03-14-Voxmeter.html) | Voxmeter | 26 | 23–28 | 23–29 | 22–30 | 21–31 |
