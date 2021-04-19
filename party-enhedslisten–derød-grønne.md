@@ -166,9 +166,9 @@ Last result: **13** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–17 | 11–18 | 10–18 | 10–19 |
+| N/A | [Poll Average](average.html) | 15 | 11–17 | 11–18 | 10–18 | 10–20 |
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 13 | 11–15 | 10–15 | 10–16 | 10–16 |
-| [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 16 | 13–18 | 13–18 | 13–18 | 12–22 |
+| [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 16 | 14–18 | 14–20 | 13–20 | 11–20 |
 | [2–8 April 2021](2021-04-08-Gallup.html) | Gallup | 16 | 14–18 | 14–18 | 14–18 | 14–19 |
 | [29 March–4 April 2021](2021-04-04-Voxmeter.html) | Voxmeter | 14 | 12–17 | 12–17 | 12–17 | 10–18 |
 | [22–28 March 2021](2021-03-28-Voxmeter.html) | Voxmeter | 15 | 13–16 | 13–17 | 13–17 | 11–18 |
@@ -310,16 +310,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 3% | 99.8% |  |
 | 11 | 12% | 97% |  |
 | 12 | 2% | 85% |  |
-| 13 | 19% | 83% | Last Result |
-| 14 | 16% | 63% | Median |
-| 15 | 21% | 47% |  |
-| 16 | 8% | 27% |  |
-| 17 | 13% | 19% |  |
-| 18 | 5% | 6% |  |
-| 19 | 0.4% | 0.8% |  |
-| 20 | 0.1% | 0.4% |  |
-| 21 | 0.1% | 0.3% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 13 | 16% | 83% | Last Result |
+| 14 | 15% | 66% |  |
+| 15 | 25% | 51% | Median |
+| 16 | 9% | 26% |  |
+| 17 | 8% | 17% |  |
+| 18 | 7% | 9% |  |
+| 19 | 0.5% | 2% |  |
+| 20 | 1.4% | 1.5% |  |
+| 21 | 0% | 0% |  |
 
 
