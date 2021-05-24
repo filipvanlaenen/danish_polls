@@ -15,7 +15,7 @@ Last result: **2.3%** (General Election of 5 June 2019)
 | [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [3–8 May 2021](2021-05-08-Voxmeter.html) | Voxmeter | 2.9% | 2.3–3.7% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [26 April–2 May 2021](2021-05-02-Voxmeter.html) | Voxmeter | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
-| [19–25 April 2021](2021-04-25-Voxmeter.html) | Voxmeter | 3.2% | N/A | N/A | N/A | N/A |
+| [19–25 April 2021](2021-04-25-Voxmeter.html) | Voxmeter | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.9% |
 | [12–18 April 2021](2021-04-18-Voxmeter.html) | Voxmeter | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
@@ -170,12 +170,12 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–6 | 0–7 | 0–8 |
-| [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 4 | 0–6 | 0–6 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–6 | 0–7 | 0–8 |
+| [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 4 | 4 | 4–5 | 4–5 | 0–7 |
 | [3–8 May 2021](2021-05-08-Voxmeter.html) | Voxmeter | 6 | 4–6 | 0–7 | 0–8 | 0–8 |
-| [26 April–2 May 2021](2021-05-02-Voxmeter.html) | Voxmeter | 5 | 4–6 | 4–6 | 4–7 | 4–8 |
-| [19–25 April 2021](2021-04-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [26 April–2 May 2021](2021-05-02-Voxmeter.html) | Voxmeter | 7 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [19–25 April 2021](2021-04-25-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [12–18 April 2021](2021-04-18-Voxmeter.html) | Voxmeter | 4 | 4–5 | 0–6 | 0–6 | 0–7 |
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 5 | 4–5 | 4–5 | 4–5 | 0–6 |
 | [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -315,14 +315,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 0% | 90% |  |
-| 2 | 0% | 90% |  |
-| 3 | 0.4% | 90% |  |
-| 4 | 51% | 89% | Last Result, Median |
-| 5 | 25% | 38% |  |
-| 6 | 9% | 13% |  |
-| 7 | 4% | 5% |  |
+| 0 | 17% | 100% |  |
+| 1 | 0% | 83% |  |
+| 2 | 0% | 83% |  |
+| 3 | 0.4% | 83% |  |
+| 4 | 49% | 82% | Last Result, Median |
+| 5 | 24% | 33% |  |
+| 6 | 4% | 9% |  |
+| 7 | 4% | 4% |  |
 | 8 | 0.6% | 0.7% |  |
 | 9 | 0% | 0% |  |
 
