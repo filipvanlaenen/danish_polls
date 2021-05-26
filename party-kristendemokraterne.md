@@ -171,7 +171,7 @@ Last result: **0** seats (General Election of 5 June 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 4 | 4 | 0–4 | 0–4 | 0–5 |
+| [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [3–8 May 2021](2021-05-08-Voxmeter.html) | Voxmeter | 4 | 0–5 | 0–5 | 0–6 | 0–7 |
 | [26 April–2 May 2021](2021-05-02-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0–4 | 0–5 |
 | [19–25 April 2021](2021-04-25-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -314,12 +314,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% | Last Result |
-| 1 | 0% | 65% |  |
-| 2 | 0% | 65% |  |
-| 3 | 0% | 65% |  |
-| 4 | 59% | 65% | Median |
-| 5 | 5% | 5% |  |
+| 0 | 44% | 100% | Last Result |
+| 1 | 0% | 56% |  |
+| 2 | 0% | 56% |  |
+| 3 | 0% | 56% |  |
+| 4 | 48% | 56% | Median |
+| 5 | 7% | 8% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
