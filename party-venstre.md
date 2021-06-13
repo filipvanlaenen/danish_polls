@@ -189,7 +189,7 @@ Last result: **43** seats (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 22 | 20–25 | 20–26 | 19–26 | 18–27 |
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 21 | 19–24 | 18–24 | 18–25 | 16–26 |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 24 | 21–26 | 20–26 | 20–27 | 20–28 |
-| [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 22 | 20–23 | 20–25 | 20–25 | 19–26 |
+| [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 23 | 21–24 | 20–25 | 19–26 | 18–28 |
 | [25–27 May 2021](2021-05-27-Megafon.html) | Megafon | 24 | 21–26 | 20–26 | 20–26 | 18–27 |
 | [17–23 May 2021](2021-05-23-Voxmeter.html) | Voxmeter | 21 | 18–23 | 17–24 | 16–24 | 16–25 |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 22 | 20–22 | 20–23 | 20–23 | 20–27 |
