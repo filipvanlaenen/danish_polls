@@ -10,8 +10,8 @@ Last result: **8.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 4.5–7.9% | 4.1–8.3% | 3.8–8.6% | 3.4–9.1% |
-| [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 6.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.6% | 4.7–7.9% | 4.2–8.2% | 3.9–8.5% | 3.4–9.0% |
+| [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–8.0% | 4.5–8.5% |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 6.7% | 5.7–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 6.4% | N/A | N/A | N/A | N/A |
 | [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 7.3% | 6.5–8.3% | 6.3–8.5% | 6.1–8.8% | 5.7–9.2% |
@@ -165,13 +165,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.0% | 100% |  |
-| 3.5–4.5% | 9% | 99.0% |  |
-| 4.5–5.5% | 14% | 90% |  |
-| 5.5–6.5% | 23% | 76% |  |
-| 6.5–7.5% | 33% | 53% | Median |
-| 7.5–8.5% | 18% | 20% |  |
-| 8.5–9.5% | 2% | 3% | Last Result |
+| 2.5–3.5% | 0.8% | 100% |  |
+| 3.5–4.5% | 8% | 99.2% |  |
+| 4.5–5.5% | 14% | 92% |  |
+| 5.5–6.5% | 28% | 78% |  |
+| 6.5–7.5% | 33% | 50% | Median |
+| 7.5–8.5% | 15% | 17% |  |
+| 8.5–9.5% | 2% | 2% | Last Result |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -184,8 +184,8 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 8–14 | 7–15 | 6–15 | 6–16 |
-| [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 11 | 8–14 | 7–15 | 7–15 | 6–15 |
+| [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 11 | 11 | 10–11 | 9–13 | 8–15 |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 10 | 10–13 | 9–14 | 9–14 | 9–16 |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 12 | 11–15 | 11–15 | 11–15 | 10–16 |
@@ -341,18 +341,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
-| 6 | 3% | 99.8% |  |
-| 7 | 7% | 97% |  |
-| 8 | 3% | 90% |  |
-| 9 | 3% | 87% |  |
-| 10 | 12% | 84% |  |
-| 11 | 21% | 72% |  |
-| 12 | 15% | 51% | Median |
-| 13 | 20% | 36% |  |
-| 14 | 9% | 17% |  |
-| 15 | 7% | 8% |  |
+| 6 | 2% | 99.8% |  |
+| 7 | 6% | 98% |  |
+| 8 | 3% | 92% |  |
+| 9 | 3% | 89% |  |
+| 10 | 11% | 86% |  |
+| 11 | 34% | 76% | Median |
+| 12 | 12% | 42% |  |
+| 13 | 16% | 30% |  |
+| 14 | 7% | 14% |  |
+| 15 | 6% | 7% |  |
 | 16 | 0.4% | 0.5% | Last Result |
-| 17 | 0.1% | 0.2% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
