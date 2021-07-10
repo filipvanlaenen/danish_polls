@@ -185,11 +185,11 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 6–16 | 6–16 | 6–16 | 5–18 |
-| [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 9 | 9 | 9–10 | 8–11 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 6–15 | 6–15 | 6–16 | 5–17 |
+| [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 9 | 8–11 | 7–12 | 7–13 | 7–13 |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 10 | 9–10 | 8–10 | 8–12 | 8–12 |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 16 | 13–16 | 13–17 | 13–18 | 12–18 |
+| [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 14 | 13–16 | 13–17 | 12–17 | 12–18 |
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 6 | 6–8 | 6–9 | 5–10 | 5–10 |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 11 | 10–13 | 9–13 | 9–13 | 8–15 |
 | [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 10 | 9–12 | 8–12 | 8–13 | 7–14 |
@@ -344,18 +344,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 0.5% | 99.9% |  |
 | 6 | 10% | 99.4% |  |
-| 7 | 5% | 89% |  |
-| 8 | 5% | 84% |  |
-| 9 | 24% | 80% |  |
-| 10 | 22% | 56% | Median |
-| 11 | 7% | 33% |  |
-| 12 | 3% | 26% |  |
-| 13 | 5% | 23% |  |
-| 14 | 2% | 18% |  |
-| 15 | 5% | 16% |  |
-| 16 | 11% | 12% | Last Result |
-| 17 | 0.7% | 1.2% |  |
-| 18 | 0.5% | 0.5% |  |
-| 19 | 0% | 0% |  |
+| 7 | 6% | 89% |  |
+| 8 | 5% | 83% |  |
+| 9 | 15% | 77% |  |
+| 10 | 26% | 63% | Median |
+| 11 | 10% | 37% |  |
+| 12 | 4% | 27% |  |
+| 13 | 8% | 23% |  |
+| 14 | 5% | 15% |  |
+| 15 | 5% | 10% |  |
+| 16 | 3% | 5% | Last Result |
+| 17 | 2% | 2% |  |
+| 18 | 0.2% | 0.3% |  |
+| 19 | 0% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 

@@ -184,11 +184,11 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–14 | 7–15 | 7–15 | 6–15 |
-| [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 11 | 11 | 10–11 | 9–13 | 8–15 |
+| N/A | [Poll Average](average.html) | 12 | 8–14 | 7–14 | 7–15 | 6–16 |
+| [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 11 | 10–13 | 9–13 | 9–14 | 8–16 |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 10 | 10–13 | 9–14 | 9–14 | 9–16 |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 12 | 11–15 | 11–15 | 11–15 | 10–16 |
+| [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 13 | 11–15 | 10–16 | 10–16 | 10–17 |
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 13 | 11–14 | 10–15 | 10–15 | 9–16 |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 12 | 11–15 | 10–16 | 9–16 | 8–16 |
 | [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 10 | 9–12 | 9–12 | 8–13 | 7–14 |
@@ -344,16 +344,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 2% | 99.8% |  |
 | 7 | 6% | 98% |  |
 | 8 | 3% | 92% |  |
-| 9 | 3% | 89% |  |
-| 10 | 11% | 86% |  |
-| 11 | 34% | 76% | Median |
-| 12 | 12% | 42% |  |
-| 13 | 16% | 30% |  |
-| 14 | 7% | 14% |  |
-| 15 | 6% | 7% |  |
-| 16 | 0.4% | 0.5% | Last Result |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 9 | 4% | 89% |  |
+| 10 | 13% | 86% |  |
+| 11 | 22% | 73% |  |
+| 12 | 15% | 51% | Median |
+| 13 | 19% | 36% |  |
+| 14 | 13% | 18% |  |
+| 15 | 3% | 5% |  |
+| 16 | 1.4% | 2% | Last Result |
+| 17 | 0.3% | 0.3% |  |
+| 18 | 0% | 0% |  |
 
 
