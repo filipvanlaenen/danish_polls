@@ -13,7 +13,7 @@ Last result: **25.9%** (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 28.4% | 26.0–33.3% | 25.4–34.2% | 25.0–34.8% | 24.1–35.9% |
 | [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 28.4% | 26.6–30.2% | 26.1–30.8% | 25.7–31.2% | 24.9–32.1% |
-| [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 29.3% | N/A | N/A | N/A | N/A |
+| [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.8–33.1% |
 | [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 26.7% | 25.2–28.2% | 24.8–28.6% | 24.5–29.0% | 23.8–29.8% |
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 33.3% | 31.6–35.0% | 31.1–35.5% | 30.7–35.9% | 29.9–36.7% |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 30.5% | 28.7–32.3% | 28.2–32.9% | 27.7–33.3% | 26.9–34.2% |
@@ -194,7 +194,7 @@ Last result: **48** seats (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 50 | 47–60 | 45–62 | 44–63 | 43–66 |
 | [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 52 | 48–58 | 47–60 | 46–60 | 45–60 |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 51 | 48–51 | 48–51 | 47–53 | 45–55 |
-| [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 50 | 47–54 | 47–56 | 45–56 | 45–58 |
 | [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 48 | 45–50 | 44–50 | 44–51 | 42–53 |
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 60 | 57–65 | 57–66 | 56–66 | 54–67 |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 54 | 51–58 | 50–59 | 50–60 | 49–62 |
