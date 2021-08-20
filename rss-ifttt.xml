@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Folketinget</description>
     <pubDate>Wed, 22 Jul 2020 19:46:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 9–15 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2021-08-15-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 9–15 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-15-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-15-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-15-Voxmeter.png" length="335574" type="image/png"/>
+      <pubDate>Fri, 20 Aug 2021 07:13:36 +0200</pubDate>
+      <dc:date>2021-08-20T07:13:36.544071+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 2–7 August 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2021-08-07-Voxmeter.html</link>
       <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 2–7 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-07-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-07-Voxmeter.png"/>]]></description>
@@ -156,30 +164,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-05-30-Voxmeter.png" length="318911" type="image/png"/>
       <pubDate>Sat, 12 Jun 2021 21:13:52 +0200</pubDate>
       <dc:date>2021-06-12T21:13:52.574694+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Megafon, 25–27 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Megafon, 25–27 May 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon-seating-plan.png" length="661089" type="image/png"/>
-      <pubDate>Mon, 31 May 2021 07:16:25 +0200</pubDate>
-      <dc:date>2021-05-31T07:16:25.747298+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Megafon, 25–27 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Megafon, 25–27 May 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon-seats.png" length="302063" type="image/png"/>
-      <pubDate>Mon, 31 May 2021 07:16:25 +0200</pubDate>
-      <dc:date>2021-05-31T07:16:25.747298+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Megafon, 25–27 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Megafon, 25–27 May 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-05-27-Megafon.png" length="355087" type="image/png"/>
-      <pubDate>Mon, 31 May 2021 07:16:25 +0200</pubDate>
-      <dc:date>2021-05-31T07:16:25.747298+02:00</dc:date>
     </item>
   </channel>
 </rss>
