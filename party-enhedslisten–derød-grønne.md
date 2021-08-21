@@ -187,9 +187,9 @@ Last result: **13** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 12–18 | 11–19 | 11–20 |
-| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 17 | 15–19 | 14–20 | 13–20 | 13–22 |
+| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 15 | 14–18 | 14–19 | 13–20 | 13–22 |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 15 | 13–17 | 13–18 | 13–19 | 12–21 |
-| [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 15 | 14–15 | 12–16 | 12–16 | 12–18 |
+| [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 14 | 13–17 | 13–17 | 12–17 | 12–17 |
 | [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 15 | 14–17 | 14–18 | 13–19 | 12–21 |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 14 | 14–16 | 12–18 | 12–18 | 12–19 |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 15 | 13–18 | 12–19 | 11–19 | 11–20 |
@@ -346,17 +346,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 4% | 100% |  |
-| 12 | 5% | 96% |  |
-| 13 | 7% | 91% | Last Result |
-| 14 | 10% | 84% |  |
-| 15 | 40% | 74% | Median |
-| 16 | 13% | 34% |  |
-| 17 | 14% | 21% |  |
-| 18 | 3% | 7% |  |
-| 19 | 3% | 4% |  |
-| 20 | 1.3% | 2% |  |
-| 21 | 0.4% | 0.5% |  |
-| 22 | 0.1% | 0.1% |  |
+| 12 | 4% | 96% |  |
+| 13 | 14% | 92% | Last Result |
+| 14 | 14% | 78% |  |
+| 15 | 33% | 64% | Median |
+| 16 | 13% | 30% |  |
+| 17 | 11% | 18% |  |
+| 18 | 4% | 6% |  |
+| 19 | 1.4% | 3% |  |
+| 20 | 1.1% | 1.3% |  |
+| 21 | 0% | 0.2% |  |
+| 22 | 0.1% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
 

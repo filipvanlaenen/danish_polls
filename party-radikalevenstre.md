@@ -187,9 +187,9 @@ Last result: **16** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 6–12 | 6–13 | 6–13 | 5–14 |
-| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 9 | 9–12 | 9–13 | 9–14 | 8–14 |
+| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 11 | 9–12 | 9–12 | 8–13 | 8–15 |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 8 | 8–12 | 8–14 | 8–14 | 7–14 |
-| [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 10 | 10–12 | 9–14 | 8–14 | 8–14 |
+| [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 9 | 8–11 | 7–12 | 7–13 | 7–13 |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 10 | 9–10 | 8–10 | 8–12 | 8–12 |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 11 | 9–12 | 8–13 | 8–13 | 7–15 |
@@ -350,13 +350,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 10% | 99.4% |  |
 | 7 | 5% | 89% |  |
 | 8 | 5% | 84% |  |
-| 9 | 18% | 79% |  |
-| 10 | 40% | 61% | Median |
-| 11 | 12% | 22% |  |
-| 12 | 4% | 10% |  |
-| 13 | 3% | 6% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0.1% | 0.1% |  |
+| 9 | 11% | 79% |  |
+| 10 | 25% | 68% | Median |
+| 11 | 17% | 43% |  |
+| 12 | 19% | 26% |  |
+| 13 | 7% | 8% |  |
+| 14 | 1.0% | 1.2% |  |
+| 15 | 0.1% | 0.2% |  |
 | 16 | 0% | 0.1% | Last Result |
 | 17 | 0% | 0% |  |
 

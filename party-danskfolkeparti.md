@@ -187,10 +187,10 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–13 | 7–14 | 7–14 | 6–16 |
-| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 10 | 9–11 | 7–12 | 7–12 | 7–15 |
+| N/A | [Poll Average](average.html) | 12 | 8–14 | 7–15 | 7–15 | 6–15 |
+| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 12 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 10 | 9–12 | 9–12 | 9–13 | 8–14 |
-| [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 12 | 12 | 11–12 | 11–14 | 11–16 |
+| [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 12 | 12–15 | 11–15 | 11–15 | 10–15 |
 | [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 11 | 10–13 | 9–13 | 9–14 | 8–16 |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 10 | 10–13 | 9–14 | 9–14 | 9–16 |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 12 | 10–13 | 9–14 | 9–14 | 8–17 |
@@ -348,18 +348,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
 | 6 | 2% | 99.8% |  |
-| 7 | 7% | 98% |  |
-| 8 | 3% | 91% |  |
-| 9 | 6% | 88% |  |
-| 10 | 22% | 83% |  |
-| 11 | 13% | 60% | Median |
-| 12 | 27% | 48% |  |
-| 13 | 12% | 20% |  |
-| 14 | 7% | 9% |  |
-| 15 | 1.3% | 2% |  |
-| 16 | 0.4% | 0.5% | Last Result |
+| 7 | 6% | 98% |  |
+| 8 | 3% | 92% |  |
+| 9 | 5% | 89% |  |
+| 10 | 14% | 85% |  |
+| 11 | 13% | 71% |  |
+| 12 | 28% | 58% | Median |
+| 13 | 14% | 30% |  |
+| 14 | 8% | 15% |  |
+| 15 | 8% | 8% |  |
+| 16 | 0.2% | 0.3% | Last Result |
 | 17 | 0% | 0.1% |  |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 18 | 0% | 0% |  |
 
 
