@@ -14,7 +14,7 @@ Last result: **6.6%** (General Election of 5 June 2019)
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 13.6% | 12.6–14.8% | 12.3–15.1% | 12.0–15.4% | 11.5–15.9% |
-| [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 13.4% | N/A | N/A | N/A | N/A |
+| [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 13.4% | 12.1–14.8% | 11.7–15.2% | 11.4–15.6% | 10.8–16.3% |
 | [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 13.4% | 12.1–14.9% | 11.8–15.3% | 11.5–15.7% | 10.9–16.4% |
 | [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 14.4% | 13.4–15.5% | 13.1–15.9% | 12.8–16.2% | 12.3–16.7% |
@@ -196,11 +196,11 @@ Last result: **12** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–31 | 23–31 | 22–31 | 21–32 |
-| [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 25 | 23–27 | 22–27 | 22–27 | 21–30 |
-| [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 31 | 31 | 28–31 | 27–32 | 24–32 |
+| N/A | [Poll Average](average.html) | 26 | 24–31 | 23–32 | 22–34 | 20–34 |
+| [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 26 | 23–27 | 22–28 | 21–29 | 20–30 |
+| [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 31 | 27–34 | 26–34 | 25–34 | 23–35 |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 25 | 25–27 | 24–28 | 24–28 | 22–29 |
-| [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 23 | 23–26 | 21–27 | 20–28 | 20–28 |
 | [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 23 | 21–25 | 21–27 | 20–27 | 19–28 |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 25 | 23–26 | 22–27 | 20–28 | 20–30 |
 | [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 25 | 25–28 | 25–28 | 24–28 | 23–29 |
@@ -368,19 +368,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.5% | 100% |  |
-| 21 | 0.2% | 99.5% |  |
-| 22 | 2% | 99.3% |  |
+| 21 | 0.7% | 99.5% |  |
+| 22 | 2% | 98.8% |  |
 | 23 | 3% | 97% |  |
-| 24 | 4% | 94% |  |
-| 25 | 37% | 90% |  |
-| 26 | 5% | 52% | Median |
+| 24 | 5% | 94% |  |
+| 25 | 31% | 88% |  |
+| 26 | 9% | 57% | Median |
 | 27 | 16% | 48% |  |
-| 28 | 12% | 32% |  |
-| 29 | 0.7% | 20% |  |
-| 30 | 0.4% | 19% |  |
-| 31 | 18% | 19% |  |
-| 32 | 0.8% | 1.1% |  |
-| 33 | 0.2% | 0.2% |  |
-| 34 | 0% | 0% |  |
+| 28 | 14% | 32% |  |
+| 29 | 6% | 18% |  |
+| 30 | 1.1% | 12% |  |
+| 31 | 5% | 11% |  |
+| 32 | 1.0% | 5% |  |
+| 33 | 0.5% | 4% |  |
+| 34 | 4% | 4% |  |
+| 35 | 0.1% | 0.1% |  |
+| 36 | 0% | 0.1% |  |
+| 37 | 0% | 0% |  |
 
 
