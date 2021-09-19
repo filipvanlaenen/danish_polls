@@ -188,7 +188,7 @@ Last result: **5** seats (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0–4 |
-| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0–4 |
+| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -348,11 +348,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Median |
-| 1 | 0% | 0.3% |  |
-| 2 | 0% | 0.3% |  |
-| 3 | 0% | 0.3% |  |
-| 4 | 0.3% | 0.3% |  |
+| 0 | 99.8% | 100% | Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0% | 0.2% |  |
+| 3 | 0% | 0.2% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% | Last Result |
 
 

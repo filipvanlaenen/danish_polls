@@ -197,10 +197,10 @@ Last result: **43** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 20–28 | 20–29 | 19–30 | 18–31 |
+| N/A | [Poll Average](average.html) | 24 | 20–27 | 20–28 | 19–29 | 18–30 |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 26 | 24–28 | 23–29 | 23–30 | 22–31 |
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 23 | 21–25 | 20–27 | 20–27 | 18–29 |
-| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 28 | 27–29 | 26–31 | 26–31 | 24–31 |
+| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 27 | 27–29 | 25–30 | 25–30 | 24–31 |
 | [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 26 | 23–31 | 22–31 | 22–31 | 20–31 |
 | [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 27 | 22–29 | 21–29 | 21–30 | 20–30 |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 25 | 25–27 | 24–29 | 23–29 | 22–32 |
@@ -369,15 +369,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 8% | 85% |  |
 | 23 | 21% | 77% |  |
 | 24 | 7% | 56% | Median |
-| 25 | 10% | 49% |  |
-| 26 | 11% | 39% |  |
-| 27 | 7% | 28% |  |
-| 28 | 15% | 21% |  |
-| 29 | 3% | 6% |  |
-| 30 | 1.3% | 3% |  |
-| 31 | 1.3% | 1.4% |  |
-| 32 | 0% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 25 | 11% | 49% |  |
+| 26 | 10% | 38% |  |
+| 27 | 18% | 28% |  |
+| 28 | 5% | 10% |  |
+| 29 | 2% | 5% |  |
+| 30 | 2% | 2% |  |
+| 31 | 0.3% | 0.4% |  |
+| 32 | 0.1% | 0.1% |  |
+| 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |
 | 36 | 0% | 0% |  |
