@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Folketinget</description>
     <pubDate>Wed, 22 Jul 2020 19:46:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 13–19 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2021-09-19-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 13–19 September 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-09-19-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-09-19-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-09-19-Voxmeter.png" length="329091" type="image/png"/>
+      <pubDate>Tue, 21 Sep 2021 08:03:57 +0200</pubDate>
+      <dc:date>2021-09-21T08:03:57.305505+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 23–29 August 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2021-08-29-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 23–29 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-29-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-29-Voxmeter-seating-plan.png"/>]]></description>
@@ -140,46 +148,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-05-Gallup.png" length="353516" type="image/png"/>
       <pubDate>Sat, 21 Aug 2021 11:12:44 +0200</pubDate>
       <dc:date>2021-08-21T11:12:44.079027+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 21–27 June 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 21–27 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter-seating-plan.png" length="658794" type="image/png"/>
-      <pubDate>Sat, 10 Jul 2021 14:03:10 +0200</pubDate>
-      <dc:date>2021-07-10T14:03:10.48103+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 21–27 June 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 21–27 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter-seats.png" length="284245" type="image/png"/>
-      <pubDate>Sat, 10 Jul 2021 14:03:10 +0200</pubDate>
-      <dc:date>2021-07-10T14:03:10.48103+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 21–27 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 21–27 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-06-27-Voxmeter.png" length="336056" type="image/png"/>
-      <pubDate>Sat, 10 Jul 2021 14:03:10 +0200</pubDate>
-      <dc:date>2021-07-10T14:03:10.48103+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 14–20 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-06-20-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 14–20 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-06-20-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-06-20-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-06-20-Voxmeter.png" length="338727" type="image/png"/>
-      <pubDate>Fri, 2 Jul 2021 13:22:01 +0200</pubDate>
-      <dc:date>2021-07-02T13:22:01.16495+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 7–12 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-06-12-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 7–12 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-06-12-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-06-12-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-06-12-Voxmeter.png" length="322879" type="image/png"/>
-      <pubDate>Wed, 4 Aug 2021 08:07:57 +0200</pubDate>
-      <dc:date>2021-08-04T08:07:57.5681+02:00</dc:date>
     </item>
   </channel>
 </rss>
