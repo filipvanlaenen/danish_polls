@@ -17,7 +17,7 @@ Last result: **6.6%** (General Election of 5 June 2019)
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 13.6% | 12.6–14.8% | 12.3–15.1% | 12.0–15.4% | 11.5–15.9% |
 | [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 13.4% | 12.1–14.8% | 11.7–15.2% | 11.4–15.6% | 10.8–16.3% |
-| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 14.6% | N/A | N/A | N/A | N/A |
+| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 14.6% | 13.4–15.9% | 13.0–16.3% | 12.7–16.6% | 12.2–17.3% |
 | [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 13.4% | 12.1–14.9% | 11.8–15.3% | 11.5–15.7% | 10.9–16.4% |
 | [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 14.4% | 13.4–15.5% | 13.1–15.9% | 12.8–16.2% | 12.3–16.7% |
@@ -206,7 +206,7 @@ Last result: **12** seats (General Election of 5 June 2019)
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 31 | 27–34 | 26–34 | 25–34 | 23–35 |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 26 | 23–26 | 23–28 | 22–28 | 22–28 |
 | [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 23 | 23–26 | 21–27 | 20–28 | 20–28 |
-| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 27 | 26–27 | 26–27 | 26–28 | 22–32 |
 | [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 23 | 21–25 | 21–27 | 20–27 | 19–28 |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 25 | 23–26 | 22–27 | 20–28 | 20–30 |
 | [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 25 | 25–28 | 25–28 | 24–28 | 23–29 |
