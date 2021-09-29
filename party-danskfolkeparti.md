@@ -194,7 +194,7 @@ Last result: **16** seats (General Election of 5 June 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 9–14 | 9–15 | 9–15 | 8–15 |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 12 | 11–13 | 10–13 | 9–13 | 8–15 |
-| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 14 | 14 | 13–14 | 13–14 | 11–14 |
+| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 14 | 13–14 | 13–14 | 13–14 | 11–15 |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 11 | 9–12 | 8–12 | 8–13 | 7–13 |
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 10 | 9–13 | 9–14 | 9–14 | 8–15 |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 9 | 9–11 | 9–12 | 8–12 | 8–13 |

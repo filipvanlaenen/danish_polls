@@ -194,7 +194,7 @@ Last result: **16** seats (General Election of 5 June 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–13 | 7–13 | 7–13 | 6–14 |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
-| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 9 | 9 | 9 | 9–10 | 7–10 |
+| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 9 | 9 | 9 | 8–10 | 7–10 |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 10 | 9–12 | 9–12 | 8–13 | 7–14 |
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 7–10 | 7–10 | 6–11 | 6–13 |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 13 | 11–13 | 11–14 | 10–14 | 9–14 |
@@ -360,7 +360,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
 | 6 | 2% | 99.8% |  |
-| 7 | 7% | 98% |  |
+| 7 | 8% | 98% |  |
 | 8 | 22% | 90% |  |
 | 9 | 25% | 68% | Median |
 | 10 | 5% | 43% |  |
