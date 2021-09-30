@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_polls</id>
   <title>All Registered Polls for the Folketinget</title>
-  <updated>2021-09-19T15:43:08.613668+02:00</updated>
+  <updated>2021-09-29T21:11:10.125951+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 25.0–30.5%, 44–53 seats</li><li>Dansk Folkeparti: 4.8–7.8%, 9–14 seats</li><li>Venstre: 11.6–15.9%, 21–27 seats</li><li>Enhedslisten–De Rød-Grønne: 8.0–11.7%, 14–21 seats</li><li>Liberal Alliance: 2.2–4.4%, 0–7 seats</li><li>Alternativet: 0.2–1.0%, 0 seats</li><li>Radikale Venstre: 3.2–5.7%, 6–10 seats</li><li>Socialistisk Folkeparti: 8.1–11.8%, 14–21 seats</li><li>Det Konservative Folkeparti: 11.5–15.7%, 21–27 seats</li><li>Kristendemokraterne: 0.8–2.3%, 0–4 seats</li><li>Nye Borgerlige: 4.4–7.3%, 8–13 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_polls/2021-09-19-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_polls/2021-09-19-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 13–19 September 2021</title>
+    <updated>2021-09-29T21:11:10.125951+02:00</updated>
+    <dc:date>2021-09-29T21:11:10.125951+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 28.5–33.6%, 51–59 seats</li><li>Dansk Folkeparti: 5.8–8.7%, 10–15 seats</li><li>Venstre: 8.7–12.1%, 17–22 seats</li><li>Enhedslisten–De Rød-Grønne: 6.0–8.9%, 12–15 seats</li><li>Liberal Alliance: 1.5–3.2%, 0–5 seats</li><li>Alternativet: 0.3–1.2%, 0 seats</li><li>Radikale Venstre: 3.1–5.3%, 6–9 seats</li><li>Socialistisk Folkeparti: 6.5–9.5%, 12–16 seats</li><li>Det Konservative Folkeparti: 14.9–19.0%, 27–32 seats</li><li>Kristendemokraterne: 1.1–2.5%, 0–4 seats</li><li>Nye Borgerlige: 8.3–11.6%, 15–21 seats</li><li>Veganerpartiet: 0.7–2.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_polls/2021-09-12-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_polls/2021-09-12-YouGov.html"/>
+    <title>Opinion Poll by YouGov for B.T., 10–12 September 2021</title>
+    <updated>2021-09-29T19:39:24.21581+02:00</updated>
+    <dc:date>2021-09-29T19:39:24.21581+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 25.7–31.3%, 45–55 seats</li><li>Dansk Folkeparti: 4.3–7.2%, 8–13 seats</li><li>Venstre: 13.0–17.5%, 23–30 seats</li><li>Enhedslisten–De Rød-Grønne: 7.7–11.3%, 13–20 seats</li><li>Liberal Alliance: 2.0–4.1%, 4–8 seats</li><li>Alternativet: 0.2–1.2%, 0 seats</li><li>Radikale Venstre: 4.3–7.2%, 8–13 seats</li><li>Socialistisk Folkeparti: 7.2–10.8%, 13–19 seats</li><li>Det Konservative Folkeparti: 11.9–16.2%, 21–29 seats</li><li>Kristendemokraterne: 1.1–2.8%, 0–5 seats</li><li>Nye Borgerlige: 4.5–7.4%, 8–13 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_polls/2021-08-29-Voxmeter.html</id>
@@ -1183,5 +1199,5 @@
     <updated>2020-08-12T21:01:32.891873+02:00</updated>
     <dc:date>2020-08-12T21:01:32.891873+02:00</dc:date>
   </entry>
-  <dc:date>2021-09-19T15:43:08.613668+02:00</dc:date>
+  <dc:date>2021-09-29T21:11:10.125951+02:00</dc:date>
 </feed>
