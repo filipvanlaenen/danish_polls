@@ -194,9 +194,9 @@ Last result: **14** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–20 | 14–20 | 13–21 | 12–21 |
-| [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 18 | 16–19 | 15–19 | 14–20 | 14–21 |
-| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 14 | 14–15 | 14–17 | 14–17 | 13–17 |
+| N/A | [Poll Average](average.html) | 16 | 14–20 | 13–20 | 13–21 | 12–22 |
+| [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 16 | 15–19 | 15–20 | 14–21 | 14–22 |
+| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 15 | 14–15 | 13–16 | 12–16 | 12–17 |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 16 | 14–17 | 14–18 | 13–19 | 12–20 |
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 16 | 15–19 | 15–20 | 14–21 | 13–22 |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 15 | 13–15 | 12–16 | 12–16 | 11–17 |
@@ -361,18 +361,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.2% | 100% |  |
-| 12 | 1.3% | 99.8% |  |
-| 13 | 2% | 98.6% |  |
-| 14 | 21% | 97% | Last Result |
-| 15 | 20% | 76% |  |
-| 16 | 11% | 56% | Median |
-| 17 | 5% | 44% |  |
-| 18 | 19% | 39% |  |
-| 19 | 9% | 20% |  |
-| 20 | 7% | 11% |  |
+| 12 | 2% | 99.8% |  |
+| 13 | 3% | 98% |  |
+| 14 | 9% | 95% | Last Result |
+| 15 | 33% | 86% |  |
+| 16 | 18% | 54% | Median |
+| 17 | 5% | 36% |  |
+| 18 | 10% | 30% |  |
+| 19 | 8% | 20% |  |
+| 20 | 8% | 12% |  |
 | 21 | 3% | 4% |  |
-| 22 | 0.3% | 0.4% |  |
-| 23 | 0% | 0.1% |  |
+| 22 | 0.6% | 0.7% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
 
