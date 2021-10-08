@@ -10,7 +10,10 @@ Last result: **6.6%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.8% | 12.9–17.5% | 12.5–18.0% | 12.1–18.5% | 11.5–19.3% |
+| N/A | [Poll Average](average.html) | 14.7% | 13.0–17.2% | 12.6–17.8% | 12.3–18.3% | 11.8–19.2% |
+| [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 14.5% | 13.1–16.0% | 12.7–16.4% | 12.4–16.8% | 11.8–17.5% |
+| [3 October 2021](2021-10-03-Gallup.html) | Gallup | 14.3% | N/A | N/A | N/A | N/A |
+| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 17.0% | N/A | N/A | N/A | N/A |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.7% | 10.9–16.5% |
 | [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 16.8% | 15.5–18.3% | 15.2–18.7% | 14.9–19.0% | 14.3–19.7% |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
@@ -149,7 +152,7 @@ Last result: **6.6%** (General Election of 5 June 2019)
 | [23 October 2019](2019-10-23-Epinion.html) | Epinion <br> DR | 7.1% | 6.3–8.0% | 6.1–8.3% | 5.9–8.5% | 5.6–8.9% |
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.6–9.9% |
-| [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.1% |
+| [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> Ritzau | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.1% |
 | [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.6% |
 | [29 September 2019](2019-09-29-Gallup.html) | Gallup | 6.8% | 6.0–7.7% | 5.8–8.0% | 5.6–8.2% | 5.2–8.6% |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.6% | 5.1–9.2% |
@@ -178,16 +181,16 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.6% | 100% |  |
-| 11.5–12.5% | 5% | 99.3% |  |
-| 12.5–13.5% | 17% | 94% |  |
-| 13.5–14.5% | 24% | 78% |  |
-| 14.5–15.5% | 17% | 54% | Median |
-| 15.5–16.5% | 15% | 37% |  |
-| 16.5–17.5% | 13% | 22% |  |
-| 17.5–18.5% | 7% | 9% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.3% | 0.3% |  |
+| 10.5–11.5% | 0.2% | 100% |  |
+| 11.5–12.5% | 4% | 99.8% |  |
+| 12.5–13.5% | 18% | 96% |  |
+| 13.5–14.5% | 25% | 78% |  |
+| 14.5–15.5% | 20% | 53% | Median |
+| 15.5–16.5% | 16% | 33% |  |
+| 16.5–17.5% | 11% | 18% |  |
+| 17.5–18.5% | 5% | 7% |  |
+| 18.5–19.5% | 1.4% | 2% |  |
+| 19.5–20.5% | 0.2% | 0.2% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -199,7 +202,10 @@ Last result: **12** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–32 | 22–32 | 22–34 | 21–34 |
+| N/A | [Poll Average](average.html) | 28 | 25–31 | 24–34 | 23–34 | 22–34 |
+| [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 28 | 26–28 | 26–28 | 26–28 | 23–29 |
+| [3 October 2021](2021-10-03-Gallup.html) | Gallup |  |  |  |  |  |
+| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
 | [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 31 | 30–32 | 29–32 | 27–32 | 26–35 |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 26 | 23–27 | 22–28 | 21–29 | 20–30 |
@@ -338,7 +344,7 @@ Last result: **12** seats (General Election of 5 June 2019)
 | [23 October 2019](2019-10-23-Epinion.html) | Epinion <br> DR | 12 | 11–14 | 10–15 | 10–15 | 10–16 |
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–13 | 10–14 | 10–14 | 9–16 |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 14 | 12–17 | 11–18 | 11–18 | 10–18 |
-| [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
+| [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
 | [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau | 12 | 10–13 | 10–15 | 10–16 | 9–16 |
 | [29 September 2019](2019-09-29-Gallup.html) | Gallup | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 13 | 11–14 | 11–14 | 11–16 | 10–17 |
@@ -372,23 +378,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.1% | 100% |  |
-| 20 | 0.2% | 99.9% |  |
-| 21 | 0.8% | 99.7% |  |
-| 22 | 4% | 98.9% |  |
-| 23 | 4% | 95% |  |
-| 24 | 13% | 91% |  |
-| 25 | 14% | 78% |  |
-| 26 | 15% | 64% | Median |
-| 27 | 5% | 49% |  |
-| 28 | 9% | 45% |  |
-| 29 | 6% | 36% |  |
-| 30 | 2% | 30% |  |
-| 31 | 17% | 28% |  |
-| 32 | 6% | 10% |  |
-| 33 | 0.4% | 4% |  |
-| 34 | 4% | 4% |  |
-| 35 | 0.2% | 0.3% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 1.4% | 99.8% |  |
+| 23 | 2% | 98% |  |
+| 24 | 4% | 96% |  |
+| 25 | 6% | 92% |  |
+| 26 | 29% | 86% |  |
+| 27 | 3% | 58% |  |
+| 28 | 27% | 54% | Median |
+| 29 | 9% | 27% |  |
+| 30 | 1.3% | 18% |  |
+| 31 | 9% | 17% |  |
+| 32 | 1.4% | 8% |  |
+| 33 | 0.4% | 7% |  |
+| 34 | 6% | 6% |  |
+| 35 | 0.1% | 0.2% |  |
 | 36 | 0% | 0.1% |  |
 | 37 | 0.1% | 0.1% |  |
 | 38 | 0% | 0% |  |
