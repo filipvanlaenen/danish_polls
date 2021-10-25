@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Folketinget</description>
     <pubDate>Wed, 22 Jul 2020 19:46:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 11–17 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2021-10-17-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 11–17 October 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-10-17-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-10-17-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-10-17-Voxmeter.png" length="339273" type="image/png"/>
+      <pubDate>Mon, 25 Oct 2021 07:08:55 +0200</pubDate>
+      <dc:date>2021-10-25T07:08:55.885657+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 3 October 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2021-10-03-Gallup.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Gallup, 3 October 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-10-03-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-10-03-Gallup-seating-plan.png"/>]]></description>
@@ -148,70 +156,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-29-Voxmeter.png" length="323811" type="image/png"/>
       <pubDate>Sun, 5 Sep 2021 19:35:30 +0200</pubDate>
       <dc:date>2021-09-05T19:35:30.764982+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Megafon for Politiken and TV 2, 23–26 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Megafon for Politiken and TV 2, 23–26 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon-seating-plan.png" length="665909" type="image/png"/>
-      <pubDate>Sat, 9 Oct 2021 14:41:54 +0200</pubDate>
-      <dc:date>2021-10-09T14:41:54.089432+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Megafon for Politiken and TV 2, 23–26 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Megafon for Politiken and TV 2, 23–26 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon-seats.png" length="307631" type="image/png"/>
-      <pubDate>Sat, 9 Oct 2021 14:41:54 +0200</pubDate>
-      <dc:date>2021-10-09T14:41:54.089432+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Megafon for Politiken and TV 2, 23–26 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Megafon for Politiken and TV 2, 23–26 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Megafon.png" length="359985" type="image/png"/>
-      <pubDate>Sat, 9 Oct 2021 14:41:54 +0200</pubDate>
-      <dc:date>2021-10-09T14:41:54.089432+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion for DR, 19–26 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Epinion for DR, 19–26 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion-seating-plan.png" length="644460" type="image/png"/>
-      <pubDate>Sat, 9 Oct 2021 15:34:52 +0200</pubDate>
-      <dc:date>2021-10-09T15:34:52.678126+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion for DR, 19–26 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Epinion for DR, 19–26 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion-seats.png" length="270008" type="image/png"/>
-      <pubDate>Sat, 9 Oct 2021 15:34:52 +0200</pubDate>
-      <dc:date>2021-10-09T15:34:52.678126+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion for DR, 19–26 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Epinion for DR, 19–26 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-26-Epinion.png" length="327246" type="image/png"/>
-      <pubDate>Sat, 9 Oct 2021 15:34:52 +0200</pubDate>
-      <dc:date>2021-10-09T15:34:52.678126+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 16–22 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-08-22-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 16–22 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-22-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-22-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-22-Voxmeter.png" length="337813" type="image/png"/>
-      <pubDate>Mon, 6 Sep 2021 07:22:05 +0200</pubDate>
-      <dc:date>2021-09-06T07:22:05.143435+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 13–16 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2021-08-16-YouGov.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by YouGov for B.T., 13–16 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_polls/2021-08-16-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2021-08-16-YouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2021-08-16-YouGov.png" length="332318" type="image/png"/>
-      <pubDate>Thu, 23 Sep 2021 09:31:05 +0200</pubDate>
-      <dc:date>2021-09-23T09:31:05.976104+02:00</dc:date>
     </item>
   </channel>
 </rss>
