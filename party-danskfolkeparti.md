@@ -12,7 +12,7 @@ Last result: **8.7%** (General Election of 5 June 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.6% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.2% |
-| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.1% | 4.5–7.5% |
+| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 5.9% | 5.2–6.7% | 5.0–6.9% | 4.8–7.1% | 4.5–7.5% |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 6.5% | 5.7–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.7% |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.2% | 3.9–7.7% |
@@ -199,9 +199,9 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–15 | 9–16 |
+| N/A | [Poll Average](average.html) | 12 | 9–14 | 9–14 | 9–15 | 9–16 |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 13 | 11–14 | 10–14 | 10–16 | 9–16 |
-| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion |  |  |  |  |  |
+| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 12 | 12 | 12–13 | 11–13 | 8–14 |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 11 | 10–11 | 9–12 | 9–13 | 8–15 |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 10 | 8–11 | 8–11 | 8–12 | 7–13 |
@@ -373,14 +373,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.3% | 100% |  |
-| 9 | 9% | 99.7% |  |
-| 10 | 11% | 91% |  |
-| 11 | 16% | 80% |  |
-| 12 | 19% | 64% | Median |
-| 13 | 21% | 45% |  |
-| 14 | 21% | 24% |  |
+| 9 | 10% | 99.6% |  |
+| 10 | 12% | 89% |  |
+| 11 | 21% | 77% |  |
+| 12 | 18% | 57% | Median |
+| 13 | 19% | 39% |  |
+| 14 | 17% | 20% |  |
 | 15 | 2% | 3% |  |
-| 16 | 1.1% | 1.2% | Last Result |
+| 16 | 0.9% | 1.0% | Last Result |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
