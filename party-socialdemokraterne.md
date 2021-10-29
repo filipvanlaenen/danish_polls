@@ -207,11 +207,11 @@ Last result: **48** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50 | 44–56 | 44–56 | 42–60 | 41–61 |
-| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 44 | 44–51 | 44–52 | 44–52 | 41–56 |
+| N/A | [Poll Average](average.html) | 50 | 45–56 | 44–56 | 42–60 | 41–61 |
+| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 48 | 44–51 | 44–51 | 44–52 | 42–54 |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 53 | 49–56 | 47–56 | 46–56 | 46–56 |
-| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 47 | 47–53 | 47–53 | 46–53 | 44–53 |
-| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 53 | 50–53 | 50–54 | 49–57 | 45–58 |
+| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 47 | 47–53 | 47–53 | 45–53 | 43–54 |
+| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 53 | 49–54 | 47–56 | 47–57 | 46–58 |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 47 | 46–51 | 46–51 | 45–51 | 42–54 |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 50 | 46–52 | 45–53 | 45–53 | 45–54 |
 | [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 55 | 53–60 | 53–61 | 51–61 | 48–62 |
@@ -382,18 +382,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
 | 40 | 0.2% | 99.9% |  |
-| 41 | 2% | 99.7% |  |
+| 41 | 1.4% | 99.7% |  |
 | 42 | 1.0% | 98% |  |
-| 43 | 1.0% | 97% |  |
-| 44 | 11% | 96% |  |
-| 45 | 4% | 85% |  |
-| 46 | 8% | 81% |  |
-| 47 | 13% | 73% |  |
-| 48 | 5% | 60% | Last Result |
-| 49 | 5% | 55% |  |
-| 50 | 8% | 50% | Median |
-| 51 | 6% | 42% |  |
-| 52 | 3% | 37% |  |
+| 43 | 1.1% | 97% |  |
+| 44 | 4% | 96% |  |
+| 45 | 3% | 93% |  |
+| 46 | 4% | 89% |  |
+| 47 | 17% | 86% |  |
+| 48 | 9% | 68% | Last Result |
+| 49 | 5% | 60% |  |
+| 50 | 9% | 55% | Median |
+| 51 | 10% | 46% |  |
+| 52 | 2% | 36% |  |
 | 53 | 7% | 33% |  |
 | 54 | 5% | 27% |  |
 | 55 | 6% | 22% |  |

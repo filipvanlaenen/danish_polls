@@ -200,10 +200,10 @@ Last result: **16** seats (General Election of 5 June 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 7–12 | 7–13 | 7–13 | 6–13 |
-| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 11 | 8–12 | 8–12 | 7–12 | 7–12 |
+| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 10 | 10–12 | 10–13 | 9–13 | 9–13 |
-| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 9 | 8–9 | 8–9 | 8–11 | 8–12 |
-| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 8 | 8–10 | 7–11 | 7–12 | 7–14 |
+| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 9 | 8–10 | 8–11 | 8–12 | 8–13 |
+| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 10 | 8–11 | 7–12 | 7–12 | 7–13 |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 12 | 9–13 | 9–13 | 9–13 | 9–14 |
 | [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
@@ -374,12 +374,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
 | 6 | 2% | 99.8% |  |
-| 7 | 11% | 98% |  |
-| 8 | 17% | 87% |  |
-| 9 | 13% | 69% |  |
-| 10 | 21% | 56% | Median |
-| 11 | 11% | 35% |  |
-| 12 | 17% | 24% |  |
+| 7 | 10% | 98% |  |
+| 8 | 21% | 87% |  |
+| 9 | 14% | 67% |  |
+| 10 | 29% | 53% | Median |
+| 11 | 9% | 24% |  |
+| 12 | 8% | 15% |  |
 | 13 | 7% | 7% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |

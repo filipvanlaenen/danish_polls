@@ -203,11 +203,11 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–17 | 9–17 | 9–18 | 8–19 |
-| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 12 | 10–13 | 10–14 | 10–15 | 9–16 |
+| N/A | [Poll Average](average.html) | 13 | 9–17 | 9–17 | 9–18 | 8–19 |
+| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 13 | 11–14 | 10–14 | 9–14 | 9–16 |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 10 | 9–11 | 8–12 | 8–12 | 8–13 |
-| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 13 | 10–13 | 10–13 | 10–13 | 10–15 |
-| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 12 | 12–15 | 12–16 | 11–16 | 10–18 |
+| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 13 | 10–14 | 10–15 | 10–15 | 10–15 |
+| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 14 | 12–15 | 12–16 | 11–16 | 11–18 |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 12 | 11–14 | 11–14 | 10–14 | 9–15 |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 10 | 9–11 | 9–11 | 8–12 | 8–14 |
 | [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 16 | 13–17 | 13–17 | 12–18 | 12–19 |
@@ -381,14 +381,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
-| 9 | 7% | 98% |  |
-| 10 | 20% | 90% |  |
-| 11 | 15% | 70% |  |
-| 12 | 14% | 55% | Median |
-| 13 | 6% | 42% |  |
-| 14 | 5% | 36% |  |
-| 15 | 6% | 32% |  |
-| 16 | 9% | 26% |  |
+| 9 | 8% | 98% |  |
+| 10 | 18% | 90% |  |
+| 11 | 13% | 72% |  |
+| 12 | 9% | 59% |  |
+| 13 | 12% | 50% | Median |
+| 14 | 6% | 38% |  |
+| 15 | 5% | 31% |  |
+| 16 | 10% | 26% |  |
 | 17 | 12% | 17% |  |
 | 18 | 3% | 4% |  |
 | 19 | 2% | 2% |  |
