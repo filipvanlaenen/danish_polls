@@ -205,9 +205,9 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 9–16 | 9–17 | 9–17 | 8–18 |
-| [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 13 | 11–14 | 10–15 | 10–15 | 9–17 |
-| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 12 | 9–16 | 9–17 | 9–17 | 8–18 |
+| [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
+| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 14 | 12–15 | 12–16 | 12–17 | 11–18 |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 13 | 11–14 | 10–14 | 9–14 | 9–16 |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 9 | 9–11 | 9–11 | 9–12 | 8–13 |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 12 | 11–14 | 10–15 | 10–15 | 9–16 |
@@ -387,15 +387,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 1.2% | 99.9% |  |
 | 9 | 17% | 98.7% |  |
-| 10 | 10% | 82% |  |
+| 10 | 11% | 82% |  |
 | 11 | 13% | 71% |  |
-| 12 | 8% | 58% |  |
-| 13 | 19% | 51% | Median |
-| 14 | 9% | 32% |  |
-| 15 | 9% | 22% |  |
-| 16 | 6% | 13% |  |
+| 12 | 10% | 57% | Median |
+| 13 | 13% | 48% |  |
+| 14 | 13% | 34% |  |
+| 15 | 6% | 21% |  |
+| 16 | 6% | 15% |  |
 | 17 | 7% | 8% |  |
-| 18 | 0.6% | 0.7% |  |
+| 18 | 0.7% | 0.9% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
