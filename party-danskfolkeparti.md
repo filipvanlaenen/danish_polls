@@ -10,25 +10,30 @@ Last result: **8.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.1–7.4% | 4.8–7.7% | 4.6–8.0% | 4.1–8.5% |
-| [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.7% |
-| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
-| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.2% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.9–7.0% | 4.6–7.4% | 4.4–7.6% | 3.9–8.1% |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 5.8% | 5.1–6.8% | 4.8–7.1% | 4.7–7.3% | 4.3–7.8% |
+| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 6.4% | N/A | N/A | N/A | N/A |
+| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 5.2% | 4.4–6.4% | 4.1–6.7% | 3.9–7.0% | 3.5–7.5% |
+| [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter | 6.2% | N/A | N/A | N/A | N/A |
+| [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 6.7% | 5.9–7.5% | 5.7–7.8% | 5.5–8.0% | 5.2–8.4% |
+| [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 6.4% | N/A | N/A | N/A | N/A |
+| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 5.3% | N/A | N/A | N/A | N/A |
+| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 6.9% | N/A | N/A | N/A | N/A |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 5.9% | 5.2–6.7% | 5.0–6.9% | 4.8–7.1% | 4.5–7.5% |
-| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 6.5% | 5.7–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.7% |
-| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.2% | 3.9–7.7% |
-| [3 October 2021](2021-10-03-Gallup.html) | Gallup | 6.9% | 6.2–7.8% | 6.0–8.0% | 5.8–8.2% | 5.5–8.7% |
-| [21–29 September 2021](2021-09-29-Epinion.html) | Epinion | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
-| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 6.6% | 5.8–7.6% | 5.6–7.9% | 5.4–8.1% | 5.0–8.6% |
-| [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
-| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 7.1% | 6.3–8.1% | 6.0–8.4% | 5.8–8.7% | 5.4–9.2% |
-| [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 5.6% | 4.7–6.6% | 4.5–6.9% | 4.3–7.2% | 3.9–7.7% |
-| [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.0% | 4.6–8.6% |
-| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 5.5% | 4.8–6.3% | 4.6–6.5% | 4.5–6.7% | 4.2–7.1% |
-| [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
-| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 7.2% | 6.3–8.2% | 6.1–8.5% | 5.9–8.7% | 5.5–9.3% |
-| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
+| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 6.5% | N/A | N/A | N/A | N/A |
+| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 6.0% | N/A | N/A | N/A | N/A |
+| [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 5.6% | N/A | N/A | N/A | N/A |
+| [3 October 2021](2021-10-03-Gallup.html) | Gallup | 6.9% | N/A | N/A | N/A | N/A |
+| [21–29 September 2021](2021-09-29-Epinion.html) | Epinion | 6.2% | N/A | N/A | N/A | N/A |
+| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 6.6% | N/A | N/A | N/A | N/A |
+| [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 6.1% | N/A | N/A | N/A | N/A |
+| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 7.1% | N/A | N/A | N/A | N/A |
+| [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 5.6% | N/A | N/A | N/A | N/A |
+| [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 6.4% | N/A | N/A | N/A | N/A |
+| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 5.5% | N/A | N/A | N/A | N/A |
+| [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 6.4% | N/A | N/A | N/A | N/A |
+| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 7.2% | N/A | N/A | N/A | N/A |
+| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 5.8% | N/A | N/A | N/A | N/A |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 5.9% | 5.0–7.0% | 4.8–7.2% | 4.6–7.5% | 4.2–8.1% |
 | [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 7.0% | 6.2–7.8% | 6.0–8.1% | 5.9–8.3% | 5.5–8.7% |
 | [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–8.0% | 4.5–8.5% |
@@ -184,13 +189,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 18% | 98% |  |
-| 5.5–6.5% | 40% | 80% | Median |
-| 6.5–7.5% | 31% | 39% |  |
-| 7.5–8.5% | 7% | 8% |  |
-| 8.5–9.5% | 0.4% | 0.4% | Last Result |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 4% | 99.9% |  |
+| 4.5–5.5% | 26% | 96% |  |
+| 5.5–6.5% | 45% | 70% | Median |
+| 6.5–7.5% | 21% | 24% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.1% | 0.1% | Last Result |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -202,27 +208,32 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–14 | 9–14 | 8–14 | 7–16 |
-| [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 12 | 9–14 | 9–14 | 9–14 | 8–16 |
-| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 10 | 8–12 | 7–12 | 7–12 | 6–13 |
-| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 12 | 10–14 | 10–14 | 10–15 | 9–16 |
+| N/A | [Poll Average](average.html) | 10 | 9–13 | 9–13 | 8–14 | 7–15 |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 10 | 9–12 | 9–13 | 9–13 | 8–14 |
+| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 10 | 8–12 | 8–13 | 7–13 | 6–13 |
+| [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 12 | 11–14 | 10–14 | 10–15 | 10–16 |
+| [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 |  |  |  |  |  |
+| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 10 | 10–11 | 10–12 | 9–12 | 8–13 |
-| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 12 | 9–14 | 9–14 | 9–14 | 8–15 |
-| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 9 | 9–12 | 9–13 | 9–13 | 8–15 |
-| [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 10 | 8–11 | 8–11 | 8–12 | 7–13 |
-| [3 October 2021](2021-10-03-Gallup.html) | Gallup | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
-| [21–29 September 2021](2021-09-29-Epinion.html) | Epinion | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
-| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
-| [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
-| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 14 | 12–14 | 10–14 | 10–15 | 10–15 |
-| [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 11 | 9–12 | 8–12 | 8–13 | 7–13 |
-| [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 10 | 9–13 | 9–14 | 9–14 | 8–15 |
-| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 9 | 9–11 | 9–12 | 8–12 | 8–13 |
-| [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 11 | 9–15 | 9–15 | 9–15 | 9–15 |
-| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 11 | 11–13 | 11–13 | 11–15 | 11–19 |
-| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 12 | 9–12 | 9–13 | 9–13 | 8–14 |
+| [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [3 October 2021](2021-10-03-Gallup.html) | Gallup |  |  |  |  |  |
+| [21–29 September 2021](2021-09-29-Epinion.html) | Epinion |  |  |  |  |  |
+| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
+| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 10 | 9–12 | 9–12 | 9–13 | 8–14 |
-| [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 12 | 12–15 | 11–15 | 11–15 | 10–15 |
+| [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 12 | 12 | 11–12 | 11–14 | 11–16 |
 | [21–27 June 2021](2021-06-27-Voxmeter.html) | Voxmeter | 11 | 10–13 | 9–13 | 9–14 | 8–16 |
 | [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 10 | 10–13 | 9–14 | 9–14 | 9–16 |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 12 | 10–13 | 9–14 | 9–14 | 8–17 |
@@ -379,17 +390,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.2% | 100% |  |
-| 7 | 1.0% | 99.8% |  |
-| 8 | 2% | 98.8% |  |
-| 9 | 10% | 97% |  |
-| 10 | 20% | 87% |  |
-| 11 | 22% | 67% | Median |
-| 12 | 22% | 45% |  |
-| 13 | 7% | 23% |  |
-| 14 | 13% | 16% |  |
-| 15 | 2% | 2% |  |
-| 16 | 0.4% | 0.5% | Last Result |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 7 | 0.7% | 99.7% |  |
+| 8 | 2% | 99.0% |  |
+| 9 | 13% | 97% |  |
+| 10 | 37% | 84% | Median |
+| 11 | 24% | 47% |  |
+| 12 | 9% | 22% |  |
+| 13 | 8% | 13% |  |
+| 14 | 4% | 5% |  |
+| 15 | 0.8% | 1.0% |  |
+| 16 | 0.2% | 0.2% | Last Result |
+| 17 | 0% | 0% |  |
 
 
