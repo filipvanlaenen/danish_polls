@@ -10,7 +10,7 @@ Last result: **2.3%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.5% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.5% | 1.8–3.7% | 1.6–3.9% | 1.3–4.3% |
 | [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.1% | 2.0–4.5% |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 3.5% | N/A | N/A | N/A | N/A |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 2.7% | 2.1–3.6% | 2.0–3.9% | 1.8–4.1% | 1.6–4.5% |
@@ -25,7 +25,7 @@ Last result: **2.3%** (General Election of 5 June 2019)
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 2.9% | N/A | N/A | N/A | N/A |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 1.9% | N/A | N/A | N/A | N/A |
 | [21–29 September 2021](2021-09-29-Epinion.html) | Epinion | 2.8% | N/A | N/A | N/A | N/A |
-| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 2.0% | N/A | N/A | N/A | N/A |
+| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.4–2.9% | 1.2–3.3% |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 3.1% | N/A | N/A | N/A | N/A |
 | [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 2.2% | N/A | N/A | N/A | N/A |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 2.9% | N/A | N/A | N/A | N/A |
@@ -190,10 +190,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 27% | 99.9% | Last Result |
-| 2.5–3.5% | 63% | 73% | Median |
-| 3.5–4.5% | 9% | 10% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 38% | 98% | Last Result |
+| 2.5–3.5% | 53% | 61% | Median |
+| 3.5–4.5% | 8% | 8% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -206,7 +206,7 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–7 | 0–8 |
 | [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 6 | 4–6 | 4–7 | 0–7 | 0–8 |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 5 | 4–7 | 0–8 | 0–8 | 0–8 |
@@ -221,7 +221,7 @@ Last result: **4** seats (General Election of 5 June 2019)
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup |  |  |  |  |  |
 | [21–29 September 2021](2021-09-29-Epinion.html) | Epinion |  |  |  |  |  |
-| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -387,16 +387,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 0% | 96% |  |
-| 2 | 0% | 96% |  |
-| 3 | 0% | 96% |  |
-| 4 | 15% | 96% | Last Result |
-| 5 | 46% | 81% | Median |
-| 6 | 30% | 35% |  |
-| 7 | 3% | 5% |  |
+| 0 | 11% | 100% |  |
+| 1 | 0% | 89% |  |
+| 2 | 0% | 89% |  |
+| 3 | 0% | 89% |  |
+| 4 | 22% | 89% | Last Result |
+| 5 | 39% | 67% | Median |
+| 6 | 24% | 28% |  |
+| 7 | 2% | 4% |  |
 | 8 | 2% | 2% |  |
-| 9 | 0.1% | 0.2% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 
