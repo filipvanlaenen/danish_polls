@@ -14,7 +14,7 @@ Last result: **6.6%** (General Election of 5 June 2019)
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 16.0% | 14.9–17.2% | 14.6–17.5% | 14.4–17.8% | 13.8–18.4% |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 15.1% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.3–18.2% |
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 15.1% | 13.7–16.7% | 13.4–17.1% | 13.0–17.5% | 12.4–18.2% |
-| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 14.7% | 13.5–16.1% | 13.2–16.5% | 12.9–16.8% | 12.3–17.5% |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 14.7% | N/A | N/A | N/A | N/A |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 14.3% | N/A | N/A | N/A | N/A |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 18.2% | 16.6–20.0% | 16.1–20.5% | 15.7–21.0% | 15.0–21.9% |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter | 15.1% | N/A | N/A | N/A | N/A |
@@ -219,13 +219,13 @@ Last result: **12** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 26–33 | 25–34 | 24–35 | 22–38 |
-| [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 30 | 26–32 | 26–33 | 26–33 | 24–33 |
+| N/A | [Poll Average](average.html) | 29 | 26–33 | 25–33 | 25–34 | 22–38 |
+| [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 28 | 27–29 | 26–30 | 26–32 | 25–32 |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 28 | 25–30 | 23–31 | 22–32 | 22–33 |
-| [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 28 | 25–31 | 24–31 | 24–31 | 23–32 |
-| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 26 | 25–28 | 25–29 | 24–30 | 23–31 |
+| [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 26 | 26–29 | 26–29 | 26–29 | 24–30 |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 31 | 29–37 | 28–38 | 28–38 | 26–38 |
+| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 33 | 32–33 | 31–35 | 30–38 | 28–41 |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 27 | 25–29 | 25–31 | 24–31 | 23–32 |
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -415,22 +415,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0% | 100% |  |
 | 22 | 0.6% | 100% |  |
 | 23 | 0.6% | 99.4% |  |
-| 24 | 1.3% | 98.8% |  |
-| 25 | 4% | 97% |  |
-| 26 | 8% | 93% |  |
-| 27 | 13% | 85% |  |
-| 28 | 12% | 72% |  |
-| 29 | 16% | 60% | Median |
-| 30 | 13% | 45% |  |
-| 31 | 15% | 32% |  |
-| 32 | 5% | 17% |  |
-| 33 | 6% | 12% |  |
-| 34 | 3% | 6% |  |
-| 35 | 0.5% | 3% |  |
-| 36 | 0.3% | 2% |  |
-| 37 | 0.4% | 2% |  |
-| 38 | 2% | 2% |  |
-| 39 | 0.1% | 0.1% |  |
-| 40 | 0% | 0% |  |
+| 24 | 1.2% | 98.8% |  |
+| 25 | 4% | 98% |  |
+| 26 | 7% | 93% |  |
+| 27 | 14% | 87% |  |
+| 28 | 16% | 72% |  |
+| 29 | 17% | 56% | Median |
+| 30 | 7% | 39% |  |
+| 31 | 6% | 33% |  |
+| 32 | 5% | 26% |  |
+| 33 | 17% | 22% |  |
+| 34 | 3% | 5% |  |
+| 35 | 0.4% | 1.4% |  |
+| 36 | 0.3% | 1.0% |  |
+| 37 | 0.1% | 0.6% |  |
+| 38 | 0.2% | 0.5% |  |
+| 39 | 0.2% | 0.3% |  |
+| 40 | 0% | 0.1% |  |
+| 41 | 0.1% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 
