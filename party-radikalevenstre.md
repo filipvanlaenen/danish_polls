@@ -10,12 +10,12 @@ Last result: **8.6%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.0–7.8% | 4.7–8.1% | 4.4–8.5% | 3.9–9.2% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.9–7.6% | 4.6–8.0% | 4.4–8.4% | 3.9–9.0% |
 | [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.5% |
 | [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter | 6.5% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.8% |
 | [13–19 December 2021](2021-12-19-Voxmeter.html) | Voxmeter | 7.0% | N/A | N/A | N/A | N/A |
 | [6–11 December 2021](2021-12-11-Voxmeter.html) | Voxmeter | 6.0% | N/A | N/A | N/A | N/A |
-| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup | 5.4% | N/A | N/A | N/A | N/A |
+| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup | 5.4% | 4.7–6.2% | 4.5–6.4% | 4.4–6.6% | 4.1–7.0% |
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 6.5% | 5.8–7.4% | 5.6–7.6% | 5.4–7.8% | 5.1–8.2% |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 5.7% | 4.8–6.7% | 4.6–7.0% | 4.4–7.3% | 4.0–7.8% |
@@ -197,15 +197,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 16% | 96% |  |
-| 5.5–6.5% | 33% | 80% | Median |
-| 6.5–7.5% | 32% | 47% |  |
-| 7.5–8.5% | 12% | 14% |  |
+| 4.5–5.5% | 26% | 96% |  |
+| 5.5–6.5% | 34% | 70% | Median |
+| 6.5–7.5% | 25% | 36% |  |
+| 7.5–8.5% | 9% | 11% |  |
 | 8.5–9.5% | 2% | 2% | Last Result |
-| 9.5–10.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -217,12 +216,12 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–15 | 9–15 | 8–16 |
+| N/A | [Poll Average](average.html) | 10 | 9–13 | 9–14 | 9–15 | 7–16 |
 | [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 12 | 11–15 | 10–15 | 10–16 | 10–16 |
-| [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter | 11 | 11–12 | 11–13 | 11–13 | 8–15 |
+| [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter | 11 | 11–13 | 11–14 | 10–14 | 8–15 |
 | [13–19 December 2021](2021-12-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [6–11 December 2021](2021-12-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup |  |  |  |  |  |
+| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup | 9 | 9–10 | 9–11 | 7–12 | 7–12 |
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 11 | 10–14 | 10–14 | 10–15 | 10–15 |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 12 | 10–14 | 9–15 | 9–15 | 8–16 |
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 12 | 8–12 | 8–12 | 8–12 | 7–12 |
@@ -406,17 +405,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 0.3% | 99.9% |  |
-| 8 | 1.3% | 99.7% |  |
-| 9 | 3% | 98% |  |
-| 10 | 32% | 95% |  |
-| 11 | 26% | 63% | Median |
-| 12 | 20% | 37% |  |
-| 13 | 9% | 17% |  |
-| 14 | 3% | 8% |  |
-| 15 | 4% | 5% |  |
-| 16 | 0.7% | 0.9% | Last Result |
+| 7 | 0.9% | 100% |  |
+| 8 | 1.2% | 99.1% |  |
+| 9 | 24% | 98% |  |
+| 10 | 25% | 74% | Median |
+| 11 | 21% | 49% |  |
+| 12 | 16% | 28% |  |
+| 13 | 6% | 13% |  |
+| 14 | 2% | 6% |  |
+| 15 | 3% | 4% |  |
+| 16 | 0.6% | 0.7% | Last Result |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |

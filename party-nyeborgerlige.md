@@ -10,12 +10,12 @@ Last result: **2.4%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 5.6–8.3% | 5.3–8.6% | 5.0–8.9% | 4.5–9.5% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.5–8.1% | 5.2–8.5% | 5.0–8.8% | 4.6–9.4% |
 | [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
 | [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.7% |
 | [13–19 December 2021](2021-12-19-Voxmeter.html) | Voxmeter | 5.5% | N/A | N/A | N/A | N/A |
 | [6–11 December 2021](2021-12-11-Voxmeter.html) | Voxmeter | 5.6% | N/A | N/A | N/A | N/A |
-| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup | 6.0% | N/A | N/A | N/A | N/A |
+| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup | 6.0% | 5.3–6.8% | 5.1–7.1% | 4.9–7.3% | 4.6–7.7% |
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 7.5% | 6.8–8.4% | 6.5–8.6% | 6.4–8.9% | 6.0–9.3% |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
@@ -200,12 +200,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% | Last Result |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 8% | 99.5% |  |
-| 5.5–6.5% | 24% | 91% |  |
-| 6.5–7.5% | 36% | 67% | Median |
-| 7.5–8.5% | 26% | 31% |  |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 11% | 99.5% |  |
+| 5.5–6.5% | 33% | 88% |  |
+| 6.5–7.5% | 32% | 55% | Median |
+| 7.5–8.5% | 20% | 24% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -219,10 +219,10 @@ Last result: **4** seats (General Election of 5 June 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 9–15 | 8–17 |
 | [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 10 | 9–12 | 9–13 | 9–13 | 8–15 |
-| [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter | 12 | 10–12 | 10–13 | 10–13 | 9–14 |
+| [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter | 12 | 10–12 | 10–13 | 9–13 | 8–14 |
 | [13–19 December 2021](2021-12-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [6–11 December 2021](2021-12-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup |  |  |  |  |  |
+| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup | 12 | 10–12 | 9–12 | 9–13 | 9–14 |
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 14 | 13–14 | 12–15 | 12–15 | 12–17 |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 9 | 8–10 | 7–11 | 7–11 | 6–13 |
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 10 | 9–10 | 9–11 | 9–11 | 8–13 |
@@ -410,17 +410,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.8% | 100% |  |
-| 9 | 3% | 99.1% |  |
-| 10 | 18% | 96% |  |
-| 11 | 8% | 78% |  |
-| 12 | 31% | 70% | Median |
-| 13 | 17% | 39% |  |
-| 14 | 17% | 22% |  |
-| 15 | 3% | 5% |  |
-| 16 | 0.6% | 2% |  |
-| 17 | 2% | 2% |  |
-| 18 | 0.2% | 0.2% |  |
+| 8 | 0.7% | 100% |  |
+| 9 | 4% | 99.3% |  |
+| 10 | 20% | 95% |  |
+| 11 | 10% | 76% |  |
+| 12 | 36% | 66% | Median |
+| 13 | 14% | 30% |  |
+| 14 | 13% | 17% |  |
+| 15 | 2% | 4% |  |
+| 16 | 0.4% | 2% |  |
+| 17 | 1.1% | 1.3% |  |
+| 18 | 0.1% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
 
