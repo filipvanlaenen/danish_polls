@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_polls</id>
   <title>All Registered Polls for the Folketinget</title>
-  <updated>2022-01-16T17:06:36.570307+01:00</updated>
+  <updated>2022-01-22T12:50:25.273261+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 21.2–26.9%, 40–47 seats</li><li>Dansk Folkeparti: 3.3–6.1%, 7–9 seats</li><li>Venstre: 9.6–13.9%, 16–25 seats</li><li>Enhedslisten–De Rød-Grønne: 7.6–11.6%, 14–20 seats</li><li>Liberal Alliance: 1.8–4.0%, 0–7 seats</li><li>Alternativet: 0.3–1.5%, 0 seats</li><li>Radikale Venstre: 5.3–8.8%, 11–16 seats</li><li>Socialistisk Folkeparti: 7.2–11.1%, 13–19 seats</li><li>Det Konservative Folkeparti: 16.4–21.6%, 29–37 seats</li><li>Kristendemokraterne: 1.0–2.7%, 0–4 seats</li><li>Nye Borgerlige: 6.3–9.9%, 11–19 seats</li><li>Veganerpartiet: 0.1–1.0%, 0 seats</li><li>Moderaterne: 1.4–3.4%, 0–7 seats</li><li>Frie Grønne: 0.1–0.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_polls/2022-01-20-Megafon.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_polls/2022-01-20-Megafon.html"/>
+    <title>Opinion Poll by Megafon, 10–20 January 2022</title>
+    <updated>2022-01-22T12:34:42.070384+01:00</updated>
+    <dc:date>2022-01-22T12:34:42.070384+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 23.2–28.6%, 41–52 seats</li><li>Dansk Folkeparti: 4.1–6.9%, 7–12 seats</li><li>Venstre: 13.0–17.4%, 23–32 seats</li><li>Enhedslisten–De Rød-Grønne: 7.6–11.2%, 13–21 seats</li><li>Liberal Alliance: 2.3–4.6%, 4–8 seats</li><li>Alternativet: 0.6–2.0%, 0–4 seats</li><li>Radikale Venstre: 6.0–9.3%, 11–17 seats</li><li>Socialistisk Folkeparti: 6.9–10.4%, 12–19 seats</li><li>Det Konservative Folkeparti: 12.5–16.9%, 22–31 seats</li><li>Kristendemokraterne: 0.8–2.3%, 0–4 seats</li><li>Nye Borgerlige: 4.6–7.5%, 8–13 seats</li><li>Frie Grønne: 0.1–0.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_polls/2022-01-16-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_polls/2022-01-16-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 10–16 January 2022</title>
+    <updated>2022-01-22T12:50:25.273261+01:00</updated>
+    <dc:date>2022-01-22T12:50:25.273261+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 22.5–27.8%, 42–48 seats</li><li>Dansk Folkeparti: 4.8–7.9%, 9–15 seats</li><li>Venstre: 14.3–18.9%, 27–33 seats</li><li>Enhedslisten–De Rød-Grønne: 7.3–10.8%, 13–19 seats</li><li>Liberal Alliance: 1.7–3.7%, 0–6 seats</li><li>Alternativet: 0.7–2.1%, 0 seats</li><li>Radikale Venstre: 5.7–9.0%, 10–16 seats</li><li>Socialistisk Folkeparti: 7.0–10.5%, 14–19 seats</li><li>Det Konservative Folkeparti: 12.9–17.3%, 24–31 seats</li><li>Kristendemokraterne: 1.1–2.8%, 0–4 seats</li><li>Nye Borgerlige: 4.7–7.6%, 9–13 seats</li><li>Frie Grønne: 0.0–0.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_polls/2022-01-08-Voxmeter.html</id>
@@ -1223,5 +1239,5 @@
     <updated>2020-08-12T21:01:32+02:00</updated>
     <dc:date>2020-08-12T21:01:32+02:00</dc:date>
   </entry>
-  <dc:date>2022-01-16T17:06:36.570307+01:00</dc:date>
+  <dc:date>2022-01-22T12:50:25.273261+01:00</dc:date>
 </feed>
