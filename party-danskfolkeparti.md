@@ -10,7 +10,10 @@ Last result: **8.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.2–7.4% | 3.9–7.9% | 3.7–8.2% | 3.3–8.9% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.2–6.4% | 3.9–6.7% | 3.7–7.0% | 3.3–7.5% |
+| [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.2% | 3.9–7.7% |
+| [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter | 6.2% | N/A | N/A | N/A | N/A |
+| [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 6.0% | 5.3–6.8% | 5.1–7.0% | 4.9–7.3% | 4.6–7.7% |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 7.1% | 6.2–8.2% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [17–23 January 2022](2022-01-23-Voxmeter.html) | Voxmeter | 5.5% | N/A | N/A | N/A | N/A |
 | [10–20 January 2022](2022-01-20-Megafon.html) | Megafon | 4.5% | 3.7–5.6% | 3.5–5.9% | 3.3–6.1% | 3.0–6.7% |
@@ -205,12 +208,10 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 1.5% | 100% |  |
 | 3.5–4.5% | 20% | 98.5% |  |
 | 4.5–5.5% | 40% | 79% | Median |
-| 5.5–6.5% | 18% | 38% |  |
-| 6.5–7.5% | 12% | 20% |  |
-| 7.5–8.5% | 7% | 8% |  |
-| 8.5–9.5% | 1.2% | 1.3% | Last Result |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 5.5–6.5% | 31% | 39% |  |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -221,7 +222,10 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–13 | 8–15 | 7–15 | 7–16 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
+| [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 10 | 8–11 | 8–12 | 8–12 | 8–13 |
+| [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 11 | 11 | 11 | 10–12 | 9–12 |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 13 | 11–15 | 10–15 | 10–16 | 9–18 |
 | [17–23 January 2022](2022-01-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [10–20 January 2022](2022-01-20-Megafon.html) | Megafon | 8 | 7–9 | 7–9 | 7–9 | 6–11 |
@@ -417,17 +421,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.1% | 100% |  |
 | 6 | 0.2% | 99.9% |  |
 | 7 | 4% | 99.7% |  |
-| 8 | 26% | 95% |  |
-| 9 | 24% | 70% | Median |
-| 10 | 10% | 46% |  |
-| 11 | 13% | 36% |  |
-| 12 | 7% | 23% |  |
-| 13 | 9% | 16% |  |
-| 14 | 2% | 8% |  |
-| 15 | 4% | 5% |  |
-| 16 | 0.6% | 0.9% | Last Result |
-| 17 | 0.1% | 0.3% |  |
-| 18 | 0.2% | 0.2% |  |
-| 19 | 0% | 0% |  |
+| 8 | 18% | 96% |  |
+| 9 | 24% | 77% |  |
+| 10 | 18% | 53% | Median |
+| 11 | 32% | 35% |  |
+| 12 | 3% | 4% |  |
+| 13 | 0.7% | 0.7% |  |
+| 14 | 0% | 0.1% |  |
+| 15 | 0% | 0% |  |
+| 16 | 0% | 0% | Last Result |
 
 
