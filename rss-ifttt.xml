@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Folketinget</description>
     <pubDate>Wed, 22 Jul 2020 19:46:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 2–8 May 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 2–8 May 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter-seating-plan.png" length="0" type="image/png"/>
+      <pubDate>Wed, 11 May 2022 21:02:35 +0200</pubDate>
+      <dc:date>2022-05-11T21:02:35.727853+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 2–8 May 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter.html#seats</link>
+      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 2–8 May 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter-seats.png" length="0" type="image/png"/>
+      <pubDate>Wed, 11 May 2022 21:02:35 +0200</pubDate>
+      <dc:date>2022-05-11T21:02:35.727853+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 2–8 May 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 2–8 May 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-05-08-Voxmeter.png" length="0" type="image/png"/>
+      <pubDate>Wed, 11 May 2022 21:02:35 +0200</pubDate>
+      <dc:date>2022-05-11T21:02:35.727853+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Epinion for DR, 20–27 April 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_polls/2022-04-27-Epinion.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Epinion for DR, 20–27 April 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-04-27-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-04-27-Epinion-seating-plan.png"/>]]></description>
@@ -196,54 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-03-24-Megafon.png" length="0" type="image/png"/>
       <pubDate>Sat, 26 Mar 2022 20:19:51 +0100</pubDate>
       <dc:date>2022-03-26T20:19:51.076941+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 14–20 March 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 14–20 March 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter-seating-plan.png" length="648522" type="image/png"/>
-      <pubDate>Sat, 26 Mar 2022 21:08:41 +0100</pubDate>
-      <dc:date>2022-03-26T21:08:41.760288+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 14–20 March 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Voxmeter, 14–20 March 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter-seats.png" length="0" type="image/png"/>
-      <pubDate>Sat, 26 Mar 2022 21:08:41 +0100</pubDate>
-      <dc:date>2022-03-26T21:08:41.760288+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 14–20 March 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Voxmeter, 14–20 March 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-03-20-Voxmeter.png" length="0" type="image/png"/>
-      <pubDate>Sat, 26 Mar 2022 21:08:41 +0100</pubDate>
-      <dc:date>2022-03-26T21:08:41.760288+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion for DR, 8–15 March 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Epinion for DR, 8–15 March 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion-seating-plan.png" length="643428" type="image/png"/>
-      <pubDate>Sun, 20 Mar 2022 16:37:30 +0100</pubDate>
-      <dc:date>2022-03-20T16:37:30.520311+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion for DR, 8–15 March 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion.html#seats</link>
-      <description><![CDATA[Seat projections for the Folketinget<br/>90 seats needed for a majority<br/>Opinion poll by Epinion for DR, 8–15 March 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion-seats.png" length="0" type="image/png"/>
-      <pubDate>Sun, 20 Mar 2022 16:37:30 +0100</pubDate>
-      <dc:date>2022-03-20T16:37:30.520311+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion for DR, 8–15 March 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion.html</link>
-      <description><![CDATA[Voting intentions for the Folketinget<br/>Opinion poll by Epinion for DR, 8–15 March 2022<br/>Details on https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_polls/2022-03-15-Epinion.png" length="0" type="image/png"/>
-      <pubDate>Sun, 20 Mar 2022 16:37:30 +0100</pubDate>
-      <dc:date>2022-03-20T16:37:30.520311+01:00</dc:date>
     </item>
   </channel>
 </rss>
