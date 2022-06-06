@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_polls</id>
   <title>All Registered Polls for the Folketinget</title>
-  <updated>2022-05-26T14:25:33.869528+02:00</updated>
+  <updated>2022-06-06T14:30:23.895784+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 22.3–27.6%, 41–49 seats</li><li>Dansk Folkeparti: 2.9–5.4%, 6–9 seats</li><li>Venstre: 13.9–18.5%, 25–34 seats</li><li>Enhedslisten–De Rød-Grønne: 6.2–9.5%, 12–18 seats</li><li>Liberal Alliance: 2.6–5.0%, 5–9 seats</li><li>Alternativet: 0.8–2.2%, 0 seats</li><li>Radikale Venstre: 5.7–8.9%, 10–17 seats</li><li>Socialistisk Folkeparti: 7.8–11.5%, 14–21 seats</li><li>Det Konservative Folkeparti: 12.8–17.2%, 23–32 seats</li><li>Kristendemokraterne: 0.3–1.4%, 0 seats</li><li>Nye Borgerlige: 5.5–8.6%, 10–17 seats</li><li>Veganerpartiet: 0.1–0.7%, 0 seats</li><li>Moderaterne: 0.8–2.3%, 0–4 seats</li><li>Frie Grønne: 0.3–1.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_polls/2022-05-29-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_polls/2022-05-29-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 23–29 May 2022</title>
+    <updated>2022-06-06T14:30:23.895784+02:00</updated>
+    <dc:date>2022-06-06T14:30:23.895784+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 22.9–28.3%, 42–48 seats</li><li>Dansk Folkeparti: 3.2–5.7%, 6–10 seats</li><li>Venstre: 14.9–19.6%, 27–35 seats</li><li>Enhedslisten–De Rød-Grønne: 6.7–10.2%, 13–18 seats</li><li>Liberal Alliance: 2.8–5.2%, 6–9 seats</li><li>Alternativet: 0.5–1.8%, 0 seats</li><li>Radikale Venstre: 5.8–9.1%, 10–16 seats</li><li>Socialistisk Folkeparti: 7.3–10.8%, 13–19 seats</li><li>Det Konservative Folkeparti: 11.3–15.5%, 21–28 seats</li><li>Kristendemokraterne: 0.9–2.5%, 0–4 seats</li><li>Nye Borgerlige: 5.6–8.7%, 10–16 seats</li><li>Moderaterne: 0.9–2.5%, 0–4 seats</li><li>Frie Grønne: 0.1–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_polls/2022-05-22-Voxmeter.html</id>
@@ -1431,5 +1439,5 @@
     <updated>2020-08-12T21:01:32+02:00</updated>
     <dc:date>2020-08-12T21:01:32+02:00</dc:date>
   </entry>
-  <dc:date>2022-05-26T14:25:33.869528+02:00</dc:date>
+  <dc:date>2022-06-06T14:30:23.895784+02:00</dc:date>
 </feed>
