@@ -10,7 +10,11 @@ Last result: **8.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.1–6.0% | 3.9–6.2% | 3.7–6.5% | 3.4–6.9% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.2–5.7% | 2.9–6.0% | 2.7–6.2% | 2.4–6.6% |
+| [20–23 June 2022](2022-06-23-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.2% | 2.7–4.0% | 2.5–4.3% | 2.4–4.5% | 2.1–4.8% |
+| [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [14 June 2022](2022-06-14-Gallup.html) | Gallup <br> Berlingske | 5.3% | 4.6–6.1% | 4.5–6.4% | 4.3–6.6% | 4.0–7.0% |
+| [6–12 June 2022](2022-06-12-Voxmeter.html) | Voxmeter | 5.6% | N/A | N/A | N/A | N/A |
 | [30 May–5 June 2022](2022-06-05-Voxmeter.html) | Voxmeter | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [23–29 May 2022](2022-05-29-Voxmeter.html) | Voxmeter | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [22–29 May 2022](2022-05-29-Epinion.html) | Epinion <br> DR | 5.3% | 4.7–6.0% | 4.5–6.2% | 4.4–6.3% | 4.1–6.7% |
@@ -230,12 +234,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.3% | 100% |  |
-| 3.5–4.5% | 23% | 98.7% |  |
-| 4.5–5.5% | 51% | 75% | Median |
-| 5.5–6.5% | 23% | 25% |  |
-| 6.5–7.5% | 2% | 2% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 1.2% | 100% |  |
+| 2.5–3.5% | 15% | 98.8% |  |
+| 3.5–4.5% | 29% | 83% |  |
+| 4.5–5.5% | 39% | 54% | Median |
+| 5.5–6.5% | 15% | 16% |  |
+| 6.5–7.5% | 0.7% | 0.7% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% | Last Result |
 
@@ -248,7 +253,11 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 7–11 | 7–12 | 6–12 |
+| N/A | [Poll Average](average.html) | 8 | 5–10 | 5–10 | 5–12 | 5–12 |
+| [20–23 June 2022](2022-06-23-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 5 | 5–6 | 5–7 | 4–8 |
+| [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter | 7 | 7–9 | 7–10 | 6–10 | 5–11 |
+| [14 June 2022](2022-06-14-Gallup.html) | Gallup <br> Berlingske | 10 | 10 | 9–10 | 8–11 | 8–12 |
+| [6–12 June 2022](2022-06-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [30 May–5 June 2022](2022-06-05-Voxmeter.html) | Voxmeter | 9 | 8–11 | 8–11 | 7–11 | 7–11 |
 | [23–29 May 2022](2022-05-29-Voxmeter.html) | Voxmeter | 7 | 7–9 | 6–9 | 6–9 | 5–10 |
 | [22–29 May 2022](2022-05-29-Epinion.html) | Epinion <br> DR | 10 | 9–12 | 8–12 | 8–12 | 8–12 |
@@ -470,13 +479,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
-| 6 | 0.5% | 99.9% |  |
-| 7 | 5% | 99.4% |  |
-| 8 | 23% | 95% |  |
-| 9 | 30% | 72% | Median |
-| 10 | 18% | 42% |  |
-| 11 | 21% | 24% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 18% | 99.7% |  |
+| 6 | 1.3% | 82% |  |
+| 7 | 17% | 80% |  |
+| 8 | 21% | 63% | Median |
+| 9 | 11% | 42% |  |
+| 10 | 27% | 31% |  |
+| 11 | 2% | 4% |  |
 | 12 | 3% | 3% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
