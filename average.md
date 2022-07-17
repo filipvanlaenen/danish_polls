@@ -742,14 +742,14 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne – Alternativet | 96 | 87 | 39% | 84–92 | 84–94 | 83–95 | 80–97 |
 | Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne | 91 | 87 | 37% | 84–92 | 83–93 | 83–95 | 80–97 |
+| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Borgerlisten – Danmarksdemokraterne – Moderaterne | 79 | 85 | 6% | 67–88 | 63–91 | 63–92 | 60–95 |
 | Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Borgerlisten – Moderaterne | 79 | 84 | 5% | 67–88 | 63–90 | 63–92 | 60–92 |
-| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Borgerlisten – Danmarksdemokraterne – Moderaterne | 79 | 81 | 2% | 63–88 | 63–88 | 63–89 | 59–96 |
 | Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Stram Kurs – Kristendemokraterne – Borgerlisten | 79 | 79 | 0% | 63–84 | 61–84 | 59–85 | 59–88 |
 | Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Borgerlisten | 79 | 79 | 0% | 63–84 | 61–84 | 59–85 | 59–88 |
 | Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Borgerlisten | 79 | 79 | 0% | 63–84 | 61–84 | 59–85 | 58–88 |
+| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Danmarksdemokraterne | 79 | 79 | 0.1% | 64–84 | 61–85 | 59–85 | 59–88 |
 | Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne | 79 | 79 | 0% | 63–84 | 61–84 | 59–85 | 59–88 |
 | Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance | 79 | 79 | 0% | 63–84 | 61–84 | 59–85 | 58–88 |
-| Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Danmarksdemokraterne | 79 | 75 | 0.1% | 61–81 | 59–81 | 59–83 | 56–89 |
 | Socialdemokraterne – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne – Alternativet | 80 | 78 | 0% | 73–82 | 72–82 | 72–82 | 68–86 |
 | Socialdemokraterne – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne | 75 | 78 | 0% | 73–82 | 72–82 | 72–82 | 68–86 |
 | Socialdemokraterne – Radikale Venstre – Socialistisk Folkeparti | 78 | 74 | 0% | 70–79 | 70–79 | 69–80 | 68–84 |
@@ -819,6 +819,55 @@ Only polls for which at least the sample size has been published are included in
 | 97 | 0.6% | 0.7% |  |
 | 98 | 0% | 0% |  |
 
+### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Borgerlisten – Danmarksdemokraterne – Moderaterne
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–k–e–æ–m.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 58 | 0% | 100% |  |
+| 59 | 0.4% | 99.9% |  |
+| 60 | 0.2% | 99.5% |  |
+| 61 | 0% | 99.3% |  |
+| 62 | 0.1% | 99.3% |  |
+| 63 | 4% | 99.2% |  |
+| 64 | 0.3% | 95% |  |
+| 65 | 2% | 95% |  |
+| 66 | 2% | 92% |  |
+| 67 | 0.8% | 91% |  |
+| 68 | 0.9% | 90% |  |
+| 69 | 0.7% | 89% |  |
+| 70 | 0.5% | 88% |  |
+| 71 | 0.4% | 88% |  |
+| 72 | 0.2% | 87% |  |
+| 73 | 7% | 87% |  |
+| 74 | 0.1% | 80% |  |
+| 75 | 0% | 80% |  |
+| 76 | 0% | 80% |  |
+| 77 | 0% | 80% |  |
+| 78 | 0.6% | 80% |  |
+| 79 | 0.6% | 79% | Last Result |
+| 80 | 0.5% | 79% |  |
+| 81 | 0.3% | 78% |  |
+| 82 | 0.4% | 78% |  |
+| 83 | 6% | 78% |  |
+| 84 | 5% | 72% |  |
+| 85 | 18% | 67% |  |
+| 86 | 4% | 49% |  |
+| 87 | 0.4% | 45% |  |
+| 88 | 37% | 45% |  |
+| 89 | 2% | 8% |  |
+| 90 | 0.9% | 6% | Majority |
+| 91 | 0.5% | 5% |  |
+| 92 | 4% | 5% |  |
+| 93 | 0.2% | 0.7% |  |
+| 94 | 0% | 0.6% |  |
+| 95 | 0.1% | 0.5% |  |
+| 96 | 0.2% | 0.4% |  |
+| 97 | 0.1% | 0.2% |  |
+| 98 | 0.1% | 0.1% |  |
+| 99 | 0% | 0% | Median |
+
 ### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Borgerlisten – Moderaterne
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–k–e–m.png "Seats Probability Mass Function")
@@ -865,57 +914,6 @@ Only polls for which at least the sample size has been published are included in
 | 95 | 0% | 0.2% |  |
 | 96 | 0.2% | 0.2% |  |
 | 97 | 0% | 0% |  |
-
-### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Borgerlisten – Danmarksdemokraterne – Moderaterne
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–k–e–æ–m.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0% | 100% |  |
-| 57 | 0% | 99.9% |  |
-| 58 | 0.1% | 99.9% |  |
-| 59 | 1.0% | 99.8% |  |
-| 60 | 0.5% | 98.8% |  |
-| 61 | 0.1% | 98% |  |
-| 62 | 0.3% | 98% |  |
-| 63 | 11% | 98% |  |
-| 64 | 0.7% | 87% |  |
-| 65 | 5% | 86% |  |
-| 66 | 4% | 81% |  |
-| 67 | 2% | 77% |  |
-| 68 | 2% | 75% |  |
-| 69 | 2% | 72% |  |
-| 70 | 1.2% | 71% |  |
-| 71 | 0.9% | 70% |  |
-| 72 | 0.4% | 69% |  |
-| 73 | 18% | 68% |  |
-| 74 | 0.3% | 50% |  |
-| 75 | 0.1% | 50% |  |
-| 76 | 0% | 50% |  |
-| 77 | 0% | 50% |  |
-| 78 | 0% | 50% |  |
-| 79 | 0% | 50% | Last Result |
-| 80 | 0% | 50% |  |
-| 81 | 0% | 50% |  |
-| 82 | 0% | 50% |  |
-| 83 | 0% | 50% |  |
-| 84 | 0% | 50% |  |
-| 85 | 0% | 50% |  |
-| 86 | 0% | 50% |  |
-| 87 | 0% | 50% |  |
-| 88 | 45% | 50% |  |
-| 89 | 2% | 5% |  |
-| 90 | 0% | 2% | Majority |
-| 91 | 0.4% | 2% |  |
-| 92 | 0.7% | 2% |  |
-| 93 | 0.2% | 1.0% |  |
-| 94 | 0% | 0.8% |  |
-| 95 | 0.2% | 0.7% |  |
-| 96 | 0.1% | 0.5% |  |
-| 97 | 0.3% | 0.5% |  |
-| 98 | 0.2% | 0.2% |  |
-| 99 | 0% | 0% | Median |
 
 ### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Stram Kurs – Kristendemokraterne – Borgerlisten
 
@@ -1049,6 +1047,52 @@ Only polls for which at least the sample size has been published are included in
 | 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% | Majority |
 
+### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Danmarksdemokraterne
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–k–æ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 54 | 0.1% | 100% |  |
+| 55 | 0.1% | 99.9% |  |
+| 56 | 0.1% | 99.8% |  |
+| 57 | 0% | 99.8% |  |
+| 58 | 0.3% | 99.8% |  |
+| 59 | 3% | 99.5% |  |
+| 60 | 0.4% | 96% |  |
+| 61 | 3% | 96% |  |
+| 62 | 0.3% | 93% |  |
+| 63 | 2% | 92% |  |
+| 64 | 0.5% | 90% |  |
+| 65 | 0.3% | 90% |  |
+| 66 | 0.5% | 89% |  |
+| 67 | 0.6% | 89% |  |
+| 68 | 8% | 88% |  |
+| 69 | 0.2% | 80% |  |
+| 70 | 0.2% | 80% |  |
+| 71 | 0% | 80% |  |
+| 72 | 0% | 80% |  |
+| 73 | 0% | 80% |  |
+| 74 | 0.7% | 80% |  |
+| 75 | 0.2% | 79% |  |
+| 76 | 0.1% | 79% |  |
+| 77 | 0.4% | 79% |  |
+| 78 | 1.3% | 79% |  |
+| 79 | 33% | 77% | Last Result |
+| 80 | 0.7% | 44% |  |
+| 81 | 19% | 44% |  |
+| 82 | 4% | 24% |  |
+| 83 | 7% | 20% |  |
+| 84 | 9% | 14% |  |
+| 85 | 3% | 5% |  |
+| 86 | 0.6% | 2% |  |
+| 87 | 0.3% | 1.4% |  |
+| 88 | 0.7% | 1.1% |  |
+| 89 | 0.3% | 0.4% |  |
+| 90 | 0% | 0.1% | Majority |
+| 91 | 0% | 0.1% |  |
+| 92 | 0% | 0% |  |
+
 ### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–k.png "Seats Probability Mass Function")
@@ -1136,52 +1180,6 @@ Only polls for which at least the sample size has been published are included in
 | 88 | 0.7% | 0.9% |  |
 | 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% | Majority |
-
-### Venstre – Dansk Folkeparti – Det Konservative Folkeparti – Nye Borgerlige – Liberal Alliance – Kristendemokraterne – Danmarksdemokraterne
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–o–c–d–i–k–æ.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 53 | 0.1% | 100% |  |
-| 54 | 0.1% | 99.9% |  |
-| 55 | 0.2% | 99.8% |  |
-| 56 | 0.1% | 99.6% |  |
-| 57 | 0.1% | 99.5% |  |
-| 58 | 0.6% | 99.4% |  |
-| 59 | 8% | 98.8% |  |
-| 60 | 1.1% | 91% |  |
-| 61 | 8% | 90% |  |
-| 62 | 0.8% | 82% |  |
-| 63 | 6% | 81% |  |
-| 64 | 1.2% | 75% |  |
-| 65 | 0.8% | 74% |  |
-| 66 | 1.3% | 73% |  |
-| 67 | 1.4% | 72% |  |
-| 68 | 19% | 70% |  |
-| 69 | 0.5% | 51% |  |
-| 70 | 0.5% | 51% |  |
-| 71 | 0.1% | 50% |  |
-| 72 | 0% | 50% |  |
-| 73 | 0.1% | 50% |  |
-| 74 | 0% | 50% |  |
-| 75 | 0% | 50% |  |
-| 76 | 0% | 50% |  |
-| 77 | 0% | 50% |  |
-| 78 | 0% | 50% |  |
-| 79 | 0% | 50% | Last Result |
-| 80 | 0% | 50% |  |
-| 81 | 45% | 50% |  |
-| 82 | 0% | 5% |  |
-| 83 | 2% | 5% |  |
-| 84 | 0% | 2% |  |
-| 85 | 0.3% | 2% |  |
-| 86 | 1.2% | 2% |  |
-| 87 | 0% | 0.6% |  |
-| 88 | 0% | 0.6% |  |
-| 89 | 0.4% | 0.5% |  |
-| 90 | 0.1% | 0.1% | Majority |
-| 91 | 0% | 0% |  |
 
 ### Socialdemokraterne – Socialistisk Folkeparti – Enhedslisten–De Rød-Grønne – Alternativet
 
@@ -1480,6 +1478,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 3.34%
