@@ -13,7 +13,7 @@ Last result: **25.9%** (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 26.1% | 21.8–29.2% | 20.8–30.0% | 20.2–30.6% | 19.1–31.7% |
 | [4–7 July 2022](2022-07-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 21.7% | 20.0–23.6% | 19.5–24.1% | 19.1–24.6% | 18.3–25.5% |
 | [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter | 25.7% | 24.0–27.6% | 23.5–28.1% | 23.1–28.5% | 22.3–29.4% |
-| [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 26.3% | N/A | N/A | N/A | N/A |
+| [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.2% | 22.9–30.1% |
 | [20–23 June 2022](2022-06-23-Megafon.html) | Megafon <br> Politiken and TV 2 | 24.6% | 23.0–26.3% | 22.6–26.8% | 22.2–27.2% | 21.5–28.0% |
 | [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter | 26.5% | 24.8–28.3% | 24.3–28.8% | 23.9–29.3% | 23.1–30.1% |
 | [14 June 2022](2022-06-14-Gallup.html) | Gallup <br> Berlingske | 25.4% | 24.0–26.9% | 23.6–27.3% | 23.3–27.6% | 22.6–28.3% |
@@ -268,7 +268,7 @@ Last result: **48** seats (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 45 | 39–54 | 39–54 | 39–54 | 34–55 |
 | [4–7 July 2022](2022-07-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 39 | 39 | 34–39 | 34–39 | 33–42 |
 | [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter | 45 | 44–49 | 43–49 | 42–52 | 40–53 |
-| [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 50 | 45–51 | 42–51 | 41–52 | 41–53 |
 | [20–23 June 2022](2022-06-23-Megafon.html) | Megafon <br> Politiken and TV 2 | 44 | 44 | 42–44 | 40–45 | 39–49 |
 | [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter | 46 | 45–51 | 44–51 | 42–51 | 41–52 |
 | [14 June 2022](2022-06-14-Gallup.html) | Gallup <br> Berlingske | 45 | 45 | 44–46 | 43–49 | 42–50 |
