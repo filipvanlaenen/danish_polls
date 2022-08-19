@@ -10,13 +10,13 @@ Last result: **2.4%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 2.5–6.5% | 2.3–6.8% | 2.2–7.1% | 1.9–7.7% |
+| N/A | [Poll Average](average.html) | 5.1% | 2.9–6.5% | 2.6–6.8% | 2.4–7.0% | 2.0–7.6% |
 | [15–18 August 2022](2022-08-18-Megafon.html) | Megafon <br> Politiken and TV 2 | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter | 5.8% | 5.0–6.8% | 4.7–7.1% | 4.5–7.4% | 4.2–7.9% |
-| [7 August 2022](2022-08-07-Yougov.html) | Yougov | 5.2% | N/A | N/A | N/A | N/A |
+| [7 August 2022](2022-08-07-Yougov.html) | Yougov | 5.2% | 4.5–6.1% | 4.3–6.4% | 4.1–6.6% | 3.8–7.1% |
 | [1–6 August 2022](2022-08-06-Voxmeter.html) | Voxmeter | 4.7% | N/A | N/A | N/A | N/A |
-| [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske | 6.0% | N/A | N/A | N/A | N/A |
-| [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR | 4.4% | N/A | N/A | N/A | N/A |
+| [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske | 6.0% | 5.3–6.9% | 5.1–7.1% | 5.0–7.3% | 4.6–7.7% |
+| [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR | 4.4% | 3.9–5.1% | 3.7–5.3% | 3.6–5.5% | 3.3–5.8% |
 | [4–7 July 2022](2022-07-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 4.3% | 3.5–5.3% | 3.3–5.6% | 3.1–5.8% | 2.8–6.3% |
 | [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 5.8% | 4.9–6.9% | 4.7–7.1% | 4.5–7.4% | 4.1–8.0% |
@@ -244,13 +244,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 11% | 100% | Last Result |
-| 2.5–3.5% | 32% | 89% |  |
-| 3.5–4.5% | 8% | 57% | Median |
-| 4.5–5.5% | 15% | 49% |  |
-| 5.5–6.5% | 25% | 33% |  |
-| 6.5–7.5% | 8% | 9% |  |
-| 7.5–8.5% | 0.8% | 0.8% |  |
+| 1.5–2.5% | 4% | 100% | Last Result |
+| 2.5–3.5% | 13% | 96% |  |
+| 3.5–4.5% | 17% | 82% |  |
+| 4.5–5.5% | 29% | 65% | Median |
+| 5.5–6.5% | 28% | 37% |  |
+| 6.5–7.5% | 8% | 8% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -262,13 +262,13 @@ Last result: **4** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–9 | 5–10 | 4–11 | 4–13 |
+| N/A | [Poll Average](average.html) | 8 | 5–11 | 5–12 | 5–12 | 4–13 |
 | [15–18 August 2022](2022-08-18-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 5–6 | 4–7 | 4–7 | 0–8 |
 | [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter | 8 | 8–9 | 8–11 | 8–12 | 8–13 |
-| [7 August 2022](2022-08-07-Yougov.html) | Yougov |  |  |  |  |  |
+| [7 August 2022](2022-08-07-Yougov.html) | Yougov | 9 | 8–12 | 8–12 | 8–12 | 8–12 |
 | [1–6 August 2022](2022-08-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
-| [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske | 11 | 10–12 | 9–12 | 9–12 | 8–13 |
+| [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [4–7 July 2022](2022-07-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 8 | 8 | 8 | 7–8 | 5–11 |
 | [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter | 7 | 7–9 | 6–9 | 6–10 | 5–12 |
 | [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 9 | 9–12 | 8–13 | 8–13 | 8–15 |
@@ -497,22 +497,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 0% | 99.5% |  |
-| 2 | 0% | 99.5% |  |
-| 3 | 0% | 99.5% |  |
-| 4 | 3% | 99.5% | Last Result |
-| 5 | 25% | 96% |  |
-| 6 | 17% | 71% |  |
-| 7 | 4% | 54% |  |
-| 8 | 34% | 51% | Median |
-| 9 | 12% | 17% |  |
-| 10 | 0.4% | 5% |  |
-| 11 | 3% | 5% |  |
-| 12 | 0.4% | 1.5% |  |
-| 13 | 1.0% | 1.0% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0% | 99.8% |  |
+| 4 | 1.3% | 99.8% | Last Result |
+| 5 | 10% | 98% |  |
+| 6 | 7% | 88% |  |
+| 7 | 3% | 82% |  |
+| 8 | 34% | 79% | Median |
+| 9 | 16% | 45% |  |
+| 10 | 7% | 29% |  |
+| 11 | 17% | 22% |  |
+| 12 | 5% | 6% |  |
+| 13 | 0.9% | 1.0% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
