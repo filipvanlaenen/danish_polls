@@ -14,7 +14,7 @@ Last result: **6.9%** (General Election of 5 June 2019)
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.5% |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 8.7% | 7.9–9.7% | 7.6–10.0% | 7.4–10.2% | 7.0–10.7% |
 | [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.8–10.2% | 6.3–10.8% |
-| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 7.3% | N/A | N/A | N/A | N/A |
+| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 7.3% | 6.3–8.4% | 6.1–8.8% | 5.8–9.1% | 5.4–9.6% |
 | [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 8.1% | 7.4–8.9% | 7.2–9.1% | 7.0–9.3% | 6.7–9.7% |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 | [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter | 7.7% | N/A | N/A | N/A | N/A |
@@ -278,7 +278,7 @@ Last result: **13** seats (General Election of 5 June 2019)
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 16 | 13–17 | 12–17 | 12–17 | 11–19 |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 16 | 14–17 | 14–18 | 14–18 | 13–18 |
 | [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 19 | 14–19 | 13–19 | 13–19 | 12–19 |
-| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 15 | 12–17 | 12–17 | 11–17 | 9–17 |
 | [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 15 | 15–16 | 14–17 | 13–17 | 13–17 |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 14 | 13–18 | 13–19 | 12–19 | 11–20 |
 | [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
