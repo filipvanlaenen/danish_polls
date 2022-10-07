@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.3–5.0% | 2.0–5.3% | 1.8–5.6% | 1.5–6.1% |
+| N/A | [Poll Average](average.html) | 3.9% | 2.3–6.3% | 2.0–6.8% | 1.8–7.2% | 1.5–7.9% |
+| [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 6.2% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
+| [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 3.7% | 3.2–4.3% | 3.1–4.5% | 3.0–4.7% | 2.7–5.0% |
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 3.4% | 2.9–4.1% | 2.8–4.3% | 2.6–4.4% | 2.4–4.8% |
 | [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.3–5.9% | 3.0–6.4% |
@@ -258,12 +260,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.9% | 100% |  |
 | 1.5–2.5% | 14% | 99.1% |  |
-| 2.5–3.5% | 32% | 85% |  |
-| 3.5–4.5% | 32% | 53% | Median |
-| 4.5–5.5% | 18% | 21% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 24% | 85% |  |
+| 3.5–4.5% | 30% | 62% | Median |
+| 4.5–5.5% | 14% | 32% |  |
+| 5.5–6.5% | 11% | 18% |  |
+| 6.5–7.5% | 6% | 7% |  |
+| 7.5–8.5% | 1.1% | 1.2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -274,7 +278,9 @@ Last result: **0** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 0–9 | 0–9 | 0–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 7 | 0–11 | 0–13 | 0–13 | 0–15 |
+| [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 11 | 9–13 | 9–14 | 9–15 | 8–15 |
+| [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 5 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 9 | 8–9 | 7–10 | 7–10 | 6–10 |
@@ -526,13 +532,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 88% |  |
 | 3 | 0% | 88% |  |
 | 4 | 3% | 88% |  |
-| 5 | 17% | 85% |  |
-| 6 | 25% | 68% | Median |
-| 7 | 6% | 43% |  |
-| 8 | 8% | 37% |  |
-| 9 | 26% | 28% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 5 | 19% | 85% |  |
+| 6 | 15% | 66% |  |
+| 7 | 11% | 51% | Median |
+| 8 | 9% | 40% |  |
+| 9 | 13% | 31% |  |
+| 10 | 5% | 18% |  |
+| 11 | 4% | 13% |  |
+| 12 | 4% | 10% |  |
+| 13 | 4% | 6% |  |
+| 14 | 1.1% | 2% |  |
+| 15 | 0.8% | 0.8% |  |
+| 16 | 0% | 0% |  |
 
 
