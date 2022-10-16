@@ -10,9 +10,14 @@ Last result: **8.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.3% | 1.5–3.6% | 1.4–3.8% | 1.3–4.3% |
+| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.6% | 1.9–3.9% | 1.7–4.1% | 1.5–4.5% |
+| [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 2.3% | 2.0–2.7% | 1.9–2.9% | 1.8–3.0% | 1.6–3.2% |
+| [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 3.1% | 2.7–3.7% | 2.5–3.8% | 2.4–4.0% | 2.2–4.3% |
+| [11 October 2022](2022-10-11-Yougov.html) | Yougov | 3.4% | 2.8–4.1% | 2.7–4.3% | 2.5–4.5% | 2.3–4.9% |
 | [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [7–9 October 2022](2022-10-09-Megafon.html) | Megafon <br> Politiken and TV | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [7 October 2022](2022-10-07-Yougov.html) | Yougov | 2.9% | N/A | N/A | N/A | N/A |
 | [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
 | [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% | 1.3–3.2% |
 | [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
@@ -262,11 +267,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 59% | 95% | Median |
-| 2.5–3.5% | 30% | 36% |  |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 40% | 99.2% |  |
+| 2.5–3.5% | 47% | 59% | Median |
+| 3.5–4.5% | 12% | 12% |  |
+| 4.5–5.5% | 0.5% | 0.5% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -281,9 +286,14 @@ Last result: **16** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–6 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–7 | 0–7 | 0–7 |
+| [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
+| [11 October 2022](2022-10-11-Yougov.html) | Yougov | 6 | 6 | 6 | 6 | 6–7 |
 | [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 4 | 4 | 4–5 | 0–5 | 0–6 |
 | [7–9 October 2022](2022-10-09-Megafon.html) | Megafon <br> Politiken and TV | 4 | 4–6 | 4–6 | 0–6 | 0–7 |
+| [7 October 2022](2022-10-07-Yougov.html) | Yougov |  |  |  |  |  |
 | [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
@@ -534,16 +544,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% |  |
-| 1 | 0% | 79% |  |
-| 2 | 0% | 79% |  |
-| 3 | 0% | 79% |  |
-| 4 | 53% | 79% | Median |
-| 5 | 12% | 26% |  |
-| 6 | 11% | 14% |  |
-| 7 | 3% | 4% |  |
-| 8 | 0.2% | 0.3% |  |
-| 9 | 0.1% | 0.1% |  |
+| 0 | 24% | 100% |  |
+| 1 | 0% | 76% |  |
+| 2 | 0% | 76% |  |
+| 3 | 0% | 76% |  |
+| 4 | 31% | 76% | Median |
+| 5 | 11% | 45% |  |
+| 6 | 28% | 34% |  |
+| 7 | 5% | 5% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
