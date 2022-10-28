@@ -10,7 +10,10 @@ Last result: **7.7%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 7.1–9.9% | 6.8–10.3% | 6.5–10.7% | 6.0–11.4% |
+| N/A | [Poll Average](average.html) | 8.9% | 7.7–10.2% | 7.4–10.6% | 7.2–10.9% | 6.7–11.7% |
+| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 8.3% | 7.4–9.4% | 7.1–9.7% | 6.9–10.0% | 6.5–10.5% |
+| [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
+| [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske | 9.2% | 8.4–10.1% | 8.2–10.3% | 8.0–10.6% | 7.6–11.0% |
 | [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 9.1% | 8.0–10.4% | 7.7–10.8% | 7.5–11.1% | 7.0–11.8% |
 | [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 8.0% | 7.3–8.8% | 7.1–9.0% | 7.0–9.2% | 6.6–9.6% |
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 7.2% | 6.4–8.2% | 6.2–8.5% | 5.9–8.7% | 5.6–9.2% |
@@ -273,16 +276,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 3% | 99.9% |  |
-| 6.5–7.5% | 15% | 97% |  |
-| 7.5–8.5% | 32% | 82% | Last Result |
-| 8.5–9.5% | 32% | 50% | Median |
-| 9.5–10.5% | 14% | 17% |  |
-| 10.5–11.5% | 3% | 3% |  |
-| 11.5–12.5% | 0.3% | 0.3% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.2% | 100% |  |
+| 6.5–7.5% | 7% | 99.8% |  |
+| 7.5–8.5% | 31% | 93% | Last Result |
+| 8.5–9.5% | 37% | 62% | Median |
+| 9.5–10.5% | 20% | 25% |  |
+| 10.5–11.5% | 5% | 5% |  |
+| 11.5–12.5% | 0.6% | 0.6% |  |
 | 12.5–13.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -293,7 +296,10 @@ Last result: **14** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 11–17 | 11–17 | 11–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 17 | 13–18 | 13–18 | 13–19 | 13–20 |
+| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 16 | 15–17 | 14–17 | 13–18 | 11–18 |
+| [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 18 | 15–18 | 15–19 | 15–20 | 13–21 |
+| [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske | 16 | 15–18 | 14–20 | 14–20 | 13–20 |
 | [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 16 | 16 | 15–16 | 15–17 | 13–20 |
 | [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 13 | 13–17 | 13–17 | 13–17 | 12–17 |
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 11 | 11–13 | 11–15 | 11–17 | 10–17 |
@@ -558,18 +564,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.4% | 100% |  |
-| 11 | 13% | 99.5% |  |
-| 12 | 5% | 87% |  |
-| 13 | 14% | 82% |  |
-| 14 | 2% | 68% | Last Result |
-| 15 | 19% | 66% | Median |
-| 16 | 19% | 47% |  |
-| 17 | 24% | 28% |  |
-| 18 | 3% | 4% |  |
-| 19 | 1.1% | 1.4% |  |
-| 20 | 0.3% | 0.4% |  |
-| 21 | 0% | 0.1% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 0.4% | 99.9% |  |
+| 13 | 14% | 99.5% |  |
+| 14 | 4% | 86% | Last Result |
+| 15 | 23% | 82% |  |
+| 16 | 9% | 60% |  |
+| 17 | 32% | 51% | Median |
+| 18 | 15% | 19% |  |
+| 19 | 2% | 4% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 
