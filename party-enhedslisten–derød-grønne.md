@@ -10,7 +10,8 @@ Last result: **6.9%** (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.0–8.2% | 5.7–8.5% | 5.4–8.8% | 5.0–9.3% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.8–8.2% | 5.4–8.5% | 5.2–8.8% | 4.7–9.3% |
+| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 6.7% | 5.8–7.7% | 5.6–7.9% | 5.4–8.2% | 5.0–8.7% |
 | [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
 | [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske | 8.0% | 7.2–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
@@ -276,12 +277,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 4% | 99.9% |  |
-| 5.5–6.5% | 25% | 96% |  |
-| 6.5–7.5% | 43% | 71% | Last Result, Median |
-| 7.5–8.5% | 24% | 28% |  |
-| 8.5–9.5% | 5% | 5% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 6% | 99.7% |  |
+| 5.5–6.5% | 27% | 93% |  |
+| 6.5–7.5% | 39% | 66% | Last Result, Median |
+| 7.5–8.5% | 22% | 27% |  |
+| 8.5–9.5% | 4% | 5% |  |
 | 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -294,7 +296,8 @@ Last result: **13** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–15 | 11–16 | 9–17 | 9–17 |
+| N/A | [Poll Average](average.html) | 12 | 11–15 | 11–16 | 9–17 | 8–17 |
+| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 12 | 11–12 | 10–13 | 8–13 | 8–13 |
 | [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 12 | 11–14 | 10–14 | 9–15 | 9–15 |
 | [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 12 | 11–12 | 11–13 | 11–13 | 9–15 |
 | [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske | 15 | 13–17 | 13–17 | 11–17 | 11–19 |
@@ -562,16 +565,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.1% | 100% |  |
-| 9 | 3% | 99.9% |  |
-| 10 | 1.1% | 97% |  |
-| 11 | 26% | 96% |  |
-| 12 | 36% | 70% | Median |
+| 8 | 0.7% | 100% |  |
+| 9 | 3% | 99.3% |  |
+| 10 | 2% | 97% |  |
+| 11 | 20% | 95% |  |
+| 12 | 41% | 75% | Median |
 | 13 | 13% | 34% | Last Result |
 | 14 | 5% | 21% |  |
 | 15 | 10% | 16% |  |
 | 16 | 3% | 6% |  |
-| 17 | 3% | 3% |  |
+| 17 | 2% | 3% |  |
 | 18 | 0% | 0.1% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
