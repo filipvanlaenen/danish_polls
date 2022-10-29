@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_polls</id>
   <title>All Registered Polls for the Folketinget</title>
-  <updated>2022-10-28T19:02:15.815831+02:00</updated>
+  <updated>2022-10-29T10:24:37.573546+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 23.5–29.0%, 42–50 seats</li><li>Dansk Folkeparti: 2.1–4.3%, 4–7 seats</li><li>Venstre: 10.6–14.7%, 19–23 seats</li><li>Enhedslisten–De Rød-Grønne: 4.7–7.7%, 8–13 seats</li><li>Liberal Alliance: 5.4–8.5%, 10–13 seats</li><li>Alternativet: 1.4–3.3%, 4–6 seats</li><li>Radikale Venstre: 3.0–5.5%, 7–9 seats</li><li>Socialistisk Folkeparti: 8.1–11.8%, 16–21 seats</li><li>Det Konservative Folkeparti: 4.6–7.5%, 10–12 seats</li><li>Kristendemokraterne: 0.1–0.7%, 0 seats</li><li>Nye Borgerlige: 2.7–5.1%, 6–8 seats</li><li>Moderaterne: 8.3–12.0%, 14–18 seats</li><li>Frie Grønne: 0.4–1.6%, 0 seats</li><li>Danmarksdemokraterne: 7.2–10.7%, 13–17 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_polls/2022-10-27-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_polls/2022-10-27-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 25–27 October 2022</title>
+    <updated>2022-10-29T10:24:37.573546+02:00</updated>
+    <dc:date>2022-10-29T10:24:37.573546+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne: 26.2–31.2%, 47–54 seats</li><li>Dansk Folkeparti: 1.9–3.7%, 0–6 seats</li><li>Venstre: 8.8–12.2%, 17–22 seats</li><li>Enhedslisten–De Rød-Grønne: 5.4–8.2%, 9–15 seats</li><li>Liberal Alliance: 5.8–8.7%, 11–16 seats</li><li>Alternativet: 1.6–3.3%, 0–6 seats</li><li>Radikale Venstre: 2.7–4.8%, 5–8 seats</li><li>Socialistisk Folkeparti: 6.9–10.0%, 13–18 seats</li><li>Det Konservative Folkeparti: 5.3–8.0%, 8–14 seats</li><li>Kristendemokraterne: 0.2–1.0%, 0 seats</li><li>Nye Borgerlige: 3.3–5.5%, 6–9 seats</li><li>Moderaterne: 8.1–11.4%, 15–20 seats</li><li>Frie Grønne: 0.4–1.4%, 0 seats</li><li>Danmarksdemokraterne: 7.1–10.2%, 12–18 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_polls/2022-10-25-Yougov.html</id>
@@ -1775,5 +1783,5 @@
     <updated>2020-08-12T21:01:32+02:00</updated>
     <dc:date>2020-08-12T21:01:32+02:00</dc:date>
   </entry>
-  <dc:date>2022-10-28T19:02:15.815831+02:00</dc:date>
+  <dc:date>2022-10-29T10:24:37.573546+02:00</dc:date>
 </feed>
