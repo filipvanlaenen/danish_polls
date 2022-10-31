@@ -304,10 +304,10 @@ Last result: **48** seats (General Election of 5 June 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 41–49 | 39–50 | 39–53 | 39–54 |
+| N/A | [Poll Average](average.html) | 47 | 41–49 | 39–51 | 39–53 | 39–54 |
 | [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 48 | 48–49 | 48–49 | 48–49 | 45–49 |
 | [28–29 October 2022](2022-10-29-Megafon.html) | Megafon <br> TV2 | 47 | 39–47 | 39–47 | 39–47 | 38–48 |
-| [28–29 October 2022](2022-10-29-Epinion.html) | Epinion <br> DRTV | 41 | 41 | 41 | 41 | 41–47 |
+| [28–29 October 2022](2022-10-29-Epinion.html) | Epinion <br> DRTV | 41 | 40–42 | 40–42 | 40–45 | 39–54 |
 | [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 43 | 43–45 | 42–48 | 42–50 | 42–51 |
 | [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 48 | 47–53 | 47–53 | 47–54 | 46–58 |
 | [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 45 | 42–49 | 42–49 | 42–49 | 39–51 |
@@ -576,23 +576,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0.1% | 99.9% |  |
 | 39 | 5% | 99.9% |  |
-| 40 | 0.3% | 95% |  |
-| 41 | 20% | 94% |  |
-| 42 | 2% | 74% |  |
-| 43 | 16% | 72% |  |
-| 44 | 0.5% | 56% |  |
-| 45 | 0.5% | 56% |  |
+| 40 | 3% | 95% |  |
+| 41 | 16% | 92% |  |
+| 42 | 3% | 76% |  |
+| 43 | 16% | 73% |  |
+| 44 | 0.6% | 57% |  |
+| 45 | 0.6% | 56% |  |
 | 46 | 0.8% | 55% |  |
-| 47 | 18% | 54% | Median |
+| 47 | 18% | 55% | Median |
 | 48 | 25% | 37% | Last Result |
 | 49 | 6% | 12% |  |
 | 50 | 0.9% | 6% |  |
-| 51 | 0.8% | 5% |  |
+| 51 | 0.9% | 5% |  |
 | 52 | 1.2% | 4% |  |
 | 53 | 2% | 3% |  |
-| 54 | 0.3% | 0.5% |  |
+| 54 | 0.4% | 0.7% |  |
 | 55 | 0.1% | 0.2% |  |
 | 56 | 0% | 0.2% |  |
 | 57 | 0% | 0.2% |  |

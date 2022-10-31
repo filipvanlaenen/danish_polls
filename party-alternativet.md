@@ -300,7 +300,7 @@ Last result: **5** seats (General Election of 5 June 2019)
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 0–6 | 0–6 |
 | [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28–29 October 2022](2022-10-29-Megafon.html) | Megafon <br> TV2 | 6 | 6 | 4–6 | 4–6 | 0–7 |
-| [28–29 October 2022](2022-10-29-Epinion.html) | Epinion <br> DRTV | 4 | 4 | 4–6 | 4–6 | 4–6 |
+| [28–29 October 2022](2022-10-29-Epinion.html) | Epinion <br> DRTV | 4 | 4–5 | 0–6 | 0–6 | 0–6 |
 | [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 5 | 5 | 4–6 | 4–6 | 0–6 |
 | [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 5 | 0–5 | 0–5 | 0–6 | 0–7 |
 | [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -569,12 +569,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 0% | 97% |  |
-| 2 | 0% | 97% |  |
-| 3 | 0% | 97% |  |
-| 4 | 23% | 97% |  |
-| 5 | 45% | 74% | Last Result, Median |
+| 0 | 4% | 100% |  |
+| 1 | 0% | 96% |  |
+| 2 | 0% | 96% |  |
+| 3 | 0% | 96% |  |
+| 4 | 21% | 96% |  |
+| 5 | 47% | 75% | Last Result, Median |
 | 6 | 28% | 28% |  |
 | 7 | 0.3% | 0.4% |  |
 | 8 | 0.1% | 0.1% |  |
